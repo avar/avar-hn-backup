@@ -1,0 +1,17 @@
+Comment-Id:	14274085
+Comment-Author:	avar
+Comment-Date:	Fri May  5 15:22:37 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14274024
+
+The sulfuric smell in the hot water has nothing to do with the use of
+geothermal power. Most tourists think so because they've only been to or near
+the capital area.
+
+Reykjavík artificially adds sulfur to its hot water to reduce the corrosion of
+their hot water pipes.
+
+I can't find a source for that in English but there's one in Icelandic, it's
+the "Vinnslutæknileg vandamál við vinnslu jarðhita" section.
+
+1. http://web.archive.org/web/20160813045634/http://www.samorka...

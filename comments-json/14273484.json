@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 14273484,
+  "parent" : 14273210,
+  "text" : "If you compile your code with -Werror -Wmisleading-indentation it&#x27;s no more dangerous than writing Python.",
+  "time" : 1493993044,
+  "type" : "comment"
+}

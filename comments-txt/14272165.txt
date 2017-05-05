@@ -1,0 +1,21 @@
+Comment-Id:	14272165
+Comment-Author:	avar
+Comment-Date:	Fri May  5 09:30:44 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14271690
+
+This is obviously just some guy's mostly throwaway code, but FWIW it's got the
+type of comments I don't find useful at all when reading code. I.e. comments
+that purely duplicate what can be trivially inferred from code:
+
+    # retrieve data
+    data = json.loads(request_until_succeed(url))
+
+Not ambiguous, but better done by just naming the function in such a way that
+it's obvious that it's the thing retrieving the data. And:
+
+    num_processed = 0   # keep a count on how many we've processed
+
+Is another example of a comment that doesn't compliment the code, but just
+distracts the reader from information they could equally, more accurately &
+more briefly have gotten from reading the corresponding code.
