@@ -1,0 +1,20 @@
+Comment-Id:	1527018
+Comment-Author:	avar
+Comment-Date:	Sun Jul 18 23:11:56 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1526528
+
+I recommend these videos by Dr. Robert Zubrin and Jeff Greason for some
+context: http://www.youtube.com/user/spacevidcast#p/search/7/d9J7Hgnx... http:/
+/www.xcor.com/video/isdc.html
+
+Essentially, NASA has lacked any concrete direction since the 70s, and projects
+like Constellation are stupid because they waste a lot of NASA money on
+developing NASA's own launch capacity. When NASA should just buy (or pay to
+upgrade) existing capacity such as the Delta IV Heavy or Falcon 9 to fit its
+needs.
+
+Most importantly, with development of launch capacity moved out of NASA, NASA
+will have to specify the ends, not the means. Being the party that sets the
+budget, makes the design, and implements the design is a very bad position to
+be in.

@@ -1,0 +1,17 @@
+Comment-Id:	5431670
+Comment-Author:	avar
+Comment-Date:	Sun Mar 24 10:42:25 UTC 2013
+Comment-Type:	comment
+Parent-Id:	5430891
+
+    > Linux runs everywhere at SpaceX,
+    > he said, on everything from desktops
+    > to spacecraft.
+
+Yet every time I've seen them advertise for sysadmin sysadmin or programmer
+positions the indications are that at least all their internal network and
+website run heavily on Microsoft software, but their actual spacecraft use
+Linux/embedded.
+
+It would be interesting to get an actual overview of what they use Linux for,
+and what they don't.

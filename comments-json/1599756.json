@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 1599756,
+  "parent" : 1599693,
+  "text" : "&#62; Are approved revisions really a branch or just a tag somewhere in a linear version history?<p>A Git branch is just a different head, but no, those things don't have\ndivergent histories. They're just moving tags. Anyway, semantics aside\nI meant that they're doing things now that maps effortlessly to a scm.<p>&#62; Having n branches of a Wikipedia article would be frowned upon<p>Not if it was well supported. Saying \"hey, I modified the article in\nmy own private branch, check it out and merge it if you want\" would\nbeat a long argument on a talk page any day.<p>Branch support doesn't need to entail multiple publicly accessible (as\nin the stuff normal readers see) versions of articles.<p>&#62; Also, Git-style branches only make sense as alternative branches of the entire repository<p>What? No, they'd also make sense even if there was one Git repository\nper page.<p>&#62; you'd have to essentially have one Git repository per article, at\n&#62; which point you're probably better off with a different type of\n&#62; backend.<p>We won't know until we try, will we? But there are lots of advantages\nto using a well understood and simple data format with multiple\nimplementations over a custom schema, but of course a custom format\nhas its own advantages.",
+  "time" : 1281663565,
+  "type" : "comment"
+}

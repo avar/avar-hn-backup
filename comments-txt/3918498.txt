@@ -1,0 +1,12 @@
+Comment-Id:	3918498
+Comment-Author:	avar
+Comment-Date:	Wed May  2 11:25:18 UTC 2012
+Comment-Type:	comment
+Parent-Id:	3918416
+
+So Motorola Mobility brought the matter to German courts, who agreed to ban
+those products, but "a US court has banned Motorola from enforcing the action
+until it considers the matter next week.".
+
+How is a ban Motorola has solicited under German law under the jurisdiction of
+a US court, or am I misunderstanding this?

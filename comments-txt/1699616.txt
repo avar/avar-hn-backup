@@ -1,0 +1,11 @@
+Comment-Id:	1699616
+Comment-Author:	avar
+Comment-Date:	Fri Sep 17 00:45:14 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1698816
+
+Iceland has horrible network connectivity compared to the mainland, and I don't
+think Google needs to do that much batch-only processing for it to pay off.
+
+This is also pertinent: http://www.zdnet.com/blog/datacenter/
+how-to-kill-the-datacen...

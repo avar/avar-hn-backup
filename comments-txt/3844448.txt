@@ -1,0 +1,11 @@
+Comment-Id:	3844448
+Comment-Author:	avar
+Comment-Date:	Sun Apr 15 19:29:03 UTC 2012
+Comment-Type:	comment
+Parent-Id:	3843373
+
+The #1 thing that'll improve most people's workflow is learning how to use
+readline effectively. I'm continually amazed by how many people who use shells
+daily use the arrow keys to navigate around, don't know about common things
+like C-r to reverse-search through history and other commands that make editing
+on the command-line a breeze.

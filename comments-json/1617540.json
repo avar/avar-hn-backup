@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 1617540,
+  "parent" : 1617425,
+  "text" : "Because most of us don't need a branching model this complex, and if we do doing the equivalent thing with \"git checkout\" is trivial compared to actually managing all those branches.",
+  "time" : 1282230039,
+  "type" : "comment"
+}

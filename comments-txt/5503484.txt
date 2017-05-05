@@ -1,0 +1,10 @@
+Comment-Id:	5503484
+Comment-Author:	avar
+Comment-Date:	Sat Apr  6 13:08:42 UTC 2013
+Comment-Type:	comment
+Parent-Id:	5503354
+
+For some reason the submitted story links to the original insertion of that
+notice, but it's been updated a lot since then (including a translation into
+French and an ensuing discussion): https://fr.wikipedia.org/wiki/
+Wikip%C3%A9dia:Bulletin_des_ad...

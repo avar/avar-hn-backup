@@ -1,0 +1,188 @@
+Comment-Id:	1654619
+Comment-Author:	avar
+Comment-Date:	Wed Sep  1 22:56:03 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1654164
+
+My .emacs is on GitHub: http://github.com/avar/dotemacs/blob/master/.emacs
+along with the elisp library I use http://github.com/avar/elisp
+
+Some noteworthy things:
+
+It's a ~1200 line file (and expanding) this is how I navigate it:
+
+    (defun show-dot-emacs-structure ()
+      "Show the outline-mode structure of ~/.emacs"
+      (interactive)
+      (occur "^;;;;+"))
+
+Which shows the outline of the file, e.g.:
+
+    74 matches for "^;;;;+" in buffer: .emacs
+     57:;;;; Debugging
+     67:;;;; Load paths
+    112:;;;; Emacs' interface
+    229:;;;; User info
+    236:;;;; Encoding
+    253:;;;; Indenting
+    273:;;;;; Per-project indentation settings
+    275:;;;;;; Git
+
+A quiet startup:
+
+    ;; Don't display the 'Welcome to GNU Emacs' buffer on startup
+    (setq inhibit-startup-message t)
+
+    ;; Display this instead of "For information about GNU Emacs and the
+    ;; GNU system, type C-h C-a.". This has been made intentionally hard
+    ;; to customize in GNU Emacs so I have to resort to hackery.
+    (defun display-startup-echo-area-message ()
+      "If it wasn't for this you'd be GNU/Spammed by now"
+      (message ""))
+
+    ;; Don't insert instructions in the *scratch* buffer
+    (setq initial-scratch-message nil)
+
+Core UI settings:
+
+    ;; Display the line and column number in the modeline
+    (setq line-number-mode t)
+    (setq column-number-mode t)
+    (line-number-mode t)
+    (column-number-mode t)
+
+    ;; syntax highlight everywhere
+    (global-font-lock-mode t)
+
+    ;; Show matching parens (mixed style)
+    (show-paren-mode t)
+    (setq show-paren-delay 0.0)
+
+    ;; 'mixed highligts the whole sexp making it unreadable, maybe tweak
+    ;; color display?
+    (setq show-paren-style 'parenthesis)
+
+    ;; Highlight selection
+    (transient-mark-mode t)
+
+    ;; make all "yes or no" prompts show "y or n" instead
+    (fset 'yes-or-no-p 'y-or-n-p)
+
+Changing the switching is worth it, but I really need to find something that
+allows me to <TAB> between different possibilities once completion is
+exhausted, e.g. if I say "foo.c" and have both "foo.c" and "foo.c.txt":
+
+    ;; Switching
+    (iswitchb-mode 1)
+    (icomplete-mode 1)
+
+I wish I could also turn off the annoying #-files, but they're hardcoded in
+Emacs's C code:
+
+    ;; I use version control, don't annoy me with backup files everywhere
+    (setq make-backup-files nil)
+    (setq auto-save-default nil)
+
+Better file selection:
+
+    ;;; Electric minibuffer!
+    ;;; When selecting a file to visit, // will mean / and
+    ;;; ~ will mean $HOME regardless of preceding text.
+    (setq file-name-shadow-tty-properties '(invisible t))
+    (file-name-shadow-mode 1)
+
+I didn't write this, but it's very useful. It emulates vim's sofftab feature.
+So indenting with spaces doesn't suck anymore.
+
+    (defun backward-delete-whitespace-to-column ()
+      "delete back to the previous column of whitespace, or just one
+    char if that's not possible. This emulates vim's softtabs
+    feature."
+      (interactive)
+      (if indent-tabs-mode
+          (call-interactively 'backward-delete-char-untabify)
+        ;; let's get to work
+        (let ((movement (% (current-column) tab-width))
+              (p (point)))
+          ;; brain freeze, should be easier to calculate goal
+          (when (= movement 0) (setq movement tab-width))
+          (if (save-excursion
+                (backward-char movement)
+                (string-match "^\\s-+$" (buffer-substring-no-properties (point) p)))
+              (delete-region (- p movement) p)
+            (call-interactively 'backward-delete-char-untabify)))))
+
+    (global-set-key (kbd "<DEL>") 'backward-delete-whitespace-to-column)
+
+I really wish I could find something for Emacs which automatically detects the
+style of the code I'm editing and switches the coding style to that.
+
+For libraries I use (eval-after-load) for everything and (autoload). It really
+speeds up startup.
+
+ack is a much better M-x grep (needs ack.el):
+
+    ;;;;; ack
+    (defalias 'grep 'ack)
+
+I have something to make swank work with clojure and sbcl, but it's too large
+to include here. clojure-mode et al make it really hard to do this,
+unfortunately (upstream isn't really interested in this use case):
+
+    (defun run-clojure ()
+      "Starts clojure in Slime"
+      (interactive)
+      (pre-slime)
+      (slime 'clojure))
+
+    (defun run-sbcl ()
+      "Starts SBCL in Slime"
+      (interactive)
+      (pre-slime)
+      (slime 'sbcl))
+
+You should use nopaste.el (shameless plug): http://github.com/avar/nopaste
+
+    ;;;;; nopaste.el
+    (autoload 'nopaste "nopaste" nil t)
+
+    (eval-after-load "nopaste"
+      '(progn
+         (setq nopaste-nickname "avar")
+         (setq nopaste-channel  nil)
+         (setq nopaste-description nil)))
+
+    (global-set-key (kbd "C-c n p") 'nopaste)
+    (global-set-key (kbd "C-c n y") 'nopaste-yank-url)
+
+Here's how I still tolerate GMail and other web apps. I can click on any text
+field in Chrome and edit it in Emacs:
+
+    ;;;;; Emacs Chrome edit server - http://wiki.github.com/stsquad/emacs_chrome/
+    (when (getenv "DISPLAY")
+      (require 'edit-server)
+      (setq edit-server-new-frame nil)
+      (add-hook 'edit-server-done-hook 'on-edit-server-done-do-backup)
+      (edit-server-start))
+
+And this has saved my many a time from losing web form content (I should really
+make this use Git):
+
+    (defun on-edit-server-done-do-backup ()
+      "Run when text is sent to Google Chrome. Do a backup of the
+    stuff sent there in case something goes wrong, e.g. Chrome
+    crashes."
+      (let* ((backup-dir "~/._emacs_chrome-backup")
+            (backup-file (format "%s.txt" (float-time)))
+            (backup-path (concat backup-dir "/" backup-file)))
+        (unless (file-directory-p backup-dir)
+          (make-directory backup-dir))
+        (write-region (point-min) (point-max) backup-path)))
+
+
+Install browse-kill-ring.el now:
+
+    (global-set-key (kbd "C-c k") 'browse-kill-ring)
+
+That's about it for the really interesting stuff. But there's a lot of other
+mundane stuff in there.

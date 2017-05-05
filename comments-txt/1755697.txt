@@ -1,0 +1,8 @@
+Comment-Id:	1755697
+Comment-Author:	avar
+Comment-Date:	Mon Oct  4 14:20:33 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1755621
+
+Does it work on Ubuntu with Moonlight? I don't have any machine with a
+proprietary OS.

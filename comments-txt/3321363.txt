@@ -1,0 +1,11 @@
+Comment-Id:	3321363
+Comment-Author:	avar
+Comment-Date:	Tue Dec  6 22:20:50 UTC 2011
+Comment-Type:	comment
+Parent-Id:	3320198
+
+TRAMP. Being able to seamlessly remotely edit files and run remote modes.
+
+At work I regularly edit files on 10-15 remote machines. But I never ssh to
+them and run an editor. Instead I'll just visit them through TRAMP, run Magit
+to commit stuff that I've done etc.

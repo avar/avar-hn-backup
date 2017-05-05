@@ -1,0 +1,10 @@
+Comment-Id:	3785367
+Comment-Author:	avar
+Comment-Date:	Sun Apr  1 23:07:32 UTC 2012
+Comment-Type:	comment
+Parent-Id:	3784704
+
+This is off-topic but is there an official Google API + snippet for embedding
+Google+ comments in a non-Google+ page like that? He seems to have some
+hardcoded custom JavaScript code for it, is there no easy official way to do
+so?

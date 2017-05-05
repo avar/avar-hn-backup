@@ -1,0 +1,16 @@
+Comment-Id:	1500497
+Comment-Author:	avar
+Comment-Date:	Fri Jul  9 13:28:14 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1499997
+
+The Windows compilers are more capable than old 90s compilers. But random
+source code written for Linux is a lot more compatible as-is with AIX, HP-UX,
+IRIX and others than with Windows.
+
+Windows doesn't have forks (needs emulation via threads), second class support
+for things like symlinks, and isn't POSIX compatible (yes, I know you can get
+that as a separate install).
+
+Porting a Linux program to Windows is like porting it to Novell, or some random
+mainfram OS. Not another OS in the Unix family.

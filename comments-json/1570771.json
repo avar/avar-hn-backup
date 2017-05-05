@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1570771,
+  "kids" : [ 1570872, 1571613 ],
+  "parent" : 1570450,
+  "text" : "That's a bit like complaining that when I use the BSDs they don't have documentation in Microsoft CHM format, or that they put stuff in /usr/local.<p>Different systems simply have different conventions, and GNU picked GNU Info over man pages. That bastard GNU tar(1) man page was created because Debian has a policy that everything must have a manpage.<p>I like Unix, but the GNU Info format solved some real issues with man. It has built-in index and cross-reference metadata, scales to the size of entire books (the FreeBSD manual would be a single info page), and is much easier to write. I much prefer reading info pages to man pages for that reason.<p>A lot of people seem to dislike GNU info because they confuse the GNU TexInfo / info format with the info(1) program. I'm not a big fan of the default reader (I use the Emacs one instead). But the TexInfo format can be exported to multiple formats and read by multiple programs. Here's the exported GNU Tar documentation for instance: <a href=\"http://www.gnu.org/software/tar/manual/index.html\" rel=\"nofollow\">http://www.gnu.org/software/tar/manual/index.html</a>",
+  "time" : 1280834744,
+  "type" : "comment"
+}

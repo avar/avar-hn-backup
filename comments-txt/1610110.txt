@@ -1,0 +1,17 @@
+Comment-Id:	1610110
+Comment-Author:	avar
+Comment-Date:	Tue Aug 17 03:07:23 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1610000
+
+I'm citing the design aims of Tcpcrypt, from their website.
+
+Not everything uses HTTP, a bunch of things like Torrent, IRC etc. use
+unencrypted protocols by default, and you have to explicitly add support to
+each one for encryption. Either by adding SSL support to the programs
+themselves, or by setting up a tunnel.
+
+That's not the same as using opportunistic encryption that can happen at the
+kernel level. You could also do that with SSL to achieve the same aims, but the
+point is that it's opportunistic and happens without further userspace
+configuration.

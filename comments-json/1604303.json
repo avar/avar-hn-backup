@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1604303,
+  "kids" : [ 1605140 ],
+  "parent" : 1604276,
+  "text" : "This is great, one thing I could use would be keys to move between different top-level replies on a comment page. Maybe p/n for prev/next ?<p>I've also found a bug, if I go to \"threads\" I can't move up past the third topmost top-level comment I've posted using the \"k\" key.",
+  "time" : 1281832523,
+  "type" : "comment"
+}

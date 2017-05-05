@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1495873,
+  "kids" : [ 1497473, 1495979 ],
+  "parent" : 1495827,
+  "text" : "I don't mean quite at that level, I think \"Commander\" is more accurate than \"General\" in this context.<p>I just mean that there's a large amount of manual drudgery to playing games like StarCraft, and it would be nice if the game wasn't unfairly balanced in the favor of people who are really good at said drudgery.<p>For example, early in any StarCraft 1 game (I haven't played SC2) you have to do an exact amount of tasks in some exact order to get an early game Zealot or Zergling rush.<p>It'd be nice if you could just <i>command</i> that instead of manually mining a set amount of resources, construct a Gateway just as your nth Probe gets constructed etc.<p>Another example is unit production. If you have resources being mined you have to constantly switch between that and telling the computer <i>again</i> that you want X marines and Y Battle-cruisers or something. It'd be nice if you could just leave that on some production preset so that you could focus on warfare.",
+  "time" : 1278544782,
+  "type" : "comment"
+}

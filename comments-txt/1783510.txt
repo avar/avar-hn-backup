@@ -1,0 +1,11 @@
+Comment-Id:	1783510
+Comment-Author:	avar
+Comment-Date:	Tue Oct 12 14:34:37 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1783093
+
+Not only that, but they archive their forums after a while.
+
+So even if the info was partially useful you can't reply with updated
+information, since they've put in the artificial restriction that you can't
+reply to threads from say 2008.

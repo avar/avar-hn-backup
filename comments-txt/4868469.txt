@@ -1,0 +1,13 @@
+Comment-Id:	4868469
+Comment-Author:	avar
+Comment-Date:	Mon Dec  3 23:01:36 UTC 2012
+Comment-Type:	comment
+Parent-Id:	4868149
+
+It's not just budget ,the Voyager program took advantage of a favorable
+planetary alignment that wouldn't recur for 175 years: http://en.wikipedia.org/
+wiki/Planetary_Grand_Tour
+
+I have no idea how favorable this was, i.e. whether you could get the same
+effect today with more propulsion, but it's quite possible that we don't have
+the technology to do this in any reasonable timeframe today.

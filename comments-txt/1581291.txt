@@ -1,0 +1,16 @@
+Comment-Id:	1581291
+Comment-Author:	avar
+Comment-Date:	Fri Aug  6 15:33:16 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1581269
+
+Sure, I mean that comment in the context of Debian. Debian GNU/kFreeBSD isn't
+going to be a replacement for FreeBSD any time soon for the people that prefer
+it.
+
+But it's an excellent alternative for Debian users who'd like to use ZFS and
+other FreeBSD features without throwing the rest of Debian out with the
+bathwater.
+
+This'll also be wonderful for the BSD's in terms of increasing the portability
+of packages in Debian that they might want to pick up.

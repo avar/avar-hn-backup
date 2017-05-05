@@ -1,0 +1,17 @@
+Comment-Id:	1648886
+Comment-Author:	avar
+Comment-Date:	Tue Aug 31 09:34:25 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1647481
+
+If you're talking about [1] then I'm one of the people who down-voted it
+yesterday, for the reasons that steveklabnik [2] cites.
+
+It's just an assertion with nothing backing it up, so it's not contributing
+anything to the discussion. It's an assertion that I happen to agree with in
+large part for my own reasons. But as long as you're not making a case for it
+it's just noise that deserves to be down-voted, while comments that back up
+their assertions and stimulate thoughtful argument deserve an up-vote.
+
+1. http://news.ycombinator.com/item?id=1643726 2. http://news.ycombinator.com/
+item?id=1647505

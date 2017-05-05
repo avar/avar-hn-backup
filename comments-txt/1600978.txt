@@ -1,0 +1,9 @@
+Comment-Id:	1600978
+Comment-Author:	avar
+Comment-Date:	Fri Aug 13 14:29:05 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1600872
+
+That's great, too bad I can't run this for my own sites because a bunch of
+idiot network admins (like those running IRC servers) will ban all traffic from
+Tor exit nodes without taking into account exit policies.

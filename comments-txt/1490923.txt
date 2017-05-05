@@ -1,0 +1,18 @@
+Comment-Id:	1490923
+Comment-Author:	avar
+Comment-Date:	Tue Jul  6 13:43:36 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1490822
+
+If that policy's really derived from WWII I daresy they've completely missed
+the point. The Data Protection Directive wouldn't help if you Europe were to
+fall under Nazi control again.
+
+It's just a law that says the government can't process the data in certain
+ways, they still have the data though, and could start mining it by changing
+the law, or ignoring it.
+
+If they actually cared they wouldn't be gathering this data in the first place.
+The U.S. (officially) keeps a lot less data on its citizens than the average
+European country, but that's been changing in the recent decades since the FBI,
+NSA and others were founded.

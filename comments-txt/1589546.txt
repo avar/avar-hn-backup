@@ -1,0 +1,13 @@
+Comment-Id:	1589546
+Comment-Author:	avar
+Comment-Date:	Mon Aug  9 21:51:20 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1589290
+
+The "striking" drop-off for Perl can be explained by the gitpan: http://
+github.com/gitpan
+
+There are also similar statistics skewing users, like the emacsmirror: http://
+github.com/emacsmirror
+
+It'd be nice if GitHub had a way to exclude such users from their statistics.

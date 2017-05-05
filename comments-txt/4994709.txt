@@ -1,0 +1,34 @@
+Comment-Id:	4994709
+Comment-Author:	avar
+Comment-Date:	Wed Jan  2 00:45:12 UTC 2013
+Comment-Type:	comment
+Parent-Id:	4994282
+
+That's a very good point, and thanks for the link to liquidfeedback. It's very
+interesting, especially how it seems to do almost all of the logic needed in
+PostgreSQL.
+
+    > Proxy voting allows those with little skin in the
+    > game to drown out those significantly affected
+    > by proposed laws.
+
+But that's exactly what you'd get today in a representative democracy. If
+there's a fringe issue that 1% of the population really cares about they'll
+have to convince their representatives to vote their way on it. Since the
+representatives go for the popular vote they'll probably vote with what the 99%
+wants 100% of the time.
+
+You'll only get minority issues through if the minority cares enough about it
+and it doesn't negatively impact everyone else, or if the negative impact from
+not giving the minority what they want would be greater than just giving them
+what they want.
+
+I think you'd be more likely to reach a consensus like that using proxy voting
+than you would be in a direct democracy. With proxy voting any fringe issue
+will by default go to some general issues political party of your choice, which
+is likely to have a reasonable position on miscellaneous issues like this.
+
+With direct democracy where 1% really cares about some issue but the 99%
+doesn't care either way (so much that they can't be bothered to vote either
+way) you might never end up passing it because you have another 1.5% population
+of voters that just votes "no" on everything out of general principle.

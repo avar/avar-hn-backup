@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 3927522,
+  "parent" : 3926683,
+  "text" : "It's been merged into the contrib/ directory, so it's not installed by default. Saying it's merged into the mainline has the connotation that it's available like any other tool, it isn't.",
+  "time" : 1336118565,
+  "type" : "comment"
+}

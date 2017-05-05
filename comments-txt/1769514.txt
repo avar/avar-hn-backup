@@ -1,0 +1,13 @@
+Comment-Id:	1769514
+Comment-Author:	avar
+Comment-Date:	Thu Oct  7 21:02:11 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1769227
+
+You can also use Git's own __git_ps1 from git-completion.bash in either bash or
+in zsh (see my other comment). Here's an example of it in use: http://
+github.com/avar/dotfiles/blob/master/.bashrc#L86
+
+It doesn't give you info about whether you have staged files (but maybe it
+should). But it gives you a bunch of other neat stuff, like whether you're in a
+git-rebase or git-am operation

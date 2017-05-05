@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 3794942,
+  "kids" : [ 3795794 ],
+  "parent" : 3794250,
+  "text" : "MySQL is not just some toy database. It's used by a lot of <i>big</i> installations that need a lot of performance, massive replication etc.<p>Sure it has its issues, but the objections people have against it mainly seem to be prejudice from the MyISAM days along with not appreciating how it shines on the workloads it's optimized for.<p>It sucks at reporting queries, but it shines when you have a large cluster of machines, multi-level replication chains, and mostly do queries that end up being primary key lookups or primary key range lookups with relatively simple constraints. That's the sort of thing you're likely to do for most of your traffic with any database once you scale up.<p>PostgreSQL also didn't have some of the features that made MySQL really fast until relatively recently, e.g. being able to entirely resolve a query on indexes without ever looking up the actual data rows.<p>I'd say the biggest problem MySQL has at scale is that replicated changes are applied in a single thread whereas updates on master servers are multi-threaded.<p>I'm very excited by recent improvements in PostgreSQL, and I wish it were the database I worked with professionally, but don't be so quick to dismiss MySQL.",
+  "time" : 1333489286,
+  "type" : "comment"
+}

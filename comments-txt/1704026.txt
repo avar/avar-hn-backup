@@ -1,0 +1,33 @@
+Comment-Id:	1704026
+Comment-Author:	avar
+Comment-Date:	Sat Sep 18 10:27:18 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1703853
+
+That analogy doesn't hold up. If you learn mechanics you can repair and
+maintain your car, and even build a new one. But you'll never get your car to
+drive your kids to school without you sitting behind the wheel.
+
+But you can do the equivalent of that if you're programming literate. We're
+moving to a digital culture, and if you don't know how to program you'll
+increasingly only become a consumer of other people's solutions, without the
+ability to solve your own problems.
+
+Some people are calling this "procedural literacy".
+
+As an aside I'd argue that computer interfaces have actually gotten somewhat
+worse while getting more friendly to newcomers. I think the last major leap in
+computer interfaces was cron(1). Unlike most modern interfaces being produced
+today you can use it to tell your computer to produce periodic reports and
+things like that.
+
+That's where we should be headed with UI's, not aiming to have a monkey banging
+at the terminal at all times, but giving the monkey the ability to dictate
+things to the computer so he doesn't have to bang at the terminal.
+
+Real computing power is being able to say: "Computer, I'm feeling under the
+weather today and I think I'll sleep in. At 9am please start playing 'Daddy's
+sick, get up and go to school!' on a loop in the kid's bedroom at 75 dB, and
+continue producing noise until they get out the door, engage!".
+
+You can implement those sorts of things if you're a programmer.

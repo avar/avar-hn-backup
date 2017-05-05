@@ -1,0 +1,15 @@
+Comment-Id:	1771949
+Comment-Author:	avar
+Comment-Date:	Fri Oct  8 15:27:03 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1771877
+
+That document looks out of date:
+
+    All pushing and pulling of private data
+    is done over SSH authenticated with keys,
+    not passwords.
+
+Surely that isn't true anymore, since they've now added the ability to pull/
+push your repositories over https. Which requires you to supply your GitHub
+password to your client.

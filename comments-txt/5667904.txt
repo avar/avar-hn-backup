@@ -1,0 +1,14 @@
+Comment-Id:	5667904
+Comment-Author:	avar
+Comment-Date:	Tue May  7 13:08:25 UTC 2013
+Comment-Type:	comment
+Parent-Id:	5667659
+
+I haven't given this more than a cursory look, but I love how the body message
+for the commit that seemingly introduced this flaw is "No functional changes.":
+https://github.com/git-mirror/nginx/commit/8a3f6ce
+
+Found with:
+
+    git log --full-diff --reverse release-1.3.8.. -p src/http/ngx_http_parse.c
+

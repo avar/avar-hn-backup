@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1850530,
+  "kids" : [ 1850553 ],
+  "parent" : 1850348,
+  "text" : "Great news, with this and clang compiling Linux we might see it replace GCC on most/all free operating systems within a few years.",
+  "time" : 1288431632,
+  "type" : "comment"
+}

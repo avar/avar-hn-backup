@@ -1,0 +1,10 @@
+Comment-Id:	1609764
+Comment-Author:	avar
+Comment-Date:	Tue Aug 17 00:05:33 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1609696
+
+What sort of person goes to a conference like Usenix and connects to an
+external server for the first time? I've been to a dozen conferences, all of
+whom I've used ssh at, and I've never connected to an external box for the
+first time.

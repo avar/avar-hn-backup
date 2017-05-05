@@ -1,0 +1,51 @@
+Comment-Id:	1511224
+Comment-Author:	avar
+Comment-Date:	Tue Jul 13 13:23:55 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1511063
+
+>> # Arrays and hashes treated as the same type > We like this! [...]
+
+Maybe you do. But I've always found it annoying.
+
+> In practice this works fine, and it's not even algorithmically different,
+since a hash access is a constant time operation.
+
+It is actually. Read the array.c and zend_hash.c code. It's only a constant
+time operation if you're not interested in the difference between whether a
+hash key actually exists, or whether it exists and its value is set to NULL.
+The former is O(n) if you use array_key_exists. From zend_hash_exists:
+
+    while (p != NULL) {
+        if ((p->h == h) && (p->nKeyLength == nKeyLength)) {
+            if (!memcmp(p->arKey, arKey, nKeyLength)) {
+                return 1;
+            }
+        }
+        p = p->pNext;
+    }
+    return 0;
+
+>> PHP doesn't have multiple inheritance, fine, but it doesn't have mixins/
+modules, either.
+
+> We do not want! Locality of code is worth more to us
+
+Code that I'd write in Common Lisp or Perl that takes advantage of multiple
+inheritance and the composition it offers is a lot uglier in PHP when I have to
+hack around not having multiple inheritance. It leads to bigger and monolithic
+classes that you can't easily compose.
+
+>> Because it is designed to be run in the context of Apache, PHP doesn't work
+very well as a command-line scripting language,
+
+> A hammer doesn't drive screws very well
+
+This is actually a major problem with PHP. Unlike Perl, Python, Ruby, Lisp etc.
+you can't easily run most PHP code persistently, so the execution model for
+most applications is to parse, compile and execute the application for each
+request.
+
+You can get around that in some cases, but some core language features have
+been blocking this until relatively recently. E.g. create_function() would
+always leak memory, but in 5.3 PHP finally has support for anonymous functions.

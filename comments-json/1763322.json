@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1763322,
+  "kids" : [ 1763573, 1763942 ],
+  "parent" : 1762335,
+  "text" : "I've been using clang 2.7 instead of GCC for a few months now. I'm never going back to GCC:<p>* It has much better diagnostics messages: <a href=\"http://clang.llvm.org/diagnostics.html\" rel=\"nofollow\">http://clang.llvm.org/diagnostics.html</a><p>* Compilation times are much faster, even though I always wrap gcc/clang with ccache.<p>* It uses a lot less CPU / memory on equivalent compile options.<p>The only disadvantage is that compared to GCC 4.4 the resulting binaries are usually around 5-10% slower. The LLVM developers say that's to be expected, currently they're targeting GCC 4.2 for their performance metrics.",
+  "time" : 1286359397,
+  "type" : "comment"
+}

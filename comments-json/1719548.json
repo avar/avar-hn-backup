@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1719548,
+  "kids" : [ 1719815 ],
+  "parent" : 1719514,
+  "text" : "First of all you should think hard before taking regexes from users. Even if you do it correctly you'll still (presumably) need to search over your entire dataset, instead of doing something more lightweight like rely on SQL indexes. Use it with care.<p>You should use a regex engine that's explicitly designed to take potentially hostile input. Like the Plan9 engine, or Google's re2 engine which powers Google Code Search.<p>You can also just use Ruby's dangerous PCRE engine if you do something like forking off another process with strict ulimits which executes the regex for you. Then you can just kill it if it starts running away with your resources. Look into how e.g. evaluation bots that work on the popular IRC channels on FreeNode are implemented. POE::Component::IRC::Plugin::Eval on the CPAN is a good example.",
+  "time" : 1285248965,
+  "type" : "comment"
+}

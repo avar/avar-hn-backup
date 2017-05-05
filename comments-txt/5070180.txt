@@ -1,0 +1,10 @@
+Comment-Id:	5070180
+Comment-Author:	avar
+Comment-Date:	Thu Jan 17 00:53:42 UTC 2013
+Comment-Type:	comment
+Parent-Id:	5070073
+
+So can any national safety body of any member country of the ICAO ground an
+airplane model worldwide? Or can the U.S. do so in this case because Boeing is
+a U.S. company? What's the process a national agency goes through to ground an
+aircraft worldwide?

@@ -1,0 +1,8 @@
+Comment-Id:	1599732
+Comment-Author:	avar
+Comment-Date:	Fri Aug 13 01:26:05 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1599691
+
+Giving out software under the GPL v2 does not mean that you grant others a
+patent license, that isn't within the scope of the GPL v2.

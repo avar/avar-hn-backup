@@ -1,0 +1,9 @@
+Comment-Id:	3880670
+Comment-Author:	avar
+Comment-Date:	Mon Apr 23 20:03:45 UTC 2012
+Comment-Type:	comment
+Parent-Id:	3879430
+
+I'd be interested to know what your index looks like / how the mapping is set
+up / what the datasize is / what sort of queries you're making, because that's
+definitely not my experience with it. It's lighting fast on my workloads.

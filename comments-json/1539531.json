@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1539531,
+  "kids" : [ 1539638 ],
+  "parent" : 1538979,
+  "text" : "Veracity doesn't compile on GCC 4.4 due to enabling -Werror and making silly mistakes like comparing signed &#38; unsigned integers. I fixed that here: <a href=\"http://github.com/avar/veracity/commit/ffda987d8b\" rel=\"nofollow\">http://github.com/avar/veracity/commit/ffda987d8b</a>",
+  "time" : 1279832629,
+  "type" : "comment"
+}

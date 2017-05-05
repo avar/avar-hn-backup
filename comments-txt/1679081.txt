@@ -1,0 +1,7 @@
+Comment-Id:	1679081
+Comment-Author:	avar
+Comment-Date:	Fri Sep 10 15:14:59 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1679046
+
+Thread in context: http://gcc.gnu.org/ml/gcc/2010-09/threads.html#00109

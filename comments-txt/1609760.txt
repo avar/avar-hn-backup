@@ -1,0 +1,25 @@
+Comment-Id:	1609760
+Comment-Author:	avar
+Comment-Date:	Tue Aug 17 00:03:44 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1609689
+
+Yes there is, think about it :)
+
+Bank of America has a CA signed cert, so when you go there you display a golden
+"YOU ARE SECURE, CITIZEN" banner at the top with a lock icon etc.
+
+But if someone doesn't have a CA signed SSL cert you treat it no differently
+than normal HTTP traffic.
+
+Then you train users not to submit their financial information to sites that
+don't have a CA signed SSL certificate (as indicated by the giant "YOU ARE
+SECURE, CITIZEN" banner).
+
+You have to do that anyway, when I go do my online banking I visit a plain http
+site and then click on my private banking link that takes me to a https site.
+
+The easiest way for a MitM to spoof that would be to just direct the user to a
+plain HTTP site when he goes to do his private banking. So even today users
+have to understand that they must submit this sort of data over SSL and that
+the cert involved has to be CA-signed.

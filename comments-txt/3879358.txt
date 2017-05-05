@@ -1,0 +1,9 @@
+Comment-Id:	3879358
+Comment-Author:	avar
+Comment-Date:	Mon Apr 23 15:50:25 UTC 2012
+Comment-Type:	comment
+Parent-Id:	3879153
+
+Interesting that they're testing full-text search on the two, it would be very
+interesting to benchmark it against something like ElasticSearch or another
+scalable full-text search engine to see how fast that would be by comparison.

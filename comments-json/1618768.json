@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 1618768,
+  "parent" : 1617883,
+  "text" : "I know this isn't the right place for a Yahoo! bug report, but they don't reply to me elsewhere.<p>I keep getting spam from Yahoo! in the form of people signing me up for some group, just today someone signed me up for the \"vjth group\" with the group description \"iqdjgpwo62r683fs\".<p>There's a link in the E-Mail saying \"You may also change your email preferences to prevent group owners from\nadding you to their groups.\". But when I follow it and change my E-Mail preferences I get:<p><pre><code>    Groups error\n\n    We're Sorry...\n    There was a problem with your request.\n    The page you've requested returned this error:\n\n    If you continue to receive this error for more than\n    48 hours, please contact our Customer Care team. We\n    apologize for this inconvenience. \n</code></pre>\nI've been getting this error for the last 6 months or so. Stop spamming me Yahoo!.",
+  "time" : 1282254341,
+  "type" : "comment"
+}

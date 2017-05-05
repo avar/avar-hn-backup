@@ -1,0 +1,17 @@
+Comment-Id:	1755756
+Comment-Author:	avar
+Comment-Date:	Mon Oct  4 14:40:26 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1755717
+
+For those without *.crx for Chrome association you can launch Chrome with this
+parameter:
+
+    --load-extension=/home/avar/g/sight/
+
+After having cloned sight.git into ~avar/g/ obviously. And as a suggestion to
+the author: Getting it into the Google Chrome Extension listing would make this
+even easier.
+
+Edit: Just read http://twitter.com/tsenart/status/26366227841 that sucks,
+Google.

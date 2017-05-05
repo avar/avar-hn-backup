@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1763752,
+  "kids" : [ 1763939 ],
+  "parent" : 1763678,
+  "text" : "Just FYI: The reason they're using gcc-4.2 comparisons is that Apple\nemployees are banned from using GPLv3 software. E.g. if you report a\nbug to them that requires checking out a newer version of GCC they'll\njust shrug and say \"sorry, but we can't try it out\".<p>Oh, and the diagnostics are much better, and not just because they're\nin color. Consider e.g. this program:<p><pre><code>    #include &#60;stdio.h&#62;\n    \n    int main(void)\n    {\n        printf(\"hello %d\", \"world\");\n        return 0;\n    }\n</code></pre>\nGCC will give you:<p><pre><code>    hello.c: In function ‘main’:\n    hello.c:5: warning: format ‘%d’ expects type ‘int’, but argument 2 has type ‘char *’\n</code></pre>\nWhile clang gives you:<p><pre><code>    hello.c:5:20: warning: conversion specifies type 'int' but the argument has type 'char *' [-Wformat]\n        printf(\"hello %d\", \"world\");\n                      ~^   ~~~~~~~\n</code></pre>\nClang tells you not only the line that had the error but also the\ncolumn, then it higlights the %d format argument, and shows you which\nargument you gave doesn't fit with it.<p>Pretty much all of its diagnostics messages are like that. While you\nsometimes have to stare at code for 5-10 seconds to see what GCC is\ncomplaining about clang will tell you exactly what the problem is.",
+  "time" : 1286370844,
+  "type" : "comment"
+}

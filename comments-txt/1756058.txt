@@ -1,0 +1,9 @@
+Comment-Id:	1756058
+Comment-Author:	avar
+Comment-Date:	Mon Oct  4 15:52:06 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1755849
+
+I mean is it possible for someone else to pay for your account without you
+subsequently having access to his credit card? Someone else uploading it would
+mean that they'd have to then maintain it and keep uploading new versions.

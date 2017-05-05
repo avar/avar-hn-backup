@@ -1,0 +1,7 @@
+Comment-Id:	2271004
+Comment-Author:	avar
+Comment-Date:	Mon Feb 28 12:32:08 UTC 2011
+Comment-Type:	comment
+Parent-Id:	2270946
+
+The Solaris /bin/sh is not a POSIX shell.

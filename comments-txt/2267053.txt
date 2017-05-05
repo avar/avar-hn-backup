@@ -1,0 +1,8 @@
+Comment-Id:	2267053
+Comment-Author:	avar
+Comment-Date:	Sun Feb 27 01:35:33 UTC 2011
+Comment-Type:	comment
+Parent-Id:	2266924
+
+Link to his patch applied to the eog.git repository: http://git.gnome.org/
+browse/eog/commit/?id=EOG_2_91_6~42

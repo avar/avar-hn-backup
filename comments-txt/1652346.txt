@@ -1,0 +1,12 @@
+Comment-Id:	1652346
+Comment-Author:	avar
+Comment-Date:	Wed Sep  1 10:15:59 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1652209
+
+What's wrong here is that he's refusing to work with a willing upstream. It
+would be much better for everyone if he submitted patches to Google to allow
+everyone using Chrome to optionally turn off these tracking features.
+
+Instead he's needlessly forking the project to "bring a lot of publicity to my
+person and my homepage". That's not being a good open source citizen.

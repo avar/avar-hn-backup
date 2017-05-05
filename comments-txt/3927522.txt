@@ -1,0 +1,9 @@
+Comment-Id:	3927522
+Comment-Author:	avar
+Comment-Date:	Fri May  4 08:02:45 UTC 2012
+Comment-Type:	comment
+Parent-Id:	3926683
+
+It's been merged into the contrib/ directory, so it's not installed by default.
+Saying it's merged into the mainline has the connotation that it's available
+like any other tool, it isn't.

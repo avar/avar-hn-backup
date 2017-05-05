@@ -1,0 +1,8 @@
+Comment-Id:	1831310
+Comment-Author:	avar
+Comment-Date:	Mon Oct 25 19:47:21 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1830983
+
+You were able to install Intellij on top of OSX. What's stopping you from
+installing Java too?

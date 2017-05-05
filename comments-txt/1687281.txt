@@ -1,0 +1,11 @@
+Comment-Id:	1687281
+Comment-Author:	avar
+Comment-Date:	Mon Sep 13 17:16:27 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1686131
+
+On the other hand the SSD is probably doing transparent compression and
+de-duplication because it helps with real-word workloads.
+
+If you only test the pathological it isn't informative if your real workloads
+could benefit from compression and de-duplication.

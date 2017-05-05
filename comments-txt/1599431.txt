@@ -1,0 +1,13 @@
+Comment-Id:	1599431
+Comment-Author:	avar
+Comment-Date:	Thu Aug 12 22:35:21 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1599312
+
+That's comparing apples to oranges. A proper comparison would be to create an
+individual Git repository for each article, not a giant repository containing
+all the data in Wikipedia.
+
+That would work more like the current MediaWiki storage backend does, and would
+probably do delta compression of old revisions more efficiently than the
+current homebrew code.

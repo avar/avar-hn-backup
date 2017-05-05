@@ -1,0 +1,8 @@
+Comment-Id:	3790331
+Comment-Author:	avar
+Comment-Date:	Mon Apr  2 22:07:47 UTC 2012
+Comment-Type:	comment
+Parent-Id:	3790303
+
+Here's a link to install the nightlies: https://wiki.mozilla.org/Mobile/
+Platforms/Android#Download_N...

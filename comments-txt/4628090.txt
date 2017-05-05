@@ -1,0 +1,8 @@
+Comment-Id:	4628090
+Comment-Author:	avar
+Comment-Date:	Mon Oct  8 18:14:43 UTC 2012
+Comment-Type:	comment
+Parent-Id:	4628007
+
+Because waiting on garbage collection is definitely what you'd want in a
+rocket.

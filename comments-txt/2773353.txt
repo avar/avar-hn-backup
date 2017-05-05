@@ -1,0 +1,8 @@
+Comment-Id:	2773353
+Comment-Author:	avar
+Comment-Date:	Sun Jul 17 14:31:49 UTC 2011
+Comment-Type:	comment
+Parent-Id:	2773093
+
+This would be even more fantastic if it could generate slides from something
+like Markdown instead of having you write HTML manually.

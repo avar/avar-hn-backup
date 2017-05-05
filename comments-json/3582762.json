@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 3582762,
+  "kids" : [ 3582768 ],
+  "parent" : 3582565,
+  "text" : "Any reason you roll your own numeric() instead of using isdigit()? It's in C89.",
+  "time" : 1329076155,
+  "type" : "comment"
+}

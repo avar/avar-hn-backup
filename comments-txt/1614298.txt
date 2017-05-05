@@ -1,0 +1,11 @@
+Comment-Id:	1614298
+Comment-Author:	avar
+Comment-Date:	Wed Aug 18 14:54:02 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1614041
+
+Interesting that the parachutes are deployed 32 seconds before landing, and
+only fully expand 22 seconds before landing (as far as I can tell from the
+video).
+
+Anyone know what the margins for a skydiving human are by comparison?

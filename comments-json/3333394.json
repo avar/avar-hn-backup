@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 3333394,
+  "kids" : [ 3333848, 3334921, 3334230, 3334314, 3335772, 3334301 ],
+  "parent" : 3333044,
+  "text" : "One thing I've changed about my style in the last few years is to almost never comment my code, but to instead write long and detailed Git commit messages explaining the how's and why of that code at the time that I write it.<p>That means that over time I effectively have comments for every line of code in the program, but it's associated metadata instead of being embedded inline, which means that the comments never go out of date, and their history is accurately tracked in version control.",
+  "time" : 1323430858,
+  "type" : "comment"
+}

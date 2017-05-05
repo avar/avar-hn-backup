@@ -1,0 +1,17 @@
+Comment-Id:	1559387
+Comment-Author:	avar
+Comment-Date:	Thu Jul 29 21:47:18 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1559322
+
+If the market changed overnight so that nobody wanted to buy non-free cars,
+which for the sake of argument we'll define here as cars where the full
+schematics are under a free license like the GPL. Nothing would really change.
+
+The main effort of making a car is still making the car. Just because you can
+download recipes or a CAD drawing of a car chefs or car makers aren't going to
+go out of business. They provide a valuable service that people want to buy.
+
+Similarly, programs aren't going to write themselves. There's always going to
+be demand for skilled programmers, just like there's demand for skilled
+carpenters.

@@ -1,0 +1,8 @@
+Comment-Id:	1741807
+Comment-Author:	avar
+Comment-Date:	Thu Sep 30 00:47:32 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1741330
+
+Phil Plait just posted a writeup about this: http://blogs.discovermagazine.com/
+badastronomy/2010/09/29/po...

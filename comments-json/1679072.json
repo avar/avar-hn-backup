@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1679072,
+  "kids" : [ 1679100 ],
+  "parent" : 1678880,
+  "text" : "Apple isn't blocking contributions, they just don't care about them anymore since they're going with LLVM/Clang. And since they don't care they don't have the legal framework in place anymore to do copyright assignments.<p>The FSF could have these changes if they wanted if they didn't require copyright assignment.<p>Personally I don't contribute to FSF projects because copyright assignments are a PITA. I can see how a company that doesn't <i>need</i> to contribute to GCC anymore just doesn't care enough to initiate the requisite legal work.",
+  "time" : 1284131508,
+  "type" : "comment"
+}

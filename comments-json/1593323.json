@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1593323,
+  "kids" : [ 1593346 ],
+  "parent" : 1593200,
+  "text" : "Does it use IRC on the backend? This is a nice UI, being able to set it up with a custom IRC server would be very nice.<p>Another cool feature would be the ability to embed a chat window on another website.",
+  "time" : 1281484942,
+  "type" : "comment"
+}

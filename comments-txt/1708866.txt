@@ -1,0 +1,7 @@
+Comment-Id:	1708866
+Comment-Author:	avar
+Comment-Date:	Mon Sep 20 14:15:40 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1708096
+
+On both Debian and Ubuntu `ulimit -u` returns `unlimited` for me.

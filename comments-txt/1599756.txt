@@ -1,0 +1,33 @@
+Comment-Id:	1599756
+Comment-Author:	avar
+Comment-Date:	Fri Aug 13 01:39:25 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1599693
+
+> Are approved revisions really a branch or just a tag somewhere in a linear
+version history?
+
+A Git branch is just a different head, but no, those things don't have
+divergent histories. They're just moving tags. Anyway, semantics aside I meant
+that they're doing things now that maps effortlessly to a scm.
+
+> Having n branches of a Wikipedia article would be frowned upon
+
+Not if it was well supported. Saying "hey, I modified the article in my own
+private branch, check it out and merge it if you want" would beat a long
+argument on a talk page any day.
+
+Branch support doesn't need to entail multiple publicly accessible (as in the
+stuff normal readers see) versions of articles.
+
+> Also, Git-style branches only make sense as alternative branches of the
+entire repository
+
+What? No, they'd also make sense even if there was one Git repository per page.
+
+> you'd have to essentially have one Git repository per article, at > which
+point you're probably better off with a different type of > backend.
+
+We won't know until we try, will we? But there are lots of advantages to using
+a well understood and simple data format with multiple implementations over a
+custom schema, but of course a custom format has its own advantages.

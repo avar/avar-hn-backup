@@ -1,0 +1,8 @@
+Comment-Id:	1663263
+Comment-Author:	avar
+Comment-Date:	Sat Sep  4 19:45:36 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1662380
+
+A link to the subscription form: http://common-lisp.net/cgi-bin/mailman/
+listinfo/pro

@@ -1,0 +1,14 @@
+Comment-Id:	2917955
+Comment-Author:	avar
+Comment-Date:	Tue Aug 23 19:12:10 UTC 2011
+Comment-Type:	comment
+Parent-Id:	2917471
+
+Why don't you just shell out to Emacs for the things you need?
+
+E.g. I have a Git repository that hosts an Org-mode file, when you push to it
+emacs is invoked on the server and converts the file to a HTML file that serves
+as a shared TODO / Bug list.
+
+You don't have to use Emacs for everything to use Org, just have it export the
+data you need from the text you're editing in your $EDITOR of choice.

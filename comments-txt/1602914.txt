@@ -1,0 +1,11 @@
+Comment-Id:	1602914
+Comment-Author:	avar
+Comment-Date:	Sat Aug 14 03:55:40 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1602897
+
+Well, not following the RFCs is bad, but I can see why they do it.
+
+Most people using low TTLs probably don't know what they're doing, and if
+you're a big ISP having to constantly make recursive queries hurts page load
+times for your customers, who'll blame you.

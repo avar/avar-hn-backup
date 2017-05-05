@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1609657,
+  "kids" : [ 1609689 ],
+  "parent" : 1609564,
+  "text" : "&#62; I'd rather everything use SSL<p>That's not going to happen as long as browsers treat the continuum of security like this:<p><pre><code>    BEST: Oh nice, a SSL connection with a CA signed cert\n    COOL: A normal HTTP connnection\n    OMGWTFBBQ: ZOMG SOMEONE HAS A SELF SIGNED SSL CERT THE\n               SKY IS FALLING LET'S PRESENT 10 CLICK\n               THROUGH DIALOGS BEFORE THE USER CAN OPEN\n               THE BLODDY SITE\n</code></pre>\nAs opposed to:<p><pre><code>    BEST: Oh nice, a SSL connection with a CA signed cert\n    COOL: Oh nice, a SSL connection, but no CA signing, treat like HTTP UI-wise\n    COOL: A normal HTTP connection, show the user the traffic isn't encrypted.</code></pre>",
+  "time" : 1282001022,
+  "type" : "comment"
+}

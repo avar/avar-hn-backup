@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 1769503,
+  "parent" : 1769433,
+  "text" : "You linked to the wrong version, given the topic of this thread.<p>Recently ZSH support has been added to git-completion.bash, but it's still only in the \"next\" branch of git: <a href=\"http://git.kernel.org/?p=git/git.git;a=blob_plain;f=contrib/completion/git-completion.bash;hb=next\" rel=\"nofollow\">http://git.kernel.org/?p=git/git.git;a=blob_plain;f=contrib/...</a>",
+  "time" : 1286485128,
+  "type" : "comment"
+}

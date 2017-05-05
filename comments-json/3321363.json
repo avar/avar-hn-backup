@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 3321363,
+  "kids" : [ 3321396, 3322362, 3323775 ],
+  "parent" : 3320198,
+  "text" : "TRAMP. Being able to seamlessly remotely edit files and run remote modes.<p>At work I regularly edit files on 10-15 remote machines. But I never ssh to them and run an editor. Instead I'll just visit them through TRAMP, run Magit to commit stuff that I've done etc.",
+  "time" : 1323210050,
+  "type" : "comment"
+}

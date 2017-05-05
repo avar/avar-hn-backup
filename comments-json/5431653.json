@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 5431653,
+  "parent" : 5431573,
+  "text" : "The mirroring they were using is explicitly meant to be a fast local ad-hoc clone that <i>doesn't</i> do integrity checks.<p>They used the safe version before, because they were running into problems <i>with the integrity checks</i>, i.e. ref deletions and non-fast-forwards.<p>What they should have done was to write a hook or a script that did those non-safe updates manually (maybe only for some repositories, and some refs, don't want to rewind e.g. master).<p>But instead they completely bypassed the safety mechanisms and got screwed by corruption.",
+  "time" : 1364121217,
+  "type" : "comment"
+}

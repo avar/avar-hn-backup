@@ -1,0 +1,13 @@
+Comment-Id:	1500571
+Comment-Author:	avar
+Comment-Date:	Fri Jul  9 13:51:19 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1500472
+
+They Reykjavík municipal government headed by The Best Party is using a web
+application to solicit ideas: http://betrireykjavik.is.
+
+The source is up on GitHub: http://github.com/rbjarnason/open-direct-democracy
+
+It's not perfect, but it's a step in the right direction. You can vote things
+up or down, make arguments for and against proposals etc.

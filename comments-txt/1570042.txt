@@ -1,0 +1,14 @@
+Comment-Id:	1570042
+Comment-Author:	avar
+Comment-Date:	Tue Aug  3 03:44:16 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1569971
+
+Yeah point #1 is odd. GNU/Linux doesn't let licenses get in the way of
+technical decisions. DTrace and ZFS aren't in Linux because Sun explicitly
+designed their licensed to be GPL-incompatible.
+
+Where that isn't the case nobody is seeking to replace code due to license
+reasons. E.g. you don't see Linux people trying to replace X11 or Sendmail
+because of their licenses. But the BSD systems are actively trying to phase out
+GPL licensed code due to not liking the license.

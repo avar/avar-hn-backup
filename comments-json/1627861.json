@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 1627861,
+  "parent" : 1627565,
+  "text" : "I sometimes use --amend, but it's good to get yourself into the habit of just making a new commit, then squashing it with git rebase -i.<p>I use magit.el for Emacs which makes this really easy, and if you screw up getting your data back from the reflog is a lot easier than if you just had a bunch of --amend fixups.",
+  "time" : 1282593925,
+  "type" : "comment"
+}

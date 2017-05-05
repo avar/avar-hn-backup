@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1602591,
+  "kids" : [ 1603170 ],
+  "parent" : 1602417,
+  "text" : "I think they've actually got the long term covered. Everyone in The Enterprise (which is all Oracle cares about anyway) is already using Java. Those people want to buy official looking software with support contracts from someone.<p>They're going to be doing so for decades to come, either from Oracle itself, or someone who's paying Oracle truckloads of licensing fees to be allowed to publish their own Java implementation.<p>The <i>only</i> thing that could upset their subscription to money would be some inconvenient little company that decides to make a clean-room Java implementation that could target the same customers. This is what Google has done.<p>If they can win this in court or force a settlement that pretty much guarantees that anyone thinking of building that business model won't even bother to get off the ground, and Oracle can keep printing money.<p>It's funny that you should mention COBOL. Java turning into the next COBOL would be <i>awesome</i> for Oracle. IBM still makes billions selling systems to run COBOL[1], that's more than Sun ever made off Java.<p>1. <a href=\"http://news.ycombinator.com/item?id=1567595\" rel=\"nofollow\">http://news.ycombinator.com/item?id=1567595</a>",
+  "time" : 1281741986,
+  "type" : "comment"
+}

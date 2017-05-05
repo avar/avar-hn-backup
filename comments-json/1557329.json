@@ -1,0 +1,12 @@
+{
+  "by" : "avar",
+  "descendants" : 31,
+  "id" : 1557329,
+  "kids" : [ 1557641, 1557584, 1557623, 1560135, 1557439, 1558579, 1558895, 1559085, 1557967 ],
+  "score" : 113,
+  "text" : "",
+  "time" : 1280406328,
+  "title" : "Rakudo Star - a useful, usable, \"early adopter\" distribution of Perl 6",
+  "type" : "story",
+  "url" : "http://rakudo.org/node/75"
+}

@@ -1,0 +1,10 @@
+Comment-Id:	1741630
+Comment-Author:	avar
+Comment-Date:	Wed Sep 29 23:45:50 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1741603
+
+You might not need an engine on the craft, just a big reflector and a tightly
+focused beam on some planetary body that bombarded it with photons.
+
+The problem then would be slowing down at the other end though.

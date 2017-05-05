@@ -1,0 +1,12 @@
+Comment-Id:	1570001
+Comment-Author:	avar
+Comment-Date:	Tue Aug  3 03:23:20 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1569940
+
+They don't officially support it. But they just run a normal Xen setup. Setting
+up any Xen OS that supports running in domU is relatively easy. There's a few
+people that have already done it for FreeBSD and NetBSD.
+
+You can try it out locally by setting up Linux and running FreeBSD in domU.
+Then just transfer that image to Linode.

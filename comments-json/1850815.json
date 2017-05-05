@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1850815,
+  "kids" : [ 1850857 ],
+  "parent" : 1850553,
+  "text" : "Ubuntu is already considering switching. Most people don't develop with \"GCC in mind\". They just target it, but now that there's another compiler that compiles almost all GCC C out there the cost of switching is very low.",
+  "time" : 1288445610,
+  "type" : "comment"
+}

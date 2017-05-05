@@ -1,0 +1,8 @@
+Comment-Id:	1555329
+Comment-Author:	avar
+Comment-Date:	Wed Jul 28 19:22:59 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1555127
+
+A link to the actual torrent file: http://www.skullsecurity.org/blogdata/
+fbdata.torrent

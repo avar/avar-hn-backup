@@ -1,0 +1,27 @@
+Comment-Id:	1601870
+Comment-Author:	avar
+Comment-Date:	Fri Aug 13 18:57:01 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1601576
+
+Well, firstly this isn't a big problem for HTTP based services like justin.tv,
+almost all Tor exit nodes allow HTTP exits, but it's a bigger issue for
+non-HTTP exits.
+
+But the better way is to take into account exit policies. Only ban access from
+those IPs that are Tor exits and allow access through to justin.tv.
+
+You can query the exit policies of a given exit with TorDNSEL: https://
+www.torproject.org/tordnsel/
+
+I also whipped up a quick script that can be fed a list of Tor exit nodes on
+STDIN and will spew out a list of exits that aren't allowed to access a given
+IP:PORT: http://gist.github.com/523328
+
+According to that 5/1338 Tor exits have policies that don't allow exits to
+justin.tv on port 80 (199.9.249.22:80), but e.g. 309/1338 ban exits to
+irc.freenode.org:6667.
+
+That means that justin.tv is needlessly banning ~0.4% of Tor exit nodes, but
+someone using the same approach with an IRC server is needlessly banning ~23%.
+With SMTP (checked on a random GMail server) that percentage rises to 98.8%.

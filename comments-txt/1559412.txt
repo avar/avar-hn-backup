@@ -1,0 +1,13 @@
+Comment-Id:	1559412
+Comment-Author:	avar
+Comment-Date:	Thu Jul 29 21:56:09 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1559373
+
+I said "grassroots" consumer protection. He's suggesting that people that use
+software band together and collectively reject software under proprietary
+licenses. Because doing so creates a bigger market for free programs, and
+reduces the market for proprietary ones.
+
+There are similar movements that advocate boycotting e.g. out of season fruit,
+or goods manufactured by oppressive countries.

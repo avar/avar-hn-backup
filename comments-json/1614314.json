@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 1614314,
+  "parent" : 1613180,
+  "text" : "MediaWiki has a tool that parses LaTeX, sanity checks it, and can spew out LaTeX again or a <i>very</i> limited version of MathML.<p>If anyone out there knows OCaml enough to improve its emitter that would mean MathML for Wikipedia articles in WebKit browser once this comes out.",
+  "time" : 1282143566,
+  "type" : "comment"
+}

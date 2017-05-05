@@ -1,0 +1,9 @@
+Comment-Id:	1648852
+Comment-Author:	avar
+Comment-Date:	Tue Aug 31 09:10:35 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1648492
+
+Or, just sell it in an open eBook format that can be read on any eBook reader.
+That way they don't have to worry about hardware at all, and can sell to any
+existing device like the iPad, Kindle etc.

@@ -1,0 +1,9 @@
+Comment-Id:	1617540
+Comment-Author:	avar
+Comment-Date:	Thu Aug 19 15:00:39 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1617425
+
+Because most of us don't need a branching model this complex, and if we do
+doing the equivalent thing with "git checkout" is trivial compared to actually
+managing all those branches.

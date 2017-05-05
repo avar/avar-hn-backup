@@ -1,0 +1,11 @@
+Comment-Id:	1609683
+Comment-Author:	avar
+Comment-Date:	Mon Aug 16 23:33:19 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1609636
+
+Just because you don't have signed certificates you can still protect against
+MitM attacks. Your browser just has to remember what the certificate was the
+first time, and alert you it if changes.
+
+Sound familiar? It should, ssh(1) does this by default.

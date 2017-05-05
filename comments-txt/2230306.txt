@@ -1,0 +1,9 @@
+Comment-Id:	2230306
+Comment-Author:	avar
+Comment-Date:	Thu Feb 17 08:39:15 UTC 2011
+Comment-Type:	comment
+Parent-Id:	2230044
+
+Yes, you haven't grokked it. When you work on a development branch like this
+you can rewrite its history with git rebase --interactive before pushing your
+commits to the main branch.

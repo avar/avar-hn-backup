@@ -1,0 +1,12 @@
+Comment-Id:	1601317
+Comment-Author:	avar
+Comment-Date:	Fri Aug 13 16:17:14 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1601298
+
+No, that's different. With a hidden service you're not exiting the Tor network,
+but when you're exiting you always know where you're exiting from.
+
+That's why the Tor project itself publishes a list of Tor routers and exit
+nodes, if they didn't do it it would be trivial for someone else to compile and
+publish the list.

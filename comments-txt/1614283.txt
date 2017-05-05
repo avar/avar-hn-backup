@@ -1,0 +1,7 @@
+Comment-Id:	1614283
+Comment-Author:	avar
+Comment-Date:	Wed Aug 18 14:48:49 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1614171
+
+Yes.

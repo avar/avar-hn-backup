@@ -1,0 +1,11 @@
+Comment-Id:	1604303
+Comment-Author:	avar
+Comment-Date:	Sun Aug 15 00:35:23 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1604276
+
+This is great, one thing I could use would be keys to move between different
+top-level replies on a comment page. Maybe p/n for prev/next ?
+
+I've also found a bug, if I go to "threads" I can't move up past the third
+topmost top-level comment I've posted using the "k" key.

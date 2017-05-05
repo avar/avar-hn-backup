@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1586196,
+  "kids" : [ 1586307, 1586248, 1586461 ],
+  "parent" : 1585901,
+  "text" : "I usually agree with or sympathize with Moglen's views but this is just indefensible.<p>He's saying that Steve Jobs is \"a man whose selfishness surpasses any recorded selfishness\", and why? Because he opted to support a modular compiler started at the University of Illinois instead of the GCC.<p>The LLVM's license is free, and even classified as such by the FSF. To smear participants in a fellow free software project like this or those that fund it is beyond low.<p>I lost a lot of respect for Moglen after reading that.",
+  "time" : 1281302600,
+  "type" : "comment"
+}

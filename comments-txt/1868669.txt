@@ -1,0 +1,13 @@
+Comment-Id:	1868669
+Comment-Author:	avar
+Comment-Date:	Thu Nov  4 13:11:06 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1868521
+
+The idea was that their network protocol was an original copyrighted work, and
+that any clean-room implementation of it would be a derived work.
+
+That does indeed sound crazy, but they also had piles of cash to throw at
+lawyers to go after anyone who challenged them, and (maybe as a result of that)
+nobody ever made e.g. a clean-room BSD or LGPL licensed version of the mysql
+library. So it never made it to court AFAIK.

@@ -1,0 +1,8 @@
+Comment-Id:	2816310
+Comment-Author:	avar
+Comment-Date:	Thu Jul 28 11:55:13 UTC 2011
+Comment-Type:	comment
+Parent-Id:	2816275
+
+Because bureaucracies are slow, and it's taken this time for London to release
+up-to-date and machine readable data.

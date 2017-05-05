@@ -1,0 +1,39 @@
+Comment-Id:	4966874
+Comment-Author:	avar
+Comment-Date:	Tue Dec 25 19:36:42 UTC 2012
+Comment-Type:	comment
+Parent-Id:	4966064
+
+(Disclaimer again: I work for Booking.com in IT)
+
+    > I would advice against agoda and booking.com as they
+    > forward your credit card info to the hotel as security.
+
+They don't forward your credit card as security. They forward it for the hotel
+to charge you for the entirety of your booking.
+
+Companies like Expedia follow the merchant model, they buy up hotels rooms in
+bulk in advance and then re-sell them directly to customers. When you buy from
+a merchant your credit card isn't shared with the hotel as there's no need to
+do so.
+
+Other companies like Booking.com and Agoda follow the agency model. They find
+customers for the hotels, forward their payment details along to the hotel, the
+hotel charges the customer, and then pays the agency a percentage of the
+booking as an agency fee[1].
+
+Both models have their pros and cons. The merchant model works brilliantly in
+the US where large chains are the norm. It works less well in Europe where the
+vast number of hotels are small properties.
+
+    > Imagine the surprise when you are at the hotel counter
+    > and the staff shows you a printout of your credit card
+    > info(nothing obscured; everything in plain text).
+
+It's fair enough that this makes you uncomfortable. But the hotel with that
+printout has a contract with the credit card company like any other merchant
+and is responsible for treating it responsibly.
+
+I think you'd also be very surprised at the number of other merchants you might
+deal with where this is the case. Having a printout with a credit card number
+is not at all unusual in a lot of businesses.

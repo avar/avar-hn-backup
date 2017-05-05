@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 1565193,
+  "parent" : 1565033,
+  "text" : "You can avoid that lag if you host your own stealth master and configure the Linode DNS servers as slaves. Having your domain distributed is just a NOTIFY and an AXFR away.",
+  "time" : 1280666013,
+  "type" : "comment"
+}

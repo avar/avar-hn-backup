@@ -1,0 +1,11 @@
+Comment-Id:	2676148
+Comment-Author:	avar
+Comment-Date:	Mon Jun 20 21:24:27 UTC 2011
+Comment-Type:	comment
+Parent-Id:	2675911
+
+I suppose you know about http://www.google.com/ncr ? It works some of the time.
+
+Some of the time it doesn't, e.g. now when Google has custom logos I'll get a
+search term in Dutch (I'm in The Netherlands) when I click on it, even though
+I'm using google.com in English when doing so.

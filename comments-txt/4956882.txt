@@ -1,0 +1,8 @@
+Comment-Id:	4956882
+Comment-Author:	avar
+Comment-Date:	Sat Dec 22 16:44:09 UTC 2012
+Comment-Type:	comment
+Parent-Id:	4956731
+
+I use git-annex for pretty much that. It's rapidly gaining features that make
+it a Dropbox replacement.

@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 1570845,
+  "parent" : 1570788,
+  "text" : "Some people don't like to read docs with info(1) for whatever reason. Having the full manual in the manpage instead of giving them a stub would be preferable.",
+  "time" : 1280837150,
+  "type" : "comment"
+}

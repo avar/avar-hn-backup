@@ -1,0 +1,26 @@
+Comment-Id:	1559619
+Comment-Author:	avar
+Comment-Date:	Thu Jul 29 23:01:33 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1559522
+
+> Is this not manufacturing?
+
+No. Note that this whole conversation started with a car analogy, under that
+analogy writing software would be designing a car, not manufacturing it. In
+software manufacturing is distribution, which carries virtually no cost.
+
+Of course making software would still have a cost.
+
+> I prefer to exercise my freedoms [...] to sell my work.
+
+More power to you then. Note that I never said that I agreed with Stallman.
+
+I've was just responding to the fallacy in chc's post where he claimed that
+just because consumer demand would shift towards free software, that the entire
+software industry would be destroyed. That's ridiculous.
+
+Software would still be needed, and people would still need to be educated and
+compensated for writing and maintaining it. To assume that the market couldn't
+come up with a way to meet the demand and that the clock would be reset to 1920
+is naïve.

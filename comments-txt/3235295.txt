@@ -1,0 +1,10 @@
+Comment-Id:	3235295
+Comment-Author:	avar
+Comment-Date:	Mon Nov 14 19:29:13 UTC 2011
+Comment-Type:	comment
+Parent-Id:	3235250
+
+1) I don't know about (I'm not a US citizen either), but you could just write
+to US representatives pretending to be one of their constituents. They're not
+going to do some ID check, and it'll count towards the "X number of people have
+contacted us about issue Y" count, which'll count for something.

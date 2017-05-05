@@ -1,0 +1,11 @@
+Comment-Id:	1566347
+Comment-Author:	avar
+Comment-Date:	Sun Aug  1 23:18:59 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1565477
+
+The App::Cronjob Perl module is great for adding effortless locking to existing
+programs:
+
+    @daily cronjob -j some-uid -c '/usr/bin/some-command.sh'
+

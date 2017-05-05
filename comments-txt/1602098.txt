@@ -1,0 +1,13 @@
+Comment-Id:	1602098
+Comment-Author:	avar
+Comment-Date:	Fri Aug 13 20:05:12 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1601958
+
+Yes it's easier. It's also easy to just ban all of China. But the drawback is
+that you're needlessly banning people who aren't doing you harm, and
+discouraging others from running Tor exit nodes with limited exit policies.
+
+E.g. I'd run a Tor exit node with policies that only allowed wikileaks.org and
+a few other selected sites, but I don't. Because I know it'll cause me more
+trouble than it's worth due to a bunch of overzealous administrators.

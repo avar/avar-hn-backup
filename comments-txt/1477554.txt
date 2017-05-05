@@ -1,0 +1,8 @@
+Comment-Id:	1477554
+Comment-Author:	avar
+Comment-Date:	Thu Jul  1 09:29:13 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1477293
+
+They feature Hacker News in their promotion material for the release: http://
+www.opera.com/browser/tips/?feature=speeddial

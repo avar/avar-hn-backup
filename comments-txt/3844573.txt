@@ -1,0 +1,8 @@
+Comment-Id:	3844573
+Comment-Author:	avar
+Comment-Date:	Sun Apr 15 20:09:51 UTC 2012
+Comment-Type:	comment
+Parent-Id:	3844516
+
+Thanks. That's an excellent reference. I've been pointing people towards the
+relevant section in the readline or bash manuals, but this is much better.

@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 1516118,
+  "parent" : 1516067,
+  "text" : "That's true to a large extent as far as I can tell. I've seen reports on emacs-devel of commits taking a couple of minutes, and of having merge issues you'd never encounter in Git.<p>Bazaar wasn't chosen for Emacs for technical reasons, and they appear to be suffering the consequences of that.",
+  "time" : 1279145377,
+  "type" : "comment"
+}

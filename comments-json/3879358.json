@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 3879358,
+  "kids" : [ 3879430, 3879410 ],
+  "parent" : 3879153,
+  "text" : "Interesting that they're testing full-text search on the two, it would be very interesting to benchmark it against something like ElasticSearch or another scalable full-text search engine to see how fast that would be by comparison.",
+  "time" : 1335196225,
+  "type" : "comment"
+}

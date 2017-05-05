@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 5206374,
+  "kids" : [ 5208707 ],
+  "parent" : 5206172,
+  "text" : "This would be more impressive if it were backed by a Gist or something so you could actually clone your comments for use offline. As it is it's just using GitHub's proprietary storage backend through the issues system. So it's no different than just using Disqus or something.",
+  "time" : 1360672600,
+  "type" : "comment"
+}

@@ -1,0 +1,38 @@
+Comment-Id:	1695559
+Comment-Author:	avar
+Comment-Date:	Wed Sep 15 19:34:00 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1694905
+
+I don't think Microsoft is worse than any other big company in their position,
+in fact I think they're probably much better given the charity Bill Gates is
+now engaging in.
+
+Most big companies of Microsoft's size engage in unethical or illegal
+practices, and most of them don't have CEO's that become philanthropists. Gates
+is doing good, relatively speaking.
+
+But I also think that praising Bill Gates as a "Hero" for his philanthropy
+without looking at how his wealth was generated, or how inefficient that
+process is misses the big picture.
+
+Most of the hundreds of billions of dollars that have flowed through Microsoft
+over the years didn't go to Gates, and a lot of it was spent on unethical
+behavior which has held the industry hostage for years. For instance we've only
+relatively recently begun to see large transitions away from Windows, IE and
+Office, which might have happened much sooner in a more open market.
+
+So who are my heroes?
+
+My heroes people working in government trying to rain in monopolies and
+fostering healthy competition. My heroes are people that write software
+supporting open protocols that make it easy for everyone in the market to
+compete on equal ground.
+
+My heroes are people in Africa and elsewhere using these technologies to
+bootstrap their local economies, so in the long term they can buy their own
+vaccines instead of getting them from Bill Gates.
+
+None of these people will become billionaires, and you'll never know their
+names. But combined they'll do more economic good for humanity than Bill Gates
+ever could.

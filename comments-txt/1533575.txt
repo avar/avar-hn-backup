@@ -1,0 +1,11 @@
+Comment-Id:	1533575
+Comment-Author:	avar
+Comment-Date:	Tue Jul 20 21:52:37 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1533023
+
+GitHub's really nice about hosting your stuff for free if you're an open source
+project. I run two mirrors there with their permission: http://github.com/
+openstreetmap & http://github.com/mediawiki
+
+Both are over the space limit for free accounts.

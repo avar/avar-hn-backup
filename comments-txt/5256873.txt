@@ -1,0 +1,20 @@
+Comment-Id:	5256873
+Comment-Author:	avar
+Comment-Date:	Thu Feb 21 11:53:11 UTC 2013
+Comment-Type:	comment
+Parent-Id:	5256839
+
+How do you think things get proposed to organizations like the IETF? Someone
+comes up with a working implementation, proves it to work & to be better than
+the existing stuff, and then they propose it for inclusion.
+
+That's what Google is doing, and they're using Google Chrome as their test bed
+(along presumably, with a bunch of non-Chrome stuff internally).
+
+This is the same thing they did with SPDY. See http://en.wikipedia.org/wiki/
+SPDY#Relation_to_HTTP for details.
+
+If what you're hinting at is that they should first start some wider discussion
+about what a next-gen UDP should look like before they start doing anything,
+then I suggest you look up "bikeshedding". Such a process would never get
+anywhere.

@@ -1,0 +1,7 @@
+Comment-Id:	1784704
+Comment-Author:	avar
+Comment-Date:	Tue Oct 12 20:04:37 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1784647
+
+Why can't you install and use RoR?

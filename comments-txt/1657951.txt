@@ -1,0 +1,9 @@
+Comment-Id:	1657951
+Comment-Author:	avar
+Comment-Date:	Thu Sep  2 22:34:12 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1657513
+
+Most of them are pseudo-private. I.e. they'll open up signups from time to
+time. It's often only an issue of doing some basic research about what sort of
+tracker you'd like access to, then subscribing to their news feed.

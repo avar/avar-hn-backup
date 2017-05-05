@@ -1,0 +1,20 @@
+Comment-Id:	2524807
+Comment-Author:	avar
+Comment-Date:	Sat May  7 22:59:54 UTC 2011
+Comment-Type:	comment
+Parent-Id:	2524766
+
+    It's not as if rebase is commonly used.
+
+This is widly incorrect. Powerusers of Git use rebase extensively, pretty much
+every patch that makes it into Git itself has been rebased at least half a
+dozen times.
+
+I rewrite my history constantly, because when writing code I commit all the
+time, then I squash commits together later and give them proper commit
+messages.
+
+I wouldn't use any SCM tool that wouldn't give me this functionality. The
+result of recording all history permanently is that users will just not commit
+their incomplete work, meaning that it'll be in their working tree instead of
+tracked in some form by the repository.

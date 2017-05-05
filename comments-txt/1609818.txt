@@ -1,0 +1,22 @@
+Comment-Id:	1609818
+Comment-Author:	avar
+Comment-Date:	Tue Aug 17 00:31:57 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1609777
+
+Yes, it doesn't, and can't. But I'm saying that it doesn't matter.
+
+When people visit "foo-bank.com" the easiest way to do a MitM is to simply do a
+http MitM. Then you don't have to forge any SSL certificates, or rely on the
+browser not yelling enough.
+
+The only way to guard against that is to train users to recognize that they
+shouldn't be sending money through a non-CA SSL connection, as indicated by
+their browser with a friendly "Secure" icon somewhere.
+
+Thus, if browsers treated non-CA signed SSL connections just like normal HTTP
+connections, i.e. just used encryption, didn't present any "secure" banners
+etc. you wouldn't make things any less secure.
+
+Non-CA signed SSL traffic is just as secure as unencrypted HTTP traffic (i.e.
+not), and browsers should treat both of them equivalently.

@@ -1,0 +1,29 @@
+Comment-Id:	1614363
+Comment-Author:	avar
+Comment-Date:	Wed Aug 18 15:15:18 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1614316
+
+That's an excellent book. I have a paper copy of it. While the article is right
+about cellphone chargers things like this lack some context:
+
+    Glass requires so much energy to make - or recycle - that it is
+    always more eco-friendly to use aluminium cans
+
+Firstly, that depends on how you recycle things. Perhaps in the UK they melt
+down their glass and make it anew, but in some other countries such as Denmark
+they'll actually use the same bottle again after cleaning it out.
+
+If you buy a soft drink in a class bottle in Denmark you'll get a container
+that looks like it's seen war.
+
+Secondly, it's presuming that pounds sterling is the best way to measure
+sustainability, and that just because something costs more now it's less
+sustainable in the long run.
+
+Which is just patently silly. We basically have infinite energy on this planet
+as long as the sun keeps shining, but we don't have infinite easily accessible
+aluminum.
+
+In the future access to basic material resources is going to be a lot more
+important than whether someone expended a few extra joules back in 2010.

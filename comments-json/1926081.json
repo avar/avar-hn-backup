@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1926081,
+  "kids" : [ 1926176, 1926528 ],
+  "parent" : 1924923,
+  "text" : "Some projects like Git itself refuse to add editor droppings like <i>~ and #</i> to .gitignore. They consider the .gitignore file to be <i>only</i> for things that the build system produces, e.g. *.o and binaries.<p>If you want to ignore things that your editor adds you should add it in .git/info/excludes, not .gitignore.",
+  "time" : 1290307771,
+  "type" : "comment"
+}

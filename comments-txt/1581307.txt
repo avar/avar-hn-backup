@@ -1,0 +1,10 @@
+Comment-Id:	1581307
+Comment-Author:	avar
+Comment-Date:	Fri Aug  6 15:36:43 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1581282
+
+Debian has also had Debian GNU/Hurd in unstable state for years. That Gentoo/
+FreeBSD page mentions that the port is "experimental" and "incomplete". So
+presumably they're talking about a non-Linux kernel as a first-class component
+in a stable release.

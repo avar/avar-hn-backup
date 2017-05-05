@@ -1,0 +1,7 @@
+Comment-Id:	1600992
+Comment-Author:	avar
+Comment-Date:	Fri Aug 13 14:34:38 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1600986
+
+Yes, but that requires paying extra for a dedicated IP just for that.

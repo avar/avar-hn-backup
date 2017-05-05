@@ -1,0 +1,8 @@
+Comment-Id:	2773458
+Comment-Author:	avar
+Comment-Date:	Sun Jul 17 15:35:23 UTC 2011
+Comment-Type:	comment
+Parent-Id:	2773411
+
+I use it already for generating websites, but I haven't seen a plugin for it
+that makes it easy to generate slides like these.

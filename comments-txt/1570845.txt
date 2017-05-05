@@ -1,0 +1,9 @@
+Comment-Id:	1570845
+Comment-Author:	avar
+Comment-Date:	Tue Aug  3 12:05:50 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1570788
+
+Some people don't like to read docs with info(1) for whatever reason. Having
+the full manual in the manpage instead of giving them a stub would be
+preferable.

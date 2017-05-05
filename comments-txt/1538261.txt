@@ -1,0 +1,11 @@
+Comment-Id:	1538261
+Comment-Author:	avar
+Comment-Date:	Thu Jul 22 14:44:53 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1537968
+
+Here's a Torrent with a tar.xz that contains all of them: http://v.nix.is/
+~leech/google-profiles.tar.xz.torrent
+
+That's files sitemap-000 through sitemap-3278. They contain a total of
+16,256,271 profile URLs.

@@ -1,0 +1,8 @@
+Comment-Id:	1725902
+Comment-Author:	avar
+Comment-Date:	Sat Sep 25 00:19:36 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1725595
+
+Browsers are already aware and defending against this: http://en.wikipedia.org/
+wiki/IDN_homograph_attack#Defending_...

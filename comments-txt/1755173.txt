@@ -1,0 +1,15 @@
+Comment-Id:	1755173
+Comment-Author:	avar
+Comment-Date:	Mon Oct  4 10:04:57 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1755076
+
+That hasn't been my experience at all. I mostly contribute relatively small
+patches to programs that I use myself and see an itch that I need to scratch.
+
+Sometimes it's really hard to get started, but usually the problem you want to
+solve is in some fairly isolated subsystem and writing a sane patch only takes
+an hour or two at most.
+
+Of course you sometimes step on someone's toes, but more often than not my
+patches just get accepted.

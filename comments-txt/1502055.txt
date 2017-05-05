@@ -1,0 +1,22 @@
+Comment-Id:	1502055
+Comment-Author:	avar
+Comment-Date:	Fri Jul  9 20:08:11 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1501977
+
+No I meant a wetsuit. Wetsuits are completely waterproof aside from a select
+few entry points where water is allowed to seep through as you first get in the
+water.
+
+The idea behind their operation is that you have a thin film of warm water
+around your body, isolated by a waterproof neophrene layer. So there's: The Sea
+-> neophrene -> Warm water that doesn't freely mix with the sea -> You.
+
+That doesn't work (as deadmansshoes thought) if you're wearing normal clothes
+instead of a neophrene layer. In that case the water next to your body is
+constantly being replaced by new & cold water, faster than you can heat it up
+to provide you with insulation.
+
+Both wetsuit and drysuits depend on there being a layer next to your body that
+you heat up. With wetsuits this is a layer of water that doesn't get swapped
+out, with drysuits it's a layer of air + rubber.

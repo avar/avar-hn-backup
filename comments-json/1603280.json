@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 1603280,
+  "parent" : 1603100,
+  "text" : "Ruby got its flip-flop operator from Perl, which in turn got it from sed and awk. It can be really useful for keeping simple state, e.g.:<p><pre><code>    # parse mail messages\n    while (&#60;$email&#62;) {\n        $in_header =   1  .. /^$/;\n        $in_body   = /^$/ .. eof;\n        if ($in_header) {\n            # do something\n        } else { # in body\n            # do something else\n        }\n    }\n\n</code></pre>\nAnd other examples at <a href=\"http://perldoc.perl.org/perlop.html#Range-Operators\" rel=\"nofollow\">http://perldoc.perl.org/perlop.html#Range-Operators</a>",
+  "time" : 1281789366,
+  "type" : "comment"
+}

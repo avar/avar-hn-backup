@@ -1,0 +1,8 @@
+Comment-Id:	1605591
+Comment-Author:	avar
+Comment-Date:	Sun Aug 15 18:22:53 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1605426
+
+If only there was some sort of massive distributed publishing network which
+mathematicians could use without worrying about page counts.

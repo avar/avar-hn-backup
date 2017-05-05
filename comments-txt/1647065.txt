@@ -1,0 +1,8 @@
+Comment-Id:	1647065
+Comment-Author:	avar
+Comment-Date:	Mon Aug 30 18:27:45 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1646110
+
+It's on HN because someone submitted it, and other users have subsequently
+upvoted it enough for it to make the main page.

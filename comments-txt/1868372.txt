@@ -1,0 +1,12 @@
+Comment-Id:	1868372
+Comment-Author:	avar
+Comment-Date:	Thu Nov  4 10:58:39 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1868349
+
+Not only that, but MySQL AB considered their network protocol to be GPL as
+well, and went after anyone who tried to make a clean-room implementation of
+it.
+
+I don't know whether SUN and Oracle still pursue that strategy. Otherwise you
+could indeed bundle MySQL with some clean-room libraries to talk to the server.

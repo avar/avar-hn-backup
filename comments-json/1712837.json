@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1712837,
+  "kids" : [ 1713439, 1713112 ],
+  "parent" : 1712498,
+  "text" : "I should have said: They haven't been fixed <i>by default</i>.<p>Perl is also moving forward, it's just doing so differently than Python. Python has major releases like 2.6 and 3.0 where they explicitly break old code in the default installation.<p>Perl however doesn't break any of the old warts by default, but developers can easily do so by importing modules like Moose and perl5i in their own code. See <a href=\"http://search.cpan.org/perldoc?Moose\" rel=\"nofollow\">http://search.cpan.org/perldoc?Moose</a> and <a href=\"http://search.cpan.org/perldoc?perl5i\" rel=\"nofollow\">http://search.cpan.org/perldoc?perl5i</a><p>Perl's model means that you can usually upgrade any code base from say 5.6 to 5.12 without major headaches. But if you try to do the equivalent with Python 1.6 to 3.0 you'll run into trouble.<p>There are advantages to both models, but with Perl's you rarely see users with big legacy code bases staying behind on some legacy 10 year old release of Perl that may have bugs and security issues. Users usually just upgrade along with their OS without any major pains.",
+  "time" : 1285081281,
+  "type" : "comment"
+}

@@ -1,0 +1,9 @@
+Comment-Id:	4628038
+Comment-Author:	avar
+Comment-Date:	Mon Oct  8 18:02:49 UTC 2012
+Comment-Type:	comment
+Parent-Id:	4627106
+
+Is there no way to sign up for this without connecting it to a Facebook,
+Linkedin, Twitter or Google account? The signup form indicates that you can
+sign in with a site-specific account, but I can't find out how to create one.

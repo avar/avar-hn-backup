@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 5430335,
+  "kids" : [ 5430365 ],
+  "parent" : 5430221,
+  "text" : "<p><pre><code>    &#62; I'm aware of github enterprise\n</code></pre>\nWhich I must say is also insanely priced, particularly since you have to pay for everyone with a user account.<p>Which means if you're wanting to use GitHub issues to replace some bugtracker the non-developers need access to you're paying full cost for everyone who might need to update a bug once or twice a year.<p>I understand that they're trying to get everyone to use their online offering, but a lot of organizations wouldn't consider it due to a combination of not wanting to host their code externally, and GitHub's ongoing uptime issues. They might go for GitHub Enterprise, but it's crazily priced compared to other similar software (e.g. Atlassian Stash+Jira).",
+  "time" : 1364082119,
+  "type" : "comment"
+}

@@ -1,0 +1,16 @@
+Comment-Id:	4967561
+Comment-Author:	avar
+Comment-Date:	Wed Dec 26 00:09:14 UTC 2012
+Comment-Type:	comment
+Parent-Id:	4967420
+
+Yes. All our main backend code is in Perl. There's frontend tasks in JavaScript
+and some C and Python around, but my rough guess would be that less than 1% of
+our code falls under that umbrella.
+
+We're hiring, and not just "Perl guy[s]". We hire good programmers, some of
+them know Perl already, but others pick it up while on the job.
+
+Contact me at avarab@gmail.com if you (or anyone else here) would be interested
+in exploring opportunities at Booking.com. Our current openings are listed at
+booking.com/jobs.

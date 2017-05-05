@@ -1,0 +1,9 @@
+Comment-Id:	1609825
+Comment-Author:	avar
+Comment-Date:	Tue Aug 17 00:35:13 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1609753
+
+The point is to upgrade the connections that are unencrypted now to use
+encryption. A MitM can only insert his own data into your dialog, he can't
+passively eavesdrop on an existing encrypted connection.

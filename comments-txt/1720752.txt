@@ -1,0 +1,9 @@
+Comment-Id:	1720752
+Comment-Author:	avar
+Comment-Date:	Thu Sep 23 18:37:08 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1719815
+
+Even if it does it's a pretty remote possibility that it'll be exploitable if
+you limit the input to say 100 bytes. Pretty hard to get a Perl or Ruby level
+program of that size to exploit some memory corruption at the C level.

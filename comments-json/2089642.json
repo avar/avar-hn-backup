@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 2089642,
+  "parent" : 2080711,
+  "text" : "All of my bash shells are run in GNU screen. So scrolling up is C-a [ to enter copy-mode. Then C-u to scroll up and C-d to scroll down.",
+  "time" : 1294691668,
+  "type" : "comment"
+}

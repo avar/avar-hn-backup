@@ -1,0 +1,18 @@
+Comment-Id:	1511145
+Comment-Author:	avar
+Comment-Date:	Tue Jul 13 12:51:45 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1511031
+
+It's not just Perl, every language I've seen or heard of except PHP has a clear
+distinction between its unordered key-value datatype, and an array datatype.
+That includes Python, Lisp, Lua, and others.
+
+PHP has a Frankensteinian mix between the two. You /can/ implement it in any
+other language by just keeping an array along with your hash that indicates the
+order in which elements were inserted: http://search.cpan.org/perldoc?
+Tie::StoredOrderHash
+
+But you almost never want to do this. I've only used it once in all the PHP
+code I've written. And having to deal with the ambiguity of PHP's key-value
+array datatype wasn't worth it elsewhere wasn't worth that.

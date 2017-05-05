@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1502171,
+  "kids" : [ 1502301, 1502391 ],
+  "parent" : 1502027,
+  "text" : "According to this talk they're paying around $250k/year for server hosting at EC2: <a href=\"http://pycon.blip.tv/file/3257303/\" rel=\"nofollow\">http://pycon.blip.tv/file/3257303/</a><p>See the question at around ~27m into the video.",
+  "time" : 1278708561,
+  "type" : "comment"
+}

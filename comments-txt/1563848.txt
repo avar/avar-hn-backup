@@ -1,0 +1,9 @@
+Comment-Id:	1563848
+Comment-Author:	avar
+Comment-Date:	Sat Jul 31 15:42:07 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1560096
+
+This doesn't really address your main point, but GNOME is part of the GNU
+project. Which means that most of the both the GUI and command-line UI on e.g.
+Ubuntu is in fact GNU software. But obviously less so under KDE.

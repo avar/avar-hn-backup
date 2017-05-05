@@ -1,0 +1,10 @@
+Comment-Id:	1583768
+Comment-Author:	avar
+Comment-Date:	Sat Aug  7 16:12:03 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1583700
+
+It's also annoying that there isn't a way to turn of the mandatory delay before
+I can get an attachment while they're "scanning it for viruses".
+
+I don't use Windows, I don't care if it has viruses.

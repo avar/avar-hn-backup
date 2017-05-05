@@ -1,0 +1,7 @@
+Comment-Id:	3582762
+Comment-Author:	avar
+Comment-Date:	Sun Feb 12 19:49:15 UTC 2012
+Comment-Type:	comment
+Parent-Id:	3582565
+
+Any reason you roll your own numeric() instead of using isdigit()? It's in C89.

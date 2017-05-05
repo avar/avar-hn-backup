@@ -1,0 +1,9 @@
+Comment-Id:	1791444
+Comment-Author:	avar
+Comment-Date:	Thu Oct 14 16:16:01 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1791006
+
+In many cases you can get free wifi when there isn't free wifi by tunneling
+your requests over DNS. Check out iodine for how. I use it to bypass paid wifi
+hotspots in airports and other similar paces.

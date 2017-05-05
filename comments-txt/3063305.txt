@@ -1,0 +1,9 @@
+Comment-Id:	3063305
+Comment-Author:	avar
+Comment-Date:	Sun Oct  2 16:56:32 UTC 2011
+Comment-Type:	comment
+Parent-Id:	3062868
+
+That works for everything but the autofocus sound, I disabled the shutter sound
+using this method, but the autofocus sound is compiled into the camera
+application.

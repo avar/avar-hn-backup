@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 4765444,
+  "parent" : 4765402,
+  "text" : "Git sends data between repositories using a pack format that transfers the raw blob/tres/commit/tag objects, not patches.",
+  "time" : 1352507873,
+  "type" : "comment"
+}

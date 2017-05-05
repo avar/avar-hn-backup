@@ -1,0 +1,10 @@
+Comment-Id:	1763740
+Comment-Author:	avar
+Comment-Date:	Wed Oct  6 13:11:43 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1763137
+
+Even if you're compiling code that you work on all the time changing a compile
+flag can invalidate all your ccache files. Having to wait 10 seconds instead of
+30 for the new compile to finish can make a big difference when you want to be
+able to test changes quickly.

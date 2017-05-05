@@ -1,0 +1,12 @@
+Comment-Id:	1522673
+Comment-Author:	avar
+Comment-Date:	Fri Jul 16 21:32:21 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1522614
+
+It's not fundamentally different. Wikipedia is explicitly like traditional
+encyclopedias in that it's not a primary source, and that it only wants
+articles about things which can be reliable cited in multiple primary sources.
+
+Articles about random Internet personalities or some garage band are thus
+inherently not in the scope of the project, until they become more notable.

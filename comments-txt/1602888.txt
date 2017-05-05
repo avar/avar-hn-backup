@@ -1,0 +1,16 @@
+Comment-Id:	1602888
+Comment-Author:	avar
+Comment-Date:	Sat Aug 14 03:33:13 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1602853
+
+The topic of this thread is that if you're running a Tor exit with a limited
+exit policy you'll get banned by lazy admins who presume that all Tor exit
+nodes have a promiscuous exit policy.
+
+There's theoretically nothing crazy or bad about running a Tor exit node like
+that, e.g. one that only allows exits to a few sites that you yourself control.
+
+But in practice it's bad for you because of people that think "let's just nuke
+it from orbit" is responsible behavior on the Internet, even going so far as to
+ban whole /24 networks.

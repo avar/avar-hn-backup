@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 3339862,
+  "kids" : [ 3340004 ],
+  "parent" : 3338065,
+  "text" : "When you buy it you get directed to a page linking to:<p><pre><code>    https://buy.louisck.net/account/download\n</code></pre>\nWhich is a redirect to:<p><pre><code>    http://download.aws.louisck.net/Louis_CK_Beacon_1280x720.mp4?Expires=&#60;unix timestamp&#62;&#38;Signature=&#60;long string&#62;&#38;Key-Pair-Id=&#60;an id&#62;\n</code></pre>\nWhich can be downloaded e.g. with wget and is a:<p><pre><code>    $ file Louis_CK_Beacon_1280x720.mp4 \n    Louis_CK_Beacon_1280x720.mp4: ISO Media, MPEG v4 system, version 2</code></pre>",
+  "time" : 1323602740,
+  "type" : "comment"
+}

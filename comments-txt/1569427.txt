@@ -1,0 +1,9 @@
+Comment-Id:	1569427
+Comment-Author:	avar
+Comment-Date:	Mon Aug  2 22:57:45 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1568967
+
+How is Unladen Swallow doing anyway? I've had the impression that the project
+is stalled, their Subversion has been mostly stalled this year: http://
+code.google.com/p/unladen-swallow/source/list

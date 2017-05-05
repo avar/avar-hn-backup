@@ -1,0 +1,6 @@
+Comment-Id:	1526575
+Comment-Author:	avar
+Comment-Date:	Sun Jul 18 19:56:15 UTC 2010
+Comment-Type:	story
+Parent-Id:	null
+

@@ -1,0 +1,10 @@
+Comment-Id:	5203108
+Comment-Author:	avar
+Comment-Date:	Mon Feb 11 20:48:52 UTC 2013
+Comment-Type:	comment
+Parent-Id:	5203080
+
+There's probably a much simpler explanation: That automotive journalists are
+really lazy, have a story in mind before they ever drive the car in question,
+routinely do stuff like this, and are only being called out now because of
+black boxes being embedded into some newer cars such as Tesla's.

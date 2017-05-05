@@ -1,0 +1,10 @@
+Comment-Id:	1754550
+Comment-Author:	avar
+Comment-Date:	Mon Oct  4 03:56:38 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1754357
+
+Wow, someone built the system I was advocating for 3 months ago: http://
+news.ycombinator.com/item?id=1495760
+
+Awesome.

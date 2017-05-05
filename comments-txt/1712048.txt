@@ -1,0 +1,8 @@
+Comment-Id:	1712048
+Comment-Author:	avar
+Comment-Date:	Tue Sep 21 10:17:04 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1710989
+
+I patched it to support generation on 64 bit systems: http://github.com/martine
+/bloat/issues#issue/1

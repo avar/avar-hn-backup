@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1609760,
+  "kids" : [ 1609777, 1610028 ],
+  "parent" : 1609689,
+  "text" : "Yes there is, think about it :)<p>Bank of America has a CA signed cert, so when you go there you display a golden \"YOU ARE SECURE, CITIZEN\" banner at the top with a lock icon etc.<p>But if someone <i>doesn't</i> have a CA signed SSL cert you treat it no differently than normal HTTP traffic.<p>Then you train users not to submit their financial information to sites that don't have a CA signed SSL certificate (as indicated by the giant \"YOU ARE SECURE, CITIZEN\" banner).<p>You have to do that <i>anyway</i>, when I go do my online banking I visit a plain http site and <i>then</i> click on my private banking link that takes me to a https site.<p>The easiest way for a MitM to spoof that would be to just direct the user to a plain HTTP site when he goes to do his private banking. So even today users have to understand that they must submit this sort of data over SSL <i>and</i> that the cert involved has to be CA-signed.",
+  "time" : 1282003424,
+  "type" : "comment"
+}

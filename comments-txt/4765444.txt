@@ -1,0 +1,8 @@
+Comment-Id:	4765444
+Comment-Author:	avar
+Comment-Date:	Sat Nov 10 00:37:53 UTC 2012
+Comment-Type:	comment
+Parent-Id:	4765402
+
+Git sends data between repositories using a pack format that transfers the raw
+blob/tres/commit/tag objects, not patches.

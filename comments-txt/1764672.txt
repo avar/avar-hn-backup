@@ -1,0 +1,11 @@
+Comment-Id:	1764672
+Comment-Author:	avar
+Comment-Date:	Wed Oct  6 16:41:45 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1763942
+
+Right, I should have mentioned that I only do C development, not packaging. So
+I compile everything with CFLAGS="-O0 -ggdb3".
+
+But of course if you're producing binary packages you may want to use other
+criteria than compilation speed and diagnostic messages to select the compiler.

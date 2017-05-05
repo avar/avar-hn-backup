@@ -1,0 +1,15 @@
+Comment-Id:	4709728
+Comment-Author:	avar
+Comment-Date:	Sun Oct 28 19:28:18 UTC 2012
+Comment-Type:	comment
+Parent-Id:	4709428
+
+I've seen a lot written about the how of SecureBoot but is there a good summary
+of the why's. I'm still deeply skeptical that this is part of Microsoft's plan
+to eventually transform the PC architecture into something console-like.
+
+They've already de-facto achieved that by not mandating that custom OS's can be
+booted on Windows 8 supporting ARM devices, and between them and pressure from
+content owners wanting complicit OS's that don't run applications that do
+things they don't like I can only see that sort of thing progressing in the
+future.

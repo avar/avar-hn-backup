@@ -1,0 +1,14 @@
+Comment-Id:	2079777
+Comment-Author:	avar
+Comment-Date:	Fri Jan  7 15:32:20 UTC 2011
+Comment-Type:	comment
+Parent-Id:	2079755
+
+I'm a developer and I never use the ins/home/pgup/del/end/pgdn keys. I use the
+equivalent readline and Emacs keybindings for those.
+
+I develop on Debian running on a MacBook Pro. Sometimes the screen size bothers
+me, but the laptop being bigger would probably inconvenience me more.
+
+I might be an unusual case, but perhaps what you imagine the market for
+developers to be isn't the actual market for developers.

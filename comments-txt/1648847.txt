@@ -1,0 +1,16 @@
+Comment-Id:	1648847
+Comment-Author:	avar
+Comment-Date:	Tue Aug 31 09:08:05 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1648490
+
+It's very nice to see Facebook open up a lot of its infrastructure. They're
+doing a lot better in that area than Google, which usually doesn't do that.
+
+However they still have a long way to go in embracing open development. Last I
+checked most of the projects on http://github.com/facebook (including HipHop)
+were still mostly regular code dumps, not something being developed on GitHub.
+
+They still seem to mostly use internal source control and bug trackers. Which
+makes it much harder for others to contribute to their projects, and for them
+to get the full benefits of opening up.

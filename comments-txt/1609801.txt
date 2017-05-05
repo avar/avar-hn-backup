@@ -1,0 +1,12 @@
+Comment-Id:	1609801
+Comment-Author:	avar
+Comment-Date:	Tue Aug 17 00:22:38 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1609775
+
+Yes, first-connection security is not an option. But the vast majority of
+connections are not first connections.
+
+If I ssh to a new box at home, then go to Usenix and ssh warns me that the host
+key changed I'll have protected against MitM attacks, even if the original
+connection wasn't authenticated.

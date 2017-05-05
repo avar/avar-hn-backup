@@ -1,0 +1,8 @@
+Comment-Id:	1766228
+Comment-Author:	avar
+Comment-Date:	Wed Oct  6 23:09:35 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1765910
+
+Today's discussion about the clang 2.8 release: http://news.ycombinator.com/
+item?id=1762335

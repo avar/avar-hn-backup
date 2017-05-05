@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1500571,
+  "kids" : [ 1500815 ],
+  "parent" : 1500472,
+  "text" : "They Reykjavík municipal government headed by The Best Party is using a web application to solicit ideas: <a href=\"http://betrireykjavik.is\" rel=\"nofollow\">http://betrireykjavik.is</a>.<p>The source is up on GitHub: <a href=\"http://github.com/rbjarnason/open-direct-democracy\" rel=\"nofollow\">http://github.com/rbjarnason/open-direct-democracy</a><p>It's not perfect, but it's a step in the right direction. You can vote things up or down, make arguments for and against proposals etc.",
+  "time" : 1278683479,
+  "type" : "comment"
+}

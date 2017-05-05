@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 1603278,
+  "parent" : 1603073,
+  "text" : "It doesn't just have it for backwards compatibility, it's still a very useful feature in some cases:<p><pre><code>    sub foo {\n        local $ENV{HOME} = \"/foo/bar\";\n        Code::I::Don't::Own();\n    }\n    foo();\n</code></pre>\nHaving dynamic scope here ensures that the foreign code will use the environment I want without me having to alter it.",
+  "time" : 1281789105,
+  "type" : "comment"
+}

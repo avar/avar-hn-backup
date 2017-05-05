@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1610511,
+  "kids" : [ 1619200 ],
+  "parent" : 1610466,
+  "text" : "Tcpcrypt is aimed at passive attacks. Not everyone who has the power to listen in and perform a passive attack can modify the traffic and execute an active attack.<p>Even when you can do an active attack it's not trivial in practice. The user my get suspicious if they've previously been able to initiate a tcpcrypt connection but can't do so now, and if you do this on a big scale (e.g. government sanctioned sniffing at an ISP) you'll probably be found out.",
+  "time" : 1282030240,
+  "type" : "comment"
+}

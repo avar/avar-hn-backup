@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 1771949,
+  "parent" : 1771877,
+  "text" : "That document looks out of date:<p><pre><code>    All pushing and pulling of private data\n    is done over SSH authenticated with keys,\n    not passwords.\n</code></pre>\nSurely that isn't true anymore, since they've now added the ability to pull/push your repositories over https. Which requires you to supply your GitHub password to your client.",
+  "time" : 1286551623,
+  "type" : "comment"
+}

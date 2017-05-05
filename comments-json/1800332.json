@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1800332,
+  "kids" : [ 1800396, 1800363 ],
+  "parent" : 1800220,
+  "text" : "You're right about one thing. That is very unscientific. You're mainly testing your file system cache, not these programming language implementations.<p>E.g. perl(1) is faster than ruby(1) at printing \"Hello, world!\". But since you presumably had ruby hot in cache and not perl the latter seems to be almost 4 times as slow.<p>Here's a better benchmark, which runs each of these 500 times and takes the average: <a href=\"http://gist.github.com/630868\" rel=\"nofollow\">http://gist.github.com/630868</a><p>Which yields these results:<p><pre><code>               Rate clojure   php emacs python  ruby   js perl  awk  lua shell     C\n    clojure 0.844/s      --  -97%  -97%   -98%  -99% -99% -99% -99% -99%  -99% -100%\n    php      24.6/s   2812%    --   -2%   -43%  -75% -76% -78% -82% -82%  -84%  -89%\n    emacs    25.2/s   2882%    2%    --   -41%  -74% -75% -78% -81% -82%  -84%  -88%\n    python   43.0/s   4995%   75%   71%     --  -56% -58% -62% -68% -69%  -72%  -80%\n    ruby     96.7/s  11361%  294%  284%   125%    --  -5% -15% -28% -29%  -38%  -55%\n    js        101/s  11919%  313%  303%   136%    5%   -- -11% -24% -26%  -35%  -53%\n    perl      114/s  13397%  364%  353%   165%   18%  12%   -- -15% -17%  -27%  -47%\n    awk       134/s  15743%  444%  431%   211%   38%  32%  17%   --  -2%  -14%  -38%\n    lua       137/s  16134%  458%  444%   219%   42%  35%  20%   2%   --  -12%  -36%\n    shell     156/s  18359%  534%  519%   262%   61%  54%  37%  17%  14%    --  -28%\n    C         216/s  25440%  777%  756%   401%  123% 113%  89%  61%  57%   38%    --\n</code></pre>\nUpdate: Added a C program and ran the shell program in a sub-shell (since perl's system function preloads a shell). Didn't add silentbicycle's SWI Prolog and OCaml since he didn't provide the source.",
+  "time" : 1287324334,
+  "type" : "comment"
+}

@@ -1,0 +1,9 @@
+Comment-Id:	3726342
+Comment-Author:	avar
+Comment-Date:	Mon Mar 19 21:30:48 UTC 2012
+Comment-Type:	comment
+Parent-Id:	3726059
+
+How usable is it if you don't own any computer running either Mac OS X or
+Windows? Doesn't it still need iTunes to upgrade itself etc, or can you buy it
+as a stand-alone computer for casual browsing and games?

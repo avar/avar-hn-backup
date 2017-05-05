@@ -1,0 +1,24 @@
+Comment-Id:	2594386
+Comment-Author:	avar
+Comment-Date:	Sat May 28 13:06:44 UTC 2011
+Comment-Type:	comment
+Parent-Id:	2594083
+
+It's interesting that their entire release architecture seems to be focused on
+never pushing bad things out to production, whereas given their traffic they
+could probably push things out much sooner (minutes after they're committed) to
+small parts of their overall traffic, and slowly increase the traffic on those
+pieces of code as they prove themselves to be stable, or quickly revert them if
+they're not.
+
+That would mean having a lot of versions of Facebook live at any one point, but
+as those parts prove themselves stable they'd gradually be rolled out to all of
+their traffic.
+
+One point that also wasn't covered is that as they're pushing things out
+they'll only cherry-pick parts of their codebase depending on which engineers
+they have around. I wonder if they have a lot of hairy merge conflicts around
+release time due to that, and bugs in production resulting purely from those
+merge conflicts. Or worse, subtle bugs resulting in change A going out, but
+being programmed against a function that was changed in change B, which is not
+going out because the author of change B isn't in today.

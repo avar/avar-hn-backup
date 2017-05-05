@@ -1,0 +1,13 @@
+Comment-Id:	2597645
+Comment-Author:	avar
+Comment-Date:	Sun May 29 21:26:36 UTC 2011
+Comment-Type:	comment
+Parent-Id:	2597640
+
+Doesn't PostgreSQL support something like:
+
+    RENAME TABLE current TO current_old,
+                 current_new TO current;
+
+Which is the common pattern of atomically swapping out tables in MySQL with
+zero downtime.

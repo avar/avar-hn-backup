@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 1568022,
+  "parent" : 1566759,
+  "text" : "You can easily install bash on your BSD. But I get your point about writing POSIX compatible code.<p>I'll declare a bash dependency in the shebang if I've only tested the script on bash. Requiring bash is better than having the script fail on some non-POSIX thing that I wasn't aware of.<p>Linux distributions are getting a lot better in this department these days though, with dash being the default Debian/Ubuntu shell.",
+  "time" : 1280765724,
+  "type" : "comment"
+}

@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 1712048,
+  "parent" : 1710989,
+  "text" : "I patched it to support generation on 64 bit systems: <a href=\"http://github.com/martine/bloat/issues#issue/1\" rel=\"nofollow\">http://github.com/martine/bloat/issues#issue/1</a>",
+  "time" : 1285064224,
+  "type" : "comment"
+}

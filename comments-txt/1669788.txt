@@ -1,0 +1,12 @@
+Comment-Id:	1669788
+Comment-Author:	avar
+Comment-Date:	Tue Sep  7 19:12:19 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1669757
+
+I think I'm correct in saying that the light isn't attracted to the mass, but
+the mass bends spacetime around it, so the path of everything traveling through
+that medium is bent, including the paths of photons.
+
+This effect causis gravitational lensing: http://en.wikipedia.org/wiki/
+Gravitational_lens

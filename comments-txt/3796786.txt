@@ -1,0 +1,21 @@
+Comment-Id:	3796786
+Comment-Author:	avar
+Comment-Date:	Wed Apr  4 09:16:09 UTC 2012
+Comment-Type:	comment
+Parent-Id:	3795794
+
+Indeed, one of the main advantages of having the primary key indicate the
+layout of your data on disk is that you can optimize access to your data for
+the least amount of filesystem page cache misses by making the primary key be
+the column (or combinations of columns) that you know you're going to have
+predictable batch access to.
+
+Benchmarking that can be tricky for the same reason that benchmarking anything
+that reduces cache expiration can be tricky. If you reduce cache expiration
+your query might not benifit, but if you take a holistic approach to it and
+apply it to the whole database it'll benefit as a whole.
+
+Any big MySQL powered application is likely to make wide use of this. Which
+goes to show that doing any benchmark comparisons between databases is often
+meaningless. You can't benchmark the same schema/queries between databases
+because they'll be optimized for the database you started out with.

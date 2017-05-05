@@ -1,0 +1,37 @@
+Comment-Id:	1519094
+Comment-Author:	avar
+Comment-Date:	Thu Jul 15 20:39:26 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1518754
+
+For some historical context: The debate over whether using the publicly
+advertised functions of a GPL library makes your code GPL too is an old one,
+the best and early example of this was the CLISP v.s. FSF debate, which the FSF
+won: http://clisp.cvs.sourceforge.net/viewvc/clisp/clisp/doc/Why-... in
+particular Stallman said:
+
+    I say this [that using the readline API makes your code GPL too]
+    based on discussions I had with our lawyer long ago.  The issue
+    first arose when NeXT proposed to distribute a modified GCC in two
+    parts and let the user link them.  Jobs asked me whether this was
+    lawful.  It seemed to me at the time that it was, following
+    reasoning like what you are using; but since the result was very
+    undesirable for free software, I said I would have to ask the
+    lawyer.
+
+    What the lawyer said surprised me; he said that judges would
+    consider such schemes to be "subterfuges" and would be very harsh
+    toward them.  He said a judge would ask whether it is "really" one
+    program, rather than how it is labeled.
+
+Later, Linux under the direction of Linus Torvalds did the opposite the other
+way by looking the other way when nVIDIA and others distributed binary blobs
+that directly interfaced with the kernel. Some people now point to this as an
+example of why this sort of thing is just fine by the GPL, but in fact it's a
+very grey area. It's likely that if the Linux kernel had been run by the FSF
+that nVIDIA's actions would have resulted in a lawsuit.
+
+However, as pointed out by others this doesn't appear to be a case of using a
+public GPL API at all, but rather case of code being copied. See http://
+drewblas.com/2010/07/15/an-analysis-of-gpled-code-in-... specifically this
+comparison: http://drewblas.files.wordpress.com/2010/07/diff.png

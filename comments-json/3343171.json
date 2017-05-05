@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 3343171,
+  "parent" : 3342288,
+  "text" : "If you need portability you should write your script in POSIX shellscript, not Bash shellscript.",
+  "time" : 1323688075,
+  "type" : "comment"
+}

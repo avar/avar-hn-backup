@@ -1,0 +1,9 @@
+Comment-Id:	1648872
+Comment-Author:	avar
+Comment-Date:	Tue Aug 31 09:20:45 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1648507
+
+In the presentation they say that it's partially based on what E-Mails you
+read. So they're tracking more than just the information in your inbox, they're
+also considering how you use your inbox through the GMail web interface.

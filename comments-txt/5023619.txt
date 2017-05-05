@@ -1,0 +1,11 @@
+Comment-Id:	5023619
+Comment-Author:	avar
+Comment-Date:	Mon Jan  7 22:21:30 UTC 2013
+Comment-Type:	comment
+Parent-Id:	5022855
+
+If they allow DNS out you can use their Internet for free via iodine: http://
+code.kryo.se/iodine/
+
+I run an iodine server for myself, you can get free Internet at quite a few
+loginpage WiFi routers with it in airports, cafes etc.

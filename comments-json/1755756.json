@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1755756,
+  "kids" : [ 1755775 ],
+  "parent" : 1755717,
+  "text" : "For those without *.crx for Chrome association you can launch Chrome with this parameter:<p><pre><code>    --load-extension=/home/avar/g/sight/\n</code></pre>\nAfter having cloned sight.git into ~avar/g/ obviously. And as a suggestion to the author: Getting it into the Google Chrome Extension listing would make this even easier.<p>Edit: Just read <a href=\"http://twitter.com/tsenart/status/26366227841\" rel=\"nofollow\">http://twitter.com/tsenart/status/26366227841</a> that sucks, Google.",
+  "time" : 1286203226,
+  "type" : "comment"
+}

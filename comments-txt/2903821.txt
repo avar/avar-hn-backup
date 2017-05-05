@@ -1,0 +1,9 @@
+Comment-Id:	2903821
+Comment-Author:	avar
+Comment-Date:	Fri Aug 19 16:04:42 UTC 2011
+Comment-Type:	comment
+Parent-Id:	2903635
+
+Your notion about bees cooperating isn't the accepted view in modern biology.
+The Selfish Gene does a good job of explaining why this isn't the case, there's
+a lot of competition going on within a bee hive.

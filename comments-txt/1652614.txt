@@ -1,0 +1,20 @@
+Comment-Id:	1652614
+Comment-Author:	avar
+Comment-Date:	Wed Sep  1 12:55:50 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1652466
+
+What exactly about this suggestion for colonizing Mars has been falling on
+"deaf" ears, who's been suggesting that we "improve [the] environment by force"
+on Mars?
+
+The few plans I've seen involve trying to terraform Mars slowly by introducing
+something like genetically modified high-altitude lichen and going from there.
+Of course in the process of doing so we'd use the organisms that work, not
+"force" the things we wish would work.
+
+The challenges of terraforming Mars will be very different than dropping a few
+trees on Ascension Island, which is what the Royal Navy did.
+
+As an aside, I recommend the Mars Trilogy by Kim Stanley Robinson for an
+overview of how Mars might be incrementally terraformed through that method.

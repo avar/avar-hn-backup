@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1610110,
+  "kids" : [ 1610466 ],
+  "parent" : 1610000,
+  "text" : "I'm citing the design aims of Tcpcrypt, from their website.<p>Not everything uses HTTP, a bunch of things like Torrent, IRC etc. use unencrypted protocols by default, and you have to explicitly add support to each one for encryption. Either by adding SSL support to the programs themselves, or by setting up a tunnel.<p>That's not the same as using opportunistic encryption that can happen at the kernel level. You could <i>also</i> do that with SSL to achieve the same aims, but the point is that it's <i>opportunistic</i> and happens without further userspace configuration.",
+  "time" : 1282014443,
+  "type" : "comment"
+}

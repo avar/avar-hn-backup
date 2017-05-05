@@ -1,0 +1,8 @@
+Comment-Id:	1648861
+Comment-Author:	avar
+Comment-Date:	Tue Aug 31 09:15:41 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1648770
+
+They announce this sort of thing as "New Features" in the GMail interface
+itself. So you don't need HN to remind you.

@@ -1,0 +1,66 @@
+Comment-Id:	4261162
+Comment-Author:	avar
+Comment-Date:	Wed Jul 18 15:22:39 UTC 2012
+Comment-Type:	comment
+Parent-Id:	4260964
+
+I wrote this a while ago (July last year) as http://goosegoosego.com whose
+source code is available at https://gist.github.com/1113894
+
+You missed a spot in your handling of bang syntax, DuckDuckGo allows you to use
+either "\", "! " or "!ducky " to find the first result, you don't handle "\".
+
+At the time I also sent Gabriel Weinberg an couple of E-Mails about it saying
+I'd love to have it be made redundant by DuckDuckGo itself, but it's not a
+feature he's interested in pursuing:
+
+    > > > On Sat, Jul 30, 2011 at 6:41 AM, Ævar Arnfjörð Bjarmason <avarab@gmail.com> wrote:
+    > > > I implemented a wrapper around DuckDuckGo and Google and stuck it on
+    > > > goosegoosego.com
+    > > >
+    > > > I got tired of always prefixing my normal queries with "!g", and not
+    > > > having "! " work the way I wanted.
+    > > >
+    > > On Sat, Jul 30, 2011 at 12:47, Gabriel Weinberg <yegg@duckduckgo.com> wrote:
+    > > > Hah, nice :)
+    > > > Gabriel, http://ye.gg/
+    >
+    > Needless to say I'd be delighted if some option to duckduckgo.com
+    > would make this redundant.
+    >
+    > One flaw in it is that if you e.g. search for "!mysql" it'll redirect
+    > to duck-duck-go, which'll do a "site:mysql.com" search an DDG.
+    >
+    > I'd like it to do a "site:" search on Google instead, but that would
+    > require me to compile a list of all the bang operators that result in
+    > site: queries, which would make the code a bit more complex than it
+    > currently is.
+    >
+    > It would be great if you could pass some GET parameter to DDG to make
+    > it emulate GooseGooseGo's behavior, e.g.:
+    >
+    >     http://duckduckgo.com/?dse=google&q=foobar
+    >
+    > dse = Default Search Engine.
+    >
+    > Then you could also make it prefer Bing, Yahoo etc.
+
+    Duly noted, but not sure about doing that. Alternatively, you can
+    use the 0-click api at http://api.duckduckgo.com/, which returns
+    bang redirects and then you can just do a substitution if you see
+    that.
+
+    Gabriel, http://ye.gg/
+
+So handling stuff like !mysql is certainly something you could expand upon if
+you want to make this more complete, I was just interested in making mine as
+minimal as possible, so it's a simple standalone script.
+
+Also, to anyone using DuckDuckGoog or my GooseGooseGo you should be aware that
+you're trusting some (other) random dudes on the internet with your searches, I
+don't log anything with GooseGooseGo (no access or error logs), but you only
+have my word for that.
+
+You can expose some sensitive information via your searches, and that's a
+reason why many people use DuckDuckGo in the first place even though their
+results aren't always up to par with Google's.

@@ -1,0 +1,22 @@
+Comment-Id:	1603280
+Comment-Author:	avar
+Comment-Date:	Sat Aug 14 12:36:06 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1603100
+
+Ruby got its flip-flop operator from Perl, which in turn got it from sed and
+awk. It can be really useful for keeping simple state, e.g.:
+
+    # parse mail messages
+    while (<$email>) {
+        $in_header =   1  .. /^$/;
+        $in_body   = /^$/ .. eof;
+        if ($in_header) {
+            # do something
+        } else { # in body
+            # do something else
+        }
+    }
+
+
+And other examples at http://perldoc.perl.org/perlop.html#Range-Operators

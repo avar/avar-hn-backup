@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1569755,
+  "kids" : [ 1570159 ],
+  "parent" : 1568344,
+  "text" : "You wrote a compiler in Common Lisp that auto-generates COBOL and your co-workers haven't noticed this?",
+  "time" : 1280798791,
+  "type" : "comment"
+}

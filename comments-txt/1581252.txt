@@ -1,0 +1,17 @@
+Comment-Id:	1581252
+Comment-Author:	avar
+Comment-Date:	Fri Aug  6 15:21:24 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1581104
+
+There's also a version of this up on the Debian website: http://www.debian.org/
+News/2010/20100806
+
+One very interesting thing about this release is the introduction of Debian GNU
+/kFreeBSD. I've been running it in a VirtualBox, and while it has some bugs
+it's also a wonderful addition to Debian. They've just recently got the
+userspace ZFS tools working on a FreeBSD 8.1 kernel running a GNU userland and
+a GNU C library.
+
+We're heading for a brave new world where the kernel is just another package,
+not some immutable part of the whole system.

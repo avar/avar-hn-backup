@@ -1,0 +1,8 @@
+Comment-Id:	1646108
+Comment-Author:	avar
+Comment-Date:	Mon Aug 30 13:19:32 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1646101
+
+"This video contains content from WMG. It is no longer available in your
+country."

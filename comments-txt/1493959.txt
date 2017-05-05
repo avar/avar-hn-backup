@@ -1,0 +1,12 @@
+Comment-Id:	1493959
+Comment-Author:	avar
+Comment-Date:	Wed Jul  7 12:26:23 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1493396
+
+Since the HTTP mirrors warp and cicada put up are getting hammered I've made a
+Torrent of Don-Knuth.mp4:
+
+http://v.nix.is/~leech/Don-Knuth.mp4.torrent
+
+It's using the OpenBitTorrent tracker. Please seed it.

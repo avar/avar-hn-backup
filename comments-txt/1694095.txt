@@ -1,0 +1,12 @@
+Comment-Id:	1694095
+Comment-Author:	avar
+Comment-Date:	Wed Sep 15 13:08:50 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1693949
+
+At least Google has a policy of you owning your data, and of making it easy to
+grab all your data so you can move to other services.
+
+So if they ran something like Facebook it would be much easier to compete with
+them outside of their ecosystem, unlike Facebook which tries to dominate all
+data submitted into their system.

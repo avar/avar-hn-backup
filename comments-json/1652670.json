@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 1652670,
+  "parent" : 1652586,
+  "text" : "I wrote this little shellscript to backup all my Git repositories on GitHub: <a href=\"http://github.com/avar/github-backup\" rel=\"nofollow\">http://github.com/avar/github-backup</a><p>It runs in cron and backs up all my data daily.",
+  "time" : 1283347009,
+  "type" : "comment"
+}

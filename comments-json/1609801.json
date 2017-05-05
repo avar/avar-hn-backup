@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1609801,
+  "kids" : [ 1609834 ],
+  "parent" : 1609775,
+  "text" : "Yes, first-connection security is not an option. But the vast majority of connections are not first connections.<p>If I ssh to a new box at home, then go to Usenix and ssh warns me that the host key changed I'll have protected against MitM attacks, even if the original connection wasn't authenticated.",
+  "time" : 1282004558,
+  "type" : "comment"
+}

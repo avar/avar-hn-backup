@@ -1,0 +1,7 @@
+Comment-Id:	1574713
+Comment-Author:	avar
+Comment-Date:	Wed Aug  4 15:33:54 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1574454
+
+That thing is really creepy if you do a git-rebase with a lot of commits.

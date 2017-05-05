@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 2773353,
+  "kids" : [ 2773366, 2774220, 2773967, 2773597, 2773411 ],
+  "parent" : 2773093,
+  "text" : "This would be even more fantastic if it could generate slides from something like Markdown instead of having you write HTML manually.",
+  "time" : 1310913109,
+  "type" : "comment"
+}

@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1569846,
+  "kids" : [ 1569940 ],
+  "parent" : 1569812,
+  "text" : "You can run FreeBSD on Linode as of FreeBSD 8.*. It can run in domU now.",
+  "time" : 1280801367,
+  "type" : "comment"
+}

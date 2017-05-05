@@ -1,0 +1,15 @@
+Comment-Id:	1535634
+Comment-Author:	avar
+Comment-Date:	Wed Jul 21 16:29:14 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1535336
+
+The problem is that ARM is a licensable architecture, so there are lots of
+minor variations in sub-architectures.
+
+The companies maintaining these have no motivation to consider the problem of
+maintaining /all/ of these, they're happy to basically copy/paste some other
+code until their CPU work.
+
+Linus is saying that that's not going to work anymore, that they're going to
+have to come up with a way to consolidate their codebases.

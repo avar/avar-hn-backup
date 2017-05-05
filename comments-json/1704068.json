@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1704068,
+  "kids" : [ 1704419, 1704134 ],
+  "parent" : 1704045,
+  "text" : "I think you need to teach these things at an early age, and teaching \"algorithmic principles\" while sound in theory is probably also a good way to make an entire class of children ignore you completely.<p>The best way to teach people procedural awareness is probably to teach people to tinker with something they can start using right away.<p>Things like automatically programming your phone to reply to your parents via SMS with some plausible responses when you're out drinking, use the Facebook API to get info about your friends that they thought wasn't accessible etc. Show how you can use rtmpdump to download your favorite music from some closed video site, or write a script for uTorrent that'll have downloaded your favorite TV episode by the time you wake up.<p>The most important thing is to show people that procedural awareness will be worthwhile for them in their everyday life. It's easy to demonstrate that, and it's actually true for most people, unlike other some other subjects at school which'll probably never be pertinent to the average student.",
+  "time" : 1284809024,
+  "type" : "comment"
+}

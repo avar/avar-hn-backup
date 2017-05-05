@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1609825,
+  "kids" : [ 1609839 ],
+  "parent" : 1609753,
+  "text" : "The point is to upgrade the connections that are unencrypted <i>now</i> to use encryption. A MitM can only insert his own data into your dialog, he can't passively eavesdrop on an existing encrypted connection.",
+  "time" : 1282005313,
+  "type" : "comment"
+}

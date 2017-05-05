@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 5667904,
+  "kids" : [ 5668026, 5672446, 5668293 ],
+  "parent" : 5667659,
+  "text" : "I haven't given this more than a cursory look, but I love how the body message for the commit that seemingly introduced this flaw is \"No functional changes.\": <a href=\"https://github.com/git-mirror/nginx/commit/8a3f6ce\" rel=\"nofollow\">https://github.com/git-mirror/nginx/commit/8a3f6ce</a><p>Found with:<p><pre><code>    git log --full-diff --reverse release-1.3.8.. -p src/http/ngx_http_parse.c</code></pre>",
+  "time" : 1367932105,
+  "type" : "comment"
+}

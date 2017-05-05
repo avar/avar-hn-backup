@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 1617756,
+  "parent" : 1617590,
+  "text" : "It just appears to be a fancy-pants way of creating branches for you. Plenty of projects (e.g. Git itself) use a similar development model without using git-flow.",
+  "time" : 1282234637,
+  "type" : "comment"
+}

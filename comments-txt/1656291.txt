@@ -1,0 +1,12 @@
+Comment-Id:	1656291
+Comment-Author:	avar
+Comment-Date:	Thu Sep  2 14:49:53 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1656034
+
+While the Sikorsky X2 might have some niche uses rescue missions probably
+aren't one of them. It's tiny. A tiltrotor[1] aircraft like the V-22 Osprey
+seems a much better fit if you need to get there fast and do something
+meaningful like rescue work.
+
+1. https://secure.wikimedia.org/wikipedia/en/wiki/Tiltrotor

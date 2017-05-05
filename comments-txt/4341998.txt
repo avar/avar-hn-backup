@@ -1,0 +1,14 @@
+Comment-Id:	4341998
+Comment-Author:	avar
+Comment-Date:	Sun Aug  5 17:31:37 UTC 2012
+Comment-Type:	comment
+Parent-Id:	4341963
+
+Well that's about as far from a valid analogy as you're likely to get. Rebecca
+Black's "Friday" is the entire work, and if you told any high school student
+"write me a song" they'd probably never come up with that exact song.
+
+But something like the rangeCheck function is what you'd get if you asked a
+junior programmer "before you're going to access that datastructure make sure
+your within its range". Furthermore it's a completely irrelevant part of
+Android as a whole which gave Google no competitive advantage whatsoever.

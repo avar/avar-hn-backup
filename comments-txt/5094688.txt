@@ -1,0 +1,11 @@
+Comment-Id:	5094688
+Comment-Author:	avar
+Comment-Date:	Tue Jan 22 00:30:28 UTC 2013
+Comment-Type:	comment
+Parent-Id:	5094657
+
+Define "up there". Space junk is only an issue because it's in the wrong orbit,
+regardless of how cheap their hardware is they can avoid it becoming an issue
+by inserting it into an appropriate orbit where it'll burn up or be directed
+away from the Earth. As I understand it in the long term they aren't going to
+be doing much in LEO anyway where space junk is an issue.

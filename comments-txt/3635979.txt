@@ -1,0 +1,11 @@
+Comment-Id:	3635979
+Comment-Author:	avar
+Comment-Date:	Sun Feb 26 16:43:34 UTC 2012
+Comment-Type:	comment
+Parent-Id:	3635954
+
+What do you mean it doesn't work? ">file" will work on all POSIX shells, it
+even works on Solaris /bin/sh!
+
+Also ":>" is not an operator, it's ":" (a built-in command that does nothing
+and returns true) and a redirection.

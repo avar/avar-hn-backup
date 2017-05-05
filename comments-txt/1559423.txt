@@ -1,0 +1,12 @@
+Comment-Id:	1559423
+Comment-Author:	avar
+Comment-Date:	Thu Jul 29 21:59:58 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1559401
+
+Indeed, there aren't any manufacturing costs. So under a free software model
+you'd have to make money by continuing to make improved versions under
+contract, or offering support, hosting or other things like that.
+
+A lot of people are doing this sort of thing already, so you can make a living
+off it.

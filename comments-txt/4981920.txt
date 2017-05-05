@@ -1,0 +1,9 @@
+Comment-Id:	4981920
+Comment-Author:	avar
+Comment-Date:	Sat Dec 29 12:40:57 UTC 2012
+Comment-Type:	comment
+Parent-Id:	4981376
+
+A comparison between msgpack and Sereal and other formats. Sereal is a format
+we released at work a few months ago: http://blog.booking.com/
+sereal-a-binary-data-serialization-f...

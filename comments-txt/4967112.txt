@@ -1,0 +1,10 @@
+Comment-Id:	4967112
+Comment-Author:	avar
+Comment-Date:	Tue Dec 25 21:08:57 UTC 2012
+Comment-Type:	comment
+Parent-Id:	4967086
+
+Sending them over is not. It's allowed under the PCI standards to send credit
+card numbers unencrypted via the fax system. I believe it's then up to the
+receiver of the fax to physically secure it. But I'm not overly familiar with
+these standards.

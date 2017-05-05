@@ -1,0 +1,40 @@
+Comment-Id:	1763752
+Comment-Author:	avar
+Comment-Date:	Wed Oct  6 13:14:04 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1763678
+
+Just FYI: The reason they're using gcc-4.2 comparisons is that Apple employees
+are banned from using GPLv3 software. E.g. if you report a bug to them that
+requires checking out a newer version of GCC they'll just shrug and say "sorry,
+but we can't try it out".
+
+Oh, and the diagnostics are much better, and not just because they're in color.
+Consider e.g. this program:
+
+    #include <stdio.h>
+
+    int main(void)
+    {
+        printf("hello %d", "world");
+        return 0;
+    }
+
+GCC will give you:
+
+    hello.c: In function ‘main’:
+    hello.c:5: warning: format ‘%d’ expects type ‘int’, but argument 2 has type ‘char *’
+
+While clang gives you:
+
+    hello.c:5:20: warning: conversion specifies type 'int' but the argument has type 'char *' [-Wformat]
+        printf("hello %d", "world");
+                      ~^   ~~~~~~~
+
+Clang tells you not only the line that had the error but also the column, then
+it higlights the %d format argument, and shows you which argument you gave
+doesn't fit with it.
+
+Pretty much all of its diagnostics messages are like that. While you sometimes
+have to stare at code for 5-10 seconds to see what GCC is complaining about
+clang will tell you exactly what the problem is.

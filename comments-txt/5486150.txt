@@ -1,0 +1,12 @@
+Comment-Id:	5486150
+Comment-Author:	avar
+Comment-Date:	Wed Apr  3 14:16:17 UTC 2013
+Comment-Type:	comment
+Parent-Id:	5485415
+
+I reccomend you read the "How Doctors Die" article and comments posted here a
+while ago: https://news.ycombinator.com/item?id=5104430
+
+Going through chemo isn't free of suffering. And in cases like Iain's it's
+often a question of having a "normal" 6 months of life or a miserable 8 months
+via chemotherapy.

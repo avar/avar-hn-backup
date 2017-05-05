@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 2079777,
+  "kids" : [ 2080805, 2080496 ],
+  "parent" : 2079755,
+  "text" : "I'm a developer and I never use the ins/home/pgup/del/end/pgdn keys. I use the equivalent readline and Emacs keybindings for those.<p>I develop on Debian running on a MacBook Pro. Sometimes the screen size bothers me, but the laptop being bigger would probably inconvenience me more.<p>I might be an unusual case, but perhaps what you imagine the market for developers to be isn't the actual market for developers.",
+  "time" : 1294414340,
+  "type" : "comment"
+}

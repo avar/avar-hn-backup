@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1609987,
+  "kids" : [ 1610000 ],
+  "parent" : 1609946,
+  "text" : "Yes, and if we meet and exchange one-time pads we'll be even more secure.<p>However neither that nor TLS \"work out of the box: require no configuration, [and] no changes to applications\".",
+  "time" : 1282010689,
+  "type" : "comment"
+}

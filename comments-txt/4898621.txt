@@ -1,0 +1,10 @@
+Comment-Id:	4898621
+Comment-Author:	avar
+Comment-Date:	Mon Dec 10 11:55:34 UTC 2012
+Comment-Type:	comment
+Parent-Id:	4898578
+
+It's very unlikely that Google would have a bug that affects only this specific
+company, posts like these are valuable because they bring wider attention to
+the issue so other Google Calendar users can see if something is up with their
+calendars.

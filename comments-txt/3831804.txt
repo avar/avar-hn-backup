@@ -1,0 +1,8 @@
+Comment-Id:	3831804
+Comment-Author:	avar
+Comment-Date:	Thu Apr 12 10:47:15 UTC 2012
+Comment-Type:	comment
+Parent-Id:	3831759
+
+Why wouldn't you consider ElasticSearch to be an "actually good search product"
+?

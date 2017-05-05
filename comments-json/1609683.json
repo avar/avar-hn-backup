@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1609683,
+  "kids" : [ 1609696, 1619233 ],
+  "parent" : 1609636,
+  "text" : "Just because you don't have signed certificates you can still protect against MitM attacks. Your browser just has to remember what the certificate was the first time, and alert you it if changes.<p>Sound familiar? It should, ssh(1) does this by default.",
+  "time" : 1282001599,
+  "type" : "comment"
+}

@@ -1,0 +1,10 @@
+Comment-Id:	1570775
+Comment-Author:	avar
+Comment-Date:	Tue Aug  3 11:27:17 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1570763
+
+It already exists: http://packages.qa.debian.org/i/info2man.html
+
+It's odd that Debian doesn't simply use it instead of creating their own
+bastardized manpages of GNU programs.

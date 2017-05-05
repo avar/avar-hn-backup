@@ -1,0 +1,11 @@
+Comment-Id:	1514873
+Comment-Author:	avar
+Comment-Date:	Wed Jul 14 15:33:27 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1514621
+
+It'll be really interesting to see what Apple does for map data. MapQuest and
+Bing just announced that they'll be using OpenStreetMap.
+
+If Apple goes that route it'll be Google Maps with its walled garden model v.s.
+the rest supporting an open source project.

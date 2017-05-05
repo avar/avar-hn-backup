@@ -1,0 +1,13 @@
+Comment-Id:	4599690
+Comment-Author:	avar
+Comment-Date:	Mon Oct  1 22:31:29 UTC 2012
+Comment-Type:	comment
+Parent-Id:	4599340
+
+I think you're being overly generous in ascribing the intentions of an entire
+company on this.
+
+Most likely the real reason behind this is that some programmer in their employ
+who didn't know better hammered in "bogusapple.com" as the first thing he could
+come up with, committed it since it worked for him, and now a lot of people are
+trying to ascribe more complex intentions to Apple than that.

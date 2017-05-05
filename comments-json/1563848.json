@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1563848,
+  "kids" : [ 1564115 ],
+  "parent" : 1560096,
+  "text" : "This doesn't really address your main point, but GNOME is part of the GNU project. Which means that most of the both the GUI and command-line UI on e.g. Ubuntu is in fact GNU software. But obviously less so under KDE.",
+  "time" : 1280590927,
+  "type" : "comment"
+}

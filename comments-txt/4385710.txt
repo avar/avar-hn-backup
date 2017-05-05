@@ -1,0 +1,10 @@
+Comment-Id:	4385710
+Comment-Author:	avar
+Comment-Date:	Wed Aug 15 12:57:21 UTC 2012
+Comment-Type:	comment
+Parent-Id:	4385609
+
+I continue to be amazed at the effort Adobe is going to to make their own
+platform irrelevant. They claim to want to focus on "premium copy-protected
+video" but do they really think that only targeting that to desktop systems
+when mobile adoption is skyrocketing is a good move?

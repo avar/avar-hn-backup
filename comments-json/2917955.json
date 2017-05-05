@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 2917955,
+  "parent" : 2917471,
+  "text" : "Why don't you just shell out to Emacs for the things you need?<p>E.g. I have a Git repository that hosts an Org-mode file, when you push to it emacs is invoked on the server and converts the file to a HTML file that serves as a shared TODO / Bug list.<p>You don't have to use Emacs for everything to use Org, just have it export the data you need from the text you're editing in your $EDITOR of choice.",
+  "time" : 1314126730,
+  "type" : "comment"
+}

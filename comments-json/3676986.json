@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 3676986,
+  "kids" : [ 3677055, 3677025, 3677469, 3677407 ],
+  "parent" : 3676471,
+  "text" : "Correct me if I'm wrong but the nature of the vulnerability was that someone who's <i>not</i> you had to submit a page with certain POST variables they could have determined after the fact to be malicious while logged in.<p>So the fact that they're sending out this E-Mail tells us that they either don't keep logs on requests + POST contents, or that they haven't had the time or inclination to analyze this data if they have it.",
+  "time" : 1331151812,
+  "type" : "comment"
+}

@@ -1,0 +1,12 @@
+Comment-Id:	1697950
+Comment-Author:	avar
+Comment-Date:	Thu Sep 16 14:42:55 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1697906
+
+If you look closer at Google Maps you'll see that the road from Helsinki to
+Hamina goes past several other cities, and it looks like this: http://
+maps.google.com/maps?f=q&source=s_q&hl=en&...
+
+It's hardly some dirt road in the middle of nowhere, so yes, 2 hours is
+probably accurate.

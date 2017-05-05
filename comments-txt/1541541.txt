@@ -1,0 +1,8 @@
+Comment-Id:	1541541
+Comment-Author:	avar
+Comment-Date:	Fri Jul 23 15:57:38 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1541501
+
+Yeah, usually it's really stable. Although the Chrome 6 beta segfaulted on me a
+few days ago on Linux, killing all the chrome processes.

@@ -1,0 +1,12 @@
+Comment-Id:	1589525
+Comment-Author:	avar
+Comment-Date:	Mon Aug  9 21:44:53 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1589402
+
+> [...] Microsoft was (again) caught trying to redefine standards based on
+their own perception of those standards.
+
+Or, more simply and less nefariously. They put a management droid on stage. The
+person answering the questions likely wasn't aware of the nuances in ksh
+implementations. Hey's just the Microsoft equivalent of a used car salesman.

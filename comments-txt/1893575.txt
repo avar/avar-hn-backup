@@ -1,0 +1,7 @@
+Comment-Id:	1893575
+Comment-Author:	avar
+Comment-Date:	Thu Nov 11 11:35:43 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1893438
+
+But only Perl 5.10.1, they didn't upgrade to 5.12.* for some reason.

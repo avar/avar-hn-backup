@@ -1,0 +1,7 @@
+Comment-Id:	1584101
+Comment-Author:	avar
+Comment-Date:	Sat Aug  7 19:10:47 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1583700
+
+Can you send them a password protected .zip file as a workaround?

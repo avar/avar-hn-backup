@@ -1,0 +1,17 @@
+Comment-Id:	4323150
+Comment-Author:	avar
+Comment-Date:	Wed Aug  1 14:48:32 UTC 2012
+Comment-Type:	comment
+Parent-Id:	4323051
+
+I don't work for Apple nor do I have any stake in them, but it can be really
+frustrating when people make assumptions and conclusions about the company you
+work for based on the limited information available to them as outsiders.
+
+Do you really think that some silly advert made by the marketing department at
+Apple has any relevance to whatever the reasons were for the head of CPU design
+for iOS devices had for leaving?
+
+Things might be changing for the worse inside Apple, but taking these two
+datapoints and assuming that something big is going wrong in the company seems
+to be a conclusion that isn't supported by the facts.

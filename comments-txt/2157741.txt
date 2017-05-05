@@ -1,0 +1,13 @@
+Comment-Id:	2157741
+Comment-Author:	avar
+Comment-Date:	Sun Jan 30 09:18:14 UTC 2011
+Comment-Type:	comment
+Parent-Id:	2157448
+
+> The GitHub folks are pretty hardcore!
+
+What gives you that idea? I run several cronjobs that deal with their service,
+and it's down a lot compared to other similar services. My jobs deal with that
+gracefully, but if I wanted to I could easily set up a more reliable service
+than GitHub if my only goal was to host *.git repositories, not have any of the
+other nice things they provide.

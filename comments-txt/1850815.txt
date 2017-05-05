@@ -1,0 +1,9 @@
+Comment-Id:	1850815
+Comment-Author:	avar
+Comment-Date:	Sat Oct 30 13:33:30 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1850553
+
+Ubuntu is already considering switching. Most people don't develop with "GCC in
+mind". They just target it, but now that there's another compiler that compiles
+almost all GCC C out there the cost of switching is very low.

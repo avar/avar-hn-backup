@@ -1,0 +1,13 @@
+Comment-Id:	1491002
+Comment-Author:	avar
+Comment-Date:	Tue Jul  6 14:15:47 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1490052
+
+Both this submarine and the semi-submersibles they had earlier have crews. It'd
+be very interesting if they can develop something completely autonomous. E.g. a
+10 meter tube that navigates by GPS, occasionally surfaces to get its bearings,
+and has enough diesel for a ~5000km ocean voyage.
+
+You could program that to zig-zag across the ocean and land on a beach
+somewhere, where you could extract the cargo, refuel it, and send it back.

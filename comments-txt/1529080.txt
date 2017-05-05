@@ -1,0 +1,9 @@
+Comment-Id:	1529080
+Comment-Author:	avar
+Comment-Date:	Mon Jul 19 16:03:40 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1528328
+
+Isn't the computing power on the ISS almost purely made up of Thinkpad laptops
+running Windows? Will they be running PostgreSQL and Nagios on a Windows
+machine?

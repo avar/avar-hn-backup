@@ -1,0 +1,12 @@
+Comment-Id:	2263742
+Comment-Author:	avar
+Comment-Date:	Fri Feb 25 20:51:36 UTC 2011
+Comment-Type:	comment
+Parent-Id:	2263692
+
+I just checked and I have 2500 contacts just my virtue of using GMail for
+mailing list. I probably care about less than 100 of those.
+
+There's things like contacts for every Debian and CPAN bug I've ever filed,
+contacts for people who change their E-Mail address every day due to using some
+wildcard catch + script to generate them etc.

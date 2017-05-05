@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 1755173,
+  "parent" : 1755076,
+  "text" : "That hasn't been my experience at all. I mostly contribute relatively small patches to programs that I use myself and see an itch that I need to scratch.<p>Sometimes it's really hard to get started, but usually the problem you want to solve is in some fairly isolated subsystem and writing a sane patch only takes an hour or two at most.<p>Of course you sometimes step on someone's toes, but more often than not my patches just get accepted.",
+  "time" : 1286186697,
+  "type" : "comment"
+}

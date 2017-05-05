@@ -1,0 +1,9 @@
+Comment-Id:	1621563
+Comment-Author:	avar
+Comment-Date:	Fri Aug 20 20:43:34 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1621507
+
+Neither of those things is going to work. Grouping all the John Smiths uniquely
+is going to be possible given smart enough algorithms, so is finding out that
+John Smith was called Smith Johnson before his 18th birthday.

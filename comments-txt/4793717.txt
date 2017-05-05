@@ -1,0 +1,8 @@
+Comment-Id:	4793717
+Comment-Author:	avar
+Comment-Date:	Fri Nov 16 13:24:54 UTC 2012
+Comment-Type:	comment
+Parent-Id:	4793422
+
+Generating Bitcoins is CPU or GPU bound. There's a lot of profitable things you
+can do with botnets that don't compete for those resources.

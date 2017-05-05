@@ -1,0 +1,23 @@
+Comment-Id:	1697991
+Comment-Author:	avar
+Comment-Date:	Thu Sep 16 14:51:09 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1697672
+
+Google page about the data center: http://www.google.com/datacenter/hamina/
+
+I can't see it on Google Street View, unless it's that area of tents on the
+map. But I don't see anything that looks like a paper mill there.
+
+Maybe they just dropped the marker in a random location.
+
+Edit: Yes they did, here's an actual Google Maps link: http://maps.google.com/
+maps?t=h&q=60.536944,27.116944 ...
+
+The street view doesn't show the location, just a guarded gate into the area.
+
+Here's a Finnish Wikipedia article about the site (with the coordinates): http:
+//fi.wikipedia.org/wiki/Summan_paperitehdas
+
+And Google Images of the site: http://www.google.fi/images?um=1&tbs=isch:1&sa=1
+&...

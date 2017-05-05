@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1765739,
+  "kids" : [ 1766164 ],
+  "parent" : 1765605,
+  "text" : "I really didn't mean to speculate on whether Facebook would be replaced by something else. Maybe they'll become big enough that nothing will ever replace them.<p>But if something does replace them having an API to export the existing data will be critical to the adoption of the new system.<p>Even if all your friends use Facebook now, having an export API is the difference between them clicking on one link (and \"approve\") to move your data to the new system, and having to start all over again.<p>Lowering the barrier of entry will do a lot to increase competition in this area. Hopefully Facebook will institute meaningful data export policies like Google has done.",
+  "time" : 1286397295,
+  "type" : "comment"
+}

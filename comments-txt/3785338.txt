@@ -1,0 +1,10 @@
+Comment-Id:	3785338
+Comment-Author:	avar
+Comment-Date:	Sun Apr  1 23:00:28 UTC 2012
+Comment-Type:	comment
+Parent-Id:	3784715
+
+I completely agree, it's much better than GNOME 2.x. Another major thing that's
+changed in my workflow is that I never use the menus to find programs anymore,
+it's now much faster to use the built-in search engine to launch applications.
+E.g. launching a terminal is Windows key + typing "Ter" + pressing Enter.

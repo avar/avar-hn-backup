@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 1720752,
+  "parent" : 1719815,
+  "text" : "Even if it does it's a pretty remote possibility that it'll be exploitable if you limit the input to say 100 bytes. Pretty hard to get a Perl or Ruby level program of that size to exploit some memory corruption at the C level.",
+  "time" : 1285267028,
+  "type" : "comment"
+}

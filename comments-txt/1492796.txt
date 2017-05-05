@@ -1,0 +1,9 @@
+Comment-Id:	1492796
+Comment-Author:	avar
+Comment-Date:	Tue Jul  6 23:34:36 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1492761
+
+The Ruby community is probably not interested in dealing with distro packages.
+I.e. having to get people in their forums asking about some ancient Debian
+stable version that's no longer supported.

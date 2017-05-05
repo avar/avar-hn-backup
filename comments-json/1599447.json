@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1599447,
+  "kids" : [ 1599693 ],
+  "parent" : 1599411,
+  "text" : "Wikipedia has branching now in the form of \"approved revisions\", and it has a lot of long standing TODOs like annotate that would be solved by a SCM.<p>The storage backend for articles is its own mini-scm with a revision table + text storage. There's no reason why a Git based backend would be any worse of a fit for a wiki.",
+  "time" : 1281652977,
+  "type" : "comment"
+}

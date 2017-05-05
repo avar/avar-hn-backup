@@ -1,0 +1,12 @@
+Comment-Id:	1720092
+Comment-Author:	avar
+Comment-Date:	Thu Sep 23 16:03:11 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1719396
+
+Another interesting thing about Google Translate is that people sometimes
+successfully troll it by amusing the "submit a better translation" feature,
+which Google ostensibly uses without much checking.
+
+I'd point out an example, but Google's engineers probably read this site, and
+the examples I have are too valuable for my personal amusement to give up :)

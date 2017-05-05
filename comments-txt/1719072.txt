@@ -1,0 +1,23 @@
+Comment-Id:	1719072
+Comment-Author:	avar
+Comment-Date:	Thu Sep 23 09:42:53 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1719044
+
+Because Ruby uses PCRE, but Perl uses its own regex engine which handles cases
+like that a lot better. That pattern is rejected right away by Perl's engine
+because it sees that there isn't another X in that string:
+
+    anchored "X" at 0 floating "X" at 2..2147483647 (checking floating) minlen 3
+    Guessing start of match in sv for REx "X(.+)+X" against "=XX==============================="
+    Found floating substr "X" at offset 2...
+    Contradicts anchored substr "X", trying floating at offset 3...
+    Did not find floating substr "X"...
+    Match rejected by optimizer
+
+
+Changing the pattern to /X(.)X/ will cause Perl to do real work. But it'll
+complete it in 0.003s while Ruby will just hang.
+
+I wrote an article a while back about the differences between PCRE and Perl's
+engine: http://use.perl.org/~avar/journal/33585

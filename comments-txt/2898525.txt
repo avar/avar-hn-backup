@@ -1,0 +1,9 @@
+Comment-Id:	2898525
+Comment-Author:	avar
+Comment-Date:	Thu Aug 18 09:06:45 UTC 2011
+Comment-Type:	comment
+Parent-Id:	2895964
+
+This is a shameless plug, but using !g constantly on DDG led me to write
+GooseGooseGo, a trivial wrapper for DDG you can clone & run on localhost: http:
+//goosegoosego.com

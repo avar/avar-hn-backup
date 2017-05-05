@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 3504235,
+  "kids" : [ 3504537, 3504335 ],
+  "parent" : 3504160,
+  "text" : "This is very nice. Between this and Booking.com's (disclaimer: I work there)  €100,000 donation just over a month ago TPF is really getting on track for having large corporate sponsorship from organizations who recognize how valuable Perl is for their infrastructure.<p>I talked to some of the TPF people at Booking.com's donation event and they expressed desires to have more paid-for developers working on the Perl 5 core, and they're really gearing up as an organization for making that happen.<p>One thing of note for those unfamiliar with the Perl community: Notice how both of these big grants are earmarked for Perl 5 development, not Perl 6 development.<p>By now Perl 6 is viewed as best an interesting research project by organizations using Perl 5 in production.<p>I don't mean that as a comment to detract away from what the Perl 6 developers are doing, but to point out that it's a very different pattern than what's happening with the next generation of Python, Ruby, PHP etc. runtimes.<p>1. <a href=\"http://news.perlfoundation.org/2012/01/bookingcom-sponsors-100000-to.html\" rel=\"nofollow\">http://news.perlfoundation.org/2012/01/bookingcom-sponsors-1...</a>",
+  "time" : 1327402775,
+  "type" : "comment"
+}

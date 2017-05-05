@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 1475977,
+  "parent" : 1475710,
+  "text" : "It certainly has a lot of inertia. But most of its big projects started in the old days are huge monolithic codebases that are starting to lose favor for various reasons. Emacs because not everyone likes the UI (and it's impossible to replace it, unlike other parts), GCC because Clang+LLVM are more modular and reusable, automake because it's a huge and hard to learn mess while newer systems aren't etc.<p>It's also losing some users like Apple and the BSD's due to the GPLv3 switchover.<p>I think that in the long term the GNU project will become increasingly irrelevant due to most of their crown jewels being hard to maintain, and there being political opposition to changing that.",
+  "time" : 1277927777,
+  "type" : "comment"
+}

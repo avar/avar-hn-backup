@@ -1,0 +1,12 @@
+Comment-Id:	1785073
+Comment-Author:	avar
+Comment-Date:	Tue Oct 12 21:39:49 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1784399
+
+Odd to see this on HN now. I took the job with Booking, just finished packing
+and will be flying out to Amsterdam tomorrow. See http://blogs.perl.org/users/
+aevar_arnfjor_bjarmason/2010/10/...
+
+For anyone considering this I can tell you that their whole relocation package
+(including the assistance they give you) is very impressive.

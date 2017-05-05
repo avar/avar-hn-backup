@@ -1,0 +1,13 @@
+Comment-Id:	1507086
+Comment-Author:	avar
+Comment-Date:	Mon Jul 12 07:11:29 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1505909
+
+Yes, but that's assuming that they publish the text as Twain wrote it. If they
+editorialize it enough they'll have produced an original work on top of Twain's
+work.
+
+That'll carry their copyright, and since they keep the original under wraps
+there won't be a public domain version of it until the copyright of the edition
+now being published expires, or someone leaks the original.

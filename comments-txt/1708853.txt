@@ -1,0 +1,7 @@
+Comment-Id:	1708853
+Comment-Author:	avar
+Comment-Date:	Mon Sep 20 14:11:37 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1708751
+
+Yesterday's thread discussing 9.0: http://news.ycombinator.com/item?id=1706030

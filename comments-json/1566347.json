@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 1566347,
+  "parent" : 1565477,
+  "text" : "The App::Cronjob Perl module is great for adding effortless locking to existing programs:<p><pre><code>    @daily cronjob -j some-uid -c '/usr/bin/some-command.sh'</code></pre>",
+  "time" : 1280704739,
+  "type" : "comment"
+}

@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1570856,
+  "kids" : [ 1570892 ],
+  "parent" : 1570446,
+  "text" : "You have to click around to see it, because the default rendering only includes GNU C++, not GNU C.",
+  "time" : 1280837403,
+  "type" : "comment"
+}

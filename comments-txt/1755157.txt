@@ -1,0 +1,11 @@
+Comment-Id:	1755157
+Comment-Author:	avar
+Comment-Date:	Mon Oct  4 09:52:44 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1755146
+
+That's awesome, thanks! Looks like shell access is a $10 one time fee per
+system though (but still reading their policies). So the initial cost would be
+a function of how many systems you want to port to.
+
+Still looks like a great service though.

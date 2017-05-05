@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1774985,
+  "kids" : [ 1775018 ],
+  "parent" : 1774967,
+  "text" : "A good reason to write tests for seemingly trivial code like that is if you're implementing an API that others will use. I've re-factored a class that implemented a public API and been saved by trivial tests that pretty much just tested getters/setters.<p>But there's a time and place for everything. I rarely pass 95% test coverage, the remaining 5% are usually not worth pursuing.",
+  "time" : 1286630789,
+  "type" : "comment"
+}

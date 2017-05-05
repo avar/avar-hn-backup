@@ -1,0 +1,11 @@
+Comment-Id:	1743244
+Comment-Author:	avar
+Comment-Date:	Thu Sep 30 13:51:27 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1743062
+
+> Just think of mechanical and materials fatigue.
+
+If you're able to bring machines that can construct and repair other machines
+from raw materials the limitation becomes how much material and energy you can
+bring with you, not the amount of time you're out there.

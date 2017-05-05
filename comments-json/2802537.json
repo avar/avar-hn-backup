@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 2802537,
+  "kids" : [ 2802679, 2802549 ],
+  "parent" : 2802303,
+  "text" : "I've had a bunch of my valid bug reports closed by Ubuntu. I've switched to Debian, and every one of them is being closed unless I go and reproduce the issue again in later versions of Ubuntu.<p>Some of them are general issues that won't have been fixed in later versions.",
+  "time" : 1311601033,
+  "type" : "comment"
+}

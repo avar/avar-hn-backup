@@ -1,0 +1,9 @@
+Comment-Id:	1617756
+Comment-Author:	avar
+Comment-Date:	Thu Aug 19 16:17:17 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1617590
+
+It just appears to be a fancy-pants way of creating branches for you. Plenty of
+projects (e.g. Git itself) use a similar development model without using
+git-flow.

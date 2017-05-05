@@ -1,0 +1,9 @@
+Comment-Id:	1565193
+Comment-Author:	avar
+Comment-Date:	Sun Aug  1 12:33:33 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1565033
+
+You can avoid that lag if you host your own stealth master and configure the
+Linode DNS servers as slaves. Having your domain distributed is just a NOTIFY
+and an AXFR away.

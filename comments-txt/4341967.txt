@@ -1,0 +1,11 @@
+Comment-Id:	4341967
+Comment-Author:	avar
+Comment-Date:	Sun Aug  5 17:21:05 UTC 2012
+Comment-Type:	comment
+Parent-Id:	4341714
+
+There isn't a misunderstanding, Oracle initially made a lot of other copyright
+and patent claims which were thrown out by the court. Now instead of just
+yielding the case they've fallen back on arguing that they should be awarded
+for the copying of a trivial function that any programmer could have written in
+2 minutes.

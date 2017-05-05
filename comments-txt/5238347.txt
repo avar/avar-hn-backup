@@ -1,0 +1,13 @@
+Comment-Id:	5238347
+Comment-Author:	avar
+Comment-Date:	Mon Feb 18 14:14:42 UTC 2013
+Comment-Type:	comment
+Parent-Id:	5238298
+
+    > One could argue that Opera now are in
+    > more need of 25 years old iOS developers,
+    > that 40+ C++ specialists.
+
+One could, but would one not be assuming that their 20+ years of experience
+wouldn't more than make up for whatever platform-specific skills they'd need to
+train on which could surely be picked up in less than a year?

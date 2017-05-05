@@ -1,0 +1,12 @@
+Comment-Id:	1926081
+Comment-Author:	avar
+Comment-Date:	Sun Nov 21 02:49:31 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1924923
+
+Some projects like Git itself refuse to add editor droppings like ~ and # to
+.gitignore. They consider the .gitignore file to be only for things that the
+build system produces, e.g. *.o and binaries.
+
+If you want to ignore things that your editor adds you should add it in .git/
+info/excludes, not .gitignore.

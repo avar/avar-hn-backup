@@ -1,0 +1,14 @@
+Comment-Id:	4642145
+Comment-Author:	avar
+Comment-Date:	Thu Oct 11 18:50:17 UTC 2012
+Comment-Type:	comment
+Parent-Id:	4642064
+
+You're asserting a lot of things without any specifics to back them up. I've
+been using Linux-based systems for a long time and the quality of the kernel
+has never posed any sort of practical issue for me.
+
+If Linus had chosen a small team and taken his time to do anything I'm sure the
+Linux kernel could have ended up like OpenBSD or similar systems. A very high
+quality OS that takes its time to do everything to the point where users more
+interested in a practical OS would have looked elsewhere.

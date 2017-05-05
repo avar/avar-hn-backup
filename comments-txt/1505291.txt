@@ -1,0 +1,19 @@
+Comment-Id:	1505291
+Comment-Author:	avar
+Comment-Date:	Sun Jul 11 09:58:28 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1505157
+
+This is getting ridiculous. Why doesn't Wikileaks just host all their content
+in a Git repository and use GPG to sign their releases?
+
+Then it would be impossible to take down the site, and anyone could easily spin
+up a mirror.
+
+Instead there's one monolithic distribution site which isn't decoupled from
+their submission network. The site is frequently down during a fundraiser, and
+due to how they run it other people can't easily directly contribute resources
+to run mirrors of the site.
+
+I'm beginning to think that Wikileaks is not as interested in actually getting
+leaks out as it is furthering Julian Assange's personal indispensability.

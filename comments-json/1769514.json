@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1769514,
+  "kids" : [ 1770902 ],
+  "parent" : 1769227,
+  "text" : "You can also use Git's own __git_ps1 from git-completion.bash in either bash or in zsh (see my other comment). Here's an example of it in use: <a href=\"http://github.com/avar/dotfiles/blob/master/.bashrc#L86\" rel=\"nofollow\">http://github.com/avar/dotfiles/blob/master/.bashrc#L86</a><p>It doesn't give you info about whether you have staged files (but maybe it should). But it gives you a bunch of other neat stuff, like whether you're in a git-rebase or git-am operation",
+  "time" : 1286485331,
+  "type" : "comment"
+}

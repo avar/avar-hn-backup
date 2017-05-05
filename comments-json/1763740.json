@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 1763740,
+  "parent" : 1763137,
+  "text" : "Even if you're compiling code that you work on all the time changing a compile flag can invalidate all your ccache files. Having to wait 10 seconds instead of 30 for the new compile to finish can make a big difference when you want to be able to test changes quickly.",
+  "time" : 1286370703,
+  "type" : "comment"
+}

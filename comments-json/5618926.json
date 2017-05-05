@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 5618926,
+  "kids" : [ 5618981, 5618952 ],
+  "parent" : 5617988,
+  "text" : "Does Glass required proprietary binary blobs to be combined with the GPL source like the Nexus devices (pinning you to a narrow range of kernel versions), or is it actually open through and through?",
+  "time" : 1367094062,
+  "type" : "comment"
+}

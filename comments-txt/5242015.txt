@@ -1,0 +1,19 @@
+Comment-Id:	5242015
+Comment-Author:	avar
+Comment-Date:	Tue Feb 19 01:22:50 UTC 2013
+Comment-Type:	comment
+Parent-Id:	5241803
+
+I have a new Dell E6330 which is certified to run with Ubuntu, and came with it
+pre-installed: http://www.ubuntu.com/certification//hardware/201202-10559/
+
+I immediately wiped it to install Debian (I'm not accepting a Dell EULA to run
+Linux) and found that the touchpad wasn't detected as such. Some digging
+revealed that there was a third party patch to linux reverse engineered from
+the Windows driver, not one contributed by Dell.
+
+So it seems that their efforts to upstream code required to run their hardware
+on other distros than the OEM image are non-existant. The Ubuntu image that
+comes with them also possibly contains binarf blobs (didn't check since I
+didn't install it, but the Ubuntu page mentions than only the OEM image is
+certified, not stock Ubuntu).

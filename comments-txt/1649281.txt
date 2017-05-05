@@ -1,0 +1,15 @@
+Comment-Id:	1649281
+Comment-Author:	avar
+Comment-Date:	Tue Aug 31 13:27:26 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1648988
+
+I don't own an iPad but I think Apple's non-support of Flash is great. It's
+shipping the first major web browser in the last decade that's explicitly not
+supporting flash.
+
+So it's helping to make Flash more irrelevant every day, by forcing developers
+to finally consider that delivering their content in some executable binary
+blob isn't a reasonable thing to do on the web.
+
+Thanks, Apple!

@@ -1,0 +1,10 @@
+Comment-Id:	3718300
+Comment-Author:	avar
+Comment-Date:	Sat Mar 17 21:42:56 UTC 2012
+Comment-Type:	comment
+Parent-Id:	3718247
+
+I'm the original poster (and I just updated the post a bit), my suggestion is
+to print the layout out, glue it to your monitor, don't look at the keyboard,
+and get into arguments with people on IRC about something. You'll learn pretty
+quickly through frustration.

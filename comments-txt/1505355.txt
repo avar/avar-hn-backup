@@ -1,0 +1,7 @@
+Comment-Id:	1505355
+Comment-Author:	avar
+Comment-Date:	Sun Jul 11 11:21:04 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1505345
+
+No, it's centralized. Making it pretty much useless for this application.

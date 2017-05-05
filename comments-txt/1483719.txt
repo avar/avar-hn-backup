@@ -1,0 +1,9 @@
+Comment-Id:	1483719
+Comment-Author:	avar
+Comment-Date:	Sat Jul  3 12:22:52 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1483522
+
+Well, have you debugged? I've done so thousands of times, and invariably the
+cause was that the computer was doing exactly what I told it to do, but not
+what I thought I was telling it to do.

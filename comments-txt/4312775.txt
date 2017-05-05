@@ -1,0 +1,9 @@
+Comment-Id:	4312775
+Comment-Author:	avar
+Comment-Date:	Mon Jul 30 15:31:01 UTC 2012
+Comment-Type:	comment
+Parent-Id:	4312746
+
+That's not the only damage hydroelectric does. The damns normalize naturally
+occurring floods with a view to maximizing electricity production, and material
+that would have been carried to sea gets trapped behind the dam.

@@ -1,0 +1,12 @@
+Comment-Id:	1495462
+Comment-Author:	avar
+Comment-Date:	Wed Jul  7 21:04:07 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1495252
+
+I daresay it's only a problem you're having. As I write this 250 unique IP
+addresses have downloaded the Torrent, and I've uploaded 1145.7 MB of it
+myself, or 8.9% of the expected total: http://www.wolframalpha.com/input/?i=
+100+*+(1145.7+MB)+/+(51...
+
+That's not bad for outsourcing your bandwidth, BitTorrent rocks!

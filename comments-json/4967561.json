@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 4967561,
+  "parent" : 4967420,
+  "text" : "Yes. All our main backend code is in Perl. There's frontend tasks in JavaScript and some C and Python around, but my rough guess would be that less than 1% of our code falls under that umbrella.<p>We're hiring, and not just \"Perl guy[s]\". We hire good programmers, some of them know Perl already, but others pick it up while on the job.<p>Contact me at avarab@gmail.com if you (or anyone else here) would be interested in exploring opportunities at Booking.com. Our current openings are listed at booking.com/jobs.",
+  "time" : 1356480554,
+  "type" : "comment"
+}

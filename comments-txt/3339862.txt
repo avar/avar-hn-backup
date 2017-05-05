@@ -1,0 +1,19 @@
+Comment-Id:	3339862
+Comment-Author:	avar
+Comment-Date:	Sun Dec 11 11:25:40 UTC 2011
+Comment-Type:	comment
+Parent-Id:	3338065
+
+When you buy it you get directed to a page linking to:
+
+    https://buy.louisck.net/account/download
+
+Which is a redirect to:
+
+    http://download.aws.louisck.net/Louis_CK_Beacon_1280x720.mp4?Expires=<unix timestamp>&Signature=<long string>&Key-Pair-Id=<an id>
+
+Which can be downloaded e.g. with wget and is a:
+
+    $ file Louis_CK_Beacon_1280x720.mp4
+    Louis_CK_Beacon_1280x720.mp4: ISO Media, MPEG v4 system, version 2
+

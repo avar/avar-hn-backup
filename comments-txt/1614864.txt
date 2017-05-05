@@ -1,0 +1,13 @@
+Comment-Id:	1614864
+Comment-Author:	avar
+Comment-Date:	Wed Aug 18 17:30:14 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1614841
+
+No I mean support in the same sense you do. Their "supported" OS's are
+obviously just things they have access to, and know that it compiles & tests
+fine there.
+
+E.g. they only have AIX 5 in "perhaps", that's only in the "Best Effort"
+category in Perl's case because a few dedicated individuals still build and
+test on it before release.

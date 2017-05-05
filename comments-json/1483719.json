@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1483719,
+  "kids" : [ 1486207 ],
+  "parent" : 1483522,
+  "text" : "Well, have you debugged? I've done so thousands of times, and invariably the cause was that the computer was doing exactly what I told it to do, but not what I <i>thought</i> I was telling it to do.",
+  "time" : 1278159772,
+  "type" : "comment"
+}

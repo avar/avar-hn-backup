@@ -1,0 +1,10 @@
+Comment-Id:	5216363
+Comment-Author:	avar
+Comment-Date:	Wed Feb 13 23:16:08 UTC 2013
+Comment-Type:	comment
+Parent-Id:	5216201
+
+That's a horrible criteria. Maybe you have a really talented employee who just
+happens to be working on a doomed product. The right thing to do is to move
+that employee to a more viable project, not to fire them just because they're
+working on a dead project.

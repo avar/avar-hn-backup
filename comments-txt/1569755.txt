@@ -1,0 +1,8 @@
+Comment-Id:	1569755
+Comment-Author:	avar
+Comment-Date:	Tue Aug  3 01:26:31 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1568344
+
+You wrote a compiler in Common Lisp that auto-generates COBOL and your
+co-workers haven't noticed this?

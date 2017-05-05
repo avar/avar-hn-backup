@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 3880670,
+  "parent" : 3879430,
+  "text" : "I'd be interested to know what your index looks like / how the mapping is set up / what the datasize is / what sort of queries you're making, because that's definitely not my experience with it. It's lighting fast on my workloads.",
+  "time" : 1335211425,
+  "type" : "comment"
+}

@@ -1,0 +1,9 @@
+Comment-Id:	1754573
+Comment-Author:	avar
+Comment-Date:	Mon Oct  4 04:10:35 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1754174
+
+Seems most of these are either Linux, BSD or SunOS. I'm much more interested on
+getting shells on obscure systems like AIX, HP-UX or SunOS SPARC to port
+software to them. But those are really hard to come by.

@@ -1,0 +1,8 @@
+Comment-Id:	3504410
+Comment-Author:	avar
+Comment-Date:	Tue Jan 24 12:24:35 UTC 2012
+Comment-Type:	comment
+Parent-Id:	3504355
+
+Booking.com contributed €100k, not $100k. €100k =~ $130k. So the total for the
+last 12 months is around $260k, not $230k.

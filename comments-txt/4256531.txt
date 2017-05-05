@@ -1,0 +1,26 @@
+Comment-Id:	4256531
+Comment-Author:	avar
+Comment-Date:	Tue Jul 17 16:44:27 UTC 2012
+Comment-Type:	comment
+Parent-Id:	4255588
+
+I have lots of cronjobs that use the Moose type system to validate data before
+it gets inserted into either a MySQL row or an ElasticSearch document.
+
+It's a really nice method and has caught a lot of errors in the data those jobs
+are slurping up before they've impacted production.
+
+It also allows you to do very complex type checking that you wouldn't be able
+to do in the native type systems of most languages (e.g. with
+MooseX::Types::Structured), like checking not only whether something is a hash,
+but it can only have these keys, and each of those keys have to match some
+constraint.
+
+Obviously you can write custom code to do all that, but offloading it to the
+type system is so much nicer, and makes it trivial to share those checks
+between different modules.
+
+It also makes it easy to selectively disable checks, e.g. if you have a large
+blob of data you're inserting into permanent storage in a cronjob you might
+like to to extensive validation of it, but you might not want to incur that
+validation cost on every retrieval in the system that consumes that data.

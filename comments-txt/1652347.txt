@@ -1,0 +1,9 @@
+Comment-Id:	1652347
+Comment-Author:	avar
+Comment-Date:	Wed Sep  1 10:17:51 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1650642
+
+Just curious, how don't they match your workflow, and what about Git's power
+features gets in your way? You can just not use things like interactive rebase
+if you don't want.

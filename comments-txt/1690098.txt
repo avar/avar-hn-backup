@@ -1,0 +1,9 @@
+Comment-Id:	1690098
+Comment-Author:	avar
+Comment-Date:	Tue Sep 14 10:31:26 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1689312
+
+GMail doesn't even respect In-Reply-To, and frequently screws up threading on
+any technical mailing list I subscribe to. It's good at its ad-hoc
+"conversation" grouping, not threading.

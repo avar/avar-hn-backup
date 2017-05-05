@@ -1,0 +1,9 @@
+Comment-Id:	1851043
+Comment-Author:	avar
+Comment-Date:	Sat Oct 30 15:35:25 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1850857
+
+Compilers are free to implement extensions if they want. A lot of programs
+depend on GCC extensions, so you'd never be able to compile e.g. a modern Linux
+distro with just an ANSI C compiler.

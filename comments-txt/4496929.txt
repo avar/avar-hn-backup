@@ -1,0 +1,9 @@
+Comment-Id:	4496929
+Comment-Author:	avar
+Comment-Date:	Sun Sep  9 20:48:36 UTC 2012
+Comment-Type:	comment
+Parent-Id:	4496898
+
+The Wikimedia foundation does not have the copyright ownership of content on
+Wikipedia, the content creators do. They just own the Wikipedia trademark,
+domains etc.

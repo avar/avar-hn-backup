@@ -1,0 +1,52 @@
+Comment-Id:	1659778
+Comment-Author:	avar
+Comment-Date:	Fri Sep  3 15:00:19 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1659516
+
+1) That's not correct. natural selection doesn't have a narrow/expand bias one
+way or the other. Lineages simply survive if they manage to produce offspring.
+
+Sometimes that's because they evolved some novel new thing (like birds learning
+to fly). Sometimes it's because they didn't do that, e.g. in the
+Cretaceous–Tertiary extinction event the boring mammals that were small and had
+a tendency to burrow to escape trouble survived.
+
+A variation that happens through a mutation doesn't need to be present in both
+breeding partners for it to survive. This is obvious if you look at common
+dominant[1] and non-dominant genes, like the tendency towards a certain
+haircolor. That trait might be passed on to the offspring, and would permeate
+if it was advantageous enough.
+
+A lot of variation also doesn't happen through mutation at all, but simply
+selection within a species. E.g. this happened to humanity [3] relatively
+recently. We lost a lot of biodiversity within Homo Sapiens simply because a
+lot of us died out.
+
+Most of the biomass on this planet never "expanded" in any significant sense.
+Multicellular life is still relatively rare, most of the biomass on earth is
+bacteria.
+
+2) The notion that each species has an ecological niche is false. We live on a
+large planet, so there's a big opportunity for species that "do the same thing"
+(to simplify). Of course that's only true up to a point, consider the example
+of the Eastern Gray Squirrel displacing the Red Squirrel in the UK.
+
+3) There's a lot of things that species could do but aren't doing. Not because
+that thing would be a "bad idea" as such, but simply because it hasn't evolved
+yet.
+
+E.g. insects could probably take up a lot more space than they do now if they
+grew larger, but that would require evolving a whole new breathing apparatus.
+Maybe monkeys would be better suited to trees if they had four hands, but two
+is all they (and the whole vertebrate line) had to work with.
+
+4) I don't get this. Why do you think species should be much more
+inter-breed-able. They are to an extent, but once speciation occurs they aren't
+anymore.
+
+1. http://en.wikipedia.org/wiki/Dominance_(genetics)
+
+2. http://en.wikipedia.org/wiki/Eastern_Gray_Squirrel#Displacem...
+
+3. http://en.wikipedia.org/wiki/Mitochondrial_Eve

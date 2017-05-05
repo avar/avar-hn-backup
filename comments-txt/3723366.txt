@@ -1,0 +1,8 @@
+Comment-Id:	3723366
+Comment-Author:	avar
+Comment-Date:	Mon Mar 19 11:09:38 UTC 2012
+Comment-Type:	comment
+Parent-Id:	3722100
+
+It refuses to play on the CBS website for some reason so I've downloaded the
+torrent, their adverts work just fine though, but not the actual video.

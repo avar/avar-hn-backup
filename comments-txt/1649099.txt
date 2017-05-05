@@ -1,0 +1,13 @@
+Comment-Id:	1649099
+Comment-Author:	avar
+Comment-Date:	Tue Aug 31 12:14:52 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1648928
+
+Oh yes, Google has explicitly stated that they track stuff like this. I was
+just replying to the "it looks to be derived from nothing more than is stored
+in your inbox" comment by moultano. Which is obviously incorrect, and Google
+even states so in their introduction video.
+
+It'd be interesting to what degree using GMail over IMAP v.s. over the GMail
+web interface affects the heuristics of this new feature.

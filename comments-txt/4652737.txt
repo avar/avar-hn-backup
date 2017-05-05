@@ -1,0 +1,11 @@
+Comment-Id:	4652737
+Comment-Author:	avar
+Comment-Date:	Sun Oct 14 21:40:54 UTC 2012
+Comment-Type:	comment
+Parent-Id:	4652672
+
+No, you won't orbit just by going high enough. To orbit you need to going fast
+enough horizontally that as you fall you never hit the body you're orbiting.
+
+If you just keep going straight up you'll eventually fall back to Earth, or be
+on your own independent orbit around the Sun.

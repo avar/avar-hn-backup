@@ -1,0 +1,47 @@
+Comment-Id:	1572661
+Comment-Author:	avar
+Comment-Date:	Tue Aug  3 20:36:12 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1571613
+
+> Sure, but that's no reason to be hostile to man pages.
+
+They're not being hostile to man pages. They just don't maintain them. They're
+no more hostile to man pages than FreeBSD is to info pages.
+
+> Ideally you have a man page [...]
+
+That doesn't sound very ideal. man pages and info pages are formatted
+differently and take a different approach to explaining things. Having both
+would mean that the maintainer of each package would need to expend effort on
+maintaining both.
+
+As an example. Here's the FreeBSD strlen() manpage: http://www.gsp.com/cgi-bin/
+man.cgi?section=3&topic=strle...
+
+And the equivalent section in the GNU libc manual: http://www.gnu.org/software/
+libc/manual/html_node/String-Len...
+
+On FreeBSD I'd do `man 3 strlen' at the nearest terminal. On GNU I'd do `info
+libc' followed by `m string<TAB>' to find that node.
+
+You can't easily turn that documentation into a man page. E.g. on FreeBSD you'd
+have one manual page for malloc(3), but in the libc manual the documentation
+for malloc and other allocation functions is part of an entire chapter on
+"Virtual Memory Allocation And Paging". You can't easily tear that out into a
+man page.
+
+> They could at least not stand in the way of those who would like to provide
+them.
+
+Well, would the FreeBSD project stand in my way if I started sending them
+patches to duplicate their documentation in some new format like GNU info or
+perldoc? Probably yes.
+
+Documentation isn't a one-off thing. It incurs a long-term maintenance cost. So
+it's best to pick one system and stick to it.
+
+And really, it's not too much to ask that you just familiarize yourself with
+the conventions of the OS or system you're using. To stick to just ways of
+reading documentation I use man, info, perldoc, rdoc, phpdoc, javadoc, online
+tutorials etc. regularly.

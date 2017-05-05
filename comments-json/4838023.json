@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 4838023,
+  "kids" : [ 4839212 ],
+  "parent" : 4837894,
+  "text" : "Say I'm looking for a mapping application and one doesn't even have data for where I live, or some other attribute that would cause me not to consider it  in 6 months when I look for mapping apps again.<p>I do the same for restaurant reviews, I might give one 1 star even though it serves palatable food, just not the kind I like.<p>By doing so the recommendation algorithms that harvest my feedback have access to both positive and negative feedback pertinent to me to give me better future results.<p>That's how those kinds of scoring systems work best, not by averaging everyone's scores and pretending we're all robots that (dis)like the same things.",
+  "time" : 1354041164,
+  "type" : "comment"
+}

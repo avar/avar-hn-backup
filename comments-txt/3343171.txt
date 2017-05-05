@@ -1,0 +1,8 @@
+Comment-Id:	3343171
+Comment-Author:	avar
+Comment-Date:	Mon Dec 12 11:07:55 UTC 2011
+Comment-Type:	comment
+Parent-Id:	3342288
+
+If you need portability you should write your script in POSIX shellscript, not
+Bash shellscript.

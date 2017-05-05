@@ -1,0 +1,8 @@
+Comment-Id:	1581774
+Comment-Author:	avar
+Comment-Date:	Fri Aug  6 18:00:24 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1581766
+
+They're also shipping Perl from the three year old 5.10 branch, instead of the
+4 month old 5.12.

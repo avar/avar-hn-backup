@@ -1,0 +1,14 @@
+Comment-Id:	5109536
+Comment-Author:	avar
+Comment-Date:	Thu Jan 24 14:06:11 UTC 2013
+Comment-Type:	comment
+Parent-Id:	5109313
+
+Open comment to Internet Activists, Journalists and Academics: You're not going
+to get what you want by piggy-backing on Microsoft's proprietary platform.
+Specifically if you're an Internet Activists you shouldn't be relying on some
+company's proprietary tool for disguising your communications.
+
+There's plenty of open and secure VoIP clients which coupled with open
+encryption standards, VPN's etc. will suit your purposes. Use those things, not
+Skype.

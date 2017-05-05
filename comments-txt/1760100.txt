@@ -1,0 +1,13 @@
+Comment-Id:	1760100
+Comment-Author:	avar
+Comment-Date:	Tue Oct  5 15:32:12 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1760073
+
+If you have to ask that question and you're running web servers the BSD's are
+probably not right for you.
+
+OS choice mainly comes down to preferences, some people like the way the BSD's
+do things, and some don't. There are some features that Linux has that the
+BSD's don't and vica-versa (like ZFS support on FreeBSD). But it's probably not
+going to matter on a web server.

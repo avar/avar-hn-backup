@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 1500517,
+  "parent" : 1499945,
+  "text" : "Those systems are still around, and people are still porting software to them.<p>For instance Git which is a fairly popular package created in 2005 runs on at least: Linux, GNU, GNU/Hurd, GNU/Linux, Tru64 UNIX, GNU/kFreeBSD, SCO UnixWare, SCO UNIX SV, Darwin, various versions of Solaris, Cygwin, *BSD, AIX, IRIX, IRIX64, HP-UX, Windows, MINGW.<p>Older packages like Perl and Emacs compile on a much wider range of systems.",
+  "time" : 1278682536,
+  "type" : "comment"
+}

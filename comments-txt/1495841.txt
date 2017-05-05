@@ -1,0 +1,8 @@
+Comment-Id:	1495841
+Comment-Author:	avar
+Comment-Date:	Wed Jul  7 23:08:56 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1495786
+
+It's a strategy game, but it's not in the "compete with someone for 20-60 mins"
+followed by the game being reset category.

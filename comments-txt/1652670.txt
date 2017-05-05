@@ -1,0 +1,10 @@
+Comment-Id:	1652670
+Comment-Author:	avar
+Comment-Date:	Wed Sep  1 13:16:49 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1652586
+
+I wrote this little shellscript to backup all my Git repositories on GitHub:
+http://github.com/avar/github-backup
+
+It runs in cron and backs up all my data daily.

@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 1581307,
+  "parent" : 1581282,
+  "text" : "Debian has also had Debian GNU/Hurd in unstable state for years. That Gentoo/FreeBSD page mentions that the port is \"experimental\" and \"incomplete\". So presumably they're talking about a non-Linux kernel as a first-class component in a stable release.",
+  "time" : 1281109003,
+  "type" : "comment"
+}

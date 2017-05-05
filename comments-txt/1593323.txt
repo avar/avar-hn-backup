@@ -1,0 +1,11 @@
+Comment-Id:	1593323
+Comment-Author:	avar
+Comment-Date:	Wed Aug 11 00:02:22 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1593200
+
+Does it use IRC on the backend? This is a nice UI, being able to set it up with
+a custom IRC server would be very nice.
+
+Another cool feature would be the ability to embed a chat window on another
+website.

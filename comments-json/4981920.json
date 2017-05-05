@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 4981920,
+  "kids" : [ 4984303 ],
+  "parent" : 4981376,
+  "text" : "A comparison between msgpack and Sereal and other formats. Sereal is a format we released at work a few months ago: <a href=\"http://blog.booking.com/sereal-a-binary-data-serialization-format.html\" rel=\"nofollow\">http://blog.booking.com/sereal-a-binary-data-serialization-f...</a>",
+  "time" : 1356784857,
+  "type" : "comment"
+}

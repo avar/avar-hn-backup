@@ -1,0 +1,13 @@
+Comment-Id:	1747762
+Comment-Author:	avar
+Comment-Date:	Fri Oct  1 17:21:55 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1747194
+
+This is much better, but 2048 pixels is still significantly smaller than modern
+high-quality digital cameras produce. It would be better if they weren't scaled
+down at all.
+
+They also don't mention what happened to previously uploaded photography.
+Presumably there's no way to get the high-quality originals upscaled now and
+users have to re-upload them.

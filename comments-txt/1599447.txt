@@ -1,0 +1,12 @@
+Comment-Id:	1599447
+Comment-Author:	avar
+Comment-Date:	Thu Aug 12 22:42:57 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1599411
+
+Wikipedia has branching now in the form of "approved revisions", and it has a
+lot of long standing TODOs like annotate that would be solved by a SCM.
+
+The storage backend for articles is its own mini-scm with a revision table +
+text storage. There's no reason why a Git based backend would be any worse of a
+fit for a wiki.

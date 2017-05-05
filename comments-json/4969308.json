@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 4969308,
+  "parent" : 4968618,
+  "text" : "I think you might be making the implicit assumption that this is somehow shady or out of the ordinary when it comes to credit cards.<p>When you hand your credit card over to any clerk anywhere you're giving them access to your name and credit card number. If you hadn't booked through an OTA your credit card number would have likely been manually written down anyway on a piece of paper by the clerk at the desk.<p>All of this is PCI compliant, in order to process payments at all the hotel has a contract with the credit card company (or a local bank by proxy) which stipulates that they have to adhere to the relevant PCI standards.<p>Could this be more secure? Of course it could. But credit cards were never meant to be secure. They explicitly take convenience and the ability to do offline payments (writing down your credit card number for later) over security. If anything goes wrong they'll use some of the money they get from transaction fees to refund fraudulent payments.",
+  "time" : 1356532586,
+  "type" : "comment"
+}

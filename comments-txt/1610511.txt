@@ -1,0 +1,14 @@
+Comment-Id:	1610511
+Comment-Author:	avar
+Comment-Date:	Tue Aug 17 07:30:40 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1610466
+
+Tcpcrypt is aimed at passive attacks. Not everyone who has the power to listen
+in and perform a passive attack can modify the traffic and execute an active
+attack.
+
+Even when you can do an active attack it's not trivial in practice. The user my
+get suspicious if they've previously been able to initiate a tcpcrypt
+connection but can't do so now, and if you do this on a big scale (e.g.
+government sanctioned sniffing at an ISP) you'll probably be found out.

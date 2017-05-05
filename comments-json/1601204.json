@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 1601204,
+  "parent" : 1601021,
+  "text" : "Because I'm renting a single (Linode) VPS for development and hobby projects, not a bunch of machines.<p>It's not just IRC either, a bunch of other services do naïve checking of Tor exit nodes.",
+  "time" : 1281714113,
+  "type" : "comment"
+}

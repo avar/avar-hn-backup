@@ -1,0 +1,10 @@
+Comment-Id:	1725230
+Comment-Author:	avar
+Comment-Date:	Fri Sep 24 20:12:06 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1725060
+
+Please don't design your site so that I have to authorize my account and only
+then find out that I have to fork over $5 or $10 for the service (and
+de-authorize my account). Only a "Pricing" link in the top-right corner
+indicates that the site is behind a paywall.

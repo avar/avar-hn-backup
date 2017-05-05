@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 1851043,
+  "parent" : 1850857,
+  "text" : "Compilers are free to implement extensions if they want. A lot of programs depend on GCC extensions, so you'd never be able to compile e.g. a modern Linux distro with just an ANSI C compiler.",
+  "time" : 1288452925,
+  "type" : "comment"
+}

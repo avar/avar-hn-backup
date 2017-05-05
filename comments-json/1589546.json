@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1589546,
+  "kids" : [ 1590055 ],
+  "parent" : 1589290,
+  "text" : "The \"striking\" drop-off for Perl can be explained by the gitpan: <a href=\"http://github.com/gitpan\" rel=\"nofollow\">http://github.com/gitpan</a><p>There are also similar statistics skewing users, like the emacsmirror: <a href=\"http://github.com/emacsmirror\" rel=\"nofollow\">http://github.com/emacsmirror</a><p>It'd be nice if GitHub had a way to exclude such users from their statistics.",
+  "time" : 1281390680,
+  "type" : "comment"
+}

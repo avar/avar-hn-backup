@@ -1,0 +1,13 @@
+Comment-Id:	1679122
+Comment-Author:	avar
+Comment-Date:	Fri Sep 10 15:26:20 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1679100
+
+I've contributed many thousands of lines of code to free software projects, but
+I've never had to sign some waiver, walk down to the post office and send an
+inter-continental letter in the mail to go along with a patch I wrote.
+
+I'd had have to do that if I submitted a non-trivial change to the FSF, just
+finding an alternative program that I can use and fix is easier, so I've done
+that instead of sending patches to them.

@@ -1,0 +1,12 @@
+{
+  "by" : "avar",
+  "descendants" : 45,
+  "id" : 2765844,
+  "kids" : [ 2765942, 2766051, 2765956, 2766282, 2766385, 2766097, 2765948, 2766045, 2765926, 2766032, 2765924 ],
+  "score" : 153,
+  "text" : "",
+  "time" : 1310690816,
+  "title" : "Linus Torvalds proposes a change to the Git commit object format",
+  "type" : "story",
+  "url" : "http://www.spinics.net/lists/git/threads.html#161308"
+}

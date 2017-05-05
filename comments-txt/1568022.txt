@@ -1,0 +1,15 @@
+Comment-Id:	1568022
+Comment-Author:	avar
+Comment-Date:	Mon Aug  2 16:15:24 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1566759
+
+You can easily install bash on your BSD. But I get your point about writing
+POSIX compatible code.
+
+I'll declare a bash dependency in the shebang if I've only tested the script on
+bash. Requiring bash is better than having the script fail on some non-POSIX
+thing that I wasn't aware of.
+
+Linux distributions are getting a lot better in this department these days
+though, with dash being the default Debian/Ubuntu shell.

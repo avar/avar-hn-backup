@@ -1,0 +1,12 @@
+Comment-Id:	1656425
+Comment-Author:	avar
+Comment-Date:	Thu Sep  2 15:25:38 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1656339
+
+Well there's still plenty of uses for a fast and helicopter. Patrol missions
+for one. But hopefully they'll be able to scale this up to bigger sizes.
+
+Does anyone know if that would be much harder? I.e. is it inherently harder to
+make heavier helicopters go faster? Or do you just have to scale up the
+fabrication.

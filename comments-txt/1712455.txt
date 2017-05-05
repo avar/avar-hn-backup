@@ -1,0 +1,26 @@
+Comment-Id:	1712455
+Comment-Author:	avar
+Comment-Date:	Tue Sep 21 13:12:47 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1712356
+
+    My impression is that the difference between Perl-5.6
+    and Perl-5.12 is much less than between these versions
+    of Python and recent releases.
+
+Your impression is correct. Perl is a more mature platform than Python, and
+backwards compatibility is taken more seriously. The latest Perl 5.12 release
+can still run most of the test suite for Perl 1 released back in 1987.
+
+That and its wide availability and portability make it a much better target
+than Python for something like glue in a build system for a project that's
+mostly in C anyway.
+
+But even though it's backwards compatible with old code it's still somewhat of
+a pain to write code that works on old releases that don't have the modules /
+core features you want.
+
+Backwards compatibility also comes at a price. Many of the changes that broke
+old Python code broke it because old warts were being fixed in Python. There's
+a lot of equivalent old warts in Perl that haven't been fixed, and there's no
+plan for doing so (other than Perl 6).

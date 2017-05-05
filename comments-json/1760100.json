@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1760100,
+  "kids" : [ 1760125, 1761217 ],
+  "parent" : 1760073,
+  "text" : "If you have to ask that question and you're running web servers the BSD's are probably not right for you.<p>OS choice mainly comes down to preferences, some people like the way the BSD's do things, and some don't. There are some features that Linux has that the BSD's don't and vica-versa (like ZFS support on FreeBSD). But it's probably not going to matter on a web server.",
+  "time" : 1286292732,
+  "type" : "comment"
+}

@@ -1,0 +1,13 @@
+Comment-Id:	1609897
+Comment-Author:	avar
+Comment-Date:	Tue Aug 17 01:19:31 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1609839
+
+Nobody said anything about "old" connections in this thread. wmf mentioned how
+encrypting everything (even if you don't know who's at the other end) is "no
+worse than the status quo".
+
+Protocols that don't use encryption now aren't broken, and they could be
+slightly improved by transparently using encryption, because at least you'd
+deter passive sniffing.

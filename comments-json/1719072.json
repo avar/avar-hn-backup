@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1719072,
+  "kids" : [ 1719140 ],
+  "parent" : 1719044,
+  "text" : "Because Ruby uses PCRE, but Perl uses its own regex engine which handles cases like that a lot better. That pattern is rejected right away by Perl's engine because it sees that there isn't another X in that string:<p><pre><code>    anchored \"X\" at 0 floating \"X\" at 2..2147483647 (checking floating) minlen 3 \n    Guessing start of match in sv for REx \"X(.+)+X\" against \"=XX===============================\"\n    Found floating substr \"X\" at offset 2...\n    Contradicts anchored substr \"X\", trying floating at offset 3...\n    Did not find floating substr \"X\"...\n    Match rejected by optimizer\n    </code></pre>\nChanging the pattern to /X(.<i>)</i>X/ will cause Perl to do real work. But\nit'll complete it in 0.003s while Ruby will just hang.<p>I wrote an article a while back about the differences between PCRE and Perl's engine: <a href=\"http://use.perl.org/~avar/journal/33585\" rel=\"nofollow\">http://use.perl.org/~avar/journal/33585</a>",
+  "time" : 1285234973,
+  "type" : "comment"
+}

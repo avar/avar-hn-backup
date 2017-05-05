@@ -1,0 +1,25 @@
+Comment-Id:	5221471
+Comment-Author:	avar
+Comment-Date:	Thu Feb 14 19:23:26 UTC 2013
+Comment-Type:	comment
+Parent-Id:	5221093
+
+It's unclear from this whether or not Python would have to change the name of
+the programming language if they didn't get the trademark, or whether this UK
+company would just have the right to call their products "Python" too.
+
+Early in the article it says: "There is a company in the UK that is trying to
+trademark the use of the term "Python" for all software, services, servers...
+pretty much anything having to do with a computer.".
+
+And later it says, where the Python foundation is soliciting comments: "your
+view that another company using term Python to refer to services, software, and
+servers would be confusing".
+
+I for one hope the Python foundation doesn't get an exclusive trademark for all
+"software, services, servers" in the E.U. Outside of software "Python" is a
+well-known generic name for an animal, I don't think the EU should be
+protecting such generic names.
+
+But on the other hand it would also suck if this U.K. company gained exclusive
+use over the trademark.

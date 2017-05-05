@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 4663831,
+  "kids" : [ 4664212, 4664400 ],
+  "parent" : 4663603,
+  "text" : "<p><pre><code>    Also, almost any Mars mission would involve a lot of heavy lifting\n    into low earth orbit to construct a vehicle that would transport\n    people there and back.\n</code></pre>\nI keep seeing this assertion but I'm genuinely curious to know why this is the case.<p>If you're going to assemble the vehicle in LEO anyway before you send it off to Mars why is it so much better to do so by lifting up X pieces for assembly with X huge rockets instead of lifting up X * N pieces on X * N smaller rockets?<p>Sure you get into engineering problems eventually if your rockets are too small, since any single component can't be larger than those rockets can carry. But if nobody even has a design for such an in-orbit-assembled vehicle, then just starting out by making a really big rocket seems to be a case of putting the cart before the horse.",
+  "time" : 1350469938,
+  "type" : "comment"
+}

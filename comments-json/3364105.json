@@ -1,0 +1,12 @@
+{
+  "by" : "avar",
+  "descendants" : 1,
+  "id" : 3364105,
+  "kids" : [ 3364313 ],
+  "score" : 56,
+  "text" : "",
+  "time" : 1324124236,
+  "title" : "Write Scalability of PostgreSQL",
+  "type" : "story",
+  "url" : "http://rhaas.blogspot.com/2011/12/write-scalability.html"
+}

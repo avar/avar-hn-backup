@@ -1,0 +1,8 @@
+Comment-Id:	1727060
+Comment-Author:	avar
+Comment-Date:	Sat Sep 25 14:56:43 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1726736
+
+Agreed, this seems to overlap completely with Google Places: http://
+www.google.com/lbc

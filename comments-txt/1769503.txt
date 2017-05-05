@@ -1,0 +1,11 @@
+Comment-Id:	1769503
+Comment-Author:	avar
+Comment-Date:	Thu Oct  7 20:58:48 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1769433
+
+You linked to the wrong version, given the topic of this thread.
+
+Recently ZSH support has been added to git-completion.bash, but it's still only
+in the "next" branch of git: http://git.kernel.org/?p=git/git.git;a=blob_plain;
+f=contrib/...

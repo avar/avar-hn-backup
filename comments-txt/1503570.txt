@@ -1,0 +1,8 @@
+Comment-Id:	1503570
+Comment-Author:	avar
+Comment-Date:	Sat Jul 10 13:00:48 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1503499
+
+This is similar to the CHI and Cache modules for Perl: http://search.cpan.org/
+perldoc?CHI http://search.cpan.org/perldoc?Cache

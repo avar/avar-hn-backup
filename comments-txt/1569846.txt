@@ -1,0 +1,7 @@
+Comment-Id:	1569846
+Comment-Author:	avar
+Comment-Date:	Tue Aug  3 02:09:27 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1569812
+
+You can run FreeBSD on Linode as of FreeBSD 8.*. It can run in domU now.

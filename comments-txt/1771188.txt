@@ -1,0 +1,8 @@
+Comment-Id:	1771188
+Comment-Author:	avar
+Comment-Date:	Fri Oct  8 10:48:44 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1771048
+
+Thanks. I didn't know about those. I've configured them in my ~/.bashrc now:
+http://github.com/avar/dotfiles/commit/43454870

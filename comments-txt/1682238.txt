@@ -1,0 +1,11 @@
+Comment-Id:	1682238
+Comment-Author:	avar
+Comment-Date:	Sat Sep 11 19:57:28 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1682104
+
+No it wouldn't, instant search doesn't search substrings, but strings it thinks
+you are about to type in.
+
+You could create a lookup table of those for each GMail account in the
+background even if you didn't have substring search.

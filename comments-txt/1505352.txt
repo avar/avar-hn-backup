@@ -1,0 +1,15 @@
+Comment-Id:	1505352
+Comment-Author:	avar
+Comment-Date:	Sun Jul 11 11:19:57 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1505344
+
+There's no need for a trusted singular provider. You can just implement this
+sort of thing as a circle of trust.
+
+A leak could be made by anyone. But content would only be published on
+somerandomsite.com if it has been digitally signed by someone.
+
+Who that someone is could be configurable. wikileaks.com would be things that
+are only signed by Assange, but you could spin up your own site with your own
+signing policies.

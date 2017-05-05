@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1570775,
+  "kids" : [ 1570788, 1570832 ],
+  "parent" : 1570763,
+  "text" : "It already exists: <a href=\"http://packages.qa.debian.org/i/info2man.html\" rel=\"nofollow\">http://packages.qa.debian.org/i/info2man.html</a><p>It's odd that Debian doesn't simply use it instead of creating their own bastardized manpages of GNU programs.",
+  "time" : 1280834837,
+  "type" : "comment"
+}

@@ -1,0 +1,13 @@
+Comment-Id:	1564927
+Comment-Author:	avar
+Comment-Date:	Sun Aug  1 07:57:20 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1564115
+
+Well, can you name some examples of programs you think GNU really maintains? It
+has always been an umbrella project, they haven't employed any developers for
+over a decade now.
+
+While Emacs, GCC and coreutils are more historically "GNU" than say GNOME the
+vast majority of GNU projects almost from the very beginning has been donated
+code or projects that otherwise fell under the GNU umbrella.

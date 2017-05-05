@@ -1,0 +1,14 @@
+Comment-Id:	1652840
+Comment-Author:	avar
+Comment-Date:	Wed Sep  1 14:27:05 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1652389
+
+Sure, it's just that the whole thing has a big "Google's all about stealing
+your data" vibe in its advertisements.
+
+When in fact Google would be happy to take his patches, and most of those
+data-sharing features are improving the user experience (like type-ahead
+suggestions etc.).
+
+That just rubs me the wrong way.

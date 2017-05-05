@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1581291,
+  "kids" : [ 1581380, 1581396 ],
+  "parent" : 1581269,
+  "text" : "Sure, I mean that comment in the context of Debian. Debian GNU/kFreeBSD isn't going to be a replacement for FreeBSD any time soon for the people that prefer it.<p>But it's an excellent alternative for Debian users who'd like to use ZFS and other FreeBSD features without throwing the rest of Debian out with the bathwater.<p>This'll also be wonderful for the BSD's in terms of increasing the portability of packages in Debian that they might want to pick up.",
+  "time" : 1281108796,
+  "type" : "comment"
+}

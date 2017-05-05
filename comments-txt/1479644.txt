@@ -1,0 +1,11 @@
+Comment-Id:	1479644
+Comment-Author:	avar
+Comment-Date:	Thu Jul  1 23:39:09 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1479562
+
+The example that is usually brought up is one guy at Google (Erann Gat) that
+had one conversation with his manager that ended in a "No".
+
+That's completely different to Google buying an existing business for $700
+million whose core tech is written in Lisp.

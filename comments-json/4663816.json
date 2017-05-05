@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 4663816,
+  "kids" : [ 4663832, 4663848, 4664588 ],
+  "parent" : 4663778,
+  "text" : "I wonder how vulnerable this approach is to timing attacks similar to the ones you can use to smoke out onion routed machines.<p>If you know the physical and network location of their routing boxes and you keep polling some (e.g. static) resource on their servers you can eliminate all cloud providers that are further away than the response time as being the hidden backend.<p>Let's say you narrow it down to 10 candidates and 5 of them experience some sort of network issue that gets reflected in the response times of TPB, you've now narrowed it to 5.<p>I wonder what they're doing to mitigate these sort of timing attacks meant to discover their hidden backend.",
+  "time" : 1350469216,
+  "type" : "comment"
+}

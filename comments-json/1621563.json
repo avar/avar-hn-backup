@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1621563,
+  "kids" : [ 1621596 ],
+  "parent" : 1621507,
+  "text" : "Neither of those things is going to work. Grouping all the John Smiths uniquely is going to be possible given smart enough algorithms, so is finding out that John Smith was called Smith Johnson before his 18th birthday.",
+  "time" : 1282337014,
+  "type" : "comment"
+}

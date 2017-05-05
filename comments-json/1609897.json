@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1609897,
+  "kids" : [ 1609946 ],
+  "parent" : 1609839,
+  "text" : "Nobody said anything about \"old\" connections in this thread. wmf mentioned how encrypting everything (even if you don't know who's at the other end) is \"no worse than the status quo\".<p>Protocols that don't use encryption now aren't broken, and they could be slightly improved by transparently using encryption, because at least you'd deter passive sniffing.",
+  "time" : 1282007971,
+  "type" : "comment"
+}

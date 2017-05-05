@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 5431670,
+  "kids" : [ 5431721, 5433534 ],
+  "parent" : 5430891,
+  "text" : "<p><pre><code>    &#62; Linux runs everywhere at SpaceX,\n    &#62; he said, on everything from desktops\n    &#62; to spacecraft.\n</code></pre>\nYet every time I've seen them advertise for sysadmin sysadmin or programmer positions the indications are that at least all their internal network and website run heavily on Microsoft software, but their actual spacecraft use Linux/embedded.<p>It would be interesting to get an actual overview of what they use Linux for, and what they don't.",
+  "time" : 1364121745,
+  "type" : "comment"
+}

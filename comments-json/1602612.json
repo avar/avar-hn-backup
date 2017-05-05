@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1602612,
+  "kids" : [ 1602713, 1602897 ],
+  "parent" : 1601963,
+  "text" : "Relying on a DNS TTL of 5 minutes doesn't work everywhere. Some ISPs will forcefully reset any TTL below 24 hours to 24h.",
+  "time" : 1281742466,
+  "type" : "comment"
+}

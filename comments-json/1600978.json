@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1600978,
+  "kids" : [ 1601576, 1601091, 1600986 ],
+  "parent" : 1600872,
+  "text" : "That's great, too bad I can't run this for my own sites because a bunch of idiot network admins (like those running IRC servers) will ban all traffic from Tor exit nodes <i>without</i> taking into account exit policies.",
+  "time" : 1281709745,
+  "type" : "comment"
+}

@@ -1,0 +1,15 @@
+Comment-Id:	1669696
+Comment-Author:	avar
+Comment-Date:	Tue Sep  7 18:43:54 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1669619
+
+I'm not sure I understand your question correctly, but photons have no mass. So
+light can't pull objects towards itself.
+
+In fact it'd to the opposite, which is why solar sails work. Radiation landing
+on you propels you away from the object emitting the radiation.
+
+The Pioneer anomaly is very interesting. But we don't have sufficient data to
+determine what it is exactly. We should really send out more probes like that
+to find out.

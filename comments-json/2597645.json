@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 2597645,
+  "kids" : [ 2597767 ],
+  "parent" : 2597640,
+  "text" : "Doesn't PostgreSQL support something like:<p><pre><code>    RENAME TABLE current TO current_old,\n                 current_new TO current;\n</code></pre>\nWhich is the common pattern of atomically swapping out tables in MySQL with zero downtime.",
+  "time" : 1306704396,
+  "type" : "comment"
+}

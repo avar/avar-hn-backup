@@ -1,0 +1,7 @@
+Comment-Id:	1500536
+Comment-Author:	avar
+Comment-Date:	Fri Jul  9 13:41:27 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1500488
+
+Now if I could only configure it to bottom-post by default I'd be happy.

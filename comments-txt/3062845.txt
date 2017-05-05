@@ -1,0 +1,85 @@
+Comment-Id:	3062845
+Comment-Author:	avar
+Comment-Date:	Sun Oct  2 13:53:29 UTC 2011
+Comment-Type:	comment
+Parent-Id:	3062517
+
+I'm running a Samsung Galaxy S2 that I've rooted. Here's my most commonly used
+applications, all of which I recommend:
+
+* Smart Keyboard Pro: https://market.android.com/details?id=
+net.cdeguet.smartkeybo... -- Allows me to use a Dvorak keyboard on the phone,
+but even if you don't use Dvorak it's still a great purchase. It has a lot of
+options to make your typing more efficient that the stock keyboard doesn't
+have.
+
+* The Kindle app to read books. Now I mostly use it to read .mobi files I've
+downloaded instead of buying things at the Amazon store, for which it works
+brilliantly. I wish it allowed copy/pasting of text though.
+
+Google Reader for RSS/Atom
+
+* GMail application for GMail.
+
+* The stock Mail application for work IMAP, although I'll test out K-9
+mentioned in this thread
+
+* ColorNote for taking notes / shopping lists.
+
+* live logcat for the novelty of having a l33t boot sequence (and getting rid
+of that annoying Samsung boot-up sound): https://market.android.com/details?id=
+eu.chainfire.livelogca...
+
+* Root Explorer to manage root-only files.
+
+* Skype to make video calls
+
+* ConnectBot to ssh from the phone, although I haven't found out how to enable
+landscape mode in it, which is annoying.
+
+* Listen for podcasts, although I haven't found out how to make it
+auto-download say the last 3 podcasts of everything I subscribe to.
+
+* BBC News and Al Jazeera video for some world news
+
+* Gh4a to browse GitHub
+
+* AdFree to block spam
+
+* Screenshot to take screenshots
+
+* WolframAlpha for any sort of conversion / math queries.
+
+* A PushUp / SitUp / Squats app (all separate apps) for managed stationary
+exercise. Although I'd like to find something that I could turn on and would
+give me instructions for a general N-minute workout that could be done at home.
+
+Things I wish I didn't have to use, or don't know how to do, but haven't found
+out how to replace / do:
+
+* The default Samsung camera application. There's no way to turn off the
+shutter noise on it, and it'll plain refuse to take pictures if the battery is
+low.
+
+* The default task switcher, which often doesn't list the application I've just
+switched from (even though it's still open)
+
+* The default system clipboard which doesn't seem to have a history / search
+feature like Emacs's kill ring.
+
+* Having the default Samsung apps installed on the phone. I tried to use
+Titanium Backup PRO but it didn't work for removing or freezing them.
+
+* Having something like Gesture search which searches across the entire phone
+but doesn't require me to draw on the screen, I just want to type a query.
+
+* Sometimes the phone will go into some sort of voice command mode. I haven't
+found out how to disable it.
+
+Lastly I plan to write an application that hooks into the "Share" handler for
+text/plain content and extracts the content of the clipboard, scans it for a
+URL, and pastes that to the clipboard.
+
+I've found that quite a few apps have a "Share" functionality, but no "copy the
+URL of what I'm looking at to the clipboard", and I haven't found any existing
+app that works around this.

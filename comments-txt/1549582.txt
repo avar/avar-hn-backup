@@ -1,0 +1,9 @@
+Comment-Id:	1549582
+Comment-Author:	avar
+Comment-Date:	Mon Jul 26 22:40:51 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1549560
+
+s/Most/All/. I've never heard of a release candidate meaning anything else,
+it's something you'll release as-is with a non-rc version unless critical bugs
+emerge. This is a beta, not a RC.

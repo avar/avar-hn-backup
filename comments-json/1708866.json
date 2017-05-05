@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 1708866,
+  "parent" : 1708096,
+  "text" : "On both Debian and Ubuntu `ulimit -u` returns `unlimited` for me.",
+  "time" : 1284992140,
+  "type" : "comment"
+}

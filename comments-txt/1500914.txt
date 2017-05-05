@@ -1,0 +1,11 @@
+Comment-Id:	1500914
+Comment-Author:	avar
+Comment-Date:	Fri Jul  9 15:22:49 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1500815
+
+We already have compelling systems for most things. Open data formats for
+things the government produces, version control that could be used for
+legislation etc. Just think about how much accountable legislators would be if
+they were all forced to use Git, and you could annotate any piece of
+legislation.

@@ -1,0 +1,21 @@
+Comment-Id:	1559606
+Comment-Author:	avar
+Comment-Date:	Thu Jul 29 22:55:23 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1559494
+
+I don't buy that. Almost all software is the equivalent of toilet paper, it's
+something auxiliary that should perform a service so that you can get on with
+your life.
+
+Just because people demand a different color toilet paper (free software) the
+demand doesn't go away.
+
+If everyone demanded that software be free we'd still have cellphones, search
+engines and games because people want that stuff, and they're going to pay for
+it one way or the other.
+
+Of course business models would be different, but the end result probably
+wouldn't be. The main difference would be that there'd be more collaboration on
+shared problems (like game engines), instead of each proprietary software
+company coming up with their own solution.

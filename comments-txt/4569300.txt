@@ -1,0 +1,13 @@
+Comment-Id:	4569300
+Comment-Author:	avar
+Comment-Date:	Tue Sep 25 08:41:48 UTC 2012
+Comment-Type:	comment
+Parent-Id:	4569274
+
+How about not trying to solve this problem by artificially crippling the
+software up-front and instead just leave it up to national governments to
+regulate this sort of thing? We don't have special software in mobile phones to
+make them turn off when they're in a car, we've just made it illegal to fiddle
+with them while driving.
+
+The same should work just fine for certain dashboard interaction.

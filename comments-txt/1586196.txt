@@ -1,0 +1,18 @@
+Comment-Id:	1586196
+Comment-Author:	avar
+Comment-Date:	Sun Aug  8 21:23:20 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1585901
+
+I usually agree with or sympathize with Moglen's views but this is just
+indefensible.
+
+He's saying that Steve Jobs is "a man whose selfishness surpasses any recorded
+selfishness", and why? Because he opted to support a modular compiler started
+at the University of Illinois instead of the GCC.
+
+The LLVM's license is free, and even classified as such by the FSF. To smear
+participants in a fellow free software project like this or those that fund it
+is beyond low.
+
+I lost a lot of respect for Moglen after reading that.

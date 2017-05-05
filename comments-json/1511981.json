@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 1511981,
+  "parent" : 1511710,
+  "text" : "I wouldn't donate either for those reasons, but one thing to keep in mind is that the codebase running reddit is open source: <a href=\"http://github.com/reddit/reddit\" rel=\"nofollow\">http://github.com/reddit/reddit</a><p>They pushed to the public Git in a month, but the donations users are making will go towards improving that codebase. It can be used to deploy your own (and hopefully more scalable) version of reddit.",
+  "time" : 1279040273,
+  "type" : "comment"
+}

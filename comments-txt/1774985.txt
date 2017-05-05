@@ -1,0 +1,13 @@
+Comment-Id:	1774985
+Comment-Author:	avar
+Comment-Date:	Sat Oct  9 13:26:29 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1774967
+
+A good reason to write tests for seemingly trivial code like that is if you're
+implementing an API that others will use. I've re-factored a class that
+implemented a public API and been saved by trivial tests that pretty much just
+tested getters/setters.
+
+But there's a time and place for everything. I rarely pass 95% test coverage,
+the remaining 5% are usually not worth pursuing.

@@ -1,0 +1,39 @@
+Comment-Id:	3340039
+Comment-Author:	avar
+Comment-Date:	Sun Dec 11 13:43:29 UTC 2011
+Comment-Type:	comment
+Parent-Id:	3340004
+
+Oh that's not how I meant it. I've paid my $5 for it and downloaded it, and
+that link I posted will return a 403 without the right authorization.
+
+I posted it because I was worried that I couldn't download it with wget before
+I bought it, I'm on a 3G connection through my phone and I wanted to download
+it to my server so I could download it later from a more capable connection.
+
+I sent the below E-Mail to their support address (support@louisck.net) and I'd
+encourage others who bought this to send something similar do the same. I think
+it's important to tell artists that this sort of distribution is appreciated:
+
+    Thanks for making this show available in non-DRM format. I haven't
+    watched it yet, but I bought it and downloaded it already.
+
+    My friends and I have been following your work for a while, I've
+    watched both your HBO TV shows and downloaded a bunch of your
+    standups. But since I don't live in the US and don't want to buy DRM
+    content I haven't paid you for any of this.
+
+    However I'm happy to be able to when you offer something in this
+    format. I can pay for it even if I don't live in the US, and I don't
+    have to buy something like a DVD or subscribe to something like iTunes
+    where I'll effectively be getting a worse service by locking the media
+    I buy into some corporation's proprietary distribution platform.
+
+    But if you keep offering things in this way in the future I'll be sure
+    to pay for them.
+
+    It's not that I'm cheap. I make a very good living, and I'm happy to
+    pay for things. I just think it's unethical to pay for media when part
+    of the proceeds go to conglomerates like the MPAA which are actively
+    working towards reducing freedom on the Internet.
+

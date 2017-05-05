@@ -1,0 +1,8 @@
+Comment-Id:	2266568
+Comment-Author:	avar
+Comment-Date:	Sat Feb 26 21:27:56 UTC 2011
+Comment-Type:	comment
+Parent-Id:	2266488
+
+They make donations. But they don't donate 10% of their yearly revenue, even
+though their business often completely depends on FOSS software.

@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1893575,
+  "kids" : [ 1893750 ],
+  "parent" : 1893438,
+  "text" : "But only Perl 5.10.1, they didn't upgrade to 5.12.* for some reason.",
+  "time" : 1289475343,
+  "type" : "comment"
+}

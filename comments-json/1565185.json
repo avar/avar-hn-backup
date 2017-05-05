@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1565185,
+  "kids" : [ 1566502 ],
+  "parent" : 1565151,
+  "text" : "It might be cost-effective to just buy a Linux VPS and run Windows on it with VirtualBox. You'd take a performance hit, but maybe it wouldn't matter that much.",
+  "time" : 1280665619,
+  "type" : "comment"
+}

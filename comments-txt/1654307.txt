@@ -1,0 +1,16 @@
+Comment-Id:	1654307
+Comment-Author:	avar
+Comment-Date:	Wed Sep  1 21:18:29 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1654002
+
+Mars is very cold right now with almost no atmosphere, and it has remained
+relatively unchanged for billions (yes, billions) of years.
+
+Terraforming it would entail thickening the atmosphere and heating it up.
+That'd cause a lot of changes to its surface. Water frozen for eons might start
+flowing, gases currently frozen in the ground might start evaporating etc.
+
+Eventually it might start raining, which would start massive planet-wide
+erosion. There's a reason you see craters on the Moon and not on Earth: It
+rains.

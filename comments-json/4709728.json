@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 4709728,
+  "kids" : [ 4710054, 4709936 ],
+  "parent" : 4709428,
+  "text" : "I've seen a lot written about the <i>how</i> of SecureBoot but is there a good summary of the <i>why's</i>. I'm still deeply skeptical that this is part of Microsoft's plan to eventually transform the PC architecture into something console-like.<p>They've already de-facto achieved that by not mandating that custom OS's can be booted on Windows 8 supporting ARM devices, and between them and pressure from content owners wanting complicit OS's that don't run applications that do things they don't like I can only see that sort of thing progressing in the future.",
+  "time" : 1351452498,
+  "type" : "comment"
+}

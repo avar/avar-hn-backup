@@ -1,0 +1,20 @@
+Comment-Id:	1765739
+Comment-Author:	avar
+Comment-Date:	Wed Oct  6 20:34:55 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1765605
+
+I really didn't mean to speculate on whether Facebook would be replaced by
+something else. Maybe they'll become big enough that nothing will ever replace
+them.
+
+But if something does replace them having an API to export the existing data
+will be critical to the adoption of the new system.
+
+Even if all your friends use Facebook now, having an export API is the
+difference between them clicking on one link (and "approve") to move your data
+to the new system, and having to start all over again.
+
+Lowering the barrier of entry will do a lot to increase competition in this
+area. Hopefully Facebook will institute meaningful data export policies like
+Google has done.

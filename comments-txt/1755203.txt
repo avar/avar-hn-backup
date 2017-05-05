@@ -1,0 +1,9 @@
+Comment-Id:	1755203
+Comment-Author:	avar
+Comment-Date:	Mon Oct  4 10:27:16 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1753707
+
+I once bought an SGI Indy for $20 just to try to run that one program, but I
+got bogged down with the complex process required to install IRIX and threw the
+box out when I moved.

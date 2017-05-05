@@ -1,0 +1,17 @@
+Comment-Id:	1603278
+Comment-Author:	avar
+Comment-Date:	Sat Aug 14 12:31:45 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1603073
+
+It doesn't just have it for backwards compatibility, it's still a very useful
+feature in some cases:
+
+    sub foo {
+        local $ENV{HOME} = "/foo/bar";
+        Code::I::Don't::Own();
+    }
+    foo();
+
+Having dynamic scope here ensures that the foreign code will use the
+environment I want without me having to alter it.

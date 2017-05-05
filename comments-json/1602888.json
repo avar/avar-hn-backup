@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 1602888,
+  "parent" : 1602853,
+  "text" : "The topic of this thread is that if you're running a Tor exit with a <i>limited</i> exit policy you'll get banned by lazy admins who presume that all Tor exit nodes have a <i>promiscuous</i> exit policy.<p>There's <i>theoretically</i> nothing crazy or bad about running a Tor exit node like that, e.g. one that only allows exits to a few sites that you yourself control.<p>But in <i>practice</i> it's bad for you because of people that think \"let's just nuke it from orbit\" is responsible behavior on the Internet, even going so far as to ban whole /24 networks.",
+  "time" : 1281756793,
+  "type" : "comment"
+}

@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1682238,
+  "kids" : [ 1682341 ],
+  "parent" : 1682104,
+  "text" : "No it wouldn't, instant search doesn't search substrings, but strings it <i>thinks</i> you are about to type in.<p>You could create a lookup table of those for each GMail account in the background even if you didn't have substring search.",
+  "time" : 1284235048,
+  "type" : "comment"
+}

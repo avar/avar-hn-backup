@@ -1,0 +1,12 @@
+Comment-Id:	1495760
+Comment-Author:	avar
+Comment-Date:	Wed Jul  7 22:35:47 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1494808
+
+I wish there was something like StarCraft, but where you can actually focus on
+command. A real general wouldn't be ordering individual units around, and it's
+silly that most strategy games implement things at that level.
+
+You should just be able to give high-level commands like "build a base there",
+"focus on Air-to-Ground development" etc.

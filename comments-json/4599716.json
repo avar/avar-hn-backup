@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 4599716,
+  "kids" : [ 4600028, 4599826 ],
+  "parent" : 4599661,
+  "text" : "Not a question but just a word of advice to be careful.<p>What you did could to a layperson be construed as intentionally exploiting a bug in their software with the result that you're now intercepting requests from unsuspecting customers of theirs, and getting data via your logs that in some countries falls under privacy laws.<p>Depending on how big of an embarrassment this turns out to be for them and how well funded their legal department is this might not turn out to be hassle-free for you.",
+  "time" : 1349131134,
+  "type" : "comment"
+}

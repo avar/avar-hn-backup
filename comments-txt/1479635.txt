@@ -1,0 +1,9 @@
+Comment-Id:	1479635
+Comment-Author:	avar
+Comment-Date:	Thu Jul  1 23:34:52 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1479272
+
+Is Dan's talk accessible online somewhere? The YouTube video is marked as
+private (see e.g. http://www.gawkk.com/
+lisp-for-high-performance-transaction-p...).

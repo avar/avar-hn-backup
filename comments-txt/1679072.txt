@@ -1,0 +1,16 @@
+Comment-Id:	1679072
+Comment-Author:	avar
+Comment-Date:	Fri Sep 10 15:11:48 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1678880
+
+Apple isn't blocking contributions, they just don't care about them anymore
+since they're going with LLVM/Clang. And since they don't care they don't have
+the legal framework in place anymore to do copyright assignments.
+
+The FSF could have these changes if they wanted if they didn't require
+copyright assignment.
+
+Personally I don't contribute to FSF projects because copyright assignments are
+a PITA. I can see how a company that doesn't need to contribute to GCC anymore
+just doesn't care enough to initiate the requisite legal work.

@@ -1,0 +1,8 @@
+Comment-Id:	1599389
+Comment-Author:	avar
+Comment-Date:	Thu Aug 12 22:15:13 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1599252
+
+Yeah, or Emacs's org-mode format. That'd work very well as a machine readable
+text-based bug and tasklist format.

@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 1614864,
+  "parent" : 1614841,
+  "text" : "No I mean support in the same sense you do. Their \"supported\" OS's are obviously just things they have access to, and know that it compiles &#38; tests fine there.<p>E.g. they only have AIX 5 in \"perhaps\", that's only in the \"Best Effort\" category in Perl's case because a few dedicated individuals still build and test on it before release.",
+  "time" : 1282152614,
+  "type" : "comment"
+}

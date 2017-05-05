@@ -1,0 +1,10 @@
+Comment-Id:	1603713
+Comment-Author:	avar
+Comment-Date:	Sat Aug 14 17:56:45 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1603392
+
+It just dawned on me that this is going to be another thing like SCO.
+
+Man years will be spent arguing over this by thousands of self-appointed
+Internet Lawyers for years, with the signal to noise ratio approaching zero.

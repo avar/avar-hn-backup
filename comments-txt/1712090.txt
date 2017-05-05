@@ -1,0 +1,8 @@
+Comment-Id:	1712090
+Comment-Author:	avar
+Comment-Date:	Tue Sep 21 10:48:44 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1712020
+
+Das Telefonbuch has aerial images, that's very different from street-level
+images on Google Street View.

@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 3580844,
+  "kids" : [ 3580882 ],
+  "parent" : 3580789,
+  "text" : "The Google/Facebook/Reddit interfaces are available in dozens of languages. Millions of people who aren't from the U.S. use those platforms, so clearly most Internet users don't find that using sites aimed at multiple nationalities is in any way troublesome.<p>I'm not saying it won't work, I'm just wondering why you're planning on targeting one specific demographic in particular? I remember when nation-specific sites were much more common, now that's increasingly not the case. If you think your architecture / notification system etc. is going to be better you'd be doing yourself a disservice by making it overly narrow.<p>Anyway. I don't mean to be dismissive of your idea. But to me it sounds a lot like \"I want to set up a discussion forum for my country\". Without any of the details about why your countrymen would sign up, what they're using <i>now</i> to communicate and why they'd be motivated to switch to your platform.",
+  "time" : 1329012153,
+  "type" : "comment"
+}

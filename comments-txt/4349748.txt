@@ -1,0 +1,19 @@
+Comment-Id:	4349748
+Comment-Author:	avar
+Comment-Date:	Tue Aug  7 12:36:29 UTC 2012
+Comment-Type:	comment
+Parent-Id:	4349650
+
+Something Google could to do drastically improve the security of their
+two-factor authentication system is to add the ability to give more granular
+permissions with the application-specific passwords.
+
+I have an application that only needs to send E-Mail through my GMail account
+(git-send-email), another that only needs to write to one specific GMail label
+(Android SMS Backup), and Google Chrome surely doesn't need access to
+everything. But you'd get full access to my account if you compromised any of
+these.
+
+They already have this for the Connected Sites, Apps, and Services. I sent them
+a feature request for this a while ago but it hasn't been answered (and there's
+no way to view it online).

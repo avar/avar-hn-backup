@@ -1,0 +1,34 @@
+Comment-Id:	1609947
+Comment-Author:	avar
+Comment-Date:	Tue Aug 17 01:47:26 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1609847
+
+> This is why your bank doesn't let you make withdrawals from your account on
+port 80.
+
+It doesn't matter that my bank doesn't allow withdrawals on port 80 as long as
+a MitM allows that, and you can't guard against that unless you train users to
+expect CA-signed SSL sites for things like that.
+
+> You need to keep re-reading [...]
+
+I've already read that and replied to it at: http://news.ycombinator.com/item?
+id=1609818
+
+> The HTTP connection isn't lying to you about how secure it is.
+
+A non-CA HTTPS connection isn't lying to me, it's purely a matter of
+implementation how you treat that sort of thing. You seem to think that
+certification and encryption are inseparable, they aren't.
+
+You can have SSL encryption presuming that you're talking to a known-good
+party, while also having the ability to initiate connections to CA-signed
+parties.
+
+> [...] There is collateral damage.
+
+Yes, but there's no need for it. Browers can decide how they present SSL, if
+they consistently present a big "You're secure" banner when talking to CA+SSL
+sites and users get used to that when transferring money they'll spot that
+something's up when it's missing.

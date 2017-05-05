@@ -1,0 +1,20 @@
+Comment-Id:	4838023
+Comment-Author:	avar
+Comment-Date:	Tue Nov 27 18:32:44 UTC 2012
+Comment-Type:	comment
+Parent-Id:	4837894
+
+Say I'm looking for a mapping application and one doesn't even have data for
+where I live, or some other attribute that would cause me not to consider it in
+6 months when I look for mapping apps again.
+
+I do the same for restaurant reviews, I might give one 1 star even though it
+serves palatable food, just not the kind I like.
+
+By doing so the recommendation algorithms that harvest my feedback have access
+to both positive and negative feedback pertinent to me to give me better future
+results.
+
+That's how those kinds of scoring systems work best, not by averaging
+everyone's scores and pretending we're all robots that (dis)like the same
+things.

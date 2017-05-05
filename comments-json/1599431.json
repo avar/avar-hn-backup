@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 1599431,
+  "parent" : 1599312,
+  "text" : "That's comparing apples to oranges. A proper comparison would be to create an individual Git repository for each article, not a giant repository containing all the data in Wikipedia.<p>That would work more like the current MediaWiki storage backend does, and would probably do delta compression of old revisions more efficiently than the current homebrew code.",
+  "time" : 1281652521,
+  "type" : "comment"
+}

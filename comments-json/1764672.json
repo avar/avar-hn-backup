@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 1764672,
+  "parent" : 1763942,
+  "text" : "Right, I should have mentioned that I only do C development, not packaging. So I compile everything with CFLAGS=\"-O0 -ggdb3\".<p>But of course if you're producing binary packages you may want to use other criteria than compilation speed and diagnostic messages to select the compiler.",
+  "time" : 1286383305,
+  "type" : "comment"
+}

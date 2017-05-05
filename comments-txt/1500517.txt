@@ -1,0 +1,14 @@
+Comment-Id:	1500517
+Comment-Author:	avar
+Comment-Date:	Fri Jul  9 13:35:36 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1499945
+
+Those systems are still around, and people are still porting software to them.
+
+For instance Git which is a fairly popular package created in 2005 runs on at
+least: Linux, GNU, GNU/Hurd, GNU/Linux, Tru64 UNIX, GNU/kFreeBSD, SCO UnixWare,
+SCO UNIX SV, Darwin, various versions of Solaris, Cygwin, *BSD, AIX, IRIX,
+IRIX64, HP-UX, Windows, MINGW.
+
+Older packages like Perl and Emacs compile on a much wider range of systems.

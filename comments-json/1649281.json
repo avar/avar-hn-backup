@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1649281,
+  "kids" : [ 1649419, 1649786, 1649415 ],
+  "parent" : 1648988,
+  "text" : "I don't own an iPad but I think Apple's non-support of Flash is great. It's shipping the first major web browser in the last decade that's explicitly <i>not</i> supporting flash.<p>So it's helping to make Flash more irrelevant every day, by forcing developers to finally consider that delivering their content in some executable binary blob isn't a reasonable thing to do on the web.<p>Thanks, Apple!",
+  "time" : 1283261246,
+  "type" : "comment"
+}

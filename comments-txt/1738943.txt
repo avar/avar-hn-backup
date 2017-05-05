@@ -1,0 +1,10 @@
+Comment-Id:	1738943
+Comment-Author:	avar
+Comment-Date:	Wed Sep 29 11:11:27 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1738570
+
+The people you harm by restricting neo-nazis from using your software aren't
+neo-nazis, but everyone else who has to pay for lawyer time to review your
+custom license before they can use it. Or what's more likely: aren't going to
+use it at all once they see what sort of license you have.

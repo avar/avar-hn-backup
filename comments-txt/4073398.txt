@@ -1,0 +1,8 @@
+Comment-Id:	4073398
+Comment-Author:	avar
+Comment-Date:	Wed Jun  6 12:38:04 UTC 2012
+Comment-Type:	comment
+Parent-Id:	4073369
+
+To expand on that, to store passwords don't just use salt+sha1, or try to do
+your own nested sha1, just use bcrypt: http://en.wikipedia.org/wiki/Bcrypt

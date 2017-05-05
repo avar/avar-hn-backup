@@ -1,0 +1,12 @@
+{
+  "by" : "avar",
+  "descendants" : 6,
+  "id" : 1801579,
+  "kids" : [ 1801833, 1801770 ],
+  "score" : 30,
+  "text" : "",
+  "time" : 1287353703,
+  "title" : "Microsoft Research contributes code to MediaWiki under GPL & Apache 2.0 licenses",
+  "type" : "story",
+  "url" : "http://svn.wikimedia.org/viewvc/mediawiki/trunk/extensions/WikiBhasha/README.txt?view=markup"
+}

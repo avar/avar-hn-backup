@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1687281,
+  "kids" : [ 1687740 ],
+  "parent" : 1686131,
+  "text" : "On the other hand the SSD is probably doing transparent compression and de-duplication because it helps with real-word workloads.<p>If you only test the pathological it isn't informative if your real workloads could benefit from compression and de-duplication.",
+  "time" : 1284398187,
+  "type" : "comment"
+}

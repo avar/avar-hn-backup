@@ -1,0 +1,23 @@
+Comment-Id:	3316876
+Comment-Author:	avar
+Comment-Date:	Mon Dec  5 22:42:48 UTC 2011
+Comment-Type:	comment
+Parent-Id:	3315647
+
+I understand all of that and yet I understand none of it. The article is
+talking about explaining things to people in an understandable manner, and
+that's a bad example.
+
+I don't care that you did your data analysis with $technology unless I happen
+to be the maintenance programmer that's having to take over that project.
+
+Why did you do the data analysis, how did you do it, and what were your
+findings, and what does any of that entail would be what most people are
+interested in.
+
+Even if I'm interested in the technology you've told me nothing. What are the
+main bottlenecks in your stack, how does it scale, does it even need to scale
+at all etc?
+
+It's not only important that your audience understands what you're saying, but
+that you pick the right and pertinent items to discuss with them.

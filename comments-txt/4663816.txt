@@ -1,0 +1,20 @@
+Comment-Id:	4663816
+Comment-Author:	avar
+Comment-Date:	Wed Oct 17 10:20:16 UTC 2012
+Comment-Type:	comment
+Parent-Id:	4663778
+
+I wonder how vulnerable this approach is to timing attacks similar to the ones
+you can use to smoke out onion routed machines.
+
+If you know the physical and network location of their routing boxes and you
+keep polling some (e.g. static) resource on their servers you can eliminate all
+cloud providers that are further away than the response time as being the
+hidden backend.
+
+Let's say you narrow it down to 10 candidates and 5 of them experience some
+sort of network issue that gets reflected in the response times of TPB, you've
+now narrowed it to 5.
+
+I wonder what they're doing to mitigate these sort of timing attacks meant to
+discover their hidden backend.

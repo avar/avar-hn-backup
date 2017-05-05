@@ -1,0 +1,36 @@
+Comment-Id:	3784192
+Comment-Author:	avar
+Comment-Date:	Sun Apr  1 16:49:48 UTC 2012
+Comment-Type:	comment
+Parent-Id:	3783657
+
+Amsterdam, The Netherlands.
+
+Booking.com is always on the lookout for good developers, DBA's and sysadmins
+on-site in the center of Amsterdam. I'm a developer there and relocated over
+there about a year ago and have been very happy with it. We have people from
+all over the world relocating to work with us and are very well set up to
+handle relocation / visa issues.
+
+It's a rapidly growing company that represents the biggest chunk of the
+Priceline group of companies where problems that look relatively mundane on
+paper become much more interesting due to the scale and growth levels we're
+operating at. We use Perl for almost everything with a MySQL backend and Git
+for development. We get our changes out really fast, it's rare for your code
+not to be on our live systems within hours of you pushing it.
+
+We have a relatively flat hierarchy with minimum levels of bureaucracy since
+we're very data driven and have a clear goal: helping our customers. Everything
+we do is aimed at solving problems for our customers, if it doesn't help our
+customers we're not interested in doing it.
+
+You don't have to know Perl in advance to be a developer there. We've hired
+people who've done C, Java etc. before.
+
+I'd be happy to answer any questions at avarab@gmail.com and/or forward your
+resume. http://booking.com/jobs also has some good information.
+
+(This is a repeat of my January post (http://news.ycombinator.com/item?id=
+3413911) since it still applies, including the keyword "H1B" because while it's
+not in the US we'll similarly assist with the Dutch equivalent if relocation is
+needed)

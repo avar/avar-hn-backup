@@ -1,0 +1,19 @@
+Comment-Id:	3281298
+Comment-Author:	avar
+Comment-Date:	Sun Nov 27 01:30:29 UTC 2011
+Comment-Type:	comment
+Parent-Id:	3281089
+
+Whenever I read one of these articles I'm struck by how disconnected the vast
+financial abstractions we've constructed are from reality.
+
+Essentially they just discuss problems with the shared illusion (debt, bonds
+etc.), but not problems with what those abstractions actually mean.
+
+What's going to happen in a few weeks to cause everything to come crashing
+down? We'll still have the same people working, the same infrastructure /
+factories etc.
+
+I'm not saying the issues aren't real. Just that they're always discussed
+through so many layers of jargon to essentially be meaningless to someone who
+doesn't work in finance.

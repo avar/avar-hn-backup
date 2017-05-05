@@ -1,0 +1,10 @@
+Comment-Id:	3677272
+Comment-Author:	avar
+Comment-Date:	Wed Mar  7 21:13:56 UTC 2012
+Comment-Type:	comment
+Parent-Id:	3677025
+
+I for one am feeling way less confident in them with every announcement they
+make. They clearly have no idea if and how they were exploited, and their
+communication with their users only asks their users to check for one attack
+vector, while in actuality the attack was not limited to just adding ssh keys.

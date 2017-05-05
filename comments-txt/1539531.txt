@@ -1,0 +1,9 @@
+Comment-Id:	1539531
+Comment-Author:	avar
+Comment-Date:	Thu Jul 22 21:03:49 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1538979
+
+Veracity doesn't compile on GCC 4.4 due to enabling -Werror and making silly
+mistakes like comparing signed & unsigned integers. I fixed that here: http://
+github.com/avar/veracity/commit/ffda987d8b

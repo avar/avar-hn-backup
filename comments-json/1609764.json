@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1609764,
+  "kids" : [ 1609775 ],
+  "parent" : 1609696,
+  "text" : "What sort of person goes to a conference like Usenix and connects to an external server <i>for the first time</i>? I've been to a dozen conferences, all of whom I've used ssh at, and I've <i>never</i> connected to an external box for the first time.",
+  "time" : 1282003533,
+  "type" : "comment"
+}

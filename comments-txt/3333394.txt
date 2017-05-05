@@ -1,0 +1,14 @@
+Comment-Id:	3333394
+Comment-Author:	avar
+Comment-Date:	Fri Dec  9 11:40:58 UTC 2011
+Comment-Type:	comment
+Parent-Id:	3333044
+
+One thing I've changed about my style in the last few years is to almost never
+comment my code, but to instead write long and detailed Git commit messages
+explaining the how's and why of that code at the time that I write it.
+
+That means that over time I effectively have comments for every line of code in
+the program, but it's associated metadata instead of being embedded inline,
+which means that the comments never go out of date, and their history is
+accurately tracked in version control.

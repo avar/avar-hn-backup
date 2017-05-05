@@ -1,0 +1,8 @@
+Comment-Id:	1684817
+Comment-Author:	avar
+Comment-Date:	Sun Sep 12 23:09:54 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1684595
+
+So to connect to an Exchange server in iOS, Android or WebOS you have to give
+the server root on your phone? What sort of crazy security policy is that?

@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1601248,
+  "kids" : [ 1601298 ],
+  "parent" : 1601091,
+  "text" : "Well yeah, it needs to publish a list of those, how else would Tor clients know how to exit through them?",
+  "time" : 1281714938,
+  "type" : "comment"
+}

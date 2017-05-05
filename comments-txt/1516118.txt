@@ -1,0 +1,12 @@
+Comment-Id:	1516118
+Comment-Author:	avar
+Comment-Date:	Wed Jul 14 22:09:37 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1516067
+
+That's true to a large extent as far as I can tell. I've seen reports on
+emacs-devel of commits taking a couple of minutes, and of having merge issues
+you'd never encounter in Git.
+
+Bazaar wasn't chosen for Emacs for technical reasons, and they appear to be
+suffering the consequences of that.

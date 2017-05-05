@@ -1,0 +1,8 @@
+Comment-Id:	1614785
+Comment-Author:	avar
+Comment-Date:	Wed Aug 18 17:04:27 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1614618
+
+That they support any distro is just icing on the cake. Usually these sort of
+projects don't support OS's at all, that's downstream's problem.

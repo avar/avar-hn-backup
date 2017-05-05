@@ -1,0 +1,20 @@
+Comment-Id:	1657477
+Comment-Author:	avar
+Comment-Date:	Thu Sep  2 20:08:57 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1657209
+
+I'm not in the U.S. so I can't spend a few bucks on Netflix. But your bad
+experience with BitTorrent is probably purely a function of using the wrong
+trackers.
+
+I have access to some trackers where the download very rarely goes below 2MB/s,
+with 5-8MB/s being the average. Some of these have material like discontinued
+music and foreign films that I could never get where I live, at least not
+without significant hassle.
+
+With this setup I can initiate a download for a foreign 720p film, go and make
+some tea, and it'll be there by the time I come back.
+
+That's quality of service I can't even pay for where I live, no matter how much
+cash I fork out.

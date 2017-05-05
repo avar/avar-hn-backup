@@ -1,0 +1,8 @@
+Comment-Id:	3692862
+Comment-Author:	avar
+Comment-Date:	Mon Mar 12 09:51:45 UTC 2012
+Comment-Type:	comment
+Parent-Id:	3692771
+
+So they're now just using OS codecs which is exactly what they refused to do
+when they made a big fuss about H264 patents a while back?

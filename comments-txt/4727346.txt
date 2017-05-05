@@ -1,0 +1,34 @@
+Comment-Id:	4727346
+Comment-Author:	avar
+Comment-Date:	Thu Nov  1 13:29:01 UTC 2012
+Comment-Type:	comment
+Parent-Id:	4727241
+
+Amsterdam, The Netherlands. H1B[1]
+
+Booking.com is always on the lookout for good developers, team leads, DBA's and
+sysadmins on-site in the center of Amsterdam. I'm a developer there working on
+infrastructure tasks and relocated there just over two years ago and have been
+very happy with it.
+
+We're currently looking to fill 25 developer positions (which matches our
+growth curve), and are also looking for senior team leads.
+
+We have people from all over the world relocating to work with us and are very
+well set up to handle relocation and visa issues, most of the people working in
+IT are expats so we've got a lot of experience with bringing people in. All our
+internal communication is done in English so there's no need to learn Dutch.
+
+We use Perl for almost everything with a MySQL backend and Git for development.
+We get our changes out really fast, it's rare for your code not to be on our
+live systems within hours of you pushing it. We're also very open to open
+sourcing code that doesn't contain any business logic, I've personally been
+involved in open sourcing a few of our internal tools, including https://
+github.com/git-deploy and a few CPAN modules.
+
+I'd be happy to answer any questions at avarab@gmail.com and/or forward your
+resume, You can also apply directly at http://booking.com/jobs if you'd prefer.
+
+1. Well, not H1B, but we'll take care of the Dutch equivalent. If you are not
+from the EU we will apply for a work & residence permit for you and your family
+if needed.

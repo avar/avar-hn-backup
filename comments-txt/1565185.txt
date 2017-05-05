@@ -1,0 +1,9 @@
+Comment-Id:	1565185
+Comment-Author:	avar
+Comment-Date:	Sun Aug  1 12:26:59 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1565151
+
+It might be cost-effective to just buy a Linux VPS and run Windows on it with
+VirtualBox. You'd take a performance hit, but maybe it wouldn't matter that
+much.

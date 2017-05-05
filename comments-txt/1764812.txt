@@ -1,0 +1,12 @@
+Comment-Id:	1764812
+Comment-Author:	avar
+Comment-Date:	Wed Oct  6 17:09:15 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1763939
+
+I've seen people new to C struggle with what I think are relatively simple GCC
+diagnostic messages. I think they're somewhat simple now since I'm used to them
+and know C.
+
+But pointing out exactly the bit of code that's wrong, and often what you
+should do about it is - I think - a huge improvement.

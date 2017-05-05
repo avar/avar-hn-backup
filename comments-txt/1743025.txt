@@ -1,0 +1,20 @@
+Comment-Id:	1743025
+Comment-Author:	avar
+Comment-Date:	Thu Sep 30 12:23:18 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1742955
+
+Why do you limit a reasonable amount of time to a human lifetime? If we're
+going to colonize interstellar space with anything like our current technology
+we're probably going to have to ditch that requirement.
+
+There's no reason you can't have a multi-generational ship that takes a
+thousand years to arrive. You don't have to send thousands of people either,
+it's enough to send a hundred or so, have them populate on the way, and maybe
+send some frozen sperm & eggs with them to increase genetic diversity.
+
+Another possibility that'll probably become viable within 50-200 years is to
+not send any humans at all, but to only send a fast & small ship with human
+sperm & eggs that can start hatching humans once it gets there. Raising the
+infants could be done with robots and other infrastructure manufactured once we
+get there.

@@ -1,0 +1,9 @@
+Comment-Id:	5618926
+Comment-Author:	avar
+Comment-Date:	Sat Apr 27 20:21:02 UTC 2013
+Comment-Type:	comment
+Parent-Id:	5617988
+
+Does Glass required proprietary binary blobs to be combined with the GPL source
+like the Nexus devices (pinning you to a narrow range of kernel versions), or
+is it actually open through and through?

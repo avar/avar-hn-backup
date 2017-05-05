@@ -1,0 +1,8 @@
+Comment-Id:	4963360
+Comment-Author:	avar
+Comment-Date:	Mon Dec 24 16:55:06 UTC 2012
+Comment-Type:	comment
+Parent-Id:	4962631
+
+Here's a good overview of the non-science behind NLP: http://theness.com/
+neurologicablog/index.php/neurolinguistic...

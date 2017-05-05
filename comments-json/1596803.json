@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 1596803,
+  "parent" : 1596528,
+  "text" : "Grafts allow you to do a bunch of other neat stuff. I use Git as a backup system for SQL dumps, but since the repository will grow a lot I want to throw old dumps away.<p>So I just create a graft and rewrite my history so that it only contains 7 commits (7 days):<p><pre><code>    git rev-list HEAD | sed '7q;d' &#62; .git/info/grafts &#38;&#38;\n    git filter-branch -f HEAD</code></pre>",
+  "time" : 1281575639,
+  "type" : "comment"
+}

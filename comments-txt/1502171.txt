@@ -1,0 +1,10 @@
+Comment-Id:	1502171
+Comment-Author:	avar
+Comment-Date:	Fri Jul  9 20:49:21 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1502027
+
+According to this talk they're paying around $250k/year for server hosting at
+EC2: http://pycon.blip.tv/file/3257303/
+
+See the question at around ~27m into the video.

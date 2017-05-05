@@ -1,0 +1,13 @@
+Comment-Id:	1765539
+Comment-Author:	avar
+Comment-Date:	Wed Oct  6 19:42:06 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1765233
+
+That's what I mean, they have the data of 500 million people. But if those
+people want to move on having an easy export feature will make things much
+easier.
+
+When everyone moved from MySpace to Facebook they had to re-do their profile in
+the new system. Hopefully when FooThingy replaces Facebook importing will be
+just a click away.

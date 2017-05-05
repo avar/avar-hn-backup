@@ -1,0 +1,18 @@
+Comment-Id:	1559342
+Comment-Author:	avar
+Comment-Date:	Thu Jul 29 21:34:43 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1559277
+
+That's completely wrong. You're fundamentally misunderstanding what the free
+software movement is about. Ultimately it's a sort of grassroots consumer
+protection movement, not a bunch of hippies trying to abolish money.
+
+Stallman believes that you should vote with your feet and avoid using non-free
+software, and that if we all did this for everything there would be no space
+for non-free software in the market.
+
+That doesn't mean that you can't sell software. The FSF has always sold copies
+of their software (I know because I've bought some). All of their licenses
+allow you to sell software, they consider any license that doesn't allow this
+to be non-free.

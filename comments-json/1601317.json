@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 1601317,
+  "parent" : 1601298,
+  "text" : "No, that's different. With a hidden service you're not exiting the Tor network, but when you're exiting you always know where you're exiting from.<p>That's why the Tor project itself publishes a list of Tor routers and exit nodes, if they didn't do it it would be trivial for someone else to compile and publish the list.",
+  "time" : 1281716234,
+  "type" : "comment"
+}

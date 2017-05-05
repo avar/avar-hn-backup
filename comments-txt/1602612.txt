@@ -1,0 +1,8 @@
+Comment-Id:	1602612
+Comment-Author:	avar
+Comment-Date:	Fri Aug 13 23:34:26 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1601963
+
+Relying on a DNS TTL of 5 minutes doesn't work everywhere. Some ISPs will
+forcefully reset any TTL below 24 hours to 24h.

@@ -1,0 +1,24 @@
+Comment-Id:	1609657
+Comment-Author:	avar
+Comment-Date:	Mon Aug 16 23:23:42 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1609564
+
+> I'd rather everything use SSL
+
+That's not going to happen as long as browsers treat the continuum of security
+like this:
+
+    BEST: Oh nice, a SSL connection with a CA signed cert
+    COOL: A normal HTTP connnection
+    OMGWTFBBQ: ZOMG SOMEONE HAS A SELF SIGNED SSL CERT THE
+               SKY IS FALLING LET'S PRESENT 10 CLICK
+               THROUGH DIALOGS BEFORE THE USER CAN OPEN
+               THE BLODDY SITE
+
+As opposed to:
+
+    BEST: Oh nice, a SSL connection with a CA signed cert
+    COOL: Oh nice, a SSL connection, but no CA signing, treat like HTTP UI-wise
+    COOL: A normal HTTP connection, show the user the traffic isn't encrypted.
+

@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 3844448,
+  "kids" : [ 3844516, 3845252, 3844545 ],
+  "parent" : 3843373,
+  "text" : "The #1 thing that'll improve most people's workflow is learning how to use readline effectively. I'm continually amazed by how many people who use shells daily use the arrow keys to navigate around, don't know about common things like C-r to reverse-search through history and other commands that make editing on the command-line a breeze.",
+  "time" : 1334518143,
+  "type" : "comment"
+}

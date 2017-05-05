@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1549582,
+  "kids" : [ 1549835 ],
+  "parent" : 1549560,
+  "text" : "s/Most/All/. I've never heard of a release candidate meaning anything else, it's something you'll release as-is with a non-rc version unless critical bugs emerge. This is a beta, not a RC.",
+  "time" : 1280184051,
+  "type" : "comment"
+}

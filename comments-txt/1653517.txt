@@ -1,0 +1,7 @@
+Comment-Id:	1653517
+Comment-Author:	avar
+Comment-Date:	Wed Sep  1 17:33:30 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1653416
+
+Neither of those works in the nightly build of VLC I just compiled on Ubuntu.

@@ -1,0 +1,11 @@
+Comment-Id:	1656505
+Comment-Author:	avar
+Comment-Date:	Thu Sep  2 15:41:56 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1656390
+
+Same here, and while Firefox is somewhat faster now it's still much slower to
+start up, and for me occasionally the whole process will freeze due to activity
+in a single tab.
+
+I don't have to deal with any of that with Chrome.

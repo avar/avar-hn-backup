@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 3635979,
+  "kids" : [ 3636360, 3636460 ],
+  "parent" : 3635954,
+  "text" : "What do you mean it doesn't work? \"&#62;file\" will work on all POSIX shells, it even works on Solaris /bin/sh!<p>Also \":&#62;\" is not an operator, it's \":\" (a built-in command that does nothing and returns true) and a redirection.",
+  "time" : 1330274614,
+  "type" : "comment"
+}

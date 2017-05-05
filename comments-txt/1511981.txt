@@ -1,0 +1,13 @@
+Comment-Id:	1511981
+Comment-Author:	avar
+Comment-Date:	Tue Jul 13 16:57:53 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1511710
+
+I wouldn't donate either for those reasons, but one thing to keep in mind is
+that the codebase running reddit is open source: http://github.com/reddit/
+reddit
+
+They pushed to the public Git in a month, but the donations users are making
+will go towards improving that codebase. It can be used to deploy your own (and
+hopefully more scalable) version of reddit.

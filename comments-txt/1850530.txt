@@ -1,0 +1,8 @@
+Comment-Id:	1850530
+Comment-Author:	avar
+Comment-Date:	Sat Oct 30 09:40:32 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1850348
+
+Great news, with this and clang compiling Linux we might see it replace GCC on
+most/all free operating systems within a few years.

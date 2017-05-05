@@ -1,0 +1,13 @@
+Comment-Id:	3537901
+Comment-Author:	avar
+Comment-Date:	Wed Feb  1 13:56:30 UTC 2012
+Comment-Type:	comment
+Parent-Id:	3537513
+
+I've been using Hetzner for about a year after migrating off Slicehost to
+Linode and then to Hetzner.
+
+I'd recommend Linode if you need really good service (they once tracked down
+and patched a kernel bug for me), but if you don't want amazing support and
+just want some really good specs at a good price Hetzner is great, especially
+if you're in Europe.
