@@ -1,0 +1,17 @@
+Comment-Id:	14277149
+Comment-Author:	avar
+Comment-Date:	Fri May  5 22:03:04 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14276811
+
+Most of your comment is wrong. They've been discussing building a 1GW cable.
+7000 times smaller than 7TW. A 7TW cable would be enough to transmit Iceland's
+yearly electricity production 700 times over. It produces ~10GW per annum.
+
+Hot water is not piped directly into the homes in Reykjavík, it's heated up
+"cold" water, with artificially added sulfur. See another comment of mine here:
+https://news.ycombinator.com/item?id=14274085
+
+In Reykjavík the water you use is not recycled in any way, it's pumped into a
+sewer from there into the ocean. It's definitely not pumped the >50 km back to
+Nesjavellir for reprocessing.

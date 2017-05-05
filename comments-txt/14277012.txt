@@ -1,0 +1,29 @@
+Comment-Id:	14277012
+Comment-Author:	avar
+Comment-Date:	Fri May  5 21:38:02 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14276846
+
+His numbers look fine, but I think the assumptions are false.
+
+    > And these furnaces are maybe 50 feet across. [...]
+    > So the Earth has a heat stored which is
+    > (4K miles / 50 feet)^3
+
+This seems to assume that the earth is also cube shaped like a 50ft^3 blast
+furnace, instead of a sphere.
+
+It also seems to assume that a 50ft^3 blast furnace contains energy equivalent
+to 50ft^3 of molten mantle. If you look at diagrams of blast furnaces you can
+see that a relatively tiny part of them is actually molten material.
+
+Not being able to find numbers on the stored joules of industrial blast
+furnaces, I'm just going to just state that 50ft^3 of mantle has a crapload
+more potential energy than 50ft^3 of blast furnace, most of which is air,
+equipment & empty space, not molten material.
+
+He is right that there's at least as much energy stored in the earth as he's
+saying, but it's going to be a crapload more than that.
+
+The insides of blast furnaces are also significantly colder than the average
+temperature of the mantle.

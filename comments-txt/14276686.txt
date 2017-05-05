@@ -1,0 +1,47 @@
+Comment-Id:	14276686
+Comment-Author:	avar
+Comment-Date:	Fri May  5 20:42:08 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14275243
+
+There's no way that a tidal plant running for 100 years is going to change the
+day by 1 second. You're many orders of magnitudes off.
+
+That means that if you built 100 of those plants that in 1 year you'd change
+the length of the day by 1 second.
+
+The 2011 Tōhoku earthquake and tsunami released 3.9×10^22 joules of energy[1]
+and changed the day by just over a microsecond[2]. A single Tsar Bomba releases
+2.1×10^17 joules, so you'd need the energy of around 200 thousand of those to
+produce the same amount of energy as the earthquake, and then assuming you can
+direct that energy you need 1000 times more to shift the day by a second
+instead of a microsecond.
+
+That means that each one of your proposed tidal plants would need to generate
+the energy of 20,000,000 Tsar Bombas per year.
+
+That's one Tsar Bomba's worth of energy being released every 1.5 seconds at
+each one of those 100 plants. Buy stock in sunscreen companies now!
+
+Each one of your 100 plants would satisfy all of current yearly world energy
+production in just 30 minutes[3][4].
+
+I'm too lazy to calculate what that would do to the surrounding area, but I'd
+wager that they're going to severely depress local property prices due much of
+the surrounding beach-side property area now being turned into permanent molten
+lava.
+
+The good news is you could probably build really good wind power plants now,
+due to constant hurricane winds not seen on Earth since the K–T impact, but I
+digress.
+
+I didn't check your molten rock calculation but given how off your tidal plant
+calculation is I wouldn't be surprised if it's way off as well.
+
+1. https://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_an...
+
+2. https://www.nasa.gov/topics/earth/features/japanquake/earth2...
+
+3. https://en.wikipedia.org/wiki/World_energy_consumption
+
+4. ((5.67x10^20)/(2.1x10^17))/1.5/60 = 30
