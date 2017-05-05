@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 9451273,
+  "parent" : 9451163,
+  "text" : "The way you generally deal with the second problem is to have a profiler that can give you the inclusive time spent in a subroutine, not just the exclusive time. The inclusive time is the time spent in that sub <i>and</i> in subs it calls, the exclusive time is time spent <i>only</i> in that sub.<p>When you have inclusive time it usually becomes easy to find that function that&#x27;s spending 80% of the time in either itself or in the things it calls.",
+  "time" : 1430216362,
+  "type" : "comment"
+}

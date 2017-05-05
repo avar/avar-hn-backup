@@ -1,0 +1,18 @@
+Comment-Id:	12630895
+Comment-Author:	avar
+Comment-Date:	Mon Oct  3 20:09:35 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12629724
+
+There's some down-thread armchair speculation about why humans have two
+kidneys. I found it interesting, but instead of conniving my own theory did
+some searching.
+
+The gist of it is that nobody seems to know, but the most simple explanation is
+that lateral symmetry is common in general because it's more efficiently
+encoded in the DNA. The organs & structures that don't come in twos are the odd
+exceptions, not the other way around.
+
+1. https://www.quora.com/Why-is-it-that-humans-(and-many-animal...
+
+2. https://www.reddit.com/r/askscience/comments/po4v6/why_did_w...

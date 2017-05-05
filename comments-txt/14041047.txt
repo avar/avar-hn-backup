@@ -1,0 +1,39 @@
+Comment-Id:	14041047
+Comment-Author:	avar
+Comment-Date:	Wed Apr  5 10:27:23 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14040552
+
+This reply is correctly refuting an argument that I'm not making. If I was
+saying that the gun homicide rate anywhere in the EU & the US was comparable
+I'd be wrong, as you say it's off by orders of magnitude.
+
+What I am saying is that comparing homicides by weapon type ignores the big
+picture, which is who cares in the end whether you're killed by a gun, a knife,
+or bludgeoned to death? You're going to be just as dead.
+
+The availability of guns in the US means that when there's a homicide or a
+suicide it's vastly more likely to involve a gun than in the EU, but people
+focus on that statistic and assume that magically taking away the guns would
+drastically improve the situation.
+
+That's not supported by the data. The people of Lithuania, which for some in
+the US would match some ideal they have of restrictive gun laws, manage to kill
+each other at a higher overall rate than pepole in the US, even though they
+have gun restrictions to the point where only 1% of those homicides involve a
+gun.
+
+So yes, if you look at the US by firearm related death rate[1] alone it looks
+like a 3rd world hellhole. But comparing countries by death rate by specific
+implement makes no sense. Instead you have to look at the overall homicide rate
+[2] and the overall suicide rate[3].
+
+Once you do that, several countries in Europe look worse when it comes to
+homicides, and the US is exceeded by the likes of France when it comes to
+overall suicide rates.
+
+1. https://en.wikipedia.org/wiki/List_of_countries_by_firearm-r...
+
+2. https://en.wikipedia.org/wiki/List_of_countries_by_intention...
+
+3. https://en.wikipedia.org/wiki/List_of_countries_by_suicide_r...

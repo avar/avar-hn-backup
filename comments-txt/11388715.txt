@@ -1,0 +1,20 @@
+Comment-Id:	11388715
+Comment-Author:	avar
+Comment-Date:	Wed Mar 30 12:25:52 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11388674
+
+On which one does it work? I haven't run across a Linux filesystem where it
+doesn't work, including mounts over NFS. But I suppose on some non-POSIX
+platforms you might have more issues, or with some esoteric mount options to
+screw with mtime or something.
+
+The reason it's disabled by default is first of all that it's relatively new,
+but secondly that if your FS stops behaving as expected (or you move your repo
+to one that doesn't behave) it'll degrade very badly, i.e. "git status" might
+now completely miss files that have been modified in your working tree.
+
+But if you're just running a system where you know you can trust the FS you can
+use the untracked cache and get a lot of "git status" speed-up, which'll matter
+more the larger your checkout size is in terms of checked out directories &
+files.

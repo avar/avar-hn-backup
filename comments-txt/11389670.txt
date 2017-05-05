@@ -1,0 +1,21 @@
+Comment-Id:	11389670
+Comment-Author:	avar
+Comment-Date:	Wed Mar 30 14:52:06 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11389554
+
+In reply to that:
+
+1) I find that for the large repos I work on the difference goes from
+"noticeably slow" to "I don't notice it" which is somewhere on the magical
+~200ms boundary.
+
+2) This really doesn't help, the Git repo is likely in the FS cache anyway,
+you'll get exactly the same results / speedup if you do this in /dev/shm i.e.
+the in-memory filesystem.
+
+This has nothing to do with fast drives, it has to do with syscall overhead.
+Recursively stat-ing a huge directory is simply never going to be all that
+fast.
+
+3) Irrelevant for the reasons noted above.

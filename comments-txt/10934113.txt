@@ -1,0 +1,21 @@
+Comment-Id:	10934113
+Comment-Author:	avar
+Comment-Date:	Tue Jan 19 21:17:51 UTC 2016
+Comment-Type:	comment
+Parent-Id:	10928813
+
+This is all correct, to expand a bit on it here's a spreadsheet someone posted
+in /r/spacex analyzing the cost benefits of reusability:
+
+https://docs.google.com/spreadsheets/d/144Y_OVmFFYTh_zTiV-FH...
+
+"Reusing the first stage three times halves the overall cost of launch. Reusing
+9 times cuts the cost to 1/3. However, there is little benefit to first stage
+reuse beyond that… Reusing both stages just once halves the total cost of
+launch. In addition, reusing both stages four times reduces the cost to 1/4,
+and reusing eight times reduces to 1/8."
+
+As you touched upon a lot of things in space are expensive because launch
+vehicles aren't reusable, once they are it makes sense to create cheaper and
+expandable payloads rather than multi-billion dollar payloads strapped to
+rockets that can't be allowed to fail.

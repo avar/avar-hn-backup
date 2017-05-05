@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 11357393,
+  "kids" : [ 11357459 ],
+  "parent" : 11356461,
+  "text" : "I&#x27;ve been curious as to why the following strategy wouldn&#x27;t work as a hack as well:<p>* Your credit card has a balance of $0 on it<p>* You have some app that allows $NAME to deduct $X from it<p>* You transfer $X to it earmarked for $NAME for some limited amount of time.<p>I.e. you could walk into Starbucks, have an app on your phone to say you&#x27;re depositing $20 into an account earmarked for &#x2F;starbucks&#x2F;i for 30 minutes.",
+  "time" : 1458862272,
+  "type" : "comment"
+}

@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 14186296,
+  "kids" : [ 14187894, 14186433, 14186392 ],
+  "parent" : 14184528,
+  "text" : "Slightly off-topic, but anyone know what he&#x27;s using to generate those inline SVG graphs? I&#x27;ve been looking for some easy to use graphing library like that to present similar performance numbers on a webpage.",
+  "time" : 1493055669,
+  "type" : "comment"
+}

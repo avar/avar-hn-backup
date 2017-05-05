@@ -1,0 +1,53 @@
+Comment-Id:	9219184
+Comment-Author:	avar
+Comment-Date:	Tue Mar 17 16:41:17 UTC 2015
+Comment-Type:	comment
+Parent-Id:	9210969
+
+Right, you don't have to implement it like that, but the point is that the job
+is guaranteed to be in one of these states:
+
+* Hasn't been picked up yet * Has been picked up, and currently has something
+processing it (because the lock is still there) * Has been picked up, but
+whatever picked it up has gone away * It's finished
+
+Handling the jobs that haven't been picked up yet or are finished is easy. But
+what do you do about the jobs where the processor has simply gone away?
+
+Well, if they still hold the lock you can give them some more time, and if they
+don't hold the lock presumably they died.
+
+At that point you can decide how you want to handle that, do you just have
+something re-queue those jobs after some set amount of time has passed, or does
+someone manually look at the jobs and decide what to do?
+
+As an example of something we use this for: You might have some transactional
+E-Mails to be sent out, each recipient is a row in the queue table, you have to
+generate an E-Mail and pipe it to sendmail, just before you shell out to
+sendmail you mark the item as "processing", then you depending on the sendmail
+return value you either mark the item as processed in the queue or re-queue it.
+
+There's obviously a race condition here where sendmail might have returned OK
+to you but the DB server you're talking to blows up (so you can't set the
+status as "finished"). No amount of having unique IDs in external systems is
+going to help you because that'll just create the same problem. I.e. you have
+some state outside of your system that needs to be manipulated exactly once,
+and once that's done you'd like to mark the job as done.
+
+In practice once you get the things that can fail between "processing" and
+"finished" down to some trivial logic this sort of thing is really reliable as
+an "exactly once" queue. To the extent that it fails once in a blue moon you
+can usually just manually repair it, i.e. in this case see what your mail logs
+say about what mails you sent out.
+
+Redis obviously doesn't have the same strong storage guarantees as a
+disk-backed RDMBs, but we also have a version of exactly this logic that runs
+on top of Redis sentinel: https://metacpan.org/pod/
+Queue::Q::ReliableFIFO::Redis
+
+It has the same queued/in-progress/finished queues using Redis lists, things
+are moved between the lists atomically and processed by workers, but of course
+if a worker crashes and burns at the wrong time you're stuck with some items in
+in-progress state and have to somehow figure out what to do with them. I.e.
+either you blindly re-queue them (at least once) or manually see whether they
+finished their work and re-queue them as appropriate (exactly once).

@@ -1,0 +1,23 @@
+Comment-Id:	10405770
+Comment-Author:	avar
+Comment-Date:	Sat Oct 17 19:45:54 UTC 2015
+Comment-Type:	comment
+Parent-Id:	10405735
+
+    > Google prototypes have a big, red stop button that,
+    > I assume, takes precedence over hackable software.
+
+You think so? I would assume not. I doubt the car is just going to screech to a
+halt via some hardware switch, think about the danger of someone pressing that
+while in the center lane of a highway.
+
+Instead it's probably synonymous with giving the software a "stop now" command.
+I.e. it would know to safely pull over to the side of the road, or take the
+next off-ramp in that situation.
+
+So if someone had hacked the driving software that could be overridden.
+
+I do think idibidiart is being overly alarmist. Self-driving cars don't have to
+be perfect, and there could certainly be malicious hacking incidents, but
+they're highly likely to outnumber the cases where people die now due to
+imperfect human drivers.

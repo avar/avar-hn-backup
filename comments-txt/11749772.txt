@@ -1,0 +1,23 @@
+Comment-Id:	11749772
+Comment-Author:	avar
+Comment-Date:	Sun May 22 18:57:34 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11749288
+
+I reinstalled my laptop with btrfs on / because "why not" about a year ago.
+
+I ran into issues with maintaining a huge ~1M file Maildir, it seemed to do
+very badly with huge directories. Some kernel thread would be at 99% CPU while
+I was trying to populate a Maildir, and the entire system ground to a halt.
+
+More importantly I would run into issues like running out of space on / with
+20G left, but it was the "wrong kind of space". I.e. I had run out of metadata
+space but had plenty of file space left and had to run a rebalancing operation
+on the filesystem.
+
+I didn't need any of the COW etc. advanced features that btrfs provides, and
+didn't test them, but as just a normal user needing a general purpose
+filesystem it was a bit too much hassle, especially with needing to administer
+the filesystem in a manner similar to how I might administer a RDBMS.
+
+I ended up just going back to ext4.

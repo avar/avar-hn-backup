@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 6779082,
+  "kids" : [ 6780944 ],
+  "parent" : 6778689,
+  "text" : "Using &quot;DMZ&quot; in this context is very confusing, in common usage it means the exact opposite of what you intended.<p>A lot of home routers have a &quot;DMZ&quot; feature that gives the device you put in the DMZ full access to the outside internet, but restricts their access to other hosts on the local network.<p>It&#x27;s typically used for gaming machines when you can&#x27;t be bothered to forward a lot of ports individually, I have a gaming console in a &quot;DMZ&quot; on my network so I can play games online without fuss.",
+  "time" : 1385090718,
+  "type" : "comment"
+}

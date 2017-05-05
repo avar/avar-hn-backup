@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 10484768,
+  "parent" : 10484729,
+  "text" : "Indeed, but actually much more importantly it doesn&#x27;t try to &quot;freeze&quot; derived information that you could just as well construct after the fact from raw information.<p>This is a very important general concept in Git. It&#x27;s reason for why it doesn&#x27;t have an explicit &quot;rename&quot; primitive, instead you construct that information after the fact from the raw history.<p>Similarly if you&#x27;re looking to do forensics on merge conflicts it&#x27;s much better to have the raw original information.<p>As an aside, the author also seems to be making the dangerous assumption that just because the default merge driver doesn&#x27;t indicate something as conflicting that he doesn&#x27;t have to save the original information, his implementation hinges on `rebaseWithoutConflictsPossible()`.<p>It&#x27;s possible to have logical conflicts that Git doesn&#x27;t detect. E.g. if your addition of some code uses a function that&#x27;s been removed from the upstream.<p>Thus if you really want to cover all these cases just push your original unrebased branch, then rebase it and push the result (with conflicts, if any, resolved). That gives you all the information you need for after the fact forensics, while keeping your history simple for casual inspection.",
+  "time" : 1446335733,
+  "type" : "comment"
+}

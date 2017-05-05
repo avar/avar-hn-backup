@@ -1,0 +1,9 @@
+Comment-Id:	12563419
+Comment-Author:	avar
+Comment-Date:	Fri Sep 23 09:52:24 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12561369
+
+Interesting that their marketing video has someone driving on the cycle path at
+00:26. Maybe warning about that is something they can address in the next
+software update :)

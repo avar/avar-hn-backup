@@ -1,0 +1,12 @@
+Comment-Id:	14175096
+Comment-Author:	avar
+Comment-Date:	Sat Apr 22 22:07:52 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14174940
+
+They said the same about Facetime and iMessages but never opened or documented
+those, so let's see when and if it actually happens. Apple has a history of
+false promises when it comes to opening and documenting their protocols & data
+formats.
+
+Edit: I misrecalled that iMessage was announced as something they were opening.

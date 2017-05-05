@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 11513108,
+  "kids" : [ 11513686 ],
+  "parent" : 11513081,
+  "text" : "<p><pre><code>    &gt; That makes no sense. Have each process write to its own log. This is\n    &gt; making your life hard for no reason.\n</code></pre>\nThis is literally how pretty much every daemon process works on\nUnix systems. You don&#x27;t log in and tail &#x2F;var&#x2F;log&#x2F;apache&#x2F;access.log.{1..N}\nwhere N is the number of threads&#x2F;processes. You just tail\n&#x2F;var&#x2F;log&#x2F;apache&#x2F;access.log which all of them write to by virtue of\nPIPE_BUF semantics.<p>Having to tail N logs where N is some unknown number of processes is what&#x27;s making your life harder for no reason. That&#x27;s what O_APPEND and PIPE_BUF are for.<p><pre><code>    &gt; This isn&#x27;t about access.log, it&#x27;s about transaction logs for\n    &gt; database systems. [...] think of their commit logs as like a\n    &gt; block chain.\n</code></pre>\nI <i>really</i> don&#x27;t see how any of this is relevant to the original point\nof having &quot;log&quot; files. Now you&#x27;re talking about DB transaction logs\nand blockchains, which <i>really</i> don&#x27;t need to have their nuances\nimplemented in terms of POSIX file semantics. They can just have a\nsingle process that manages those expectations.<p>Everyone&#x27;s expectations don&#x27;t have to be implemented on the filesystem level, particularly when those expectations inherently involve locking writes and retry loops.",
+  "time" : 1460856875,
+  "type" : "comment"
+}

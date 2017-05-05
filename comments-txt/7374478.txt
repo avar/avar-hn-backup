@@ -1,0 +1,27 @@
+Comment-Id:	7374478
+Comment-Author:	avar
+Comment-Date:	Mon Mar 10 17:50:50 UTC 2014
+Comment-Type:	comment
+Parent-Id:	7373875
+
+You're right about a lot of this knowledge being transferable, but I think you
+might also be underestimating just how much useful specialist knowledge you can
+acquire specific to a particular toolchain, and how much of a step back
+starting over can be.
+
+I happen to have been doing Perl professionally for a while now and I'd say it
+would take me at least 2 years to get equally up to speed on another toolchain.
+
+Sure I can write programs productively in other languages, but with my language
+of choice I don't have to look up dozens of little things a day, avoid common
+and less common pitfalls all the time, and generally choose the easier path the
+first time around because I've been around the block a bunch of times.
+
+No matter what toolchain you use productivity at that level is hard to come by,
+and a lot of it is toolchain-specific. I can competently hack C but someone
+who's been doing it for 10 years will run laps around me.
+
+So while I'm certainly not married for life to the toolchain I'm using I also
+think that many people underestimate just how much effort it is to truly become
+completely intimately familiar with some tool, and how much you constantly gain
+in productivity for having done so.

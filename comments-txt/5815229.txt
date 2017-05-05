@@ -1,0 +1,16 @@
+Comment-Id:	5815229
+Comment-Author:	avar
+Comment-Date:	Mon Jun  3 19:15:21 UTC 2013
+Comment-Type:	comment
+Parent-Id:	5814892
+
+    > [...]but people go on Facebook and G+ to feel good[...]
+
+Very true, but to add to that another factor that shouldn't be underestimated
+is that it's companies advertising on these platforms that are footing the bill
+for their operations.
+
+Fewer companies will want to advertise with you if their company/product page
+can be disliked. To name an example Monsanto has ~22k likes (https://
+www.facebook.com/MonsantoCo) they'd probably have at least two orders of
+magnitude as many dislikes if people could "dislike".

@@ -1,0 +1,11 @@
+Comment-Id:	13111287
+Comment-Author:	avar
+Comment-Date:	Tue Dec  6 00:40:23 UTC 2016
+Comment-Type:	comment
+Parent-Id:	13110536
+
+    Its [errno's] value is significant only when the return value of
+    the call indicated an error (i.e., -1 from most calls; -1 or NULL
+    from most library functions); a function that succeeds is allowed
+    to change errno.
+

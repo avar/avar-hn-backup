@@ -1,0 +1,17 @@
+Comment-Id:	11030533
+Comment-Author:	avar
+Comment-Date:	Wed Feb  3 22:52:12 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11030490
+
+There's liability in a lot of countries, punitive damages aren't a thing in a
+lot of them
+
+So if your autonomous car kill someone you could just say "yes, shit happens,
+we'll fix it, but look at how the death toll from vehicles has gone down
+drastically due to this technology, maybe the courts shouldn't sue us out of
+existence when the alternative is a drunk/distracted/incompetent human behind
+the wheel?".
+
+The OP is suggesting that that's going to happen in the U.S., maybe it will,
+but that's not the reality in many other countries.

@@ -1,0 +1,40 @@
+Comment-Id:	14177984
+Comment-Author:	avar
+Comment-Date:	Sun Apr 23 13:01:00 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14177811
+
+I think that's an absurdly low standard to apply to corporate speech.
+
+The CEO of a multi-billion dollar company gets on stage during their main
+annual product conference and says a newly announced product is going to become
+an open industry standard.
+
+This turns out not to possible in exactly the way the company had planned due
+to a lawsuit, so the company drops the plan entirely.
+
+That's a lie by definition. You asserted that you'd do something and then you
+didn't do it. Does breaking a promise imply that there can't be any mitigating
+circumstances? No, I'm sure there were some reasons for why FaceTime wasn't
+opened.
+
+People & companies make product buying decisions based on things like these,
+e.g. some company might have bought a bunch of iPads for video conferencing
+expecting that in a couple of years they'd be inter-operable with any device
+they could buy, including non-Apple devices.
+
+This excuse that they couldn't open the p2p thing they initially planned to
+open is absurd. Apple could absolutely have just opened & standardized what
+FaceTime ended up being, i.e. an open video chat client/server allowing anyone
+to run a server. I.e. some sort of IRC or Jabber for video messaging.
+
+Even if they couldn't open or release some specific component due to patent
+concerns they could still have opened & standardized almost everything else,
+see e.g. how open source video players ship pluggable codec support without
+direct support for some proprietary & patented codecs.
+
+Bringing this back to my original comment on APFS, do I think they won't open
+that? No, they probably will. I just thought I'd point out that Apple has a
+documented history of abandoning their open source / standardization plans
+after making some very public announcements about them, so people should be
+wary of counting their chickens before they're hatched when it comes to Apple.

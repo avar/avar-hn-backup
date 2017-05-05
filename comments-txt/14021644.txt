@@ -1,0 +1,26 @@
+Comment-Id:	14021644
+Comment-Author:	avar
+Comment-Date:	Mon Apr  3 09:49:07 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14021428
+
+    > That's stupid and wrong, just like you are.
+
+I think your inability to have a civil discussion without needlessly throwing
+insults around speaks for itself.
+
+    > Users have a desire to get from point a to
+    > point b. There's no incentive to cancel.
+    > People don't do that.
+
+There are trivial no-brainer cases where the potential for free cancellations
+allows you to offload costs on someone else.
+
+E.g. you and your 4 friends need to get from A->B together, you each order an
+Uber for the ride, but you only intend to use one car. The ETAs are in the
+range of 15-25 minutes, you all have the "Fake Battery Status" app installed &
+cancel 3 of the cars when the first one has an ETA of < 2 minutes.
+
+Now you're able to get where you need to go 5-10 minutes earlier than you
+otherwise would have, at no extra cost, but you've incurred a cost on Uber &
+lost opportunity (& real fuel costs) on the driver.

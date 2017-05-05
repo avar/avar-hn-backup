@@ -1,0 +1,25 @@
+Comment-Id:	12742499
+Comment-Author:	avar
+Comment-Date:	Wed Oct 19 10:11:23 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12683858
+
+Let's say there was a country where 0.5% of the drivers used seat belts[1], and
+out of those mostly just race car drivers. Yet that country had no notable
+increase in injuries or fatalities in car crashes as a result compared to
+countries where seat belts were mandatory.
+
+Add into that that in this parallel universe driving a car daily had big
+long-term health benefits, and the introduction of seat belt laws in other
+countries had caused driving to drop by 1/3 [2], causing fewer people to cycle,
+overall health to decline, and a reduction in car safety due to less car safety
+in numbers. Since a major cause of accidents was that few people used cars
+daily, leading to accidents where people weren't expecting them.
+
+Then yeah, I think it would be completely fair to question whether wearing a
+seat belt in your car was worthwhile. But of course none of this analogy makes
+sense, which makes your argument rather nonsensical.
+
+1. http://www.cyclehelmets.org/1261.html
+
+2. https://en.wikipedia.org/wiki/Bicycle_helmet_laws#Effects_on...

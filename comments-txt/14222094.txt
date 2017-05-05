@@ -1,0 +1,29 @@
+Comment-Id:	14222094
+Comment-Author:	avar
+Comment-Date:	Fri Apr 28 18:59:16 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14221501
+
+I use OfflineIMAP to fetch & emacs/mu+mu4e+exim to read+index/search+send my
+E-Mail. It works, and overall I'm happy with it.
+
+I used to use mbsync but when my employer migrated from Cyrus to Exchange IMAP
+I couldn't get mbsync to work with it, but OfflineIMAP worked just fine.
+
+Now they've migrated to GMail, which works fine with both, and even though
+OfflineIMAP is more flexible & easier to customize I'll probably switch back at
+some point.
+
+OfflineIMAP regularly pegs my CPU at >100% just downloading a few dozen
+E-Mails, whereas mbsync's CPU usage never went above 2-3%. When my laptop fan
+starts spinning it's usually OfflineIMAP in the background.
+
+So if you're looking for an IMAP->Maildir retriever or backup solution consider
+trying out mbsync first.
+
+It's a PAIN to switch between these programs, or even using the same data when
+switching between different servers (e.g. Cyrus -> Exchange). Inexplicably
+neither of them have some sort of reindexing mode where they can take an
+existing Maildir and reconstruct their local database from local/remote
+Message-Id's. They both use & maintain an opaque local database. That's why I
+haven't simply gone back to mbsync.

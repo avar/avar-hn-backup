@@ -1,0 +1,18 @@
+Comment-Id:	11109124
+Comment-Author:	avar
+Comment-Date:	Tue Feb 16 11:14:31 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11108865
+
+The USSR made some amazing contributions to technology, but it's a bit of an
+exaggeration to say that it "gave birth to human travel in space" which to me
+implies that it was a novel technology nobody else was working on and wouldn't
+have happened any time soon without them.
+
+The first manned US flight was a month after the Soviet one, and the US had
+successfully returned monkeys from space before that, so arguably they were
+ahead technologically but less willing to use a human test subject.
+
+It's more accurate to say that ICBM development in both the US and USSR had the
+unintended side-effect of giving birth to human space travel once the political
+benefits of using nuclear launch systems for human space travel were realized.

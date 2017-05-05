@@ -1,0 +1,48 @@
+Comment-Id:	13239787
+Comment-Author:	avar
+Comment-Date:	Thu Dec 22 19:48:00 UTC 2016
+Comment-Type:	comment
+Parent-Id:	13239638
+
+> I meant Feynman's later recounting of the whole affair
+
+I've read that too. You're dangerously close to getting me to re-read
+everything Feynman's written, again. I don't know whether to curse you or thank
+you :)
+
+> And then what? [...]
+
+I feel we're in violent agreement as to what the actual problem at NASA was,
+yes, I'm under no illusion that if some engineer had raised these issues it
+would have gone well for him. This is made clear in the opening words of
+Feynman's analysis,:
+
+    [...] It appears that there are enormous differences of opinion as to the
+    probability of a failure with loss of vehicle and of human life. The
+    estimates range from roughly 1 in 100 to 1 in 100,000. The higher
+    figures come from the working engineers, and the very low figures from
+    management. What are the causes and consequences of this lack of
+    agreement? Since 1 part in 100,000 would imply that one could put a
+    Shuttle up each day for 300 years expecting to lose only one, we could
+    properly ask "What is the cause of management's fantastic faith in the
+    machinery?"
+
+I'm pointing out, not to disagree with you, but just to use your comment as a
+springboard, that to an outside observer this whole process led to some
+"moronic engineering". Engineering is the sum of the actual construction &
+design process and the management structure around it.
+
+The real flaw in the report is that it didn't explore how that came to be
+institutional practice at NASA, Feynman is the only one who tried.
+
+> That's really not what I read behind the lines.
+
+Regardless of what sort of dysfunctional management practices there were at
+NASA they couldn't have launched the thing without their engineers. If they
+were truly of the opinion that shuttle reliability was 3 orders of magnitude
+less than what management thought, perhaps they should have refused to work on
+it until that death machine was grounded pending review.
+
+Of course that wouldn't have been easy, but it's our responsibility as
+engineers to consider those sorts of options in the face of dysfunctional
+management, especially when lives are on the line.

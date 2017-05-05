@@ -1,0 +1,7 @@
+Comment-Id:	12818736
+Comment-Author:	avar
+Comment-Date:	Fri Oct 28 17:52:33 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12818563
+
+How is this functionally different from everyone using "mixers" with Bitcoin?

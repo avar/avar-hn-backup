@@ -1,0 +1,14 @@
+Comment-Id:	11500266
+Comment-Author:	avar
+Comment-Date:	Thu Apr 14 20:54:42 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11499484
+
+Google's certainly at some fault here, e.g. by choosing to long-term fork Linux
+instead of trying to upstream their patches.
+
+But my understanding is that they couldn't "just" do something like what
+Windows does, they don't get to boss the OEMs around in that capacity, some of
+the big ones effectively have their own Android forks (Samsung) or have already
+forked (Amazon), and if Google starts bossing them around they're just as
+likely to fully fork it as be brought into the fold.

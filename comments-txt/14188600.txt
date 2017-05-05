@@ -1,0 +1,25 @@
+Comment-Id:	14188600
+Comment-Author:	avar
+Comment-Date:	Mon Apr 24 21:42:15 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14184528
+
+There's another way for glob() implementations to mitigate these sort of
+patterns that Russ doesn't discuss, but can be inferred from a careful reading
+of the different examples in this new glob() article & the 2007 regex article.
+
+In the regex article he notes that e.g. perl is subject to pathological
+behavior when you match a?^na^n against an a^n:
+
+    $ time perl -wE 'my $l = shift; my $str = "a" x $l; my $rx = "a?" x $l . $str; $str =~ /${rx}/' 28
+    real    0m13.278s
+
+However changing the pattern to /${rx}b/ makes it execute almost instantly.
+This is because the matcher will look ahead for fixed non-pattern strings found
+in the pattern, and deduce that whatever globbing we're trying to match now it
+can't possibly matter if the string doesn't have a "b" in it.
+
+I wonder if any globbing implementations take advantage of that class of
+optimization, and if there's any cases where Russ's suggested solution of not
+backtracking produces different results than you'd get by backtracking, in
+particular with some of the extended non-POSIX glob syntax out there.

@@ -1,0 +1,50 @@
+Comment-Id:	14241194
+Comment-Author:	avar
+Comment-Date:	Mon May  1 20:24:38 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14240354
+
+    > Are you missing the difference between
+    > distributing the program and distributing
+    > its result? The latter lands firmly into
+    > "usage" category. [...] it's like saying if
+    > I send somebody a Word document it's the
+    > same as if I sent them a copy of
+    > Word. That's baloney.
+
+The AGPL is meant to cover the cases where the "output" is what the program
+itself does. E.g. free software web applications like bug trackers, wikis etc.
+
+So the analogy is not sending someone a Word document being like distributing
+Word, neither the APGL or the GPL cover that. It's setting up a paid-for VNC
+service where users can access your copy of Word.
+
+The GPL explicitly permits this sort of thing, because it's quite lax about
+defining network interaction, the AGPL is more strict.
+
+    > Again, only if "user" means "never modifying
+    > or building on it", which in OSS world is a
+    > very restrictive condition.
+
+Copyright law has no purview over whether you modify or build on something, and
+neither can any free software license. I can modify and build on any software I
+have that I haven't signed a contract to obtain, copyright law only comes into
+play when I want to distribute the software in any way.
+
+If and when I've done that whether I've modified or built on it has little
+bearing on whether I'm committing copyright infringement.
+
+    > Did you just claim "following standard
+    > copyright law" and "ignoring the license" is
+    > the same and both things are easy and
+    > obvious?
+
+I really can't see how you've read this thread and somehow become this
+confused. All I'm doing here is correcting WBrentWilliams's misconception that
+free software licenses are somehow something you need to get end-users to agree
+to before they use freely licensed software.
+
+That this isn't how things work is something the GPL itself explicitly states.
+The same applies to any free software license, the GPL just happens to be a
+rather verbose license which goes out of its way to explain the basics of
+copyright law to you.

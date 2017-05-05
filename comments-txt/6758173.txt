@@ -1,0 +1,8 @@
+Comment-Id:	6758173
+Comment-Author:	avar
+Comment-Date:	Mon Nov 18 23:49:12 UTC 2013
+Comment-Type:	comment
+Parent-Id:	6757610
+
+Just using "sort(hash-keys())" instead of "hash-keys()" should be a trivial
+patch that fixes this.

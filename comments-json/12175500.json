@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 12175500,
+  "kids" : [ 12175672, 12175549, 12177610 ],
+  "parent" : 12175154,
+  "text" : "<p><pre><code>    &gt; Most of them talk about how you should avoid try&#x2F;catch in\n    &gt; performant code, even though it&#x27;s only one engine that doesn&#x27;t\n    &gt; optimize it\n</code></pre>\nThat still sounds like great advice even though it&#x27;s &quot;only&quot; slow on\none engine. Very few performant JS applications have the luxury of not\nworrying about how Chrome performs, as opposed to only IE, Firefox &amp;\nSafari.",
+  "time" : 1469645207,
+  "type" : "comment"
+}

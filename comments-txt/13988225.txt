@@ -1,0 +1,16 @@
+Comment-Id:	13988225
+Comment-Author:	avar
+Comment-Date:	Wed Mar 29 16:56:40 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13988041
+
+Being against nuclear for trivial reasons like these is why we have the
+alternative: coal plants. Those kill an estimated 300,000 thousand people per
+year[1].
+
+It's only recently that renewables have become a realistic alternative in some
+(but not all) cases, but for decades we've had people dropping like flies due
+to coal, entirely because the public is too science illiterate to understand
+that nuclear isn't anywhere as big of a deal by comparison.
+
+1. https://sites.google.com/site/yarravalleyclimateactiongroup/...

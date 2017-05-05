@@ -1,0 +1,9 @@
+Comment-Id:	13961120
+Comment-Author:	avar
+Comment-Date:	Sun Mar 26 15:03:46 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13960733
+
+When I played a lot of these custom maps couldn't be opened in the map editor
+even though they were playable, the authors would corrupt the file somehow. Was
+that problem ever solved?

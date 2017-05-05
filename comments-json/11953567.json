@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 11953567,
+  "kids" : [ 11953612, 11954644, 11954262 ],
+  "parent" : 11953536,
+  "text" : "As I recall the terms include some phrase like &quot;we might change the license to be similar in spirit to the existing one&quot; which gives FSF and anyone who controls it in the future a lot of wiggle room.<p>E.g. the GPL v2 to v3 transition was enabled by that, with the introduction of patent&#x2F;&quot;TiVo&quot; clauses. No reason they couldn&#x27;t make more drastic changes in the future.",
+  "time" : 1466601039,
+  "type" : "comment"
+}

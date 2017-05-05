@@ -1,0 +1,12 @@
+Comment-Id:	13382178
+Comment-Author:	avar
+Comment-Date:	Thu Jan 12 13:57:15 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13382134
+
+For anyone hoping for a Presto revival it's Chrome under the hood:
+
+    Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_2)
+    AppleWebKit/537.36 (KHTML, like Gecko)
+    Chrome/53.0.2785.21 Safari/537.36 MMS/1.0.2459.0
+

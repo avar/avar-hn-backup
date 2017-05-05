@@ -1,0 +1,11 @@
+Comment-Id:	8611532
+Comment-Author:	avar
+Comment-Date:	Sat Nov 15 12:17:21 UTC 2014
+Comment-Type:	comment
+Parent-Id:	8611473
+
+The NASA website seems to imply that it's done manually: http://
+mars.jpl.nasa.gov/msl/mission/rover/brains/
+
+Presumably there's some basic functions in the radio stack they use where they
+can trigger operations like shutdown, startup, reboot, switch boards etc.

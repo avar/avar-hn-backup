@@ -1,0 +1,13 @@
+Comment-Id:	12944088
+Comment-Author:	avar
+Comment-Date:	Sun Nov 13 16:32:13 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12944045
+
+It's licensed under the GPL, where you're not allowed to add any additional
+terms. The citation notice it spews out is annoying, but can be disabled, and
+you definitely don't have to include it anywhere.
+
+The author just asks for citations because he's in academia, and citation
+backrubs is how anyone can justify getting time to do anything (including
+maintaining some software) in academia.

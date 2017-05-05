@@ -1,0 +1,21 @@
+Comment-Id:	11749908
+Comment-Author:	avar
+Comment-Date:	Sun May 22 19:34:47 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11749821
+
+I think I did try stuff like that, including mounting / with nodatacow and
+other similar options.
+
+I walked away with the impression that btrfs was a powerful tool for certain
+use-cases, but definitely not something I'd call a "general purpose" filesystem
+given the need to be fairly knowledgeable about its internals to use it for
+common desktop use-cases.
+
+To me a general purpose filesystem is something like ext4, it doesn't have
+amazing performance, it's not bad either, but generally nothing unexpected
+happens with it and I can just leave it there and don't have to worry about it.
+
+The btrfs filesystem seemed like the opposite of that. A very powerful tool
+whose power and flexibility made it less general purpose by virtue of needing
+to keep close tabs on how you were using it.

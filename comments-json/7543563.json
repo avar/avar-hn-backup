@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 7543563,
+  "kids" : [ 7545881 ],
+  "parent" : 7543068,
+  "text" : "Here&#x27;s a patch I submitted purely for discussion to add a feature to\nGit to allow for vanity commit hashes back in 2011, it generated some\ninteresting discussion:\n<a href=\"http://lists-archives.com/git/756392-choosing-the-sha1-prefix-of-your-commits.html\" rel=\"nofollow\">http:&#x2F;&#x2F;lists-archives.com&#x2F;git&#x2F;756392-choosing-the-sha1-prefi...</a><p>Unlike the linked it didn&#x27;t alter the commit date, but altered the Git\ncode itself to add a new custom header to the commit object.<p>Git handles custom headers just fine since it ignores unknown headers\nfor future compatibility. This commit still lives in the main Git repo\nat work without any issues:<p><pre><code>    commit 313375d995e6f8b7773c6ed1ee165e5a9e15690b\n    tree c9bebc99c05dfe61cccf02ebdf442945c8ff8b3c\n    parent 0dce2d45a79d26a593f0e12301cdfeb7eb23c17a\n    author Ævar Arnfjörð Bjarmason &lt;avar@booking.com&gt; 1319042708 +0200\n    committer Ævar Arnfjörð Bjarmason &lt;avar@booking.com&gt; 1319042708 +0200\n    lulz 697889</code></pre>",
+  "time" : 1396824951,
+  "type" : "comment"
+}

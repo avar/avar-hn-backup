@@ -1,0 +1,22 @@
+Comment-Id:	8764493
+Comment-Author:	avar
+Comment-Date:	Wed Dec 17 21:33:24 UTC 2014
+Comment-Type:	comment
+Parent-Id:	8764375
+
+Sure, that's a factor in US politics. I'm just saying that has nothing to do
+with having a heterogeneous population as the parent was claiming.
+
+The parent was comparing the proportion of physicians in Cuba v.s. the US and
+claiming that the US couldn't match Cuba because of its heterogeneous
+population.
+
+Now if you look at the WHO report on density of physicians[1] you see
+first-wold countries like Japan and Canada ranking below the US on the number
+of physicians per-capita.
+
+I think numbers like these have a lot more to do with how the health care
+system is structured than the sort of population you have. E.g. maybe nurses in
+Japan and Canad have a bigger role in health care than the US.
+
+1. http://www.who.int/gho/health_workforce/physicians_density/e...

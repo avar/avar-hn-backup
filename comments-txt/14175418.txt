@@ -1,0 +1,9 @@
+Comment-Id:	14175418
+Comment-Author:	avar
+Comment-Date:	Sat Apr 22 23:13:01 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14175340
+
+They didn't open WebKit. It's a fork of the LGPL'd KHTML code base. Apple is
+legally obliged to keep it open, so whatever anyone thinks about Apple's open
+source record using WebKit as an example makes little sense.

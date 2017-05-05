@@ -1,0 +1,15 @@
+Comment-Id:	13442665
+Comment-Author:	avar
+Comment-Date:	Fri Jan 20 09:54:26 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13441487
+
+An argument from personal incredulity is still a logical fallacy. It's easy to
+see why this line of reasoning doesn't make sense.
+
+If we're living in a simulation the thing most likely to running the simulation
+is ourselves, in the future.
+
+It's easy to see why that would be valuable, e.g. this could be a simulation to
+see what happens if a war broke out in 1914, and all the downstream effects on
+that happening.

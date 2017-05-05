@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 14188955,
+  "parent" : 14188746,
+  "text" : "<p><pre><code>    &gt; That&#x27;s not globbing but using the regex matcher.\n</code></pre>\nIndeed. I&#x27;m just using the regex behavior to show that perl&#x27;s regex matcher uses a general optimization to defeat patterns like the ones Russ is discussing using a strategy orthogonal to handling backtracking.<p>But Russ doesn&#x27;t talk about using this strategy to optimize glob(), so it&#x27;s worth pointing out that it could just as well be used in a glob() implementation.<p>I.e. just try to find a fixed part later in the pattern, and if it can&#x27;t be found fail the entire match.<p><pre><code>    &gt; I&#x27;m curious why the graph displays [perl]\n    &gt; as exponential on linux, where it should be linear.\n</code></pre>\nThe glob() routine in perl uses a fork of a BSD glob which ships with perl: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;Perl&#x2F;perl5&#x2F;blob&#x2F;blead&#x2F;ext&#x2F;File-Glob&#x2F;bsd_glob.c\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;Perl&#x2F;perl5&#x2F;blob&#x2F;blead&#x2F;ext&#x2F;File-Glob&#x2F;bsd_g...</a><p><pre><code>    &gt; pcre2 performs much better than perl btw: it\n    &gt; errors with match limit exceeded (-47)\n</code></pre>\nThe pcre2 library will still perform better if you adjust the match limit so that the pattern actually matches, e.g. with --match-limit=1000000000 to pcre2grep. That finishes in around 1s with PCRE, 10s with Perl.<p>But in general a regex library can&#x27;t be said to perform better just because it errors out with a match limit error sooner. That just means it&#x27;s compiled with different defaults.",
+  "time" : 1493072618,
+  "type" : "comment"
+}

@@ -1,0 +1,31 @@
+Comment-Id:	13239581
+Comment-Author:	avar
+Comment-Date:	Thu Dec 22 19:19:09 UTC 2016
+Comment-Type:	comment
+Parent-Id:	13239510
+
+It's been some time but I've read the entire report cover-to-cover. While yes,
+the general conclusion is that NASA's dysfunctional management structure and
+institutional optimism driven by moneyed interests is the primary culprit. The
+report never really tries to perform a root cause analysis on how something
+like the O-ring "safety factor" problem arose.
+
+Something which, as summarized by Feynman's quote above, should be patently
+obvious to any engineer as bullshit.
+
+Feynman's appendix is the only part that even tries, but it doesn't go far
+enough through no fault of Feynman's, he had no resources to pursue this line
+of inquiry. It was a struggle just to get that appendix into the report.
+
+They should have interviewed every single person in any way remotely involved
+in that O-ring decision, find out if they objected to it, and if they didn't
+what money/institutional/social obstacles there were to prevent that.
+
+Did some engineer actually sign off on the aforementioned "safety factor"? We
+don't know, but somehow I doubt that's language management came up with on
+their own, and if they did that there was no way for an engineer to spot that
+and report "wtf? The system doesn't work like that!".
+
+Reading between the lines some engineer actually did come up with that
+estimate, but likely that engineer was where he was because NASA had a culture
+of promoting mindless yes-men.

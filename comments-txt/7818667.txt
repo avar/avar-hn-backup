@@ -1,0 +1,11 @@
+Comment-Id:	7818667
+Comment-Author:	avar
+Comment-Date:	Thu May 29 21:22:29 UTC 2014
+Comment-Type:	comment
+Parent-Id:	7818036
+
+Is it possible to give them more granular donations? I want to support OpenSSH
+and LibreSSL, but I don't cae about OpenBSD.
+
+The reason I don't donate to them is that I feel like most of my donation will
+be going towards something I don't care about.

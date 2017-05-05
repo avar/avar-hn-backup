@@ -1,0 +1,24 @@
+Comment-Id:	14126996
+Comment-Author:	avar
+Comment-Date:	Sun Apr 16 19:08:40 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14123388
+
+    > 1) both of our MTAs do STARTTLS. And gmail is only TLS.
+
+What you're implying here, i.e. that the communication is encrypted anyway,
+isn't how E-Mail works at all.
+
+Even if the GMail MXs are configured to only accept E-Mails over TLS, the
+user's sensitive E-Mail may, depending on his settings, traverse multiple
+servers with less secure settings before a connection is ever initiated with
+the GMail MXs.
+
+If someone's E-Mail is going to be MITM'd it's far more likely to happen
+between the Internet café he's sitting in and his ISP's badly configured SMTP
+server than between his ISP's SMTP server and GMail's TLS-using MTA.
+
+GMail using TLS will do nothing to protect against the message being MITM'd,
+whereas GPG would, because it's end-to-end encryption, unlike TLS settings for
+individual MTAs in a possibly long chain of mixed or no encryption before a
+message reaches you.

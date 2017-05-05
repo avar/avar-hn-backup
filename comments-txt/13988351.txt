@@ -1,0 +1,11 @@
+Comment-Id:	13988351
+Comment-Author:	avar
+Comment-Date:	Wed Mar 29 17:07:02 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13988315
+
+Thanks. I was trying to find some source of worldwide data. This[1] more
+reliable source says over 10,000 deaths in the US alone every year. It's not
+implausible that it's in the low hundreds of thousands annually worldwide.
+
+1. http://www.rmi.org/RFGraph-health_effects_from_US_power_plan...

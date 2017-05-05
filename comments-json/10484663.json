@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 10484663,
+  "kids" : [ 10484729 ],
+  "parent" : 10484461,
+  "text" : "The author never elaborates on why exactly he thinks this is needed. I think reading between the lines the reason is that if someone&#x27;s done a merge&#x2F;rebase and screwed up a conflict resolution the information about how that&#x27;s happened is lost forever, so let&#x27;s come up with some hack to save that information in case there was a conflict.<p>If that&#x27;s the case, a solution that would categorically lose less information would be:<p>1. You&#x27;re going to push branch you&#x2F;whatever<p>2. You rebase you&#x2F;whatever on on master<p>3. You solve whatever conflicts you have<p>4. You make a non-fast-forward merge commit to indicate that you&#x2F;whatever was rebased as a series with a name<p>5. You push your conflict resolved &amp; rebased you&#x2F;whatever branch to master<p>6. You push the original you&#x2F;whatever as unrebased&#x2F;you&#x2F;whatever<p>Now you have the original unrebased commits in your repository, you can now simply inspect your history to see what the original commits were, how they conflicted, and how those conflicts were resolved.<p>Once branches in unrebased&#x2F;* get old enough you just delete them. In my experience the importance of seeing how someone did something in source control is inversely proportional to how recently it was committed.",
+  "time" : 1446333787,
+  "type" : "comment"
+}

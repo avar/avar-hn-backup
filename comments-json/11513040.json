@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 11513040,
+  "parent" : 11511707,
+  "text" : "I&#x27;ll bite. Please post the C code required to portably and safely create a file and write a timestamp to it in a way that beats the safety provided by SQLite.<p>Most C programmers can&#x27;t even write that piece of code. Let&#x27;s see if you can.",
+  "time" : 1460855478,
+  "type" : "comment"
+}

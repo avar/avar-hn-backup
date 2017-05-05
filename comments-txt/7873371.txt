@@ -1,0 +1,9 @@
+Comment-Id:	7873371
+Comment-Author:	avar
+Comment-Date:	Tue Jun 10 16:08:28 UTC 2014
+Comment-Type:	comment
+Parent-Id:	7872774
+
+EXT4 cannot be resized while mounted. This is the main reason we use XFS
+instead of EXT4 where I work, we currently mostly use RHEL 6. This matters a
+lot for e.g. database masters.

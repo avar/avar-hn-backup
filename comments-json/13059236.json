@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 13059236,
+  "kids" : [ 13059248 ],
+  "parent" : 13057605,
+  "text" : "<p><pre><code>    &gt; Let&#x27;s jump back to the late 90s. You want to\n    &gt; try Linux [...] get a KVM [...].\n</code></pre>\nKVM as in Kernel-based Virtual Machine? Don&#x27;t you have the late 90s confused with the late 00s?<p>The first Linux release with KVM was in 2007, KVM came out of an Israeli startup around 2005.",
+  "time" : 1480374535,
+  "type" : "comment"
+}

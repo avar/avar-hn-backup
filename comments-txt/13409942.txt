@@ -1,0 +1,15 @@
+Comment-Id:	13409942
+Comment-Author:	avar
+Comment-Date:	Mon Jan 16 13:54:25 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13409841
+
+Perhaps a better photo to make your point: http://en.people.cn/n3/2016/0229/
+c90000-9022441-11.html
+
+So it does seem like they're using tracks elevated by concrete pillars pretty
+widely, but are you sure your image shows a high-speed rail track? To my
+untrained eye that seems like a really aggressive curve radius for a high speed
+rail track. See also:
+
+https://en.wikipedia.org/wiki/Minimum_railway_curve_radius#L...

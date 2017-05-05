@@ -1,0 +1,22 @@
+Comment-Id:	11639151
+Comment-Author:	avar
+Comment-Date:	Thu May  5 19:45:41 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11638602
+
+    > The ability to use a high-level, dynamic language (ObjC),
+    > C, and even inline assembly in a single source file
+    > is unique to Objective-C (at least among the
+    > "mainstream" languages)[...]
+
+Well Perl is mainstream enough to be installed on every *nix box, here's
+examples of assembly and C functions interoperating with Perl in the same
+source file: https://metacpan.org/pod/distribution/Inline-ASM/ASM.pod#SYN... &
+https://metacpan.org/pod/distribution/Inline-C/lib/Inline/C....
+
+    > The "C ABI" (although there is no such thing)
+
+Of course if you do this in Perl every one of your calls will need to go
+through a foreign function interface where Perl's structures are translated
+back & forth between its idea of datastructures and the OS's idea, avoiding
+that is what people really mean when they talk about the "C ABI".

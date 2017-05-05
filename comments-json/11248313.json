@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 11248313,
+  "parent" : 11248277,
+  "text" : "They probably aren&#x27;t, but they aren&#x27;t going to be using the infrastructure in the pathological way CocoaPods is either, which requires you to have a client that uses GitHub on behalf of your users.<p>I&#x27;m just pointing out that the feature you&#x27;re wishing exists very likely already exists in practice. Unless GitHub is stupid they aren&#x27;t going to be complaining about you pegging 5 CPU cores for $200&#x2F;month.",
+  "time" : 1457468794,
+  "type" : "comment"
+}

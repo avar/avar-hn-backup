@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 13074857,
+  "kids" : [ 13075504, 13078619 ],
+  "parent" : 13074510,
+  "text" : "Relatively speaking this really couldn&#x27;t be further from the truth.<p>There&#x27;s plenty of codebases that implement some programming language and only use C bindings for truly low-level primitives, such as external library calls, memory allocation etc, leaving any substantial logic that&#x27;s built on top of those OS primitives to a higher level language.<p>Emacs is not such a codebase, most of the C code by volume is things that could perfectly well be implemented in Emacs Lisp itself, but aren&#x27;t because Emacs Lisp is relatively slow.<p>So while it&#x27;s fine for &quot;scripting&quot; Emacs itself, things like regexes, anything that has to do with low-level character handling, most of the GUI layout of Emacs itself (i.e. the buffer logic etc, not actually calling ncurses or X) etc. is written in C.<p>Just browse through the C files in src&#x2F;, most of this clearly has nothing to do with interacting with low-level OS primitives: <a href=\"http:&#x2F;&#x2F;git.savannah.gnu.org&#x2F;cgit&#x2F;emacs.git&#x2F;tree&#x2F;src\" rel=\"nofollow\">http:&#x2F;&#x2F;git.savannah.gnu.org&#x2F;cgit&#x2F;emacs.git&#x2F;tree&#x2F;src</a>",
+  "time" : 1480541362,
+  "type" : "comment"
+}

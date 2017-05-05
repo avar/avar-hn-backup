@@ -1,0 +1,12 @@
+Comment-Id:	7060478
+Comment-Author:	avar
+Comment-Date:	Tue Jan 14 23:16:04 UTC 2014
+Comment-Type:	comment
+Parent-Id:	7060328
+
+Note that some countries (e.g. Iceland) are in Schengen but have no accepted
+national ID card that isn't the passport, so de-facto you need your passport to
+travel, even within Schengen.
+
+I don't know if Iceland's the rare exception here or if this goes for some
+other countries as well.

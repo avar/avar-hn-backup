@@ -1,0 +1,9 @@
+Comment-Id:	13004086
+Comment-Author:	avar
+Comment-Date:	Mon Nov 21 09:05:33 UTC 2016
+Comment-Type:	comment
+Parent-Id:	13003773
+
+Having a system where you revoke the degree for lack of payment would just
+create a system where revoked degrees would be equally valuable, since everyone
+would know they were the same, except for some bank being ripped off.

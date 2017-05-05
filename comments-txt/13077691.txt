@@ -1,0 +1,12 @@
+Comment-Id:	13077691
+Comment-Author:	avar
+Comment-Date:	Thu Dec  1 06:50:51 UTC 2016
+Comment-Type:	comment
+Parent-Id:	13076566
+
+I was using "autoconf" to mean both the software itself and all its output,
+including the generated configure script.
+
+Confusingly, sorry about that, but for the purposes of discussing what software
+you need to generate the configure valuables you ultimately need when cloning
+from source control, it makes no difference.

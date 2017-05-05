@@ -1,0 +1,13 @@
+Comment-Id:	11248313
+Comment-Author:	avar
+Comment-Date:	Tue Mar  8 20:26:34 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11248277
+
+They probably aren't, but they aren't going to be using the infrastructure in
+the pathological way CocoaPods is either, which requires you to have a client
+that uses GitHub on behalf of your users.
+
+I'm just pointing out that the feature you're wishing exists very likely
+already exists in practice. Unless GitHub is stupid they aren't going to be
+complaining about you pegging 5 CPU cores for $200/month.

@@ -1,0 +1,13 @@
+Comment-Id:	10723987
+Comment-Author:	avar
+Comment-Date:	Sat Dec 12 20:23:55 UTC 2015
+Comment-Type:	comment
+Parent-Id:	10723928
+
+I'm getting more optimistic too, but I remain worried that there seems to be a
+fundamental disconnect between scientists and the bureaucrats.
+
+Science will find out that within some small error bar we need to do exactly X,
+but bureaucrats see everything as a negotiation and will negotiate some number
+smaller than X. Now we're still slowly getting boiled to death (bad) albeit at
+a slower rate (good).

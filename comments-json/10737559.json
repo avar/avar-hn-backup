@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 10737559,
+  "kids" : [ 10737620 ],
+  "parent" : 10737513,
+  "text" : "That&#x27;s something you can easily attain in Git as well, your central repository just denies non-fast-forwards, which gives you exactly what fossil is giving you.<p>What fossil is denying you is the ability to rewrite <i>all</i> history for whatever reason, whether that&#x27;s because you want to squash multiple commits or have decided (after audits etc.) that you really want to rewrite your central history and start anew.<p>Nobody needs audibility on unfinished work that hasn&#x27;t been pushed to the central repositories (and would thus be protected by non-fast-forward).<p>To the extent that you would fossil doesn&#x27;t make the situation better, if I can&#x27;t fix up my commits after the fact before I push them I&#x27;m just not going to make those intermediate commits in the first place, which gives the system no more information to work with, and results in a less convenient workflow for me.<p>This whole &quot;we preserve history forever&quot; statement is a red herring. They&#x27;ve just picked a data model which is hard-immutable, but it doesn&#x27;t mean that they&#x27;re categorically preserving more information, or that tools that have configurable-immutable datamodels (like Git) preserve less history in practice.",
+  "time" : 1450185357,
+  "type" : "comment"
+}

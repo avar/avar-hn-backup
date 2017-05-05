@@ -1,0 +1,8 @@
+Comment-Id:	12517580
+Comment-Author:	avar
+Comment-Date:	Fri Sep 16 21:42:30 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12517408
+
+Does that assume some given rate of growth? 4%? What's the formula to calculate
+this?

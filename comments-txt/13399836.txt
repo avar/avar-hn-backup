@@ -1,0 +1,7 @@
+Comment-Id:	13399836
+Comment-Author:	avar
+Comment-Date:	Sat Jan 14 18:42:26 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13399668
+
+UPower is making a nuclear thermal battery, not a nuclear fission reactor.

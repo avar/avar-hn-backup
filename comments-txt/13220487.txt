@@ -1,0 +1,13 @@
+Comment-Id:	13220487
+Comment-Author:	avar
+Comment-Date:	Tue Dec 20 15:17:44 UTC 2016
+Comment-Type:	comment
+Parent-Id:	13220369
+
+Because calling malloc() & free() is expensive? That's just an implementation
+detail of your reference-counting GC or malloc(). You can also just
+pre-allocate memory in batches which makes allocation just changing a pointer
+to some pre-allocated memory.
+
+Many reference based GC's do that, e.g. perl. Or have I entirely misunderstood
+your comment?

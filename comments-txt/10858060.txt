@@ -1,0 +1,9 @@
+Comment-Id:	10858060
+Comment-Author:	avar
+Comment-Date:	Thu Jan  7 14:27:53 UTC 2016
+Comment-Type:	comment
+Parent-Id:	10857967
+
+What do they mean by "legacy" in this context? INSERT ... ODKU is not a legacy
+feature of MySQL, it's a currently supported first-class feature of the
+database, nor is MySQL itself a "legacy" database.

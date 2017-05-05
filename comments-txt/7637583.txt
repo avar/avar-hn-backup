@@ -1,0 +1,7 @@
+Comment-Id:	7637583
+Comment-Author:	avar
+Comment-Date:	Wed Apr 23 23:25:30 UTC 2014
+Comment-Type:	comment
+Parent-Id:	7637388
+
+This situation partially exists on the backbone in the form of paid peering.

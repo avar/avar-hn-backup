@@ -1,0 +1,23 @@
+Comment-Id:	8252577
+Comment-Author:	avar
+Comment-Date:	Mon Sep  1 12:53:46 UTC 2014
+Comment-Type:	comment
+Parent-Id:	8252460
+
+He doesn't have a problem with the GPLv2 allowing later versions, that's
+completely reasonable. His problem was that with the GPLv3 they changed the
+spirit of the license. He thinks a license "upgrade" shouldn't have done that,
+they should have just released a new license instead.
+
+I.e. previously the agreement was "here's my code, if you change it send me the
+changes", now in addition to that it includes clauses about what you can do
+with the hardware you run it on.
+
+I also don't want a future where all you can buy are locked-down devices, but
+is the GPL really the right venue to fight that battle? If companies want
+locked-down hardware they're just going to do lock it down anyway, and just use
+e.g. FreeBSD instead of Linux and contribute none of their code changes back.
+
+Isn't it better that they release locked-down hardware but contribute their
+code changes, so that if someone wants to make competing open hardware they can
+start with all the same driver & feature support in Linux?

@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 12567453,
+  "kids" : [ 12567727 ],
+  "parent" : 12566910,
+  "text" : "Only if the sync is the equivalent of:<p><pre><code>    rsync [...] &#x2F;dev&#x2F;shm&#x2F;.browser ~&#x2F;.browser\n</code></pre>\nInstead of:<p><pre><code>    rsync [...] &#x2F;dev&#x2F;shm&#x2F;.browser ~&#x2F;.browser.new &amp;&amp; ln -sf ~&#x2F;.browser.new ~&#x2F;browser\n</code></pre>\nOr some such equivalent, i.e. doing the full sync and then atomically juggling a symlink around.",
+  "time" : 1474660201,
+  "type" : "comment"
+}

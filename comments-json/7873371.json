@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 7873371,
+  "kids" : [ 7873405, 7873395 ],
+  "parent" : 7872774,
+  "text" : "EXT4 cannot be resized while mounted. This is the main reason we use XFS instead of EXT4 where I work, we currently mostly use RHEL 6. This matters a lot for e.g. database masters.",
+  "time" : 1402416508,
+  "type" : "comment"
+}

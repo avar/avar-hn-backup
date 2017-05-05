@@ -1,0 +1,8 @@
+Comment-Id:	10663254
+Comment-Author:	avar
+Comment-Date:	Wed Dec  2 14:55:30 UTC 2015
+Comment-Type:	comment
+Parent-Id:	10662932
+
+Some choose it because Ubuntu, unlike Debian, has a guaranteed timely release
+cycle, and unlike Debian they have formalized LTS.

@@ -1,0 +1,27 @@
+Comment-Id:	12378260
+Comment-Author:	avar
+Comment-Date:	Sun Aug 28 20:06:47 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12378191
+
+I think you're fundamentally misunderstanding representative democracies.
+Nothing about them says the can't enter into an agreement to create a
+pan-national body to settle trade disputes, as opposed to escalating every
+incident to a diplomatic dispute.
+
+If people don't like that they'll make in an election issue, and either it'll
+be re-negotiated after the next election or the nation will leave the trade
+agreement. That's the democratic process at work.
+
+How is that a better option anyway? So now instead of some court that has to be
+seen to be fair to the entire trade block deciding things, you want to have n^2
+potential dispute mechanisms in place between the n countries that are part of
+the agreement?
+
+    > big international corporations [...] don't like the fact that
+    > governments can create laws that they are obliged to respect.
+
+Or you could look at this from the flip side of that argument, which is that
+it's detrimental to international trade if companies can't make international
+investments without being at risk to domastic political whimsy that runs
+counter to the spirit of the trade deal that was initially agreed upon.

@@ -1,0 +1,45 @@
+Comment-Id:	14183499
+Comment-Author:	avar
+Comment-Date:	Mon Apr 24 11:57:04 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14180564
+
+    > I'll never understand why they thought 0-based
+    > months made sense, but then used 1-based days
+    > and 1900-based years. Even if C did it[...]
+
+Java, Perl etc. all copied this pattern from localtime() in C. In all of these
+languages it's idiomatic to write something like:
+
+    printf("%s %d, %d\n", mnames[mon], mday, year);
+
+To print out e.g. "January 6, 78". The reason month days aren't zero based is
+obvious, usually when you use them you aren't going to have go through a lookup
+table, whereas nobody calls January "0" or "1", so you'll always need a lookup
+table.
+
+Indexing months by 1 would mean declaring the "mnames" array would be the
+un-idoimatic:
+
+    char *mname[] = { NULL, "Jan", ... };
+
+Instead of:
+
+    char *mname[] = { "Jan", ... };
+
+Or you'd need to use the latter form and do lookups by mnames[mon - 1] instead
+of mnames[mon].
+
+The reason you have to add 1900 to the year is that when C was made it was
+standard for software to use two-digit years, and if you told some of C's
+designers back in the 70s that we'd still be using & discussing these APIs in
+2017 they'd probably have laughed at you.
+
+Of course sometimes you need to use month indexes themselves, e.g. if you
+wanted to print out 1978-01-06 in a log file:
+
+    printf("%d-%d-%d...\n", year + 1900, mon + 1, mday, ...);
+
+But such are the trade-offs of low-level API design. I guess C's designers took
+the inherent idiomaticness of zero-based indexes & expectation that the common
+case would to print out month names over such use-cases.

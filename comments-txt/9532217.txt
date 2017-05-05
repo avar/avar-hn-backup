@@ -1,0 +1,14 @@
+Comment-Id:	9532217
+Comment-Author:	avar
+Comment-Date:	Tue May 12 14:58:32 UTC 2015
+Comment-Type:	comment
+Parent-Id:	9531937
+
+It's important to realize that when the government makes these sort of comments
+their intent is usually to enforce it on a per-company basis.
+
+According to Wikipedia the average size of a board is 9.2 members, and as low
+as 3 members[1]. It's easy to imagine a company where the 3 most competent
+people all happen to be either male or female.
+
+1. http://en.wikipedia.org/wiki/Board_of_directors#Size

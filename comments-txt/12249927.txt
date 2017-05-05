@@ -1,0 +1,13 @@
+Comment-Id:	12249927
+Comment-Author:	avar
+Comment-Date:	Mon Aug  8 18:40:58 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12249343
+
+That "someone" is Rob Malda, who ran Slashdot. In a way that comment embodies
+how the "old guard" on Slashdot was left behind in their predictions of what
+technology would become pertinent post-90s.
+
+On the other hand if you look at iPod sales numbers he was right. Their sales
+really didn't pick up that much until they released some new models: https://
+en.wikipedia.org/wiki/File:Ipod_sales_per_quarter.sv...

@@ -1,0 +1,8 @@
+Comment-Id:	13927383
+Comment-Author:	avar
+Comment-Date:	Tue Mar 21 23:51:30 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13927089
+
+How much the tide varies in any given area is well-known, you just take that
+into account when deciding how high to make the ceiling.

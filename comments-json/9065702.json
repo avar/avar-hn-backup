@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 9065702,
+  "parent" : 9064651,
+  "text" : "Of course you can&#x27;t run &quot;git pull --i-really-want-everything&quot;, you&#x27;re the remote attacker this feature is meant to protect against!<p>The use-case for this is that you&#x27;re pushing to some shared hosting like GitHub where you can overwrite and delete refs, but you can&#x27;t force a gc.<p>You don&#x27;t want someone to scour your Git commit announcements and see &quot;oops, deleted password!&quot; and go and fetch the deleted SHA1.",
+  "time" : 1424213498,
+  "type" : "comment"
+}

@@ -1,0 +1,10 @@
+Comment-Id:	10693136
+Comment-Author:	avar
+Comment-Date:	Mon Dec  7 22:13:20 UTC 2015
+Comment-Type:	comment
+Parent-Id:	10692817
+
+I'm not saying you're wrong, but every announcement from NASA about the ISS
+seems to have the tone of "It may be in LEO, but it's an invaluable research
+platform teaching us lessons that are directly transferable to colonizing the
+Moon/Mars". Is that an unfair summary of what's happening on the ISS?

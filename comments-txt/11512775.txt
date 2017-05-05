@@ -1,0 +1,27 @@
+Comment-Id:	11512775
+Comment-Author:	avar
+Comment-Date:	Sat Apr 16 23:23:41 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11512626
+
+I don't mean to sound dismissive, but do you have any idea of how O_APPEND
+interacts with PIPE_BUF? The problem you're describing is basically solved on
+modern POSIX OS's.
+
+You're just proposing moving the semantics of what could be better done in
+kernel-space by resizing PIPE_BUF to userspace.
+
+The way this works now is that you open a logfile with O_APPEND, any write(2)
+you make to the file will be atomic up to PIPE_BUF, so it doesn't matter that
+you have a "race" with someone else if everyone's write is <PIPE_BUF, which is
+the common case, they won't interleave with each other.
+
+Now of course if your write is bigger than PIPE_BUF you might have interleaving
+writes, but at the point where you're making >4K writes you're usually better
+off having some custom log system anyway and not rely on the kernel serializing
+things for you.
+
+If you want to emulate this proposed mechanism of yours now without any syscall
+changes you can simply flock() the file for the duration of your write. The
+solution you're proposing already exists, but locking sucks more than O_APPEND
++ <PIPE_BUF sized writes.

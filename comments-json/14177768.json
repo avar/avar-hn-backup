@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 14177768,
+  "kids" : [ 14177811, 14179607 ],
+  "parent" : 14175817,
+  "text" : "IRC also needs someone to run a server. Just because a protocol isn&#x27;t p2p there&#x27;s plenty of reason to open it. You can independently develop third party clients, use your own server instead of Apple&#x27;s etc.<p>They simply lied. They never said &quot;We&#x27;ll open Facetime, but only if it&#x27;s implemented as a p2p protocol &amp; client&quot;",
+  "time" : 1492948052,
+  "type" : "comment"
+}

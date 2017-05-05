@@ -1,0 +1,16 @@
+Comment-Id:	14179302
+Comment-Author:	avar
+Comment-Date:	Sun Apr 23 17:49:19 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14178705
+
+    > I'm not sure what you're on about.
+
+You clearly interpreted OS to mean "the kernel" in my comment. To be clear I'm
+including the C library which implements malloc() in "the OS".
+
+    > curl is a piece of software that spends 99.99%
+    > of its time waiting for network traffic.
+
+You're commenting on an article that shows that in some cases 30% of the time
+was spent on malloc() overhead.

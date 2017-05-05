@@ -1,0 +1,24 @@
+Comment-Id:	13991640
+Comment-Author:	avar
+Comment-Date:	Wed Mar 29 23:39:40 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13990845
+
+Iceland (where I'm from originally, so I'm familiar with it) is already your
+worst nightmare when it comes to this. There's a 500 page PDF[1] exhaustively
+detailing every product category and what tolls & fixed fees you pay on certain
+products. Ketchup 0% toll, Mayo 0% but 19 ISK per kg etc. Turn to page 50 and
+you can see different tolls & fees for different types of cabbage.
+
+It's an entirely byzantine system, but because it's happening when products are
+imported, or at the point of sale, it's vastly easier for consumers than an
+equivalent system that works through tax rebates.
+
+Things on that list occasionally become a political issue. E.g. the tax on
+added sugar has gone back & forth a couple of times depending on who's in
+government.
+
+Still, this adds zero complexity to your tax return, or to the average person's
+interaction with the government or private businesses.
+
+1. https://www.tollur.is/library/Skrar/Tollskra/Tollskr%C3%A1%2...

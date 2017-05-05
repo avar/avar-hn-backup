@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 10715461,
+  "kids" : [ 10715823 ],
+  "parent" : 10715225,
+  "text" : "We&#x27;ve eclipsed the usefulness of this birdhouse analogy, but suffice to say being able to replace one proprietary commercial vendor with another doesn&#x27;t make something open source.<p><pre><code>    &gt; This is some kind of confluence of the values of\n    &gt; FSF captial-F &quot;Free&quot; style software with the more\n    &gt; pragmatic goals associated with open source.\n</code></pre>\nWell, pragmatically, if you needed to alter the hardware of this &quot;open source&quot; hardware what percentage of the total electronic complexity would you be working with? I&#x27;m going to aim for a conservative one-digit percentile.<p>There&#x27;s a real and unambiguous line to be drawn in the sand here. If you get &quot;open source&quot; plans for hardware that you can&#x27;t replicate with third-party fabrication &amp; your own materials it&#x27;s not open source. It&#x27;s just a recipe for assembling commercial proprietary components.<p>It&#x27;s awesome that people publish those recipes, but don&#x27;t call it open source hardware and dilute the meaning of hardware that is genuinely open.",
+  "time" : 1449808184,
+  "type" : "comment"
+}

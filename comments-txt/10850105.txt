@@ -1,0 +1,15 @@
+Comment-Id:	10850105
+Comment-Author:	avar
+Comment-Date:	Wed Jan  6 12:27:27 UTC 2016
+Comment-Type:	comment
+Parent-Id:	10847824
+
+But that's not the actual problem. Let's say the hold time is a random 10 to 20
+minutes. What's your personal assistant supposed to do in the meantime?
+
+They can't reasonably do anything that requires making calls or other real-time
+interaction in case the first phone call is picked up.
+
+Even if they could make them do some non-time-sensitive secondary task while
+they're on hold on some primary task they'd still suffer some time wasted due
+to overhead & distractions.

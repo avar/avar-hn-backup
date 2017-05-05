@@ -1,0 +1,7 @@
+Comment-Id:	13247435
+Comment-Author:	avar
+Comment-Date:	Fri Dec 23 21:59:40 UTC 2016
+Comment-Type:	comment
+Parent-Id:	13246830
+
+Do these ITAR restrictions only apply to GPS, or also GLONASS / Galileo etc.?

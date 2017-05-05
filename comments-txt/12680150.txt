@@ -1,0 +1,11 @@
+Comment-Id:	12680150
+Comment-Author:	avar
+Comment-Date:	Mon Oct 10 22:11:53 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12679741
+
+None of that is in any way an argument against cloud hosting. Do you think
+anyone who uses say Blogspot has to care about any of that?
+
+The entire point of using cloud hosting is to pay money to not have to care
+about stuff like that.

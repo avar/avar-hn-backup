@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 10593804,
+  "kids" : [ 10593887, 10593855 ],
+  "parent" : 10593778,
+  "text" : "It&#x27;s quite easy to make this particular *.exe path return an &quot;Internal Error&quot; by fuzzing the GET parameters, which may or may not be due to someone having written something that parses user-supplied data in C that then segfaults :)",
+  "time" : 1447926903,
+  "type" : "comment"
+}

@@ -1,0 +1,15 @@
+Comment-Id:	7326464
+Comment-Author:	avar
+Comment-Date:	Sat Mar  1 22:36:37 UTC 2014
+Comment-Type:	comment
+Parent-Id:	7326109
+
+    > But since Python syntax is arguably cleaner
+    > and more readable, it's easier to catch.
+
+I've seen nasty bugs in Python code having to do with the end of blocks losing
+their indentation due to someone's merge/editor mistake.
+
+Having braces or other explicit start/end markers for blocks would have
+prevented those issues. So Python's syntax can in some cases encourage these
+sorts of mistakes.

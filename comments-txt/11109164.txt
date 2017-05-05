@@ -1,0 +1,16 @@
+Comment-Id:	11109164
+Comment-Author:	avar
+Comment-Date:	Tue Feb 16 11:29:01 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11108927
+
+Furthermore, even if the algorithm was generating kill lists directly there
+seems to be the implicit assumption that that would be worse than having some
+human "yes-men" who are directly beholden to orders of their immediate
+superiors and surely care more about their career advancement than bombing
+random Pakistanis in charge of the process.
+
+It's the same fallacy as being overly paranoid about the safety of self-driving
+vehicles, the system doesn't need to be perfect, it just needs to suck less
+than what it replaced, how did the CIA/NSA come up with such lists before the
+advent of computer analysis?

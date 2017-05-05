@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 14178583,
+  "kids" : [ 14178705, 14178777 ],
+  "parent" : 14177921,
+  "text" : "RAM is cheap.<p>What&#x27;s not cheap is requesting RAM from the OS piecemeal.<p>In this particular case the curl maintainer ended up saving a bit of RAM as a side-effect, but it&#x27;s actually much more common for programs that benefit from this class of optimization to waste RAM as a side-effect, and yet be much faster.<p>For example a common optimization in high-level programming languages is to overallocate memory for strings. E.g. if the user requests &quot;x&quot; you allocate 16 bytes, if you need 17 bytes you allocate 32 etc.<p>This wastes RAM, a 513 byte string will malloc 1024 bytes, but ends up being much faster on overage exactly because RAM is cheap, but allocations are expensive.",
+  "time" : 1492962011,
+  "type" : "comment"
+}

@@ -1,0 +1,14 @@
+Comment-Id:	6708744
+Comment-Author:	avar
+Comment-Date:	Sun Nov 10 22:27:45 UTC 2013
+Comment-Type:	comment
+Parent-Id:	6708113
+
+I see this person didn't use Wikpedia before 2007, it used to have exactly what
+he's suggesting: https://en.wikipedia.org/wiki/Wikipedia:Spoiler#
+Why_spoiler_...
+
+In addition to the arguments listed there the thing that bothered me most about
+it was that it imposed a straitjacket on the editorializing of any article that
+contained spoilers, you now had to bend over backwards to partition it into
+spoiler and non-spoiler sections.

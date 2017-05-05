@@ -1,0 +1,8 @@
+Comment-Id:	7573418
+Comment-Author:	avar
+Comment-Date:	Fri Apr 11 15:26:26 UTC 2014
+Comment-Type:	comment
+Parent-Id:	7573355
+
+Is there an overview of what the per-country caps are, and how long someone
+from a given country might expect to wait until they get a green card?

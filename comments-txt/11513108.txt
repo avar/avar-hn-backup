@@ -1,0 +1,31 @@
+Comment-Id:	11513108
+Comment-Author:	avar
+Comment-Date:	Sun Apr 17 01:34:35 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11513081
+
+    > That makes no sense. Have each process write to its own log. This is
+    > making your life hard for no reason.
+
+This is literally how pretty much every daemon process works on Unix systems.
+You don't log in and tail /var/log/apache/access.log.{1..N} where N is the
+number of threads/processes. You just tail /var/log/apache/access.log which all
+of them write to by virtue of PIPE_BUF semantics.
+
+Having to tail N logs where N is some unknown number of processes is what's
+making your life harder for no reason. That's what O_APPEND and PIPE_BUF are
+for.
+
+    > This isn't about access.log, it's about transaction logs for
+    > database systems. [...] think of their commit logs as like a
+    > block chain.
+
+I really don't see how any of this is relevant to the original point of having
+"log" files. Now you're talking about DB transaction logs and blockchains,
+which really don't need to have their nuances implemented in terms of POSIX
+file semantics. They can just have a single process that manages those
+expectations.
+
+Everyone's expectations don't have to be implemented on the filesystem level,
+particularly when those expectations inherently involve locking writes and
+retry loops.

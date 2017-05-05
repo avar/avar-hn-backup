@@ -1,0 +1,31 @@
+Comment-Id:	11332593
+Comment-Author:	avar
+Comment-Date:	Mon Mar 21 22:15:19 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11332184
+
+    > I will be removing the comment when HN allows me to log back in.
+
+In that case, here's a copy of your initial comment, because removing top-level
+comments that have ongoing follow-up discussion makes for very confusing
+discussions:
+
+    > All I know about GAE is that when my python app started being used
+    > by HN users I upgraded my account to a paid one to increase
+    > performance.
+    >
+    > In the transition , without any warning, google took the app down,
+    > for a day. Thus killing all chance of acquiring a userbase now that
+    > I had hit the frontpage.
+    >
+    > When I went onto the IRC GAE channel to ask someone for help to
+    > unlock or keep the app running during this important moment the
+    > reply from a staff member was ' You should have planned better'. I
+    > was surprised to hear this response and did not pursue the matter
+    > further. Its all in the IRC logs if any of this sounds doubtful.
+    >
+    > TL;DR; Surprisingly, I did not find the GAE platform to be a
+    > supportive environment for startups.
+    >
+    > ionwake @ ~2016-03-21 22:xx UTC
+

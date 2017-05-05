@@ -1,0 +1,8 @@
+Comment-Id:	7703661
+Comment-Author:	avar
+Comment-Date:	Tue May  6 10:49:50 UTC 2014
+Comment-Type:	comment
+Parent-Id:	7703551
+
+Why does it matter that some specific server has been vandalized? Can't other
+people just spin up a different server with an earlier copy of the dataset?

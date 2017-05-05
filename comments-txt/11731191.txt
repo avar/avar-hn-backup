@@ -1,0 +1,17 @@
+Comment-Id:	11731191
+Comment-Author:	avar
+Comment-Date:	Thu May 19 16:02:31 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11730373
+
+Google has explicitly WontFix'd bugs on the subject of expanding incognito to
+be hardened against fingerprinting: https://bugs.chromium.org/p/chromium/issues
+/detail?id=142214...
+
+Don't you think this sort of thing warrants a separate sort of browsing mode? A
+lot of people who use the likes of incognito mode just use it for e.g. browsing
+porn where they don't want the local history to be preserved.
+
+Turning that mode into one that's highly hardened against fingerprinting would
+in practice ruin the browsing experience for those users. Just look at what the
+Tor browser needs to do with fixed preset resolutions, no JavaScript etc.

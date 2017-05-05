@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 11797516,
+  "kids" : [ 11797616, 11797598, 11799182 ],
+  "parent" : 11796833,
+  "text" : "The first thing I looked through, the pedometer&#x2F; directory, has a project that itself may be &lt;500 lines, but is using compressed versions of JS libraries like highcharts.js &amp; jquery.js.<p>Don&#x27;t you think including huge external libraries like that defeats the spirit of showing things that are 500 lines or less?",
+  "time" : 1464545995,
+  "type" : "comment"
+}

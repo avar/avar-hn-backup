@@ -1,0 +1,9 @@
+Comment-Id:	13126083
+Comment-Author:	avar
+Comment-Date:	Wed Dec  7 20:50:08 UTC 2016
+Comment-Type:	comment
+Parent-Id:	13125986
+
+Given what happens later in this series your comment reads like someone who
+watched half of Fight Club and is annoyed that Brad Pitt's character isn't a
+plausible friend to Edward Norton's character.

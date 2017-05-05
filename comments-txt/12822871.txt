@@ -1,0 +1,28 @@
+Comment-Id:	12822871
+Comment-Author:	avar
+Comment-Date:	Sat Oct 29 06:26:59 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12822854
+
+Did you just not read two paragraphs below that where it says "What if I
+decline the commitment?", or do you just think it's pertinent for some reason?
+
+Seems pretty clear: You can't discriminate, if you do we terminate your account
+at our discretion.
+
+Edit: I read the question only in the narrow sense of "what if you refuse to
+accept the new policy" v.s. "what if you break the policy once you accept it?".
+
+The answer to the latter seems to be:
+
+1. You have to agree to Airbnb's TOS to use their site: https://www.airbnb.com/
+terms
+
+2. Section 24.C ("Termination for breach, suspension and other measures")
+refers to section 14 ("User Conduct") which says you can't violate the
+"Policies and Community Guidelines" which links to https://www.airbnb.com/help/
+topic/250/terms---policies
+
+3. That links to their nondiscrimination policy (https://www.airbnb.com/help/
+topic/533/nondiscrimination), which seems to be the longer legalese version of
+what the linked blogpost is a tl;dr of.

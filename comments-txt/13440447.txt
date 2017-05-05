@@ -1,0 +1,14 @@
+Comment-Id:	13440447
+Comment-Author:	avar
+Comment-Date:	Thu Jan 19 23:31:42 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13440366
+
+Thanks, I didn't do any of the math, but I should have remembered better from
+this counteractive fact: You're already at 30km/s, it takes more energy to fall
+into the Sun than escape the Solar System.
+
+Even if you press the "gravity off" button at some random time during the day
+the odds of you hitting anything are tiny, even if you fly towards the sun most
+of the time you'll just fly right past it and be no worse off. Except for the
+part where there's no oxygen and you can't breathe of course.

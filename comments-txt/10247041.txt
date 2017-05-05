@@ -1,0 +1,8 @@
+Comment-Id:	10247041
+Comment-Author:	avar
+Comment-Date:	Sun Sep 20 09:54:37 UTC 2015
+Comment-Type:	comment
+Parent-Id:	10246750
+
+And furthermore, how many CAs have "solved" the issue by outlawing all use of
+Google Chrome by their staff anywhere near their systems.

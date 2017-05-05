@@ -1,0 +1,17 @@
+Comment-Id:	7127011
+Comment-Author:	avar
+Comment-Date:	Sun Jan 26 21:26:45 UTC 2014
+Comment-Type:	comment
+Parent-Id:	7125871
+
+    > they usually blame themselves more than Microsoft.
+
+Did you not see how back with the Mac/PC ads Apple very much played on the
+whole aspect of Windows PCs being vulnerable to viruses? https://
+www.youtube.com/watch?v=M3Z386vXrt4
+
+    > remember the Antennagate
+
+I'm not saying Apple isn't capable of PR bullshit. I'm just saying that I can
+see why they don't see the benefit of allowing any kind of fragmentation on
+their platform.

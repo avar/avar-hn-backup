@@ -1,0 +1,12 @@
+Comment-Id:	11823549
+Comment-Author:	avar
+Comment-Date:	Thu Jun  2 15:57:19 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11820939
+
+To be fair to the layperson in the case of SpaceX they're not making it any
+better. It's called the "Falcon Heavy" now, but it used to officially be
+"Falcon 9 Heavy". If they didn't want it to be confused with a minor
+reconfiguration of the "Falcon 9" they couldn't have done worse.
+
+Ditto with "Dragon" and "Crew Dragon".

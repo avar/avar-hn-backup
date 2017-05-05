@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 10507864,
+  "kids" : [ 10508627 ],
+  "parent" : 10507157,
+  "text" : "What would be the benefit of slowing the release process of RHEL on AWS by pruning it down to the bare essentials? Is redundant stuff like WiFi-drivers &amp; firmware really taking that much space that it matters?",
+  "time" : 1446656254,
+  "type" : "comment"
+}

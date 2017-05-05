@@ -1,0 +1,10 @@
+Comment-Id:	13373106
+Comment-Author:	avar
+Comment-Date:	Wed Jan 11 11:01:16 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13370488
+
+Relevant: A draft RFC for an X.alt tld, so in the future the next thing like
+the next X.onion would be X.onion.alt instead, with X.oninon not expected to
+change due to backwards compatibility: https://tools.ietf.org/html/
+draft-wkumari-dnsop-alt-tld-00

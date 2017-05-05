@@ -1,0 +1,16 @@
+Comment-Id:	13695345
+Comment-Author:	avar
+Comment-Date:	Tue Feb 21 13:49:18 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13695195
+
+How will a system like this handle developing news stories after the fact? E.g.
+in the Québec mosque shooting there were initially two suspects, and many news
+articles that had accurate information at the time look incorrect in
+retrospect. Would those all be marked as BS retroactively by such a system, or
+is it enough that the news article used the best available facts at the time?
+
+How will it handle granularity? It's very hard to write any news article that's
+100% correct about everything. Will the entire article be marked as
+non-factually accurate due to the slightest mistake, or will they be
+highlighting specific factual inaccuracies in the content itself?

@@ -1,0 +1,24 @@
+Comment-Id:	14021340
+Comment-Author:	avar
+Comment-Date:	Mon Apr  3 08:24:55 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14021222
+
+    > I don't know Android well enough to say.
+
+You can easily fake the battery status on Android: https://stanfy.com/blog/
+android-shell-part-1-mocking-battery...
+
+    > It's not that hard of a problem.
+
+You and the grandparent are proposing that Uber somehow use information
+provided by the user's phone to waive the cancellation fee, when the user is in
+control of their phone and has every economic incentive to game the system.
+
+Even if you could get this to work it's not at all obvious that it's desirable.
+Right now the system is simple, you order a car and for some reason the app
+turns off, you get charged a cancellation fee. That's a hard problem to solve.
+
+What if you have one Uber and two customers who'd like to order it, one with 3%
+battery and one with 97%? Should the risk of sending the car to the user with
+3% battery purely be assumed by Uber?

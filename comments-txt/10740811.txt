@@ -1,0 +1,22 @@
+Comment-Id:	10740811
+Comment-Author:	avar
+Comment-Date:	Tue Dec 15 22:01:02 UTC 2015
+Comment-Type:	comment
+Parent-Id:	10740578
+
+The issue under discussion in this lawsuit is that the subject of the article
+is claiming that her birthyear is private information, but the Wikipedia
+article's source for the birthyear is a book that she herself published[1].
+
+I think some things are being lost in translation in this article, but
+generally speaking in many European privacy laws you can argue that something
+that's private information is in the public interest, or you can argue that
+it's not really private, either because the subject is a public person, or that
+it's a generally well-known fact.
+
+I think it's really a stretch to maintain that your birthyear is private
+information if you're a screenwriter/director who has a self-authored book
+saying what year you were born in. Your birthyear is public information at that
+point by any reasonable definition.
+
+1. http://www.amazon.com/Tradition-lyrischen-Hofmannsthal-unive...

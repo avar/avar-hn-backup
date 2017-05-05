@@ -1,0 +1,47 @@
+Comment-Id:	11174458
+Comment-Author:	avar
+Comment-Date:	Thu Feb 25 14:10:16 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11167390
+
+    > Would the simulated human have real subjective experience? No
+    > way to find out as far as I can tell.
+
+I think that once you hold the view that living beings aren't "magic", that our
+behavior / wants / needs are just a result of the sum of our hardware as it
+were, you'll quickly realize that talking about "real" experiences doesn't make
+sense.
+
+Extrapolating from a simpler system can help to give clarity, e.g. does this
+Lego Robot who's running a complete simulation of a round worm's neural network
+feel "real" hunger when its food sensory neurons are stimulated?
+
+https://www.youtube.com/watch?v=2_i1NKPzbjM
+
+Some might have the knee-jerk reaction of saying something to the effect of "of
+course it's not real, it's just a simulation running on some robot, it's not
+actually hungry".
+
+I think that falls apart when you consider the following: Suppose I had the
+technology to take an existing round worm and slowly replace its individual
+cells & copmonents with artificial equivalents, at what point would it stop
+having "real" feelings of hunger or anything else?
+
+I think the only sensible answer is to realize that the question doesn't make
+any sense. No more than asserting that moving a computer program from one
+computer to another makes its execution any less "real".
+
+    > You can't even find out whether I have true subjective
+    > experience. Maybe I'm just a machine acting as if I do. So maybe
+    > it's a nonsensical question, but I have never found a satisfying
+    > explanation for why exactly it's a nonsensical question.
+
+I think if we mapped your entire biology & neural network and uploaded it to
+the proverbial Lego Robot we could easily find out a lot of things about what's
+happening with your experience of the world.
+
+E.g. maybe you're in chronic pain, maybe you're hungry. Those things are just
+the result of biological processes in your body & brain. There's no reason to
+think subjective experience is anything inherently different.
+
+Edit: Added some clarifications.

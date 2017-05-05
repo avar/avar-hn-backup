@@ -1,0 +1,12 @@
+Comment-Id:	8109581
+Comment-Author:	avar
+Comment-Date:	Wed Jul 30 17:17:40 UTC 2014
+Comment-Type:	comment
+Parent-Id:	8109394
+
+How are you going to ensure that you're legally compliant with "only $X
+per-year per-person" unless you keep track of who's making every Bitcoin
+donation to you?
+
+If you don't do that you could trivially go over the limit by just donating >$X
+over multiple Bitcoin transactions.

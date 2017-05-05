@@ -1,0 +1,15 @@
+Comment-Id:	10480224
+Comment-Author:	avar
+Comment-Date:	Fri Oct 30 20:06:50 UTC 2015
+Comment-Type:	comment
+Parent-Id:	10480045
+
+The concept sounds cool, but what sort of fixes could the Voyager probes
+possibly need? They were launched in 1977, that's almost 40 years ago. As far
+as I know they're waking up every once in a while and sending telemetry back.
+
+It would be cool to have access to the source code and an emulator, but I
+really don't find it plausible that members of the general public could submit
+patches to something that's been running smoothly for 40 years, and where the
+risks of changes far outweigh the benefits of keeping the existing software
+running as-is.

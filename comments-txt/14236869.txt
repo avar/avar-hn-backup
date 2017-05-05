@@ -1,0 +1,20 @@
+Comment-Id:	14236869
+Comment-Author:	avar
+Comment-Date:	Mon May  1 11:49:19 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14233739
+
+The AGPL closes no such loophole. It says you must make the source available if
+you distribute the output of the program itself over a network, e.g. in the
+case of an open source web application. This is something the GPL itself goes
+out of its way to allow (unless your output is the program itself).
+
+So it falls squarely under distributing the program, which you didn't have
+permission to do without the license itself.
+
+> But not if your usage includes building upon it[...]
+
+Building upon it & distributing the result, but yes, this is what OSS is great
+for, but unrelated to my point that you as a user can completely ignore the
+license & don't have to know about it. You can just follow standard copyright
+law.

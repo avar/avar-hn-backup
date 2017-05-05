@@ -1,0 +1,11 @@
+Comment-Id:	10351974
+Comment-Author:	avar
+Comment-Date:	Thu Oct  8 11:23:22 UTC 2015
+Comment-Type:	comment
+Parent-Id:	10351868
+
+Those are just lawsuits between the two, wasn't the nature of the royalties for
+Android devices that they contacted OEMs and said "we have these patents, you
+better pay us or we'll sue you", and the OEMs paid up?
+
+That's different than cancelling outstanding lawsuits.

@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 10646277,
+  "kids" : [ 10646334 ],
+  "parent" : 10646159,
+  "text" : "It doesn&#x27;t make sense to purely think about it in terms of time spent. For instance I&#x27;ve been unhappy with Mozilla Thunderbird for years now, its performance is crappy, the search is slow etc. Finally a couple of weeks ago I took the time to spend two full days setting up mbsync+mu+mu4e+Emacs <i>just</i> the way I want, the setup is awesome, and my E-Mail no longer annoys me.<p>Sure in terms of pure time spent I&#x27;ll probably take years to gain that back, but there&#x27;s something to be said about not having a grating sense of annoyance in your daily life from the tools you use professionally, and that&#x27;s worth more than just the time you save.",
+  "time" : 1448834501,
+  "type" : "comment"
+}

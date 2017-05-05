@@ -1,0 +1,9 @@
+Comment-Id:	12428614
+Comment-Author:	avar
+Comment-Date:	Mon Sep  5 07:04:37 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12428395
+
+No, the real question is why certain people on HN that likely won't even use
+OpenBSD let alone contribute to its source code are complaining about what VCS
+it's using, or what the directory structure of its source repository is like.

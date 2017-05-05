@@ -1,0 +1,31 @@
+Comment-Id:	13582670
+Comment-Author:	avar
+Comment-Date:	Mon Feb  6 18:52:16 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13580924
+
+    > CPAN is anything but vibrant by today's standards.
+
+I guess it depends on how you count it, but if you look at the actual
+statistics[1] the number of uploads, new authors is pretty much the same as
+when perl was in its heyday.
+
+This isn't all old code churn either, from some brief clicking around new CPAN
+distributions in January peaked in 2005 at 251, whereas January 2017 saw 187
+[3].
+
+Sure, Perl has been surpassed to a large extent proportional to other
+languages, but what tends to get forgotten in these comparison between language
+popularity is that even languages that have "fallen from grace" are
+comparatively going just as strong as they were 10 years ago, because computing
+has grown in the aggregate.
+
+Which means that while your language of choice may not be as well known to your
+typical programmer as it was 10 years ago, the likelyhood of finding an
+existing module to perform some task is about the same.
+
+1. http://stats.cpantesters.org/trends.html#stats12
+
+2. http://stats.cpantesters.org/newdistros/2005.html
+
+3. http://stats.cpantesters.org/newdistros/2017.html

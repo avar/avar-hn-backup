@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 12522508,
+  "parent" : 12521609,
+  "text" : "For the uninitiated: Emacs major releases start at X.1, not X.0. So this is the first 25.X release, not some minor version release.<p>The last major version, 24.1, was released in June 2012, so this represents over 4 years of development.",
+  "time" : 1474147148,
+  "type" : "comment"
+}

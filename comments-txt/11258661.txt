@@ -1,0 +1,8 @@
+Comment-Id:	11258661
+Comment-Author:	avar
+Comment-Date:	Thu Mar 10 11:58:47 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11258486
+
+The Turing test is a really narrow "can you act like a human" test of
+intelligence, not a general intelligence test.

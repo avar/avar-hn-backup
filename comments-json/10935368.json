@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 10935368,
+  "kids" : [ 10935386, 10935412, 10936953, 10936492 ],
+  "parent" : 10935130,
+  "text" : "Between this and the ChakraCore news item on the front page I&#x27;ve been wondering whether Microsoft really has been changed its behavior since the 90s, or whether this is just how they play the game when they&#x27;re not in a position of strength as they are with node.js and cloud services.<p>It&#x27;s pretty telling from the ChakraCore thread not entirely being &quot;They&#x27;re obviously trying to embrace, extend, extinguish node.js like they did Java&quot; that people have either forgotten their modus operandi, or that I&#x27;m too much of a cynic and they&#x27;ve genuinely changed.<p>Sometimes I think I&#x27;m being too cynical and they&#x27;re now just as &quot;nice&quot; as some other companies which have a mostly healthy relationship with open source &amp; open architectures.<p>But then again all the news where they&#x27;re being more open these days have to do with areas where they don&#x27;t have established lock-in, including projects like .Net &amp; ChakraCore which formed the basis of some of the major projects where they lost the lock-in wars.<p>Are they just trying to lure users they&#x27;ve lost back into their sphere of influence so they can tighten the noose again, or are they genuinely doing business differently now?<p>I don&#x27;t know, but it&#x27;s hard to place any trust in them when you&#x27;ve been burned so many times, and even though they have a new CEO middle management &amp; their business model has a lot of inertia.",
+  "time" : 1453252347,
+  "type" : "comment"
+}

@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 12175568,
+  "kids" : [ 12175913 ],
+  "parent" : 12175427,
+  "text" : "These recent moves aren&#x27;t making me trust Microsoft anymore than before.<p>It&#x27;s fantastic that they&#x27;re open sourcing some stuff these days, but the things they&#x27;re open sourcing and external projects they&#x27;re contributing to are all either cost centers (nobody makes money on browser engines these days), or areas where they&#x27;ve lost the battle for cloud hosting, and are hoping to get a leg in on Linux-based hosting.<p>Now if they were to open source something like MSSQL, Exchange server, truly open up the office format, or pretty much anything where they haven&#x27;t utterly been defeated by existing open source products I&#x27;d be impressed and might think their company culture is truly changing.<p>As it stands I don&#x27;t see any reason to think that this isn&#x27;t just all part of an experimental marketing strategy to bring already lost markets back under the Microsoft umbrella, and once they can achieve lock-in again; goodbye open source.",
+  "time" : 1469645703,
+  "type" : "comment"
+}

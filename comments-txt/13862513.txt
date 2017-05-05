@@ -1,0 +1,20 @@
+Comment-Id:	13862513
+Comment-Author:	avar
+Comment-Date:	Mon Mar 13 21:19:08 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13862355
+
+Leaving the hairy question of immigration aside, you're assuming that economic
+systems on the scale of nation-states are zero-sum. It's not at all clear that
+providing a service to one person v.s. a million people is "cheaper" on that
+scale, because when you're talking about a nation you also tax those million
+people.
+
+You can take this logic to its extremes and assume that if you had only one
+very wealthy person living in the US that providing services for that one
+person would be cheaper. That wouldn't be the case.
+
+Then how about if there's 100 million people? 300? 600? Generally speaking
+having more people should increase the economic efficiency. If you have a tax
+base of 600 million people that's going to give you more resources to save your
+piggly-wiggly turtles than if you had 100 or 300.

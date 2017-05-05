@@ -1,0 +1,16 @@
+Comment-Id:	12567453
+Comment-Author:	avar
+Comment-Date:	Fri Sep 23 19:50:01 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12566910
+
+Only if the sync is the equivalent of:
+
+    rsync [...] /dev/shm/.browser ~/.browser
+
+Instead of:
+
+    rsync [...] /dev/shm/.browser ~/.browser.new && ln -sf ~/.browser.new ~/browser
+
+Or some such equivalent, i.e. doing the full sync and then atomically juggling
+a symlink around.

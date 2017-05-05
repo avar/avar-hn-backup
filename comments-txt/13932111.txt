@@ -1,0 +1,23 @@
+Comment-Id:	13932111
+Comment-Author:	avar
+Comment-Date:	Wed Mar 22 16:14:51 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13930736
+
+    > But a storm surge would be unpredictable, right?
+
+No we know what sort of storm surges are 10, 100, 1000 year events etc. At that
+point it's just a question of what you design the tunnel to withstand.
+
+    > How do the physics of "crushing" a boat by
+    > raising water level in a confined space work?
+
+This is an elementary application of Archimedes' principle. The weight of the
+ship is equivalent to the weight of the water it displaces[1].
+
+If the ship is stuck against the ceiling of a confined space the pressure it's
+excreting on the ceiling is going to be the equivalent to the displacement of
+that "extra" water.
+
+1. Leaving aside the full calculation which takes the difference in the weight
+of air & water into account for the purposes of this explanation.

@@ -1,0 +1,20 @@
+Comment-Id:	11474159
+Comment-Author:	avar
+Comment-Date:	Mon Apr 11 18:55:03 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11474019
+
+To me your comment demonstrates why it's really hard to figure out anything
+worthwhile about SEO.
+
+You wrote that code almost 8 years ago[1]. Google and other search engines have
+changed a lot since then. Who knows if this has any impact today?
+
+Actually did you even A/B test it at the time? Or just turn it on along with a
+bunch of other changes?
+
+It's hard to tell, and there's so much SEO (mis)information out there based on
+old anecdotes, and all the players doing A/B testing for this sort of thing on
+a big scale keep their data to themselves.
+
+1. https://github.com/reddit/reddit/commit/353ad2a

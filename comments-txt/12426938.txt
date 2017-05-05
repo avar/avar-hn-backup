@@ -1,0 +1,12 @@
+Comment-Id:	12426938
+Comment-Author:	avar
+Comment-Date:	Sun Sep  4 22:04:00 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12426857
+
+I switched to Dvorak years ago. Did it while working a programming job, it took
+me 3 days to type at the speed where I could keep up on IRC without the
+slowness being insufferable, 3 weeks for "this is ok but slow", and 3 months to
+fully transition.
+
+So you might have abandoned it too soon.

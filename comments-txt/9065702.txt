@@ -1,0 +1,14 @@
+Comment-Id:	9065702
+Comment-Author:	avar
+Comment-Date:	Tue Feb 17 22:51:38 UTC 2015
+Comment-Type:	comment
+Parent-Id:	9064651
+
+Of course you can't run "git pull --i-really-want-everything", you're the
+remote attacker this feature is meant to protect against!
+
+The use-case for this is that you're pushing to some shared hosting like GitHub
+where you can overwrite and delete refs, but you can't force a gc.
+
+You don't want someone to scour your Git commit announcements and see "oops,
+deleted password!" and go and fetch the deleted SHA1.

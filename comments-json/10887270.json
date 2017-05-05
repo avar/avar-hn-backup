@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 10887270,
+  "kids" : [ 10887341, 10887485, 10887660, 10887349, 10889255, 10887304 ],
+  "parent" : 10886718,
+  "text" : "<p><pre><code>    &gt; no autoconf\n</code></pre>\nMentioning this in the same breath as &quot;no segfaults&quot; seems odd, does Rust use some other build configuration tool, or does it just not have the need for compile-time configuration detection? If it&#x27;s the latter how does that even work?<p>Are there no optional libraries? No outdated libraries whose version you have to detect? No obscure platforms whose architecture you have to detect for unsafe inline code etc.?<p>Because if you can have any of those or any number of other cases where you need compile-time detection of configuration options you&#x27;re going to need something like autoconf.",
+  "time" : 1452605722,
+  "type" : "comment"
+}

@@ -1,0 +1,17 @@
+Comment-Id:	12782450
+Comment-Author:	avar
+Comment-Date:	Mon Oct 24 20:16:28 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12782093
+
+It's not "fully subjective" by any sensible definition. Yes humans are the
+measurement device, and humans differ and are unreliable, but given a
+sufficient number of samples you arrive at more accurate numbers.
+
+Nobody's going to give a paprika the same rating as a Carolina Reaper. You
+might have some give two very strong peppers the same rating, but then you
+might just need more people to test it.
+
+In any case, the practical utility of the scale is mostly to get an idea of how
+spicy something is, it doesn't really matter much if something is 700K or 600K,
+it's enough to know that it's around 2x as strong as a Habanero.

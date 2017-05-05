@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 9327918,
+  "parent" : 9327894,
+  "text" : "Same here, so [shameless plug] I wrote <a href=\"http:&#x2F;&#x2F;goosegoosego.com\" rel=\"nofollow\">http:&#x2F;&#x2F;goosegoosego.com</a> which is just a redirector for Google&#x2F;DDG which you can trivially run locally. It defaults to Google, and you can search DDG via !ddg<p>It gives you the advantage of having access to the !Bang syntax (<a href=\"https:&#x2F;&#x2F;duckduckgo.com&#x2F;bang.html\" rel=\"nofollow\">https:&#x2F;&#x2F;duckduckgo.com&#x2F;bang.html</a>), while providing IMO better search results via Google by default.",
+  "time" : 1428326526,
+  "type" : "comment"
+}

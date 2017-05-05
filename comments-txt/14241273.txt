@@ -1,0 +1,8 @@
+Comment-Id:	14241273
+Comment-Author:	avar
+Comment-Date:	Mon May  1 20:33:04 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14238659
+
+The "You recently graduated with a [...] degree in software engineering or a
+related discipline" requirement seems odd. Why recently?

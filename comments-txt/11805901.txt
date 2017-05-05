@@ -1,0 +1,15 @@
+Comment-Id:	11805901
+Comment-Author:	avar
+Comment-Date:	Tue May 31 11:26:47 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11805164
+
+The flock() method is preferable when you don't need to use NFS because as you
+say it'll automatically clean the lock up if the process holding it dies.
+
+This gets rid of all the edge cases with stale locks in one fell swoop.
+
+But as you point out if you want to do this e.g. over NFS you should create a
+file, but then you need to deal with stale locks.
+
+If you can at all avoid that using flock() is generally better.

@@ -1,0 +1,14 @@
+Comment-Id:	7366655
+Comment-Author:	avar
+Comment-Date:	Sat Mar  8 22:36:13 UTC 2014
+Comment-Type:	comment
+Parent-Id:	7366627
+
+That's not an accurate description at all. Both the SR-71 and the YF-12 were
+developed from the A-12, which was purely a reconnaissance aircraft: https://
+en.wikipedia.org/wiki/Lockheed_A-12
+
+The whole concept of using the "Blackbird" family of planes as interceptors was
+an experimental offshoot that was quickly cancelled, the SR-71 certainly wasn't
+developed as some byproduct of an interceptor, it it was the other way around,
+the interceptor was a failed offshoot of the reconnaissance aircraft.

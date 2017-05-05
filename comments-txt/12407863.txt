@@ -1,0 +1,7 @@
+Comment-Id:	12407863
+Comment-Author:	avar
+Comment-Date:	Thu Sep  1 18:49:04 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12407767
+
+"ARM CPU vendors HATE HIM!"

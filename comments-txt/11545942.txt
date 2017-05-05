@@ -1,0 +1,25 @@
+Comment-Id:	11545942
+Comment-Author:	avar
+Comment-Date:	Thu Apr 21 23:01:12 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11545855
+
+    Why can't they sell products and be
+    like an Apple, Oracle, Microsoft.
+
+Econ 101 on HN again.
+
+Aside from what Google's doing. You're assuming that the value someone
+personally derives from using something is the value other people derive from
+pushing it to them.
+
+I.e. you have ads on Google, some of which cost >$10. To the companies paying
+for them that makes sense, because they might be selling a product that costs
+$500-1000, with say 10% conversion.
+
+But a user is never going to be persuaded to pay >$10 simply to click a link.
+
+So yes, there are some things Google does for free that they could be selling,
+but a) they may not be easy to sell directly b) even if people bought them it
+wouldn't make up the difference they make from ads, because the value isn't on
+the consumer side, it's on the advertiser's side.

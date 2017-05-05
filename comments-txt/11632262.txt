@@ -1,0 +1,12 @@
+Comment-Id:	11632262
+Comment-Author:	avar
+Comment-Date:	Wed May  4 21:58:44 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11631702
+
+For the purposes of proving that a document exists no, you really couldn't go
+back in time, if this were to happen it would be a monumental time for bitcoin,
+and the old blockchain would be well known & referenced.
+
+So for the purposes of proving that you wrote that document it really doesn't
+matter if that were to happen.

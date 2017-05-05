@@ -1,0 +1,12 @@
+Comment-Id:	14177768
+Comment-Author:	avar
+Comment-Date:	Sun Apr 23 11:47:32 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14175817
+
+IRC also needs someone to run a server. Just because a protocol isn't p2p
+there's plenty of reason to open it. You can independently develop third party
+clients, use your own server instead of Apple's etc.
+
+They simply lied. They never said "We'll open Facetime, but only if it's
+implemented as a p2p protocol & client"

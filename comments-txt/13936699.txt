@@ -1,0 +1,13 @@
+Comment-Id:	13936699
+Comment-Author:	avar
+Comment-Date:	Thu Mar 23 01:18:56 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13936657
+
+I don't know why the limit is 100 per day, I'm just going by the article & the
+pictures in it which very clearly show a tunnel open to the ocean with no lock
+system.
+
+The photos also show a mountain going straight into the ocean, which means
+raising the ship with a lock wouldn't save you any money, since you'd need an
+unbroken sequence of locks going all the way to the top of the mountain.

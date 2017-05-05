@@ -1,0 +1,52 @@
+Comment-Id:	14034976
+Comment-Author:	avar
+Comment-Date:	Tue Apr  4 17:10:39 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14034308
+
+You're misreading the graph[1]. The 2-7 grouping is all gun deaths, homicides,
+suicides, and accidental deaths.
+
+If you hover over individual blue counties you can see the breakdown by
+homicide and suicide rate for some of them.
+
+E.g. Washington, NY has a gun homicide rate of 0.46, gun suicide rate of 5.14.
+Meanwhile The Netherlands has a gun homicide rate of 0.29, gun suicide rate of
+0.28, but an overall homicide rate of 0.7[2], and an overall suicide rate of
+8.2, while the US has a suicide rate of 12.1.
+
+Does The Netherlands still come out better? Am I cherry-picking by comparing
+county-level statistics v.s. entire countries? Yes and yes.
+
+But for the point I'm making it doesn't matter. The point is that there's a
+common misunderstanding, particularly among mainland Europeans, that the mere
+availability of guns in the US results in a drastic increase in the homicide
+rate.
+
+This is simply not supported by the data. What the data does show is that if
+you're going to kill yourself or others you're likely to use the best tool for
+the task, whether that's a gun or a knife.
+
+Does the ease of availability of guns in the US make it easier to kill people,
+and cause some murders that otherwise wouldn't have happened? Yeah, but it's
+hard to tease that out of the data, it also prevents some murders.
+
+What we do see from the data[2] is that there's lots of countries with much
+more restrictive gun policies that have higher homicide rates than the US, and
+furthermore the occurrences of gun-related homicides in the US don't at all map
+to whether the area has more liberal access to guns, but whether there's a
+general crime & poverty problem there.
+
+Lithuania has a significantly higher homicide rate than the US, 5.5 v.s. the
+US's 3.9, but just 1% of homicides there are gun crimes[3].
+
+However I've never heard anyone say to my Lithuanian friends that they were
+lucky to get out because of the obscene murder rate there, but I've heard my
+fellow Europeans make comments like that to some of my American friends when it
+comes to gun crimes.
+
+1. http://projects.oregonlive.com/ucc-shooting/gun-deaths
+
+2. https://en.wikipedia.org/wiki/List_of_countries_by_intention...
+
+3. https://www.gunpolicy.org/firearms/citation/quotes/10319

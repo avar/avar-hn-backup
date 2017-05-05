@@ -1,0 +1,16 @@
+Comment-Id:	10646277
+Comment-Author:	avar
+Comment-Date:	Sun Nov 29 22:01:41 UTC 2015
+Comment-Type:	comment
+Parent-Id:	10646159
+
+It doesn't make sense to purely think about it in terms of time spent. For
+instance I've been unhappy with Mozilla Thunderbird for years now, its
+performance is crappy, the search is slow etc. Finally a couple of weeks ago I
+took the time to spend two full days setting up mbsync+mu+mu4e+Emacs just the
+way I want, the setup is awesome, and my E-Mail no longer annoys me.
+
+Sure in terms of pure time spent I'll probably take years to gain that back,
+but there's something to be said about not having a grating sense of annoyance
+in your daily life from the tools you use professionally, and that's worth more
+than just the time you save.

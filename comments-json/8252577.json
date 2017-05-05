@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 8252577,
+  "kids" : [ 8252799, 8253188, 8253693 ],
+  "parent" : 8252460,
+  "text" : "He doesn&#x27;t have a problem with the GPLv2 allowing later versions, that&#x27;s completely reasonable. His problem was that with the GPLv3 they changed the spirit of the license. He thinks a license &quot;upgrade&quot; shouldn&#x27;t have done that, they should have just released a new license instead.<p>I.e. previously the agreement was &quot;here&#x27;s my code, if you change it send me the changes&quot;, now in addition to that it includes clauses about what you can do with the hardware you run it on.<p>I also don&#x27;t want a future where all you can buy are locked-down devices, but is the GPL really the right venue to fight that battle? If companies want locked-down hardware they&#x27;re just going to do lock it down anyway, and just use e.g. FreeBSD instead of Linux and contribute none of their code changes back.<p>Isn&#x27;t it better that they release locked-down hardware but contribute their code changes, so that if someone wants to make competing open hardware they can start with all the same driver &amp; feature support in Linux?",
+  "time" : 1409576026,
+  "type" : "comment"
+}

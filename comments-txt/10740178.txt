@@ -1,0 +1,33 @@
+Comment-Id:	10740178
+Comment-Author:	avar
+Comment-Date:	Tue Dec 15 20:18:45 UTC 2015
+Comment-Type:	comment
+Parent-Id:	10739962
+
+    > I doubt Wikimedia Deutschland would fare well
+    > if their US-based parent organisation disregarded
+    > rulings of German courts.
+
+Well, this has always been the interesting case with these lawsuits against
+Wikipedia/Wikimedia. The local chapters do not in any way run their respective
+language editions. After all, why would the Wikimedia Germany and not the
+Austria or Switzerland chapter run the German Wikipedia?
+
+Even if the heat was turned up on Wikimedia Deutschland as a result of
+something like this they'd be unable to dictate what goes into their language
+editions of Wikipedia. The local chapters simply have nothing to do with the
+editorial policy.
+
+There are plenty of German speakers who edit Wikipedia who live outside of
+Germany, some even live in the U.S. Is a German court ruling going to decide
+whether a German speaker living in the U.S. can insert factual information into
+a U.S.-hosted encyclopedia article about some subject pertinent to Germany?
+
+The entire legal framework around this sort of thing is based on the assumption
+of locally published paper media, and it's really interesting to see how these
+cases are treated in the Internet age where it's not a case of local publishing
+in your country, but your citizens fetching foreign-published information over
+international boundaries.
+
+So I'm genuinely curious to know what their standing in the case was considered
+to be.

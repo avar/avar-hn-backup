@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 13100997,
+  "kids" : [ 13101078, 13101243, 13101528, 13101093, 13101099, 13101185 ],
+  "parent" : 13100965,
+  "text" : "It&#x27;s extremely amusing to see someone nostalgically complain about huge JS assets, when every subpage on that site has a 56K *.gif image as a &lt;body background=&quot;&quot;&gt;[1], i.e. something that would have taken a full second to download on a 56K connection. Just like 1MB of JS takes about a second to download &amp; render on your current &gt;1MB&#x2F;s connection.<p>Back in the day people used to complain about these huge background images just as much as purists today complain about &gt;1MB JS&#x2F;CSS assets, which given Moore&#x27;s law &amp; the increase in network speeds works out to be the same thing, relatively speaking.<p>1. <a href=\"http:&#x2F;&#x2F;mars.nasa.gov&#x2F;MPF&#x2F;gif&#x2F;rca.gif\" rel=\"nofollow\">http:&#x2F;&#x2F;mars.nasa.gov&#x2F;MPF&#x2F;gif&#x2F;rca.gif</a> -&gt; 56K =~ 55854 bytes",
+  "time" : 1480875559,
+  "type" : "comment"
+}

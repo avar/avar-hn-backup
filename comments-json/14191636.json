@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 14191636,
+  "kids" : [ 14192954, 14191857, 14194230, 14193178, 14194734 ],
+  "parent" : 14190380,
+  "text" : "I wondered what it would cost to get this detail for the entirety of the ocean. They say they mapped an area the size of New Zealand, which is around 250k km^2. According to a quick Google search the total area of the oceans is 360 million km^2, and according to a Guardian article I found[1] the subsurface search cost 180 million AU$.<p><pre><code>    (360&#x2F;0.25)*180 =~ 250 billion AU$\n</code></pre>\nThat&#x27;s around 190 billion USD, not even 0.1 Iraq wars, and that&#x27;s before considering any economies of scale.<p>1. <a href=\"https:&#x2F;&#x2F;www.theguardian.com&#x2F;world&#x2F;2017&#x2F;jan&#x2F;17&#x2F;malaysia-airlines-flight-mh370-search-called-off\" rel=\"nofollow\">https:&#x2F;&#x2F;www.theguardian.com&#x2F;world&#x2F;2017&#x2F;jan&#x2F;17&#x2F;malaysia-airli...</a>",
+  "time" : 1493107802,
+  "type" : "comment"
+}

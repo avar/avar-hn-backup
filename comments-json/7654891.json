@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 7654891,
+  "parent" : 7653287,
+  "text" : "<p><pre><code>    &gt; If it were no longer possible to upload that data the system\n    &gt; would eventually become either non-functional (depending on how\n    &gt; the satellites and individual handsets are designed) or\n    &gt; increasingly inaccurate until no longer useful.\n</code></pre>\nIf that were to happen you could just augment GPS\nreceivers to use more accurate ephemeris data provided from other\nsources.<p>It is, after all, now computed on the ground and uploaded to the GPS\nconstellation, having it be provided by the satellites is just a\nconvenience, not a necessity.",
+  "time" : 1398603657,
+  "type" : "comment"
+}

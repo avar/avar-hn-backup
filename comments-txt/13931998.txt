@@ -1,0 +1,8 @@
+Comment-Id:	13931998
+Comment-Author:	avar
+Comment-Date:	Wed Mar 22 16:01:59 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13928205
+
+No, that's not how it's going to work. This proposed tunnel has no locks, the
+tunnel is open to the ocean on both ends.

@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 11014157,
+  "kids" : [ 11014355 ],
+  "parent" : 11013872,
+  "text" : "I&#x27;m no fan of Slack, but it has IRC and XMPP gateways. You can trivially set up an IRC bot that logs your channels &amp; conversations, I connect to Slack via irssi &amp; use its standard logging facility.<p>So you&#x27;re no more likely to lose your logs via Slack than via IRC or XMPP if you set things up correctly.",
+  "time" : 1454352264,
+  "type" : "comment"
+}

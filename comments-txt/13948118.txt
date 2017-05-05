@@ -1,0 +1,12 @@
+Comment-Id:	13948118
+Comment-Author:	avar
+Comment-Date:	Fri Mar 24 11:17:36 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13946842
+
+You also need the permission of all the authors of the code those patches are
+based on, because almost all new patches are inevitably derived work of the
+existing codebase.
+
+It's not practical unless you can maintain a near-100% approval rate from all
+OpenSSL contributors that their patches are dual-licensed.

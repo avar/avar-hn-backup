@@ -1,0 +1,12 @@
+Comment-Id:	13801966
+Comment-Author:	avar
+Comment-Date:	Mon Mar  6 11:19:43 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13801615
+
+Is that really inherently different, or just a more complex manifestation of
+the same basic principles?
+
+I.e. Atoms repel each other because of their magnetic fields, and depending on
+their polarity and spin in the aggregate they can produce bigger and more
+complex magnetic fields, such as the ones analyzed by magnetohydrodynamics.

@@ -1,0 +1,14 @@
+Comment-Id:	10122277
+Comment-Author:	avar
+Comment-Date:	Wed Aug 26 11:48:36 UTC 2015
+Comment-Type:	comment
+Parent-Id:	10122224
+
+I think most patents are silly, but isn't the system working exactly as it
+should here? The patent was awarded, then it was challenged in court and
+overturned for many of the reasons you cite.
+
+If we were a lot more thorough about awarding patents wouldn't that increase
+the overall cost to society to exhaustively audit patents from the outset,
+instead of auditing only the small subset that's troublesome enough to be
+challenged in court?

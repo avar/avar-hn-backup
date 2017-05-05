@@ -1,0 +1,14 @@
+Comment-Id:	11100648
+Comment-Author:	avar
+Comment-Date:	Sun Feb 14 23:58:58 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11100465
+
+I've tried all of those things. While Emacs deals with a lot of things really
+well, I have around 100 terminal windows (screen sessions nested within screen
+sessions based on topic) at any given time. While it would be neat to have that
+all within Emacs for copy/pasting etc. since it's single threaded it just deals
+with it horribly.
+
+So instead I spawn Emacs just for editing/changing/email/finding, and do all
+shell stuff through screen/ssh/bash.

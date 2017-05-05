@@ -1,0 +1,13 @@
+Comment-Id:	13925790
+Comment-Author:	avar
+Comment-Date:	Tue Mar 21 20:14:41 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13925003
+
+This is obviously a joke, but here's a serious reply to it: There will already
+be serious Y10K problems in 9997, just like there were Y2K problems earlier
+than 1997.
+
+Epochs & date formats aren't only used to represent & display the current date,
+but dates in the future, e.g. think about reservation systems, graphing
+libraries that display things 10-15-50 years in the future etc.

@@ -1,0 +1,14 @@
+Comment-Id:	10853462
+Comment-Author:	avar
+Comment-Date:	Wed Jan  6 20:24:53 UTC 2016
+Comment-Type:	comment
+Parent-Id:	10853310
+
+If you're right why do you think Netflix's CEO is saying the EEA isn't there
+yet due to the lack of a digital single market[1] and why is the European
+commission proposing a "digital single market" as part of its Europe 2020 plans
+[2]?
+
+1. http://www.euractiv.com/sections/infosociety/netflix-ceo-eur...
+
+2. https://en.wikipedia.org/wiki/Europe_2020

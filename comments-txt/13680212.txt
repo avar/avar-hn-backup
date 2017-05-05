@@ -1,0 +1,15 @@
+Comment-Id:	13680212
+Comment-Author:	avar
+Comment-Date:	Sun Feb 19 15:51:39 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13680157
+
+This article from 1990 in the NYT tries to account for the cost of banning
+CFC's[1]. At worst it's a few hundred billion USD.
+
+We've spent way more than that on CO^2 via the Kyoto accords etc. Of course the
+problem isn't solved, but that's because it's a way bigger problem. We've acted
+even more on CO^2 than CFC's, but the problem of CFC's was much smaller and
+easier to solve.
+
+1. http://www.nytimes.com/1990/07/17/science/grappling-with-the...

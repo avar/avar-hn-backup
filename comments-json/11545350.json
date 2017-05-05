@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 11545350,
+  "kids" : [ 11546106 ],
+  "parent" : 11544825,
+  "text" : "No. What you&#x27;re describing is just a subset of preimage attacks.<p>Not having knowledge of x is just one type of preimage attack, a &quot;preimage resistance&quot;. You can also know x, then it&#x27;s a &quot;second-preimage resistance&quot;.[1]<p>Which is not the same as a collision attack. Where you&#x27;re trying to find x and y such that h(x) = h(y) <i>without</i> anyone specifying x or y in advance.<p>By definition a collision attack is an attack where you specifically craft <i>both</i> x and y such that they exploit weaknesses in the algorithm.<p>It&#x27;s not enough to know an arbitrary x or y that someone else has made, because that value isn&#x27;t going to be exploiting the weakness.<p>1. <a href=\"https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Preimage_attack\" rel=\"nofollow\">https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Preimage_attack</a>",
+  "time" : 1461272799,
+  "type" : "comment"
+}

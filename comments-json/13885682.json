@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 13885682,
+  "kids" : [ 13886623 ],
+  "parent" : 13885250,
+  "text" : "I&#x27;m not involved in Emacs&#x2F;Guile&#x2F;GuileEmacs development. I just searched emacs-devel &#x2F; EmacsWiki before writing that comment.<p>Having said that it seems to be in a POC state, but is very slow and needs optimization. These two wiki pages provide a decent overview: <a href=\"https:&#x2F;&#x2F;www.emacswiki.org&#x2F;emacs&#x2F;GuileEmacs\" rel=\"nofollow\">https:&#x2F;&#x2F;www.emacswiki.org&#x2F;emacs&#x2F;GuileEmacs</a> &amp; <a href=\"https:&#x2F;&#x2F;www.emacswiki.org&#x2F;emacs&#x2F;GuileEmacsTodo\" rel=\"nofollow\">https:&#x2F;&#x2F;www.emacswiki.org&#x2F;emacs&#x2F;GuileEmacsTodo</a><p>This &quot;Preview: portable dumper,&quot; thread from November 2016 and spin-offs appear to be the most up-to-date emacs-devel discussion on the subject: <a href=\"https:&#x2F;&#x2F;lists.gnu.org&#x2F;archive&#x2F;html&#x2F;emacs-devel&#x2F;2016-11&#x2F;threads.html#00625\" rel=\"nofollow\">https:&#x2F;&#x2F;lists.gnu.org&#x2F;archive&#x2F;html&#x2F;emacs-devel&#x2F;2016-11&#x2F;threa...</a><p>The older October 2015 &quot;In support of guile-emacs&quot; thread seems to have been written after development mostly tapered out, discusses some work to be done, and is a call for more development (which seems to have gone unanswered): <a href=\"https:&#x2F;&#x2F;lists.gnu.org&#x2F;archive&#x2F;html&#x2F;emacs-devel&#x2F;2015-10&#x2F;threads.html#01538\" rel=\"nofollow\">https:&#x2F;&#x2F;lists.gnu.org&#x2F;archive&#x2F;html&#x2F;emacs-devel&#x2F;2015-10&#x2F;threa...</a><p>All the work on the Emacs integration appears to have been done by Robin Templeton in early 2015 with no commit since May 2015: <a href=\"http:&#x2F;&#x2F;git.hcoop.net&#x2F;?p=bpt&#x2F;emacs.git;a=shortlog\" rel=\"nofollow\">http:&#x2F;&#x2F;git.hcoop.net&#x2F;?p=bpt&#x2F;emacs.git;a=shortlog</a>",
+  "time" : 1489677453,
+  "type" : "comment"
+}

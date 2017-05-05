@@ -1,0 +1,25 @@
+Comment-Id:	8109430
+Comment-Author:	avar
+Comment-Date:	Wed Jul 30 17:02:09 UTC 2014
+Comment-Type:	comment
+Parent-Id:	8108985
+
+I think it's a bit odd thinking of programming languages as a career option. I
+work at what's one of the biggest if not the biggest single employer of Perl
+programmers (Booking.com), and we don't specifically hire people with prior
+Perl experience. We hire people with relevant programming experience and bring
+them up to speed on Perl.
+
+Anecdotally we've hired people who've had years of Perl experience who haven't
+done all that well, and people who've had no prior Perl experience who've just
+picked it up on the job and been very productive contributors within days or
+weeks.
+
+The unstated assumption with articles like these is that you'd be losing out if
+you don't get experience with the "winning" platform, but in my opinion a much
+better way to become a good programmer is to get experience with a wide
+selection of toolsets and programming languages. Even if none of those toolsets
+are widely used commercially.
+
+Having said that if you're interested in Perl as a career choice we're always
+hiring :)

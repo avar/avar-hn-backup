@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 11639151,
+  "parent" : 11638602,
+  "text" : "<p><pre><code>    &gt; The ability to use a high-level, dynamic language (ObjC),\n    &gt; C, and even inline assembly in a single source file\n    &gt; is unique to Objective-C (at least among the\n    &gt; &quot;mainstream&quot; languages)[...]\n</code></pre>\nWell Perl is mainstream enough to be installed on every *nix box, here&#x27;s examples of assembly and C functions interoperating with Perl in the same source file: <a href=\"https:&#x2F;&#x2F;metacpan.org&#x2F;pod&#x2F;distribution&#x2F;Inline-ASM&#x2F;ASM.pod#SYNOPSIS\" rel=\"nofollow\">https:&#x2F;&#x2F;metacpan.org&#x2F;pod&#x2F;distribution&#x2F;Inline-ASM&#x2F;ASM.pod#SYN...</a> &amp; <a href=\"https:&#x2F;&#x2F;metacpan.org&#x2F;pod&#x2F;distribution&#x2F;Inline-C&#x2F;lib&#x2F;Inline&#x2F;C.pod#Example-1---Greetings\" rel=\"nofollow\">https:&#x2F;&#x2F;metacpan.org&#x2F;pod&#x2F;distribution&#x2F;Inline-C&#x2F;lib&#x2F;Inline&#x2F;C....</a><p><pre><code>    &gt; The &quot;C ABI&quot; (although there is no such thing)\n</code></pre>\nOf course if you do this in Perl every one of your calls will need to go through a foreign function interface where Perl&#x27;s structures are translated back &amp; forth between its idea of datastructures and the OS&#x27;s idea, avoiding that is what people really mean when they talk about the &quot;C ABI&quot;.",
+  "time" : 1462477541,
+  "type" : "comment"
+}

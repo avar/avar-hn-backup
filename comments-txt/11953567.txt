@@ -1,0 +1,13 @@
+Comment-Id:	11953567
+Comment-Author:	avar
+Comment-Date:	Wed Jun 22 13:10:39 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11953536
+
+As I recall the terms include some phrase like "we might change the license to
+be similar in spirit to the existing one" which gives FSF and anyone who
+controls it in the future a lot of wiggle room.
+
+E.g. the GPL v2 to v3 transition was enabled by that, with the introduction of
+patent/"TiVo" clauses. No reason they couldn't make more drastic changes in the
+future.

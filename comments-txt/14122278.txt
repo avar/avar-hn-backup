@@ -1,0 +1,16 @@
+Comment-Id:	14122278
+Comment-Author:	avar
+Comment-Date:	Sat Apr 15 19:10:28 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14121780
+
+Oh man:
+
+    > I am bemused by an approach to accepting
+    > security reports which is to go through the
+    > motions of having PGP public keys available
+    > for people to use to report issues but upon
+    > receiving such a request ask for it to be
+    > submitted without PGP because digging out
+    > the keys is too much of a hassle.
+

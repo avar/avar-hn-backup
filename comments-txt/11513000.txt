@@ -1,0 +1,39 @@
+Comment-Id:	11513000
+Comment-Author:	avar
+Comment-Date:	Sun Apr 17 00:52:52 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11512916
+
+    > I just read about O_APPEND and it doesn't sound like what I'm
+    > talking about at all. It always appends to the end. It sounds like
+    > if two writers race, both chunks of new data are appended. That's
+    > not as useful as what I described. I'm basically talking about
+    > compare and swap, except instead of compare and swap its compare and
+    > append
+
+Correct. If you want to only write to the end of a file if that file is size X
+you'd either need your proposed syscall of "only write if size is X" or have
+every writer cooperate via flock() to achive that via current semantics.
+
+That's not at all what the grandparent is talking about though. They just want
+"log" files where you can only append and the write() is atomic. That doesn't
+mean "my write shouldn't work if there is a concurrent write" which is a
+semantic you're making up, and which I don't really see making sense for log
+files.
+
+I'm really finding it difficult to imagine a plausable use case for your
+proposed semantics. Imagine this: You have 100 concurrent web serving processes
+all writing to an access.log, currently they can just write() O_APPEND to an
+access.log with a string below PIPE_BUF and their writes will end up on disk,
+but may not be interleaved in "real time", but who cares?
+
+What you're proposing means that only 1 out of those 100 processes will succeed
+in their write() call. The rest will start a retry loop that's trying to write
+out some data whose order didn't even matter in the first place to try to flush
+it to disk because they all want to only write the data if the size of the file
+is N, and every single write updates N.
+
+If you have a use-case for strictly serializing writes to disk like this that's
+fine, but it's not the common case with log files, and the way it's done is not
+to try to add a new API to the kernel, you just send messages to some userspace
+thread that queues them up and does the I/O for you.

@@ -1,0 +1,20 @@
+Comment-Id:	13211651
+Comment-Author:	avar
+Comment-Date:	Mon Dec 19 14:42:51 UTC 2016
+Comment-Type:	comment
+Parent-Id:	13211305
+
+You turn left by getting in front of the row of stopped cars, e.g. [1] in
+Amsterdam shows such an intersection.
+
+This is a common pattern in The Netherlands, and the one I personally prefer to
+what you describe, since aside from a full roundabout it offers the best
+trade-off between safety and commute speed while on a bicycle.
+
+Granted, my experience of The Netherlands is biased towards central Amsterdam,
+since it's the only place I've lived, but there's plenty of places there where
+car & bicycle traffic is mixed. It seems fine to me to mix car & bicycle
+traffic as long as you force the road speed down, or ensure that the bicycles
+have priority e.g. on left turns.
+
+1. https://goo.gl/D3jAeF

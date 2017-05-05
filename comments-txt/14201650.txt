@@ -1,0 +1,9 @@
+Comment-Id:	14201650
+Comment-Author:	avar
+Comment-Date:	Wed Apr 26 09:24:30 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14201476
+
+Then don't write a compile-recipe from scratch, but take e.g. your distro's
+packaging script & just add the switch you need. This is easy and relatively
+fool-proof.

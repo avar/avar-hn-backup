@@ -1,0 +1,17 @@
+Comment-Id:	11603344
+Comment-Author:	avar
+Comment-Date:	Sat Apr 30 20:09:06 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11603290
+
+Wasn't he working from home from Hawaii as a contractor with a remote login and
+could easily transfer data from NSA systems at his leisure? Isn't this whole
+framing of a Jason Bourne-esque exfiltration of the data just a myth?
+
+Aside from Snowden you don't have to elaborately hide an SD card in a Rubik's
+cube. Just strick it in a condom and shove it.
+
+From what I've read security against this sort of exfiltration is focused on
+disabling USB ports and the like. Not trying to detect something the size of an
+SD card leaving the building. They're not doing a full cavity search or giving
+you an MRI each time you enter/exit.

@@ -1,0 +1,18 @@
+Comment-Id:	8918067
+Comment-Author:	avar
+Comment-Date:	Tue Jan 20 17:31:22 UTC 2015
+Comment-Type:	comment
+Parent-Id:	8917963
+
+Your observation about diminishing returns is an excellent one, but your
+comparison about space exploration and movie making doesn't make much sense.
+
+The reason these people don't argue that we shouldn't stop making movies until
+we end world hunger is that (well, most of the time), the making of movies is
+not funded by the government, but by the private market.
+
+It's a one thing to to argue that we shouldn't do Y at all as a species until
+we accomplish X ("we shouldn't make movies when people are starving"). It's
+very different to argue that maybe the government should completely prioritize
+X over Y for the purposes of allocating tax money ("let's not spend money on
+space until we can feed everyone").

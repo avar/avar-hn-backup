@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 13582670,
+  "parent" : 13580924,
+  "text" : "<p><pre><code>    &gt; CPAN is anything but vibrant by today&#x27;s standards.\n</code></pre>\nI guess it depends on how you count it, but if you look at the actual statistics[1] the number of uploads, new authors is pretty much the same as when perl was in its heyday.<p>This isn&#x27;t all old code churn either, from some brief clicking around new CPAN distributions in January peaked in 2005 at 251, whereas January 2017 saw 187[3].<p>Sure, Perl has been surpassed to a large extent proportional to other languages, but what tends to get forgotten in these comparison between language popularity is that even languages that have &quot;fallen from grace&quot; are comparatively going just as strong as they were 10 years ago, because computing has grown in the aggregate.<p>Which means that while your language of choice may not be as well known to your typical programmer as it was 10 years ago, the likelyhood of finding an existing module to perform some task is about the same.<p>1. <a href=\"http:&#x2F;&#x2F;stats.cpantesters.org&#x2F;trends.html#stats12\" rel=\"nofollow\">http:&#x2F;&#x2F;stats.cpantesters.org&#x2F;trends.html#stats12</a><p>2. <a href=\"http:&#x2F;&#x2F;stats.cpantesters.org&#x2F;newdistros&#x2F;2005.html\" rel=\"nofollow\">http:&#x2F;&#x2F;stats.cpantesters.org&#x2F;newdistros&#x2F;2005.html</a><p>3. <a href=\"http:&#x2F;&#x2F;stats.cpantesters.org&#x2F;newdistros&#x2F;2017.html\" rel=\"nofollow\">http:&#x2F;&#x2F;stats.cpantesters.org&#x2F;newdistros&#x2F;2017.html</a>",
+  "time" : 1486407136,
+  "type" : "comment"
+}

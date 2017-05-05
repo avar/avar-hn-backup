@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 10727916,
+  "kids" : [ 10728369, 10729861 ],
+  "parent" : 10727340,
+  "text" : "<p><pre><code>    &gt; Like that my long-time favorite, XFS, totally kicks ass in the\n    &gt; comparisons.\n</code></pre>\nI think you&#x27;ll find this an interesting read then:\n<a href=\"http:&#x2F;&#x2F;teh.entar.net&#x2F;~nick&#x2F;mail&#x2F;why-reiserfs-is-teh-sukc\" rel=\"nofollow\">http:&#x2F;&#x2F;teh.entar.net&#x2F;~nick&#x2F;mail&#x2F;why-reiserfs-is-teh-sukc</a><p>It&#x27;s written in 2004 so I don&#x27;t know how current it is, but it makes\nthe point that XFS makes certain performance &amp; safety guarantees\nessentially assuming that you&#x27;re running on hardware that has a UPS\nwith the ability to interrupt the OS saying &quot;oops, we&#x27;re out of\npower&quot;.",
+  "time" : 1450040382,
+  "type" : "comment"
+}

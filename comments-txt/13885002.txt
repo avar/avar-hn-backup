@@ -1,0 +1,14 @@
+Comment-Id:	13885002
+Comment-Author:	avar
+Comment-Date:	Thu Mar 16 13:56:40 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13884322
+
+For those excited about the "Guile's Elisp implementation" in this release. The
+last major Guile release was 6 years ago, and much of this GuileEmacs work is
+still highly WIP and from my searching on emacs-devel seems to have stalled in
+2015 for lack of volunteers.
+
+Just because Guile implements Elisp the language doesn't mean there isn't a ton
+of work to be done on Emacs itself to swap out its native VM for Guile, and it
+seems nobody's keen on finishing up that work.

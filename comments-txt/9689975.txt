@@ -1,0 +1,30 @@
+Comment-Id:	9689975
+Comment-Author:	avar
+Comment-Date:	Wed Jun 10 04:04:26 UTC 2015
+Comment-Type:	comment
+Parent-Id:	9689706
+
+From the article:
+
+    Of particular concern is that Obnam has a theoretical collision
+    potential, in that if a block has the same MD5 hash as another
+    block, it will assume they are the same. This behaviour is the
+    default, but can be mitigated by using the verify option. I tried
+    with and without, and interestingly did not notice any speed
+    difference (2 seconds, which is statistically insignificant) and
+    also did not encounter any bad data on restoration. So I don't
+    know why it's off by default.
+
+Worrying about this violates Taylor's Law of Programming Probability[1]:
+
+    The theoretical possibility of a catastrophic occurrence in your
+    program can be ignored if it's less likely than the entire
+    installation being wiped out by meteor strike.
+
+I've seen a lot of sysadmins or programmers nitpick systems that have the
+theoretical possibility of md5 or sha1 collisions, but it's amazingly unlikely
+to happen in something like a backup system where you're backing up your own
+data, and not taking hostile user data where the users might be engineering
+collisions:
+
+1. http://www.miketaylor.org.uk/tech/law.html

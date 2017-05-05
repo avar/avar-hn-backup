@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 11485278,
+  "kids" : [ 11485327 ],
+  "parent" : 11481606,
+  "text" : "You seem to be assuming that there needs to be a distinctive backend codebase for each domain covering the wildcard certificate.<p>This is something entirely orthogonal to the number of certificates. You could have 1000 codebases with different attack vectors under one SSL certificate, or 1 codebase the same attack vectors serving up 1000 SSL certificates.",
+  "time" : 1460514567,
+  "type" : "comment"
+}

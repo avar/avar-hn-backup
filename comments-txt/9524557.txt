@@ -1,0 +1,21 @@
+Comment-Id:	9524557
+Comment-Author:	avar
+Comment-Date:	Mon May 11 13:34:06 UTC 2015
+Comment-Type:	comment
+Parent-Id:	9524517
+
+The same as on Wikipedia or any other collaborative "wiki"-like tool. There are
+active mappers in each area that look at changes that are being done there, we
+also have access to the complete edit history so we can see what changed when,
+where and by whom.
+
+People do vandalize the data occasionally, or accidentally screw something up.
+That gets dealt with relatively quickly.
+
+Although like Wikipedia the likelyhood of someone spotting bad edits is
+inversely proportional to how "busy" the area is, if you're going to add a new
+street to the center of Paris that's likely to be spotted much sooner than
+adding some fake country rode to the middle of Siberia.
+
+Mostly it just works though because good actors outnumber bad actors by many
+orders of magnitude.

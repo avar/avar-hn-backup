@@ -1,0 +1,20 @@
+Comment-Id:	11542400
+Comment-Author:	avar
+Comment-Date:	Thu Apr 21 14:30:43 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11542257
+
+You're conflating collision attacks like the Flame malware with a preimage
+attack that would be necessary to produce a malicious Ubuntu release with the
+same MD5SUM.
+
+I.e. what's "broken" about MD5 is if you have a lot of CPU time and I allow you
+to give me two unrelated blobs, you can craft those blobs to have the same MD5
+sum.
+
+What's not "broken" (beyond a theoretical 2^123.4 attack) with MD5 and not
+broken at all for SHA1 is preimage attacks. E.g. if I work for Canonical, make
+an Ubuntu ISO and you have to produce a malicious ISO with the same MD5 sum.
+
+We should be considerate of collision / preimage attacks, but please don't
+spread FUD by conflating the two. Publishing MD5 sums for ISOs is just fine.

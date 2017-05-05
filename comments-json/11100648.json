@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 11100648,
+  "parent" : 11100465,
+  "text" : "I&#x27;ve tried all of those things. While Emacs deals with a lot of things really well, I have around 100 terminal windows (screen sessions nested within screen sessions based on topic) at any given time. While it would be neat to have that all within Emacs for copy&#x2F;pasting etc. since it&#x27;s single threaded it just deals with it horribly.<p>So instead I spawn Emacs just for editing&#x2F;changing&#x2F;email&#x2F;finding, and do all shell stuff through screen&#x2F;ssh&#x2F;bash.",
+  "time" : 1455494338,
+  "type" : "comment"
+}

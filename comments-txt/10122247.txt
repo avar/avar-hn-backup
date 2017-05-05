@@ -1,0 +1,9 @@
+Comment-Id:	10122247
+Comment-Author:	avar
+Comment-Date:	Wed Aug 26 11:40:45 UTC 2015
+Comment-Type:	comment
+Parent-Id:	10121997
+
+Consider sending these changes upstream to contrib/completion/git-prompt.sh in
+git.git. It already has a lot of toggles for adjusting the prompt. These things
+you've added could be added as options.

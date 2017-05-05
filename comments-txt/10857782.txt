@@ -1,0 +1,8 @@
+Comment-Id:	10857782
+Comment-Author:	avar
+Comment-Date:	Thu Jan  7 13:37:32 UTC 2016
+Comment-Type:	comment
+Parent-Id:	10857624
+
+Related algorithmic gaffe, "Google Mistakenly Tags Black People as
+‘Gorillas,’": http://blogs.wsj.com/digits/2015/07/01/google-mistakenly-tag...

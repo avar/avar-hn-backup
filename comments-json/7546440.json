@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 7546440,
+  "parent" : 7545881,
+  "text" : "Right, and now you can use &quot;git show --pretty=raw&quot; to see the commit\nheader:<p><pre><code>    $ git show --pretty=raw 313378458f8c4fb53c808f4b0bae5bf71ba5e23b | head -n 10\n    commit 313378458f8c4fb53c808f4b0bae5bf71ba5e23b\n    tree 7e93df01bfc9c187d58a0b96e756dd8ac0031c82\n    parent e4eef26d985177e4bdd32bf58b6ae40e7ae67289\n    author Spencer Creasey &lt;screasey@monetate.com&gt; 1396872901 -0400\n    committer Spencer Creasey &lt;screasey@monetate.com&gt; 1396872901 -0400\n    lulz 843475\n    \n        1337 Test Commit\n        \n        http:&#x2F;&#x2F;lists-archives.com&#x2F;git&#x2F;756394-choosing-the-sha1-prefix-of-your-commits.html\n</code></pre>\nThere&#x27;s replies in that thread where the naïve technique I was using\nwas improved a lot.",
+  "time" : 1396878630,
+  "type" : "comment"
+}

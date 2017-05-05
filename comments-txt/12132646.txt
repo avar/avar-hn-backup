@@ -1,0 +1,21 @@
+Comment-Id:	12132646
+Comment-Author:	avar
+Comment-Date:	Wed Jul 20 21:25:38 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12131909
+
+My rephrasing of their follow-up actions:
+
+* "Audit our regular expressions and post validation workflow for any similar
+issues"
+
+* ==> "Not even people who've worked for years on the guts of regex engines can
+easily predict the runtime of a given regex, but somehow our engineers will be
+expected to do that".
+
+* "Add controls to our load balancer to disable the healthcheck – as we believe
+everything but the home page would have been accessible if it wasn’t for the
+the health check"
+
+* ==> "Our lb check was checking /index, that failed because /index was slow:
+Lesson learned, let's not lb check anything at all"

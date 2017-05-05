@@ -1,0 +1,21 @@
+Comment-Id:	12473628
+Comment-Author:	avar
+Comment-Date:	Sun Sep 11 14:49:37 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12473564
+
+This thing is not exactly something you can just order online at http://
+www.antonov.com
+
+Obviously if China wants to buy one the fact that they want to reverse engineer
+its technology is going to be patently obvious.
+
+Even if China could get a hold of an AN-225 reverse engineering one is a huge
+task, and at best you only know exactly what this hardware did, not what they
+avoided, or good ideas they didn't pursue purely due to resource constraints
+etc.
+
+So what happens instead is that a state like China approaches the Ukraine for a
+manufacturing agreement like the one described in the article. China hands over
+a lot of money which covers not just the planes but also the tech, and job are
+created in the Ukraine as a result.

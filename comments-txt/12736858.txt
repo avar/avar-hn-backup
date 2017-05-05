@@ -1,0 +1,20 @@
+Comment-Id:	12736858
+Comment-Author:	avar
+Comment-Date:	Tue Oct 18 17:38:21 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12736514
+
+As someone who works at another company with a big monorepo, briefly:
+
+* Ability to change an API and all its users at the same time.
+
+* Circular dependencies become a non-issue in a lot of cases where the would be
+if you vendor your dependencies.
+
+* Even if you vendor your dependencies hunting for bugs is a lot easier, your
+bisect of a bug in a library will just come down the commit that upgraded it
+from 1.0 to 2.0 without a monorepo, with a monorepo you can bisect anything
+down to a specific commit.
+
+* Code discoverability / mass edits are a lot easier, and integrate seamlessly
+into a lot more tools than if you need to manage multiple checkouts etc.

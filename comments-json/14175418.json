@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 14175418,
+  "kids" : [ 14175546 ],
+  "parent" : 14175340,
+  "text" : "They didn&#x27;t open WebKit. It&#x27;s a fork of the LGPL&#x27;d KHTML code base. Apple is legally obliged to keep it open, so whatever anyone thinks about Apple&#x27;s open source record using WebKit as an example makes little sense.",
+  "time" : 1492902781,
+  "type" : "comment"
+}

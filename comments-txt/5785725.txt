@@ -1,0 +1,19 @@
+Comment-Id:	5785725
+Comment-Author:	avar
+Comment-Date:	Wed May 29 11:54:21 UTC 2013
+Comment-Type:	comment
+Parent-Id:	5785342
+
+In Iceland in particular (and I'm guessing a lot of countries have the same
+situation) what'll happen is that the Ministry of Education will publish some
+official recommendation about what formats should be used, or that free/open
+source software should be "strongly considered".
+
+Then what happens in practice is that everyone just ignores that recommendation
+and buys proprietary software anyway, feigning compatibility with existing
+systems, re-training costs etc.
+
+So in practice a government recommendation about ODF can mean absolutely
+nothing unless you really make it mandatory. So this map on Wikipedia is
+effectively useless as an indicator for "adoption". It's probably actually a
+map of what governments have made feel-good press releases about ODF.

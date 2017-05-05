@@ -1,0 +1,20 @@
+Comment-Id:	13739722
+Comment-Author:	avar
+Comment-Date:	Sun Feb 26 20:40:39 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13739225
+
+The reason I'm not buying the PSRV is that it's really hard to figure out if
+it'll even work for me vis-a-vis the tracking camera.
+
+I have a projector setup, so the PSRV camera has some propriterary cable
+running to it that I'd need to buy a third-party extension cord for, and who
+knows if that'll work.
+
+Even if I have that I can't find any information on Sony's site about where
+it's acceptable to mount the camera relative to where you're standing. Is it
+only OK if it's directly in front of you, how about at a 45° incline etc?
+
+Then, if I get all of that right I don't have a lot of floor space in front of
+the projector (maybe 2x2 meters), they don't say how far you're expected to
+move around in the games you can buy.

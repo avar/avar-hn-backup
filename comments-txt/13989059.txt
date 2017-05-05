@@ -1,0 +1,9 @@
+Comment-Id:	13989059
+Comment-Author:	avar
+Comment-Date:	Wed Mar 29 18:17:11 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13984024
+
+In addition to the algorithms you mentioned git also has --diff-algorithm=
+minimal. This is just the XDF_NEED_MINIMAL flag to xdiff, so I'm unsure if it
+counts as a separate algorithm.

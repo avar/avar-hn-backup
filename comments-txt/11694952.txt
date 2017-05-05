@@ -1,0 +1,22 @@
+Comment-Id:	11694952
+Comment-Author:	avar
+Comment-Date:	Sat May 14 07:33:43 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11694277
+
+A few things:
+
+Everything not being 4:3 screens. I found it better for programming than
+everything being cinematic screens.
+
+Back when monitor manufacturers were racing to make better / higher resolution
+monitors, instead of just leaving it at 1080p / 4k / whatever the current
+standard good enough for movies is.
+
+The GMail interface before it started auto-converting the textarea to HTML when
+edited externally.
+
+Console gaming when it Just Worked. Nowadays when I pop in a game it's update
+this and update that, long loading times etc.
+
+E-Mail before we lost the "text should be text and not goddamn HTML" war.

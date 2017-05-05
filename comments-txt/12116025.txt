@@ -1,0 +1,11 @@
+Comment-Id:	12116025
+Comment-Author:	avar
+Comment-Date:	Mon Jul 18 16:22:11 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12115887
+
+The X-37 is launched by a conventional rocket as payload and just lands like a
+normal aircraft.
+
+It's more analogous to a reusable space capsule than it is to the space shuttle
+which mostly launched itself.

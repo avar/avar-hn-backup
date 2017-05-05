@@ -1,0 +1,8 @@
+Comment-Id:	11278339
+Comment-Author:	avar
+Comment-Date:	Sun Mar 13 16:58:02 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11278038
+
+They've said it doesn't require that, AlphaGo running on a single machine beats
+the cluster they're using 25% of the time.

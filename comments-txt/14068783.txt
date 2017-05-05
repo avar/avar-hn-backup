@@ -1,0 +1,20 @@
+Comment-Id:	14068783
+Comment-Author:	avar
+Comment-Date:	Sat Apr  8 20:16:48 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14068628
+
+It doesn't have to map perfectly as long as both end in the same suffix. Test
+with:
+
+    git -c url.https://git.freedesktop.org/projects/.insteadOf=git://freedesktop.org/ clone git://freedesktop.org/harfbuzz.git
+    Cloning into 'harfbuzz'...
+    fatal: unable to access 'https://git.freedesktop.org/projects/harfbuzz.git/': Failed to connect to git.freedesktop.org port 443: Connection refused
+
+Then set it in your config:
+
+    git config --global url.https://git.freedesktop.org/projects/.insteadOf git://freedesktop.org/
+
+And now anything on your system cloning or fetching git://freedesktop.org/
+harfbuzz.git will use https://git.freedesktop.org/projects/harfbuzz.git
+instead.

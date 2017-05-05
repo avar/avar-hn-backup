@@ -1,0 +1,29 @@
+Comment-Id:	13332097
+Comment-Author:	avar
+Comment-Date:	Thu Jan  5 22:37:27 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13331908
+
+    > For example, if a contributor force pushes a new commit to a PR
+    > branch, as a reviewer, I can't see the old version and compare
+    > against it.
+
+This is not fully true. While you can't "git fetch" that branch anymore, you
+can see comments against those old diffs in the pull request UI, which are the
+things likely to have changed.
+
+For example, I submitted this PR against uWSGI a few months ago: https://
+github.com/unbit/uwsgi/pull/1392
+
+Initially I screwed it up and inserted a field in the middle of a struct,
+whereas within a stable release it should of course be added to the end. If you
+click on "show outdated" you can see that old diff where I'm adding the field
+to the middle of the struct, but click on "files changed" and it's the current
+change where I fixed the issue.
+
+I do think GitHub could improve here, they could expose forced pushes via refs/
+pull/NUM-COUNTER instead of just refs/pull/NUM as they do now, but it's
+important to point out that they're handling the common case. When someone
+force-pushes a pull request they're usually doing so in response to comments on
+the request, and those comments will still make sense because GitHub saves away
+the old diff, which you can compare with the current state.

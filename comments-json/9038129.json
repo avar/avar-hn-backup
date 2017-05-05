@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 9038129,
+  "parent" : 9038067,
+  "text" : "If you generate ids like:<p><pre><code>    &lt;fixed width timestamp&gt;&lt;random data&gt;\n</code></pre>\nYour ids are guaranteed to be sorted chronologically until you start generating them at the same time. So as a hack to work around that they generate:<p><pre><code>    &lt;fixed width timestamp&gt;&lt;fuzzed random data&gt;\n</code></pre>\nWhere the fuzz to the random data ensures that it&#x27;s sorted chronologically.",
+  "time" : 1423734631,
+  "type" : "comment"
+}

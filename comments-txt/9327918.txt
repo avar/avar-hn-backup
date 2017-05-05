@@ -1,0 +1,13 @@
+Comment-Id:	9327918
+Comment-Author:	avar
+Comment-Date:	Mon Apr  6 13:22:06 UTC 2015
+Comment-Type:	comment
+Parent-Id:	9327894
+
+Same here, so [shameless plug] I wrote http://goosegoosego.com which is just a
+redirector for Google/DDG which you can trivially run locally. It defaults to
+Google, and you can search DDG via !ddg
+
+It gives you the advantage of having access to the !Bang syntax (https://
+duckduckgo.com/bang.html), while providing IMO better search results via Google
+by default.

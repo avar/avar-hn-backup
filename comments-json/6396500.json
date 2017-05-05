@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 6396500,
+  "parent" : 6396253,
+  "text" : "I assumed game developers did this for pretty much everything that requires randomness if for no other reason than ease of debugging.<p>I&#x27;ve written similar non-game code where you generate a random seed and every other random value is derived from that. Makes it much easier to reproduce &quot;random&quot; issues because you just need the build + the seed, not luck.",
+  "time" : 1379372980,
+  "type" : "comment"
+}

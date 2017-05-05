@@ -1,0 +1,13 @@
+Comment-Id:	13749340
+Comment-Author:	avar
+Comment-Date:	Mon Feb 27 22:59:33 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13748492
+
+They've already had Dragon flights where they've said "if there were humans
+aboard, they'd have been just fine", i.e. the Dragon's life-support
+capabilities have been tested.
+
+You don't have to have flown humans to test whether you can fly humans, you
+know you were able to maintain a breathable atmosphere, and you know you have
+enough fuel to launch a few hundred kilos of meatbags, food & water.

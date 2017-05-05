@@ -1,0 +1,8 @@
+Comment-Id:	11796609
+Comment-Author:	avar
+Comment-Date:	Sun May 29 15:11:42 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11796585
+
+Couldn't things like yeast be handled by some standard pre-computed approximate
+lookups?

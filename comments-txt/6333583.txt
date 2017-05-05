@@ -1,0 +1,18 @@
+Comment-Id:	6333583
+Comment-Author:	avar
+Comment-Date:	Thu Sep  5 12:07:56 UTC 2013
+Comment-Type:	comment
+Parent-Id:	6333196
+
+    > At 1.5 hrs/day, we will only ever need to
+    > charge when stopping anyway to eat or sightsee,
+    > never just for charging itself.
+
+I'm all for the development of electric cars but downplaying having to stop at
+what's effectively a gas station in the middle of nowhere for 1.5 hours per day
+is pretty disingenuous.
+
+You wouldn't get a lot of people buying a normal gasoline powered car if it
+took 1.5 hrs to fill it up each time, so electric cars have a lot to make up
+for in other features if you're using them for road trips like this, rather
+than just commuting where you're charging overnight.

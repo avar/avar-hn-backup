@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 12362222,
+  "kids" : [ 12363904 ],
+  "parent" : 12361976,
+  "text" : "Big proprietary users of protocols tend to discover bugs in them, that they feed upstream, even if they run otherwise closed networks.<p>E.g. it benefits you that Google uses TCP internally, even if you can&#x27;t get on their network? Why? Because they&#x27;ve submitted patches to Linux to make it work better.",
+  "time" : 1472156976,
+  "type" : "comment"
+}

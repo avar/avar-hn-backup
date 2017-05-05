@@ -1,0 +1,12 @@
+Comment-Id:	12676253
+Comment-Author:	avar
+Comment-Date:	Mon Oct 10 10:40:09 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12676196
+
+You can trivially undo helmet straps, because it needs to be adjusted it's not
+one solid piece of webbing.
+
+It stops someone from just picking your helmet up and walking away with it, but
+it takes no more than half a minute to undo the strap, so it's not going to
+stop someone intent on stealing it.

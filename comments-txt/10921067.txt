@@ -1,0 +1,9 @@
+Comment-Id:	10921067
+Comment-Author:	avar
+Comment-Date:	Sun Jan 17 21:05:35 UTC 2016
+Comment-Type:	comment
+Parent-Id:	10920927
+
+This is as good a place as any to ask, are there any good documentaries about
+how various stuff is made that isn't entirely fluff interviews & panning over
+assembly lines without any explanations about the engineering involved?

@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 10480224,
+  "kids" : [ 10480444, 10480266 ],
+  "parent" : 10480045,
+  "text" : "The concept sounds cool, but what sort of fixes could the Voyager probes possibly need? They were launched in 1977, that&#x27;s almost 40 years ago. As far as I know they&#x27;re waking up every once in a while and sending telemetry back.<p>It would be cool to have access to the source code and an emulator, but I really don&#x27;t find it plausible that members of the general public could submit patches to something that&#x27;s been running smoothly for 40 years, and where the risks of changes far outweigh the benefits of keeping the existing software running as-is.",
+  "time" : 1446235610,
+  "type" : "comment"
+}

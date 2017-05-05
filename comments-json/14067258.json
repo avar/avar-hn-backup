@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 14067258,
+  "kids" : [ 14067268, 14075432 ],
+  "parent" : 14066948,
+  "text" : "This bit about ICU support v.s. glibc:<p><pre><code>    &gt; [...] Furthermore, at least on Red Hat, glibc regularly whacks\n    &gt; around the behavior of OS-native collations in minor releases,\n    &gt; which effectively corrupts PostgreSQL&#x27;s indexes, since the index\n    &gt; order might no longer match the (revised) collation order.  To\n    &gt; me, changing the behavior of a widely-used system call in a\n    &gt; maintenance release seems about as friendly as locking a family\n    &gt; of angry racoons in someone&#x27;s car, but the glibc maintainers\n    &gt; evidently don&#x27;t agree.\n</code></pre>\nIs a reference to the PostgreSQL devs wanting to make their index\norder a function of strxfrm() calls and to not have it change when\nglibc updates, whereas some on the glibc list think it should only be\nused for feeding it to the likes of strcmp() in the same process:<p><pre><code>    &gt; The only thing that matters about strxfrm output is its strcmp\n    &gt; ordering.  If that changes, it&#x27;s either a bug fix or a bug\n    &gt; (either in the code or in the locale data).  If the string\n    &gt; contents change but the ordering doesn&#x27;t, then it&#x27;s an\n    &gt; implementation detail that is allowed to change.\n</code></pre>\n-- <a href=\"https:&#x2F;&#x2F;sourceware.org&#x2F;ml&#x2F;libc-alpha&#x2F;2015-09&#x2F;msg00197.html\" rel=\"nofollow\">https:&#x2F;&#x2F;sourceware.org&#x2F;ml&#x2F;libc-alpha&#x2F;2015-09&#x2F;msg00197.html</a>",
+  "time" : 1491664034,
+  "type" : "comment"
+}

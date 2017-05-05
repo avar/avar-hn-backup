@@ -1,0 +1,19 @@
+Comment-Id:	11132453
+Comment-Author:	avar
+Comment-Date:	Fri Feb 19 09:05:51 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11132191
+
+I don't think "downplaying it's [sic] willingness to cooperate" is at all a
+fair summary.
+
+They run iButt which is an entirely different matter as far as complying with
+subpoenas goes, especially when the subject of the subpoena is dead and the
+subject of an investigation.
+
+What are they going to do? Tell the FBI and a judge that they're refusing to
+grant them access to unencrypted photos taken by the dead subject of a mass
+shooting investigation? There's no way they can do that.
+
+It's quite another thing to be forced to develop exploits for hardware that's
+someone else's property just because you're the manufacturer of that hardware.

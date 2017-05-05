@@ -1,0 +1,20 @@
+Comment-Id:	12432215
+Comment-Author:	avar
+Comment-Date:	Mon Sep  5 20:59:38 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12430541
+
+You're just misunderstanding the parent post. He mentioned that the Tesla is
+tax beneficial because it's electric and the Mercedes selling at around the
+same price isn't because of its weight.
+
+These two statements are not mutually exclusive.
+
+In The Netherlands cars are taxed on multiple factors[1] including CO^2
+emission, type, and very significantly on weight.
+
+In Tesla's case the weight is being heavily offset by the lack of CO^2
+emissions, whereas the Mercedes gets all the taxes of a normal gasoline car and
+the weight tax on top of that.
+
+1. http://www.expatax.nl/kb/article/how-much-road-tax-will-i-ha...

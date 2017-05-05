@@ -1,0 +1,13 @@
+Comment-Id:	13801588
+Comment-Author:	avar
+Comment-Date:	Mon Mar  6 09:21:54 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13799328
+
+As another layman I find the Wikipedia article on the subject to be really
+good: https://en.wikipedia.org/wiki/Magnetosphere#Structure
+
+There's nothing inherently different about a planet's magnetic field pushing
+the stellar/solar wind out of its way and e.g. a boat on water pushing water
+out of the way. Terms like magneto(sheath|pause|tail) are just labels for
+different parts of the "wake".

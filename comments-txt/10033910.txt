@@ -1,0 +1,30 @@
+Comment-Id:	10033910
+Comment-Author:	avar
+Comment-Date:	Mon Aug 10 11:45:04 UTC 2015
+Comment-Type:	comment
+Parent-Id:	10033837
+
+The article brushes aside the major issue with how the French are trying to
+enforce this, which is that the French government is asserting that its law
+should apply to all global properties of an international corporation simply
+because it has a subsidiary operating in France.
+
+A quote from Google on the matter:
+
+    "we respectfully disagree with the idea that a national data
+    protection authority can assert global authority to control the
+    content that people can access around the world."
+
+The author brushes this aside with the assertion that:
+
+    "search engine results aren’t ‘free speech’ to begin with in my
+    opinion, they’re re-hashings of someone else’s speech."
+
+And doesn't address the inherent problem with a global company being subject to
+the combination of the censorship regulation of all the countries in which it
+operates.
+
+What is Saudi Arabia decides to start punishing Google because its image search
+shows "revealing" images of women, is that just fine because search engine
+results aren't free speech anyway, and any nation on earth should be able to
+make laws about search results that apply globally?

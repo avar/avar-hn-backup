@@ -1,0 +1,10 @@
+Comment-Id:	8611519
+Comment-Author:	avar
+Comment-Date:	Sat Nov 15 12:12:30 UTC 2014
+Comment-Type:	comment
+Parent-Id:	8611343
+
+Here's a word diff between the two FAQ versions you posted: https://
+gist.github.com/avar/29d060e178e8fac4e2a3#file-faq-w...
+
+Just search for "[-" to find deleted entries and "{+" to find added entries.

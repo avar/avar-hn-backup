@@ -1,0 +1,11 @@
+Comment-Id:	13440316
+Comment-Author:	avar
+Comment-Date:	Thu Jan 19 23:07:21 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13439876
+
+There's no need to do faster than light, or even all that fast. The diameter of
+the Milky Way is at most 200k light years, with technology we could develop
+today we could populate the entirety of it with generation ships in the span of
+less than 100 million years, which isn't all that big in the scale of the
+universe.

@@ -1,0 +1,11 @@
+Comment-Id:	10716792
+Comment-Author:	avar
+Comment-Date:	Fri Dec 11 12:55:35 UTC 2015
+Comment-Type:	comment
+Parent-Id:	10716659
+
+Generally speaking regulators aren't actively testing that consumer products
+meet regulation. The way it works is that the government sets standards that
+should be met by industry, and then the industry takes care of meeting those
+standards. If they don't and they get found out they're in big legal &
+financial trouble, which is what's happening with VW now.

@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 10513541,
+  "kids" : [ 10514752 ],
+  "parent" : 10508627,
+  "text" : "I don&#x27;t think they should. This way lies madness. You want e.g. the kernel &amp; packages to be pruned down to only have the things needed for each cloud host?<p>That means that for N cloud hosts Red Hat would have to potentially build N different patches for any update or security fix.<p>Now you can&#x27;t certify software to run on &quot;RHEL 7&quot; anymore, it has to be &quot;RHEL 7, assuming it has XYZ, which some cloud hosts don&#x27;t&quot;.<p>It can be done, but it&#x27;s a huge hassle, it&#x27;s much easier to just ship the same distro to everyone. Space is cheap.",
+  "time" : 1446734693,
+  "type" : "comment"
+}

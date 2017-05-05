@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 13221270,
+  "kids" : [ 13221516 ],
+  "parent" : 13221207,
+  "text" : "<p><pre><code>    &gt; If you&#x27;re on a POSIX machine.\n</code></pre>\nDon&#x27;t you just mean some Linux distros &amp; BSDs? I don&#x27;t see any indication that ncal is standardized by POSIX: <a href=\"http:&#x2F;&#x2F;pubs.opengroup.org&#x2F;onlinepubs&#x2F;9699919799&#x2F;idx&#x2F;utilities.html\" rel=\"nofollow\">http:&#x2F;&#x2F;pubs.opengroup.org&#x2F;onlinepubs&#x2F;9699919799&#x2F;idx&#x2F;utilitie...</a><p>According to the Linux manpage it&#x27;s a FreeBSD command originally introduced in FreeBSD 2.2.6 in 1998: <a href=\"https:&#x2F;&#x2F;www.freebsd.org&#x2F;releases&#x2F;2.2.6R&#x2F;announce.html\" rel=\"nofollow\">https:&#x2F;&#x2F;www.freebsd.org&#x2F;releases&#x2F;2.2.6R&#x2F;announce.html</a>",
+  "time" : 1482251356,
+  "type" : "comment"
+}

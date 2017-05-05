@@ -1,0 +1,9 @@
+Comment-Id:	6629766
+Comment-Author:	avar
+Comment-Date:	Mon Oct 28 21:03:27 UTC 2013
+Comment-Type:	comment
+Parent-Id:	6629182
+
+One of the differences is an insane difference in price. According to their two
+respective pricing pages a 500 user installation would be $12,000 with stash
+and $125,000 with GitHub::Fi.

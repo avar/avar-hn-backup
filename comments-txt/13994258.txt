@@ -1,0 +1,12 @@
+Comment-Id:	13994258
+Comment-Author:	avar
+Comment-Date:	Thu Mar 30 10:37:44 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13994192
+
+Just a comment on your dpkg one-liner. You can use aptitude to find things
+written in a given language, e.g. on my Debian computer:
+
+    $ aptitude search '?tag(implemented-in::c)'|grep '^.  lib'|wc -l
+    1895
+

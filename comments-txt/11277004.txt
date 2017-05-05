@@ -1,0 +1,19 @@
+Comment-Id:	11277004
+Comment-Author:	avar
+Comment-Date:	Sun Mar 13 09:36:35 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11275864
+
+    > It won't be the only social welfare program needed. There are
+    > some people who through accident or poor choices will still need
+    > extra help.
+
+Whenever UBI comes up some proponents of it support it largely on the notion
+that it could actually save money by abolishing the bureaucratic social welfare
+we have today.
+
+Lots of comments here are pointing out something to that effect.
+
+Which makes OPs question less absurd, because it goes to 1) How many selective
+welfare programs should still remain? 2) If #1 is large enough does the "but it
+can replace existing welfare programs" argument for UBI make sense?

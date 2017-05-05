@@ -1,0 +1,11 @@
+Comment-Id:	11713932
+Comment-Author:	avar
+Comment-Date:	Tue May 17 14:30:51 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11713557
+
+This is really moving the goalpost from the grandparent's comment of "encrypt a
+zip drive with drivel, toss it in his car and call the cops".
+
+Yes of course you can get an active MiTM session going you can do a lot of
+shady stuff.

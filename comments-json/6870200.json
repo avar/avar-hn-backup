@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 6870200,
+  "kids" : [ 6872729, 6870211 ],
+  "parent" : 6870140,
+  "text" : "That doesn&#x27;t need to be the case. You can have a weighted web of trust where if a new party (e.g. because they presented their passport &amp; proof of ownership of a domain) gets trusted because they were certified by an already trusted party.<p>You could implement a weighted trust system where you&#x27;re more trusted the more people trust you, and consequently if you &quot;issue&quot; trust it&#x27;s counted as more trustworthy than issuing trust to yourself.<p>So you could have the equivalent of CA&#x27;s in a system like that, but the list could be dynamic based on total trust on the network, instead of being issued by a static list of 100% trusted parties like the system we have now.",
+  "time" : 1386521621,
+  "type" : "comment"
+}

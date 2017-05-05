@@ -1,0 +1,9 @@
+Comment-Id:	11917612
+Comment-Author:	avar
+Comment-Date:	Thu Jun 16 17:35:09 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11916699
+
+Sweet. I implemented that feature vaguely fearing that nobody except me was
+going to use it, in my case to ease setting up "auditing" hooks on a
+centralized Git server. Awesome that you find in useful.

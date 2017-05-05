@@ -1,0 +1,22 @@
+Comment-Id:	9691531
+Comment-Author:	avar
+Comment-Date:	Wed Jun 10 12:25:26 UTC 2015
+Comment-Type:	comment
+Parent-Id:	9690466
+
+"Quite". Let's look at the potential attack. You're running a backup system
+with user-supplied data, fair enough, and one of your users has:
+
+    1) Access to an existing object, or its checksum.
+
+    2) Can write a *new* object where they intentionally
+       produce a collision with an existing object.
+
+There's a trivial way to get around this attack in practice, which is that you
+just lazily write objects and don't re-write an object that exists already.
+This is what Git does with the objects it writes, which insulates it more from
+future SHA-1 collision attacks than just the security you'd get from SHA-1
+itself.
+
+This means that you've changed an attack where someone can maliciously clobber
+an existing object to an edge case where their object just won't get backed up.

@@ -1,0 +1,8 @@
+Comment-Id:	11229285
+Comment-Author:	avar
+Comment-Date:	Sat Mar  5 12:21:51 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11229231
+
+Apple not wanting to distribute software that they're perfectly able to
+distribute for paranoia/anti-GPLv3 reasons is a problem with Unix?

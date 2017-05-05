@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 13610461,
+  "parent" : 13605508,
+  "text" : "&gt; In case of GPL, you merely sell support licenses.<p>This really isn&#x27;t an option for a lot of things, and gives you some really perverse incentives to make things complex enough that they need support. Who&#x27;s going to buy support licenses for &#x2F;bin&#x2F;ls, or most of coreutils, or most of libc?<p>You&#x27;ll get people buying support licenses for MySQL and other difficult to configure &amp; operate codebases, but not for the vast majority of code they use on their systems.<p>I work for a big company that runs a shit-ton of open source, we sponsor the two&#x2F;three biggest projects we use, but by volume it&#x27;s 0.1% of the total number of open source projects we use, at best.<p>This is a general problem for open source, everyone&#x27;s using a huge long tail of infrastructure code that needs to be maintained, but any one company has no strong reason to support it.",
+  "time" : 1486671159,
+  "type" : "comment"
+}

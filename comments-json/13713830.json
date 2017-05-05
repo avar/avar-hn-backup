@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 13713830,
+  "parent" : 13713675,
+  "text" : "No, Git does not hash its internal gzip&#x27;d content to produce hashes. It purely hashes the uncompressed content you give it as-is. Any compression like gzip is purely done internally as an optimization and has no impact on hashes.",
+  "time" : 1487858071,
+  "type" : "comment"
+}

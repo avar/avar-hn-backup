@@ -1,0 +1,34 @@
+Comment-Id:	11519308
+Comment-Author:	avar
+Comment-Date:	Mon Apr 18 12:21:23 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11516283
+
+Okey, but prepere for some super-lame ad-hoc code. Also I was misremembering
+about it handling multiple repos, in the one place where I have >1 I just do
+that manually.
+
+My .bashrc will run a bootstrap_work_dotfiles function when bash starts: https:
+//github.com/avar/dotfiles/blob/master/.bashrc#L410
+
+This then clones my ~/g/avar-dotfiles-work repo if I'm at work and it hasn't
+been cloned: https://github.com/avar/dotfiles/blob/master/.bashrc#L355
+
+I have a "dud" function (dotfile update) function that'll update both, it
+basically does a git pull, re-chmods ~/.ssh/config: https://github.com/avar/
+dotfiles/blob/master/.bashrc#L381
+
+And also, and what you asked for, removes any stale symlinks via this
+one-liner: https://github.com/avar/dotfiles/blob/master/.bashrc#L348
+
+Basically doing a find on my ~ directory and finding any broken links pointing
+to the known location of the overlay repo.
+
+I see now that there's a potential bug in it where it narrows its search in
+such a way that it could miss it if you add/remove new ~/.??* files. This could
+be solved, but I have it like that because I only ever add/remove stuff in e.g.
+~/.bashrc.d/ or ~/.screenrc.d/, so this way the find takes less time to run.
+
+Then I have a generated one-liner that I can paste into new machines that
+clones my dotfiles.git into ~/g/, moves the .git to ~/, then sources bashrc
+which bootstraps the rest.

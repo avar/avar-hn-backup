@@ -1,0 +1,16 @@
+Comment-Id:	13381965
+Comment-Author:	avar
+Comment-Date:	Thu Jan 12 13:23:37 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13375477
+
+Because there's no such thing as just giving you the option to use your car.
+Once that option exists people will use cars, more car use requires bigger
+roads, more spaced out shops due to parking, and eventually gigantic junctions
+and highways.
+
+Soon enough what used to be a 500 meter walk turns into walking 2 kilometers
+because of all the car-related infrastructure in the way, which then becomes a
+self-reinforcing feedback loop as more people own cars, so they're willing to
+travel longer distances, reducing the business & zoning incentive to make
+things walkable.

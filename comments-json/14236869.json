@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 14236869,
+  "kids" : [ 14240354, 14237380 ],
+  "parent" : 14233739,
+  "text" : "The AGPL closes no such loophole. It says you must make the source available if you distribute the output of the program itself over a network, e.g. in the case of an open source web application. This is something the GPL itself goes out of its way to allow (unless your output is the program itself).<p>So it falls squarely under distributing the program, which you didn&#x27;t have permission to do without the license itself.<p>&gt; But not if your usage includes building upon it[...]<p>Building upon it &amp; distributing the result, but yes, this is what OSS is great for, but unrelated to my point that you as a user can completely ignore the license &amp; don&#x27;t have to know about it. You can just follow standard copyright law.",
+  "time" : 1493639359,
+  "type" : "comment"
+}

@@ -1,0 +1,18 @@
+Comment-Id:	13100997
+Comment-Author:	avar
+Comment-Date:	Sun Dec  4 18:19:19 UTC 2016
+Comment-Type:	comment
+Parent-Id:	13100965
+
+It's extremely amusing to see someone nostalgically complain about huge JS
+assets, when every subpage on that site has a 56K *.gif image as a <body
+background="">[1], i.e. something that would have taken a full second to
+download on a 56K connection. Just like 1MB of JS takes about a second to
+download & render on your current >1MB/s connection.
+
+Back in the day people used to complain about these huge background images just
+as much as purists today complain about >1MB JS/CSS assets, which given Moore's
+law & the increase in network speeds works out to be the same thing, relatively
+speaking.
+
+1. http://mars.nasa.gov/MPF/gif/rca.gif -> 56K =~ 55854 bytes

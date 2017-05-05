@@ -1,0 +1,23 @@
+Comment-Id:	14222561
+Comment-Author:	avar
+Comment-Date:	Fri Apr 28 19:55:04 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14222355
+
+Yes, I use the SQLite driver, and use & regularly pull the latest version from
+the git, 7.1 right now.
+
+I haven't dug into why it uses that CPU in any detail. Looking at its output /
+tcpdump of what it's doing it goes to >100% CPU for 10-30 seconds when it's
+finished fetching the status from the remote & is presumably in some tight
+inner loop comparing it with local data to decide what to do before it starts
+downloading messages, and then briefly spends a few more seconds at >100% after
+the messages are downloaded, presumably updating its local state.
+
+When it's just issuing IMAP commands or downloading messages from the remote it
+sits at 1-5% CPU.
+
+As I pointed out OfflineIMAP works just fine for me, but in retrospect I'd be
+happier if I had stayed with mbsync. I don't need any feature from OfflineIMAP
+that it doesn't have, and it both uses less CPU/Memory & it finishes deciding
+what to download & downloading it in way less time.

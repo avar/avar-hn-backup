@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 5928612,
+  "parent" : 5928561,
+  "text" : "<p><pre><code>   &gt; it can all be accomplished with other tools\n</code></pre>\nSure it can be accomplished with other tools, but if Git is sufficient\nintroducing other tools just increases the complexity of your stack,\nand the complexity of e.g. validating that a Git tag corresponds to\nwhat claims to be rolled out as that tag.<p><pre><code>   &gt; and without needing the entire deployment history stored on each\n   &gt; production machine.\n</code></pre>\nThis is a constraint a lot of people seem to think they need but they\ndon&#x27;t actually need. If someone gets your current checkout they&#x27;ll\nhave current code &#x2F; passwords (if you accidentally checked in a\npassword but removed it you should <i>change that password</i>). Getting\nthe code history will just satisfy historical curiosity. Hardly a\npressing concern for an attacker.<p><pre><code>   &gt; As for your comment about being &quot;back to comparing files&quot;, that&#x27;s\n   &gt; all Git is doing internally anyway. You can do the same with\n   &gt; other deployment tools and sha1 hashes etc.\n</code></pre>\nYes, but the point is that it just gives you that for free without you\nhaving to hack anything extra on top of your syncing mechanism.<p>You&#x27;d be pleasantly surprised how much checking&#x2F;validation&#x2F;syncing\nlogic that you have to write around e.g. rsync when syncing a Git repo\njust disappears entirely if you just use Git to sync the files.",
+  "time" : 1372010626,
+  "type" : "comment"
+}

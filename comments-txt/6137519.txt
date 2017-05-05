@@ -1,0 +1,42 @@
+Comment-Id:	6137519
+Comment-Author:	avar
+Comment-Date:	Wed Jul 31 23:21:45 UTC 2013
+Comment-Type:	comment
+Parent-Id:	6137259
+
+It's interesting that someone who professes loving to program in Perl refers to
+it as "PERL". People who refer to it in all-caps instantly give themselves away
+as outsiders to the language. It's like someone claiming to be a senior JAVA
+programmer, it's not an acronym.
+
+Anyway we use Perl pretty much exclusively at Booking.com, and I'm pretty sure
+we're at least a couple of orders of magnitude bigger than the likes of
+Crowdtilt. There's a bunch of other interesting companies using Perl as well, a
+lot of them just don't make as much of a fuss about it as the companies using
+say Ruby.
+
+Last I knew e.g. Morgan Stanley used it for most everything, including new
+developments, and it alone probably employs more programmers using it than the
+combined hobbyist contributor base of some newer emerging languages.
+
+It's pretty hard to claim that Perl is "dead" and square that with the ongoing
+activity on the CPAN (https://metacpan.org/recent). This is not the kind of
+activity a dead language gets.
+
+I think what a lot of people mix up is that just because something isn't as big
+as it was before doesn't mean it's dead.
+
+C isn't as big relatively as it was in the 80s, Perl isn't relatively as
+ubiquitous for scripting and web development as it was in the 90s, but neither
+of those languages are dead.
+
+If you look at the total amount of contributions / software written for any of
+the languages that aren't currently in the spotlight you'll most likely find
+that we're at the high water mark of the number of the amount of software
+written in them, and the number of people that have been employed to write
+software in them, just because the industry as a whole is getting bigger every
+day.
+
+Maybe they're not bigger relatively compared to some other languages. But that
+has little bearing on how good they are when it comes to using them in your
+toolchain. If anything they're better than they've ever been before.

@@ -1,0 +1,12 @@
+Comment-Id:	12107855
+Comment-Author:	avar
+Comment-Date:	Sat Jul 16 20:57:32 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12107641
+
+I don't mean that Google literally 100% replaces that use-case, but that the
+answer is that search engines got good enough that directory curation was no
+longer marketable.
+
+So nowadays what you'd previously look up in something like dmoz you now just
+search for in Google.

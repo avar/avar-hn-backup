@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 12221986,
+  "kids" : [ 12222336 ],
+  "parent" : 12221346,
+  "text" : "That&#x27;s horrible advice. The existing .git&#x2F;hooks&#x2F;pre-commit may not even be a shellscript, you could be appending to a binary file.<p>Even if it&#x27;s a shellscript you can&#x27;t just concatenate shellscripts together and expect them to work as thought you&#x27;d run them as two independent shellscripts.",
+  "time" : 1470262629,
+  "type" : "comment"
+}

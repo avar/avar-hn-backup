@@ -1,0 +1,12 @@
+Comment-Id:	8955522
+Comment-Author:	avar
+Comment-Date:	Tue Jan 27 20:20:05 UTC 2015
+Comment-Type:	comment
+Parent-Id:	8955327
+
+Most of the competition deserved to die. At the time 10-50MB mailboxes were
+normal, and Google came out with 1GB (and counting!) from day one, along with a
+much better UI than everyone else, and kick-ass spam filters.
+
+Nobody's done much more than reach parity with GMail since then, so there's
+been no big incentive to switch back.

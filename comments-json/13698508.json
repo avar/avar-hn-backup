@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 13698508,
+  "parent" : 13698061,
+  "text" : "It&#x27;s not in any way hidden, just run a whois query:<p><pre><code>    $ whois packagecloud.io|grep Owner\n    Owner Name    : JOSEPH DAMATO\n    Owner OrgName : COMPUTOLOGY, LLC\n    Owner Addr    : 359 FILLMORE ST!12\n    Owner Addr    : SAN FRANCISCO\n    Owner Addr    : CA\n    Owner Addr    : US</code></pre>",
+  "time" : 1487703984,
+  "type" : "comment"
+}

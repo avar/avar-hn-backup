@@ -1,0 +1,11 @@
+Comment-Id:	11391596
+Comment-Author:	avar
+Comment-Date:	Wed Mar 30 18:11:52 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11389670
+
+To amend that a bit, it has something to do with fast drives, i.e. of course a
+fast drive will speed up your first invocation, but unless your system is under
+a lot of memory pressure subsequent invocations will be in the FS cache making
+the drive speed irrelevant, which is the common case for working with Git
+repositories.

@@ -1,0 +1,25 @@
+Comment-Id:	7451422
+Comment-Author:	avar
+Comment-Date:	Sat Mar 22 23:57:14 UTC 2014
+Comment-Type:	comment
+Parent-Id:	7450013
+
+    > The reason so many people are content with being employees,
+    > rather than striking it out on their own, has to do (at least in
+    > part) with their risk tolerance.
+
+I'm a happy employee, and for me the reason I'm not founding my own startup
+isn't a matter of personal risk at all.
+
+It's that now pretty much all day I can do what I like doing (programming) and
+come home at the end of the day and wind down from work.
+
+If you're starting your own company you have to worry about everything involved
+in that tiny company from acquiring clients to managing staff to building the
+product, if that's something you want that's fine, but it's not something I'm
+particularly interested in.
+
+I also very much enjoy working on programming problems at the scale you can
+only find in bigger companies, if I were to start my own company now and it
+grew like crazy at best I could get back to the level of problems I solve at
+work now in 10 years or so.

@@ -1,0 +1,18 @@
+Comment-Id:	11776628
+Comment-Author:	avar
+Comment-Date:	Thu May 26 09:14:00 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11776458
+
+As a non-native English speaker I think this is a horrible idea. So rather than
+for us to all communicate in English which is spoken natively by around half a
+billion, you'd rather international communication take place in a language
+nobody speaks natively?
+
+That seems like a horrible idea. When the lingua franca is some common natively
+spoken language at least people who can confidently correct you exist.
+
+Having everyone speak a non-native language would just lead to a regression
+towards the mean, and such a language would be much harder to learn than any
+existing language because it wouldn't come with a culture. There would be very
+few books, movies etc. in that language.

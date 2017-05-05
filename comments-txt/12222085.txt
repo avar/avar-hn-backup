@@ -1,0 +1,23 @@
+Comment-Id:	12222085
+Comment-Author:	avar
+Comment-Date:	Wed Aug  3 22:43:30 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12221733
+
+It's a good question because even supposing that you have no prior knowledge of
+the problem at hand you should be able to think of some obvious problems if you
+have any programming experience.
+
+You have N number of writers, those writers can write X sized data to location
+A.
+
+How would those writers go about writing to "A" in a performant manner without
+causing issues? Whether those issues are interleaved data, slowing down the N
+writers or having to keep outsized buffers on the OS level.
+
+Even if you have no knowledge of POSIX filesystems you should be able to reason
+about this in an intelligent way in an interview.
+
+Do we go for locks? That has its own set of problems, what are those? Do we go
+for fixed sized non-interleaved guarantees? What problems does that cause? Do
+we buffer arbitrarily sized output and and merge it later etc.

@@ -1,0 +1,12 @@
+Comment-Id:	12375860
+Comment-Author:	avar
+Comment-Date:	Sun Aug 28 09:00:06 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12373084
+
+    > Back in the bad old days of Linux, you could
+    > easily damage your monitor with the wrong
+    > xorg.conf settings.
+
+Nit: Back in the old days of Linux there was no xorg.conf, it was called
+XF86Config

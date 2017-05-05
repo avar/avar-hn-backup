@@ -1,0 +1,20 @@
+Comment-Id:	12525658
+Comment-Author:	avar
+Comment-Date:	Sun Sep 18 15:26:39 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12525465
+
+How is Leah Rowe (the Libreboot maintainer) in a position to know better than
+the FSF why the FSF fired someone?
+
+Is she directly involved? Does/did she also work for the FSF with the people in
+question, or does she just have some relationship with the person who got fired
+and is getting their side of the story?
+
+She's now publicly calling for the firing of several people of the FSF & the
+destruction of their livelihoods and careers.
+
+I have no involvement in any of this, but as someone on the sidelines who's
+been reading about it here on HN this just seems like he said she said hearsay
+resulting in the tech equivalent of tabloid dramas & trials in the court of
+public opinion.

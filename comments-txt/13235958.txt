@@ -1,0 +1,23 @@
+Comment-Id:	13235958
+Comment-Author:	avar
+Comment-Date:	Thu Dec 22 09:06:20 UTC 2016
+Comment-Type:	comment
+Parent-Id:	13235577
+
+    > Nuclear plants take a decade to build
+
+That very much depends on the country & regulatory environment. If you browse
+through the ones China has been building [1] it seems to be taking them around
+5-7 years from breaking first ground [2] and 5 years or so to add additional
+reactors to an existing site [3].
+
+You can browse through other countries on that site & Wikipedia to see how long
+these things take to build. The only ones that take more than a decade are ones
+where the limiting factor is clearly not nuclear, but the regulatory
+environment.
+
+1. https://www.iaea.org/PRIS/CountryStatistics/CountryDetails.a...
+
+2. https://en.wikipedia.org/wiki/Changjiang_Nuclear_Power_Plant
+
+3. https://en.wikipedia.org/wiki/Fuqing_Nuclear_Power_Plant

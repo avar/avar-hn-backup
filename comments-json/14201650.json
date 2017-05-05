@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 14201650,
+  "parent" : 14201476,
+  "text" : "Then don&#x27;t write a compile-recipe from scratch, but take e.g. your distro&#x27;s packaging script &amp; just add the switch you need. This is easy and relatively fool-proof.",
+  "time" : 1493198670,
+  "type" : "comment"
+}

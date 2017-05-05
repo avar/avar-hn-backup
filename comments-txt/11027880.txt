@@ -1,0 +1,11 @@
+Comment-Id:	11027880
+Comment-Author:	avar
+Comment-Date:	Wed Feb  3 17:32:14 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11027608
+
+If you step outside during the day you can have first-hand experience of a
+contained fusion reactor that manages to heat things up at a distance.
+
+That's how we'll extract energy from fusion reactors, but with approximately 1
+AU less distance.

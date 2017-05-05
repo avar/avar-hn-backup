@@ -1,0 +1,10 @@
+Comment-Id:	9014952
+Comment-Author:	avar
+Comment-Date:	Sat Feb  7 19:08:22 UTC 2015
+Comment-Type:	comment
+Parent-Id:	9014873
+
+That's true for something that uses e.g. autoconf, but moreutils doesn't build
+any makefile or configure script, it's right there in the Git repository. So I
+see what your objection is for packages in general, but it doesn't apply in
+this case.

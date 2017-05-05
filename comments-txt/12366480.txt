@@ -1,0 +1,12 @@
+Comment-Id:	12366480
+Comment-Author:	avar
+Comment-Date:	Fri Aug 26 14:25:36 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12363904
+
+So what if they did? How are we any worse off than if they'd written their own
+TCP replacement from scratch to begin with?
+
+Maybe someone outside Google gains nothing, but presumably their engineers will
+spend less time reinvesting the wheel, which is a net gain for humanity in less
+time wasted.

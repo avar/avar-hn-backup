@@ -1,0 +1,11 @@
+Comment-Id:	12930280
+Comment-Author:	avar
+Comment-Date:	Fri Nov 11 13:17:41 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12930134
+
+You don't need to scale up solar or wind in a particular region, you just
+transfer it from afar via HVDC. See: https://en.wikipedia.org/wiki/Desertec
+
+Sure there's engineering challenges in that, but no more than some hypothetical
+case where we need an entire fusion plant in some locality right now.

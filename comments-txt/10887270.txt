@@ -1,0 +1,20 @@
+Comment-Id:	10887270
+Comment-Author:	avar
+Comment-Date:	Tue Jan 12 13:35:22 UTC 2016
+Comment-Type:	comment
+Parent-Id:	10886718
+
+    > no autoconf
+
+Mentioning this in the same breath as "no segfaults" seems odd, does Rust use
+some other build configuration tool, or does it just not have the need for
+compile-time configuration detection? If it's the latter how does that even
+work?
+
+Are there no optional libraries? No outdated libraries whose version you have
+to detect? No obscure platforms whose architecture you have to detect for
+unsafe inline code etc.?
+
+Because if you can have any of those or any number of other cases where you
+need compile-time detection of configuration options you're going to need
+something like autoconf.

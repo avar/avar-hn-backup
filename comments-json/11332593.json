@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 11332593,
+  "kids" : [ 11374670, 11332886 ],
+  "parent" : 11332184,
+  "text" : "<p><pre><code>    &gt; I will be removing the comment when HN allows me to log back in.\n</code></pre>\nIn that case, here&#x27;s a copy of your initial comment, because removing\ntop-level comments that have ongoing follow-up discussion makes for\nvery confusing discussions:<p><pre><code>    &gt; All I know about GAE is that when my python app started being used\n    &gt; by HN users I upgraded my account to a paid one to increase\n    &gt; performance.\n    &gt;\n    &gt; In the transition , without any warning, google took the app down,\n    &gt; for a day. Thus killing all chance of acquiring a userbase now that\n    &gt; I had hit the frontpage.\n    &gt;\n    &gt; When I went onto the IRC GAE channel to ask someone for help to\n    &gt; unlock or keep the app running during this important moment the\n    &gt; reply from a staff member was &#x27; You should have planned better&#x27;. I\n    &gt; was surprised to hear this response and did not pursue the matter\n    &gt; further. Its all in the IRC logs if any of this sounds doubtful.\n    &gt;\n    &gt; TL;DR; Surprisingly, I did not find the GAE platform to be a\n    &gt; supportive environment for startups.\n    &gt;\n    &gt; ionwake @ ~2016-03-21 22:xx UTC</code></pre>",
+  "time" : 1458598519,
+  "type" : "comment"
+}

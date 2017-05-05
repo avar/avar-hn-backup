@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 10714337,
+  "kids" : [ 10714411, 10715225, 10714946 ],
+  "parent" : 10714211,
+  "text" : "Plans for building a birdhouse are completely incomparable to what the parent is talking about. This would be like me having an &quot;open source&quot; birdhouse design where the birdhouse is made of glued-together Intel™ processors.<p>Sure I&#x27;ve opened the schematics, but unlike a birdhouse made from wood you have zero chance of being able to build one from scratch on your own, or sourcing the Intel™ processors from another vendor.<p>This is the same reason for why if I release the binary of a program produced with a secret compiler as &quot;open source&quot; I&#x27;ll be laughed at, it completely goes against the spirit of the thing, which is that anyone should be able to change any part of the thing I&#x27;ve released.<p>It&#x27;s good that they&#x27;re doing this. But it&#x27;s completely incomparable to actual fully open source hardware.",
+  "time" : 1449789335,
+  "type" : "comment"
+}

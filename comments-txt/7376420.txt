@@ -1,0 +1,32 @@
+Comment-Id:	7376420
+Comment-Author:	avar
+Comment-Date:	Mon Mar 10 23:34:02 UTC 2014
+Comment-Type:	comment
+Parent-Id:	7376130
+
+I can easily switch between dynamic languages, including Perl, Python and Ruby.
+
+What I'm talking about is the level of toolchain familiarity where e.g. you can
+look at a given piece of code and know exactly which opcodes it'll get compiled
+to, what algorithms those opcodes will employ, and by extension how everything
+else in the system works.
+
+Now I certainly don't pretend to know all of that with Perl, but once you have
+that level of intimate knowledge that extends way beyond just the differences
+between similar languages with similar building blocks you'll reach a level of
+mastery that you don't want to give up easily.
+
+If you accept a job at a new company you might have to start to understand tens
+of thousands of new lines of code to have a proper understanding of the system
+you're working with.
+
+Similarly the hairy bits of programming language toolchains are tens to
+hundreds of of thousands of lines of code that you have to understand to truly
+know how they work.
+
+My point is that assuming that you can easily transfer that knowledge on a whim
+just because you can read the syntax introduction of some new programming
+language is folly.
+
+The toolchain is more complex than most people give it credit for, and
+mastering it matters.

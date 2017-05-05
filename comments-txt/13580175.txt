@@ -1,0 +1,11 @@
+Comment-Id:	13580175
+Comment-Author:	avar
+Comment-Date:	Mon Feb  6 15:20:27 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13579838
+
+I write Perl 5 for a living, we have Perl 6 installed here and I occasionally
+use it for one-liners[1] that are much less verbose than Perl 5 or most other
+languages. But nothing else.
+
+1. https://github.com/dnmfarrell/Perl6-One-Liners

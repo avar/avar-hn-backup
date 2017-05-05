@@ -1,0 +1,15 @@
+Comment-Id:	10495256
+Comment-Author:	avar
+Comment-Date:	Mon Nov  2 21:08:37 UTC 2015
+Comment-Type:	comment
+Parent-Id:	10495082
+
+I've just read that it uses a lot of Linux-specific things, but are there
+features that inherently can't be ported to BSD? And are those features
+absolutely critical to running it at all?
+
+What I've read sounds more like "we're focusing on Linux, and won't be porting
+it" rather than "this software is inherently Linux-only, and can't be ported".
+
+I daresay coming up with a shimmy layer to port it to BSD is probably less
+effort than completely rewriting it.

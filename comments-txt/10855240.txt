@@ -1,0 +1,15 @@
+Comment-Id:	10855240
+Comment-Author:	avar
+Comment-Date:	Thu Jan  7 01:10:51 UTC 2016
+Comment-Type:	comment
+Parent-Id:	10855084
+
+There are some people who are using "free basics" now that wouldn't have any
+Internet access without it. Now, you could argue and I'd probably agree with
+you that it's bad in the long term, creates a distorted market etc.
+
+But if a foreign company offers a net subsidy to access a part of the Internet
+shouldn't that drive down the price of Internet access for everyone? I.e. you
+could access "free basics" and also have a complimentary Internet subscription
+that could be offered at a lower price since your Facebook traffic would be
+subsidized.

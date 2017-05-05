@@ -1,0 +1,16 @@
+Comment-Id:	13833985
+Comment-Author:	avar
+Comment-Date:	Thu Mar  9 21:40:09 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13830740
+
+It's way easier for someone to hack up an acceptable new UI for org-mode
+(whatever that looks like) using the existing underlying Emacs org-mode code/
+runtime than it is to hack up a new UI and completely replace all the Emacs
+code & org-mode.
+
+You can run Emacs headless, it has C extension support now, your Mac app could
+start it headless and communicate with it over a socket or as a network
+process. Multiple Emacs modes do this to make Emacs itself talk to other
+programs (e.g. mu4e <-> mu, gud <-> gdb), there's no reason you can't do it the
+other way around.

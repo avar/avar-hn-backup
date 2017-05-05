@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 12375860,
+  "kids" : [ 12376002 ],
+  "parent" : 12373084,
+  "text" : "<p><pre><code>    &gt; Back in the bad old days of Linux, you could\n    &gt; easily damage your monitor with the wrong\n    &gt; xorg.conf settings.\n</code></pre>\nNit: Back in the old days of Linux there was no xorg.conf, it was called XF86Config",
+  "time" : 1472374806,
+  "type" : "comment"
+}

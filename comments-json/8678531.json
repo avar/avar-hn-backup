@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 8678531,
+  "parent" : 8677536,
+  "text" : "Isn&#x27;t one of the main advantages of IRC that it&#x27;s still a true federated protocol? I.e. you can host a channel #foobar across 10 servers and that channel will always survive netsplits (albeit with some number of clients splitting off), whereas with Jabber some server will always have to be the sole host of that channel?",
+  "time" : 1417387865,
+  "type" : "comment"
+}

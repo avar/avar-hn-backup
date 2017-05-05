@@ -1,0 +1,15 @@
+Comment-Id:	7800685
+Comment-Author:	avar
+Comment-Date:	Mon May 26 17:35:13 UTC 2014
+Comment-Type:	comment
+Parent-Id:	7800652
+
+    > The only people willing to spend the money on home automation
+    > tech are those who own homes or who don't plan on moving any
+    > time soon - i.e. not young people.
+
+Doesn't that depend a lot on the specifics of the home automation system?
+
+Sure anything that requires a permanent installation is less likely to be
+installed by anyone but the home owner, but can't you automate a lot of things
+in your home without permanently installing anything?

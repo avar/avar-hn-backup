@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 13994258,
+  "kids" : [ 13994287 ],
+  "parent" : 13994192,
+  "text" : "Just a comment on your dpkg one-liner. You can use aptitude to find things written in a given language, e.g. on my Debian computer:<p><pre><code>    $ aptitude search &#x27;?tag(implemented-in::c)&#x27;|grep &#x27;^.  lib&#x27;|wc -l\n    1895</code></pre>",
+  "time" : 1490870264,
+  "type" : "comment"
+}

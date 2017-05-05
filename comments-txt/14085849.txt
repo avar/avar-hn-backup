@@ -1,0 +1,8 @@
+Comment-Id:	14085849
+Comment-Author:	avar
+Comment-Date:	Tue Apr 11 08:31:00 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14084875
+
+This is how you can implement isUpper() on EBCDIC: https://github.com/Perl/
+perl5/blob/v5.24.0/handy.h#L1153

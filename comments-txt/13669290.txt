@@ -1,0 +1,8 @@
+Comment-Id:	13669290
+Comment-Author:	avar
+Comment-Date:	Fri Feb 17 16:15:36 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13668844
+
+This just moves the goalpost another few years into the future until robot
+repairs are just as viable as robot manufacturing.

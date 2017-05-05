@@ -1,0 +1,13 @@
+Comment-Id:	11357538
+Comment-Author:	avar
+Comment-Date:	Fri Mar 25 00:01:58 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11357459
+
+The assumption here is that if this were to catch on as a security mechanism
+the establishment you're in would clearly advertise their merchant name, or you
+could at least ask for it.
+
+It wouldn't take that many customers to ask before the guy behind the counter
+at "Corner Cafe Market" would be able to give you "Culinary Drinkware Inc." as
+their merchant name offhand.

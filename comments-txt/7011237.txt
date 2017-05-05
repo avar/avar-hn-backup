@@ -1,0 +1,32 @@
+Comment-Id:	7011237
+Comment-Author:	avar
+Comment-Date:	Sat Jan  4 15:07:01 UTC 2014
+Comment-Type:	comment
+Parent-Id:	7010773
+
+In The Netherlands you can go with a bank like ABN that issues you a dongle
+called the e.dentifier. It looks like this: http://thumbs.dreamstime.com/z/
+dutch-ideal-paymentsystem-usi...
+
+To make an online transaction with it you insert your debit card into it, enter
+a random sequence of digits displayed on the bank website as well as your PIN
+in the dongle to get a sequence of digits that you enter into the dongle again.
+
+I found it annoying to have to carry this device everywhere in case I needed to
+make a bank transaction, so I went with the only bank in The Netherlands that
+does TAN codes, ING.
+
+Every 6-8 months or so I'll get a sheet of 100 TAN codes in the snail mail,
+I'll OCR the full sheet with offline-enabled Android app whose name I forget,
+convert it to a text file, edit it a bit, and encrypt the text file with GPG.
+
+Then when I need to make transfers I can ssh to a box or use my laptop to "gpg
+-d tan.txt.gpg | grep ^123" where 123 is the TAN code number that the online
+form requests.
+
+They recently amended this system so that there's a second set of TAN codes
+(that comes in another snail mail) that they'll supposedly ask for if you make
+a transaction from a suspicious IP address, I've yet to use one of those.
+
+It sucks a bit but I find it far better than having to carry some device on my
+person at all times.

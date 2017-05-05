@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 13989059,
+  "parent" : 13984024,
+  "text" : "In addition to the algorithms you mentioned git also has --diff-algorithm=minimal. This is just the XDF_NEED_MINIMAL flag to xdiff, so I&#x27;m unsure if it counts as a separate algorithm.",
+  "time" : 1490811431,
+  "type" : "comment"
+}

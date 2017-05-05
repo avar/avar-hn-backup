@@ -1,0 +1,12 @@
+Comment-Id:	13776906
+Comment-Author:	avar
+Comment-Date:	Thu Mar  2 18:44:43 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13776573
+
+Yes, but be careful. UIs like that tend to accumulate "--yes" options, because
+you don't feel like being asked every time for 1 server. Then one day you screw
+up the wildcard and it's 1000 servers, but you used the --yes template.
+
+Which is why I'm pointing out that to design UIs like these you should fall
+back on slightly different UIs depending on the severity of the operation.

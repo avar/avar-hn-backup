@@ -1,0 +1,9 @@
+Comment-Id:	12837813
+Comment-Author:	avar
+Comment-Date:	Mon Oct 31 15:44:39 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12837658
+
+It's great that it doesn't have upstart appeal. Nobody cares about the latest
+Subaru at this price point either. EV's need to be boring to succeed. It can't
+all be Porche-level cars with a price point to match.

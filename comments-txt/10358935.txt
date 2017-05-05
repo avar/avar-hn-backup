@@ -1,0 +1,21 @@
+Comment-Id:	10358935
+Comment-Author:	avar
+Comment-Date:	Fri Oct  9 09:16:08 UTC 2015
+Comment-Type:	comment
+Parent-Id:	10358559
+
+Even in that situation there's an element of avoidable "own risk" that could be
+priced into the premiums. Someone whose parked car gets hit by a drunk driver
+is more likely to:
+
+- Not park their car in a garage overnight, exposing them to various damage to
+the car.
+
+- Not park their car in a garage when they go downtown.
+
+- Park their car near bars or other places statistically more likely to have
+drunk drivers around.
+
+I'm not saying your friend did any of that and that it wasn't a complete freak
+accident, but on the scale of everyone that's being insured there's surely
+correlations like that that justify the premiums going up.

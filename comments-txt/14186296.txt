@@ -1,0 +1,9 @@
+Comment-Id:	14186296
+Comment-Author:	avar
+Comment-Date:	Mon Apr 24 17:41:09 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14184528
+
+Slightly off-topic, but anyone know what he's using to generate those inline
+SVG graphs? I've been looking for some easy to use graphing library like that
+to present similar performance numbers on a webpage.

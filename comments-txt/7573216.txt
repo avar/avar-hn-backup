@@ -1,0 +1,14 @@
+Comment-Id:	7573216
+Comment-Author:	avar
+Comment-Date:	Fri Apr 11 14:57:58 UTC 2014
+Comment-Type:	comment
+Parent-Id:	7572847
+
+If the offer is annual and they add an extra $1000 per year then on average the
+disgruntled employee has to wait 6 months to quit and get a higher severance,
+not 1 year. Which means that 1/4 of those employees only have to churn through
+3 more months to get an extra $1000, hardly something nobody would do.
+
+The obvious solution to fix this flaw in the system would be to raise the offer
+daily instead of annually, be approximately $1000/365 =~ $2.74 per day. Or more
+simply by $20 per week, which comes out to about the same per year ($1040).

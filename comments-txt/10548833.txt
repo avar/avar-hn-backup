@@ -1,0 +1,16 @@
+Comment-Id:	10548833
+Comment-Author:	avar
+Comment-Date:	Wed Nov 11 19:53:46 UTC 2015
+Comment-Type:	comment
+Parent-Id:	10547495
+
+By far the biggest impact on tunneling over DNS is whether or not you can make
+direct DNS queries to the server running iodine.
+
+I did some tests a while and found that iodine was ~98% of non-tunneled speed
+when I could access the server directly, since then the traffic is wrapped over
+huge big TXT queries and it's really efficient.
+
+But the common case for using it is that you can only lookup through a local
+DNS server, and then it's usually ~0.5% or so of the usual speed. I.e. 1-2KB/s
+at best.

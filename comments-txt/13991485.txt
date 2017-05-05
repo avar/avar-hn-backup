@@ -1,0 +1,39 @@
+Comment-Id:	13991485
+Comment-Author:	avar
+Comment-Date:	Wed Mar 29 23:13:35 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13991323
+
+I've never had to file US taxes so this might be a stupid question, but how
+exactly are the people in your example worse off with ReadyReturn?
+
+Isn't ReadyReturn just e.g. summing up their reported wages for the return,
+which they'd need to do accurately anyway if they were filling it in from
+scratch?
+
+Yes, if you have a pre-filled in tax return nothing that the government doesn't
+know about & which might be deductible is going to be on there, but that's the
+situation you were in already, wasn't it? Now you'll have more time to fill
+that out, instead of doing menial work like manually summing up your monthly
+payslips to arrive at a yearly total.
+
+Or is ReadyReturn somehow structurally flawed in allowing you to either file
+for a simplified pre-filled in return with no amendments, or having to do an
+old-style return from scratch?
+
+When I file my taxes in The Netherlands all the concerns you've raised are
+addressed through a system where most of the information is pre-filled in. I.e.
+they know how much I make so that number is on there, but they might not know
+about a few other deductibles, those are established through a series of
+questions you answer.
+
+E.g. "do you own a house" -> "what type of mortgage" -> "do you pay a land use
+fee?" -> that's a deductible (to cite one made-up example).
+
+Most importantly it establishes a workflow where if something is a deductible
+(unless it's something really obscure, manual returns still exist), it's going
+to be on the online tax form.
+
+So even if the initial implementation is bad just establishing that process is
+worthwhile, because there'll be political pressure to make it better next year,
+and the year after that.

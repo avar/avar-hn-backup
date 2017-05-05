@@ -1,0 +1,12 @@
+Comment-Id:	11100159
+Comment-Author:	avar
+Comment-Date:	Sun Feb 14 21:51:28 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11099972
+
+Nowadays the only thing I use outside of Emacs is GNOME Terminal / Google
+Chrome / bash / screen / ssh. All the rest (including E-Mail) is inside Emacs.
+
+The Emacs/Vim war is a bit silly, because historically they're really not
+comparable in that way (although vim has gotten larger). Emacs is more of an
+alternative to GNOME/KDE/Windows/OSX than it is an alternative text editor.

@@ -1,0 +1,16 @@
+Comment-Id:	12863281
+Comment-Author:	avar
+Comment-Date:	Thu Nov  3 12:09:07 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12863188
+
+To be clear, I'm not claiming that the result of this referendum has to be
+carried out. I honestly don't know enough about British politics to say to what
+extent that's the case.
+
+I'm saying that dismissing a popular vote on the basis of voter turnout doesn't
+make sense. E.g. only 66.4%[1] voted in the last UK general election. Would
+anyone argue that the entire government of the UK is illegitimate on that
+basis?
+
+1. https://en.wikipedia.org/wiki/United_Kingdom_general_electio...

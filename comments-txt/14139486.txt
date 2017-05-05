@@ -1,0 +1,9 @@
+Comment-Id:	14139486
+Comment-Author:	avar
+Comment-Date:	Tue Apr 18 15:13:52 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14139446
+
+If you drill down to any individual metric, e.g. http://usafacts.org/metrics/
+12892 it says "Sources for this data are coming soon" & "Download coming soon".
+Give them some time, they just launched.

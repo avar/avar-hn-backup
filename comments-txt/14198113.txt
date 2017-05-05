@@ -1,0 +1,15 @@
+Comment-Id:	14198113
+Comment-Author:	avar
+Comment-Date:	Tue Apr 25 21:17:23 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14197512
+
+This title is misleading clickbait, from the article:
+
+    > of more concern, are the documents you
+    > provided that indicate you may have
+    > engaged in unlicensed engineering work
+    > in Oregon.
+
+They're clearly being dicks, but him calling himself an engineer in an E-Mail
+isn't the full story.

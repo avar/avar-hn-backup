@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 9714525,
+  "kids" : [ 9714566 ],
+  "parent" : 9714046,
+  "text" : "The gist of this is that perl&#x27;s parser depends on previously symbols\nthat are already defined to figure out how to parse things.<p>The same goes for languages like C, but the difference is that in perl\nyou can define symbols at compilation time as a result of running\nother code, e.g.:<p><pre><code>    $ perl -wE &#x27;BEGIN { eval &quot;sub spew { say \\@_ }&quot; if time % 2 == 0 } spew &quot;hello&quot;&#x27;\n    hello\n    $ perl -wE &#x27;BEGIN { eval &quot;sub spew { say \\@_ }&quot; if time % 2 == 0 } spew &quot;hello&quot;&#x27;\n    Unquoted string &quot;spew&quot; may clash with future reserved word at -e line 1.\n</code></pre>\nHere the program can be syntactically correct or incorrect depending\non the compilation time.",
+  "time" : 1434281779,
+  "type" : "comment"
+}

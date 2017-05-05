@@ -1,0 +1,18 @@
+Comment-Id:	11503063
+Comment-Author:	avar
+Comment-Date:	Fri Apr 15 09:09:48 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11500329
+
+Amazon doesn't do this, and ship their own store. What do you think would
+happen if Samsung forked Android and didn't ship the Play Store? Now app
+developers would just upload their apps to both stores and Google's power over
+Android as a whole would be entirely eroded.
+
+So no, they definitely don't get to boss the OEMs around. Unlike Microsoft with
+Windows they don't get to just say "you can't ship Windows^HAndroid anymore".
+
+They do have a bit of hold over the OEMs in the form of it being a PITA to
+fork, access to Google's own apps etc. So I'm not saying they have no leverage,
+but it's a lot less than what Microsoft has, and definitely not enough to say
+"my way or the highway".

@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 13220487,
+  "kids" : [ 13220877, 13220797 ],
+  "parent" : 13220369,
+  "text" : "Because calling malloc() &amp; free() is expensive? That&#x27;s just an implementation detail of your reference-counting GC or malloc(). You can also just pre-allocate memory in batches which makes allocation just changing a pointer to some pre-allocated memory.<p>Many reference based GC&#x27;s do that, e.g. perl. Or have I entirely misunderstood your comment?",
+  "time" : 1482247064,
+  "type" : "comment"
+}

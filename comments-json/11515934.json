@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 11515934,
+  "kids" : [ 11516283 ],
+  "parent" : 11515567,
+  "text" : "I do pretty much this but I have public dotfiles (on github), then an overlay for work files so I need a script to maintain those symlinks, and then work ones that I don&#x27;t share with coworkers (contain private passwords).<p>So I have a script that manages the symlinks for multiple such repos, knows to remove the broken links as needed, and I have something I can just paste into the terminal of any machine and it&#x27;ll set that box up with my public&#x2F;work&#x2F;private dotfiles as appropriate.<p>It&#x27;s not perfect, but it works, just pointing out that even for relatively simple cases having a dotfile manager (or writing your own) can make sense.",
+  "time" : 1460921929,
+  "type" : "comment"
+}

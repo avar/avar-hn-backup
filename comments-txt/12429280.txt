@@ -1,0 +1,8 @@
+Comment-Id:	12429280
+Comment-Author:	avar
+Comment-Date:	Mon Sep  5 10:20:04 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12429259
+
+Perl is dual-licensed under the GPL & the Artistic license: https://github.com/
+Perl/perl5/blob/blead/README#L83

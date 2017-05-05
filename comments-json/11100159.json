@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 11100159,
+  "kids" : [ 11100275, 11100193, 11100465 ],
+  "parent" : 11099972,
+  "text" : "Nowadays the only thing I use outside of Emacs is GNOME Terminal &#x2F; Google Chrome &#x2F; bash &#x2F; screen &#x2F; ssh. All the rest (including E-Mail) is inside Emacs.<p>The Emacs&#x2F;Vim war is a bit silly, because historically they&#x27;re really not comparable in that way (although vim has gotten larger). Emacs is more of an alternative to GNOME&#x2F;KDE&#x2F;Windows&#x2F;OSX than it is an alternative text editor.",
+  "time" : 1455486688,
+  "type" : "comment"
+}

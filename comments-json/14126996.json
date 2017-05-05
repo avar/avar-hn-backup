@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 14126996,
+  "kids" : [ 14127124, 14127405 ],
+  "parent" : 14123388,
+  "text" : "<p><pre><code>    &gt; 1) both of our MTAs do STARTTLS. And gmail is only TLS.\n</code></pre>\nWhat you&#x27;re implying here, i.e. that the communication is encrypted anyway, isn&#x27;t how E-Mail works at all.<p>Even if the GMail MXs are configured to only accept E-Mails over TLS, the user&#x27;s sensitive E-Mail may, depending on his settings, traverse multiple servers with less secure settings before a connection is ever initiated with the GMail MXs.<p>If someone&#x27;s E-Mail is going to be MITM&#x27;d it&#x27;s far more likely to happen between the Internet café he&#x27;s sitting in and his ISP&#x27;s badly configured SMTP server than between his ISP&#x27;s SMTP server and GMail&#x27;s TLS-using MTA.<p>GMail using TLS will do nothing to protect against the message being MITM&#x27;d, whereas GPG would, because it&#x27;s end-to-end encryption, unlike TLS settings for individual MTAs in a possibly long chain of mixed or no encryption before a message reaches you.",
+  "time" : 1492369720,
+  "type" : "comment"
+}

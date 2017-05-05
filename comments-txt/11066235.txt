@@ -1,0 +1,26 @@
+Comment-Id:	11066235
+Comment-Author:	avar
+Comment-Date:	Tue Feb  9 16:14:17 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11066169
+
+Let's say you make $1000 taxed at 20%, so you have $800 take-home. You spend
+$400 of that on health insurance. Now you have $400 left, or 40% of the initial
+amount with a 60% effective "tax" rate.
+
+If your taxes increase to say 40% but health insurance is included your taxes
+have nominally gone up 20%, but down 20% if you consider non-tax costs that
+were folded into your taxes.
+
+As anyone who's moved between countries can tell you, it doesn't make any sense
+to just consider what the tax rate is, instead you have to think about fixed
+costs (health care, housing, food, transportation, ...), deduct that from your
+pre-tax pay, and you're left with your effective taxation as it were.
+
+Administrative changes in the government can increase your taxes but have the
+effect of increasing your take-home pay, that's effectively what Sanders is
+proposing.
+
+There's no flaw in this reasoning, on the contrary you seem to have the
+fundamental flaw in your reasoning of assuming that the only way for the
+government to save you money is to reduce your tax rate.

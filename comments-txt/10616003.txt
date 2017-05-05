@@ -1,0 +1,17 @@
+Comment-Id:	10616003
+Comment-Author:	avar
+Comment-Date:	Mon Nov 23 17:57:32 UTC 2015
+Comment-Type:	comment
+Parent-Id:	10615155
+
+I've often seen two things conflated when it comes to cancer & Mars.
+
+The first is that if we send people on a one-off return mission their lifetime
+risk of cancer will increase by X%. This is obviously a concern, but as others
+here in the thread have mentioned we could get people willing to accept the
+risk.
+
+The second is that if people stay on Mars for generations you have the risk of
+cumulative damage to DNA over generations. Now it's not just a problem that
+instead of living to 80 you die of cancer at 60, but rather that after N
+generations the population's DNA might be damaged past repair.

@@ -1,0 +1,27 @@
+Comment-Id:	11166780
+Comment-Author:	avar
+Comment-Date:	Wed Feb 24 14:07:58 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11166341
+
+    > I think rather than concluding that we must be more than physical, a
+    > more reasonable conclusion is that there's something that we don't
+    > yet understand about the physical world, i.e. how matter in the
+    > physical world can give rise to subjective experience.
+
+What you're fumbling towards here is called the "hard problem of consciousness"
+[1]. Essentially some believe that there's some secret sauce in the brain that
+gives rise to consciousness, while others believe that there's no such "hard"
+problem and that "consciousness" is just what we call a bunch of simpler brain
+systems working in unison.
+
+My opinion is a layman that's read quite a bit about this is that there's no
+"hard" problem, and the only thing that separates us from "lower" animals is
+just that we're running a slightly more sophisticated version of the same
+physical brain processes, which we like to call consciousness.
+
+There's no reason to believe that we're anything than the cumulative behavior
+of our brain matter, or that we're somehow "special" in the animal kingdom in
+another sense than e.g. wolves are more special & sophisticated than mice.
+
+1. https://en.wikipedia.org/wiki/Hard_problem_of_consciousness

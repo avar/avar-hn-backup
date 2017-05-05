@@ -1,0 +1,18 @@
+Comment-Id:	10515045
+Comment-Author:	avar
+Comment-Date:	Thu Nov  5 18:11:43 UTC 2015
+Comment-Type:	comment
+Parent-Id:	10514672
+
+    > That's an argument against patents existing at all.
+
+No it's not.
+
+It's not an argument for or against patents, I'm pointing out that @aroch is
+wrong about them "patenting the processes".
+
+That's not true for most of these patents, they're patenting isolated
+organisms, compounds or genes. I.e. the end result, not the process.
+
+What incentives we should give individuals and corporations to advance
+biotechnology is another matter.

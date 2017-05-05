@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 13077691,
+  "kids" : [ 13079949 ],
+  "parent" : 13076566,
+  "text" : "I was using &quot;autoconf&quot; to mean both the software itself and all its output, including the generated configure script.<p>Confusingly, sorry about that, but for the purposes of discussing what software you need to generate the configure valuables you ultimately need when cloning from source control, it makes no difference.",
+  "time" : 1480575051,
+  "type" : "comment"
+}

@@ -1,0 +1,25 @@
+Comment-Id:	10715461
+Comment-Author:	avar
+Comment-Date:	Fri Dec 11 04:29:44 UTC 2015
+Comment-Type:	comment
+Parent-Id:	10715225
+
+We've eclipsed the usefulness of this birdhouse analogy, but suffice to say
+being able to replace one proprietary commercial vendor with another doesn't
+make something open source.
+
+    > This is some kind of confluence of the values of
+    > FSF captial-F "Free" style software with the more
+    > pragmatic goals associated with open source.
+
+Well, pragmatically, if you needed to alter the hardware of this "open source"
+hardware what percentage of the total electronic complexity would you be
+working with? I'm going to aim for a conservative one-digit percentile.
+
+There's a real and unambiguous line to be drawn in the sand here. If you get
+"open source" plans for hardware that you can't replicate with third-party
+fabrication & your own materials it's not open source. It's just a recipe for
+assembling commercial proprietary components.
+
+It's awesome that people publish those recipes, but don't call it open source
+hardware and dilute the meaning of hardware that is genuinely open.

@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 13885002,
+  "kids" : [ 13887672, 13885250 ],
+  "parent" : 13884322,
+  "text" : "For those excited about the &quot;Guile&#x27;s Elisp implementation&quot; in this release. The last major Guile release was 6 years ago, and much of this GuileEmacs work is still highly WIP and from my searching on emacs-devel seems to have stalled in 2015 for lack of volunteers.<p>Just because Guile implements Elisp the <i>language</i> doesn&#x27;t mean there isn&#x27;t a ton of work to be done on Emacs itself to swap out its native VM for Guile, and it seems nobody&#x27;s keen on finishing up that work.",
+  "time" : 1489672600,
+  "type" : "comment"
+}

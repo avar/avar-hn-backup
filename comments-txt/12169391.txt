@@ -1,0 +1,9 @@
+Comment-Id:	12169391
+Comment-Author:	avar
+Comment-Date:	Tue Jul 26 23:07:48 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12169309
+
+A Tesla isn't cheap either, and Tesla didn't have to introduce their beta-level
+software/hardware to the public and then claim "you're using it wrong" when
+some guy's head gets sheared off by a semi.

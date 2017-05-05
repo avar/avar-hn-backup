@@ -1,0 +1,10 @@
+Comment-Id:	11388528
+Comment-Author:	avar
+Comment-Date:	Wed Mar 30 11:42:45 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11388435
+
+This doesn't work with a lot of packages because they depend on some newer C
+library that would have to upgrade pretty much all of your installation from
+stable, but I've just tested this now and pinning "git git-svn git-email
+git-man" to testing/unstable on an otherwise stable distro works.

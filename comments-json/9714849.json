@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 9714849,
+  "parent" : 9714566,
+  "text" : "As the sibling points out this isn&#x27;t quite like what you have in Perl. In this case the python code will be parsed the same way. The difference with Perl is that depending on previously defined symbols something might parse as a function call, an indirect method call etc.<p>This comment in the perl parser describes some of the beginnings of that rabbit hole: <a href=\"http:&#x2F;&#x2F;perl5.git.perl.org&#x2F;perl.git&#x2F;blob&#x2F;70f63a4c7dba89e8e48b44de7978faae4319e693:&#x2F;toke.c#l3845\" rel=\"nofollow\">http:&#x2F;&#x2F;perl5.git.perl.org&#x2F;perl.git&#x2F;blob&#x2F;70f63a4c7dba89e8e48b...</a>",
+  "time" : 1434289447,
+  "type" : "comment"
+}

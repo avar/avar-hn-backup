@@ -1,0 +1,16 @@
+Comment-Id:	11744068
+Comment-Author:	avar
+Comment-Date:	Sat May 21 10:02:43 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11744021
+
+Let's not assume that correlation is causation here. One explanation is that
+female primary caregivers face systematic discrimination their male peers don't
+face.
+
+Another is that female primary caregivers, more so than their male
+counterparts, lose interest in focusing on work after they have a child, and
+thus fall into the rut of a lower performing employee that inevitably gets paid
+less.
+
+I don't know which it is. Are their studies that try to find out?

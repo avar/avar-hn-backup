@@ -1,0 +1,20 @@
+Comment-Id:	6870243
+Comment-Author:	avar
+Comment-Date:	Sun Dec  8 17:06:08 UTC 2013
+Comment-Type:	comment
+Parent-Id:	6870211
+
+Yeah, and a system like that could be worse in some ways. Likely what would
+happen is that what are currently the CA's would be the highest trusted parties
+in the system, and that trust would largely be derived from them trusting each
+other.
+
+This is largely a matter of the game theory dynamics behind this, but if one of
+them does something bad are the other parties more or less likely to revoke
+trust? If they easily revoke trust they're creating a dynamic where if they
+mess up in "minor" ways their whole business could get destroyed. The penalty
+for not revoking trust soon enough might be much too small to create a system
+better than what we have now.
+
+I don't know, and I wonder if there's been any research on the various aspects
+of replacing the CA system with a trust-based system.

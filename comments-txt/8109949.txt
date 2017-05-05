@@ -1,0 +1,15 @@
+Comment-Id:	8109949
+Comment-Author:	avar
+Comment-Date:	Wed Jul 30 18:08:51 UTC 2014
+Comment-Type:	comment
+Parent-Id:	8109894
+
+Almost all the libraries you deal with are in-house. Which is part of what I'm
+pointing out, most of getting up to speed in any company is learning about
+their domain-specific codebase, not the language they happen to be using.
+
+You're certainly at an advantage if you know some of those things already, that
+goes without saying. I'm just pointing out that many people seem to
+overestimate the impact of the programming language on the overall stack.
+Knowing DB workflows, distributed programming etc. is much more important than
+knowing language trivia which you can mostly trivially look up.

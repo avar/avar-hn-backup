@@ -1,0 +1,14 @@
+Comment-Id:	13413868
+Comment-Author:	avar
+Comment-Date:	Mon Jan 16 23:10:23 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13413740
+
+There's some really interesting inconsistencies in that table. E.g. some think
+tractors for fieldwork aren't OK but lawnmowers are, for others somehow
+chainsaws are bad but washing machines are fine etc.
+
+Looking these over there doesn't seem to be any clear pattern to me. The
+grandparent mentioned them not wanting things that will "drastically change
+their way of life", surely having a washing machine is a bigger change to your
+life than having a chainsaw, even if you're a farmer.

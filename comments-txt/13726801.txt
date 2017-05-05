@@ -1,0 +1,8 @@
+Comment-Id:	13726801
+Comment-Author:	avar
+Comment-Date:	Fri Feb 24 19:24:36 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13726645
+
+What would be the point of a disclosure period? Nobody's going to fix SHA-1 in
+the next 90 days, or ever.

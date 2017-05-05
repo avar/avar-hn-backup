@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 14068783,
+  "kids" : [ 14069913 ],
+  "parent" : 14068628,
+  "text" : "It doesn&#x27;t have to map perfectly as long as both end in the same suffix. Test with:<p><pre><code>    git -c url.https:&#x2F;&#x2F;git.freedesktop.org&#x2F;projects&#x2F;.insteadOf=git:&#x2F;&#x2F;freedesktop.org&#x2F; clone git:&#x2F;&#x2F;freedesktop.org&#x2F;harfbuzz.git \n    Cloning into &#x27;harfbuzz&#x27;...\n    fatal: unable to access &#x27;https:&#x2F;&#x2F;git.freedesktop.org&#x2F;projects&#x2F;harfbuzz.git&#x2F;&#x27;: Failed to connect to git.freedesktop.org port 443: Connection refused\n</code></pre>\nThen set it in your config:<p><pre><code>    git config --global url.https:&#x2F;&#x2F;git.freedesktop.org&#x2F;projects&#x2F;.insteadOf git:&#x2F;&#x2F;freedesktop.org&#x2F;\n</code></pre>\nAnd now anything on your system cloning or fetching git:&#x2F;&#x2F;freedesktop.org&#x2F;harfbuzz.git will use <a href=\"https:&#x2F;&#x2F;git.freedesktop.org&#x2F;projects&#x2F;harfbuzz.git\" rel=\"nofollow\">https:&#x2F;&#x2F;git.freedesktop.org&#x2F;projects&#x2F;harfbuzz.git</a> instead.",
+  "time" : 1491682608,
+  "type" : "comment"
+}

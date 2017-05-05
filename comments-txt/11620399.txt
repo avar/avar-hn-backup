@@ -1,0 +1,8 @@
+Comment-Id:	11620399
+Comment-Author:	avar
+Comment-Date:	Tue May  3 13:27:52 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11620386
+
+Any password manager worth considering these days can sync across multiple
+computers given your master password.

@@ -1,0 +1,12 @@
+Comment-Id:	13075015
+Comment-Author:	avar
+Comment-Date:	Wed Nov 30 21:47:10 UTC 2016
+Comment-Type:	comment
+Parent-Id:	13074863
+
+You've confused autoconf with automake. The output from autoconf is just a list
+of variables that are sourced by your handwritten Makefile, which you can
+supply yourself if you don't feel like executing autoconf.
+
+It's automake that writes your Makefile for you, but you can just skip using
+that. E.g. the Git project uses autoconf optionally but not automake.

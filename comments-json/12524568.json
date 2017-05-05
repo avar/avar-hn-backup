@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 12524568,
+  "kids" : [ 12524624, 12524997 ],
+  "parent" : 12524535,
+  "text" : "What do you think the risk is? That some sociopath gains access to the perl6 repo and replaces all the code with a shellscript that &quot;sudo rm -rf &#x2F;&quot;&#x27;s?<p>Sure, that&#x27;s possible, but good contributors will vastly outnumber bad contributors, and such a person&#x27;s commit access would be revoked instantly. There&#x27;s still code review for everything, and such a change would not go unnoticed.<p>Just look at Wikipedia. That&#x27;s the equivalent of a publically writeable repo and hasn&#x27;t turned into a total shitshow as a result.<p>As the Perl 6 ecosystem demonstrates you get <i>way</i> more out of inclusiveness than being paranoid about some hypothetical bad actor getting access to your repo.",
+  "time" : 1474190664,
+  "type" : "comment"
+}

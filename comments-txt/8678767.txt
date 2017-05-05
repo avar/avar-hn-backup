@@ -1,0 +1,10 @@
+Comment-Id:	8678767
+Comment-Author:	avar
+Comment-Date:	Sun Nov 30 23:55:20 UTC 2014
+Comment-Type:	comment
+Parent-Id:	8678339
+
+Emacs, but at this point I've got it to a point where I'm mostly comfortable
+with it, there's still a bunch of annoyances, but I haven't hacked the
+configuration substantially in years. I keep meaning to get to it, but other
+things keep getting in the way.

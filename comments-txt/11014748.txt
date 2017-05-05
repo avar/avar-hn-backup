@@ -1,0 +1,9 @@
+Comment-Id:	11014748
+Comment-Author:	avar
+Comment-Date:	Mon Feb  1 19:41:21 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11014355
+
+How do you think open source projects have preserved message history on the
+existing open source alternatives discussed in this thread (IRC & Jabber)? You
+set up & maintain your own logging bots.

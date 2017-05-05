@@ -1,0 +1,71 @@
+Comment-Id:	5928447
+Comment-Author:	avar
+Comment-Date:	Sun Jun 23 17:31:18 UTC 2013
+Comment-Type:	comment
+Parent-Id:	5928149
+
+We've been working on moving away from rsync for our code syncing to using Git
+where I work.
+
+I'm not saying there aren't uses for rsync, but your dismissal of git as not
+being suitable for a "true production deployment system" isn't supported in any
+way. And stating that rsync was "specifically made for this kind of thing"
+without comparing any of the trade-offs involved is just appealing to
+authority.
+
+Some things you may have not considered:
+
+  * rsync is meant to sync up *arbitrary filesystem trees*, whereas
+   with Git you're snapshotting trees over time.
+
+   When you transfer content between two Git repositories the two ends
+   can pretty much go "my tree is at X, you have Y, give me X..Y
+   please". You get that as a pack, then just unpack it in the
+   receiving repository.
+
+   Whereas with rsync even if you don't checksum the files you still
+   have to recursively walk the full depth of the tree at both ends
+   (if you're doing updates), send that over the wire etc. before you
+   even get to transferring files.
+
+ * Since syncing commits and actually checking them out are two
+   different steps you can push out commits (without checking them
+   out!) to your production machines as they're pushed to your
+   development branches.
+
+   Then deploying is just sending a message saying "please check out
+   such-and-such SHA1" and the content will already be there!
+
+ * You mentioned in another post here that rsync has --delay-updates,
+   this is just like "git reset --hard" (but I'll bet Git's is more
+   efficient). With Git you can do the transfer of the objects and the
+   checking out of the objects as separate steps.
+
+ * It's way easier for compliance/validation reasons to not get the
+   data out of Git, since you can validate with absolute certainty
+   that what you have at a given commit is what you have deployed
+   (just run "git show"). If you check the files out and then sync
+   them with some out-of-bound mechanism you're back to comparing
+   files.
+
+Edit: One thing I forgot, it's distributed. Which gives you a lot of benefits.
+Consider this problem, you have 1000 servers running your code and you've
+decided that you want to deploy now from a staging server.
+
+Having trying to rsync to 1000 servers at once from one box (the naïve
+implementation with rsync) would take forever and overload that one box,
+especially if you wanted to take advantage of pre-syncing things on every
+commit so the commit will already be there if you want to roll out (constant
+polling and/or pushing).
+
+You can mitigate this by having intermediate servers you push to, but then
+you've just partitioned the problem, what if you need to swap out those boxes,
+they go down etc.
+
+With Git you can just configure each of the 1000 boxes to have 3 other boxes in
+the pool as a remote. Then you seed one of them with the commit you want to
+rollout. The content will trickle through the graph of machines, any one
+machine going down will be handled gracefully, and if you want to rollout you
+can just block on something that asks "do you have this SHA1 yet" returning
+true for all live machines before you "git reset --hard" to that SHA1
+everywhere.

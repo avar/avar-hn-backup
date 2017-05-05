@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 9691531,
+  "kids" : [ 9691851 ],
+  "parent" : 9690466,
+  "text" : "&quot;Quite&quot;. Let&#x27;s look at the potential attack. You&#x27;re running a backup system with user-supplied data, fair enough, and one of your users has:<p><pre><code>    1) Access to an existing object, or its checksum.\n\n    2) Can write a *new* object where they intentionally\n       produce a collision with an existing object.\n</code></pre>\nThere&#x27;s a trivial way to get around this attack in practice, which is that you just lazily write objects and don&#x27;t re-write an object that exists already. This is what Git does with the objects it writes, which insulates it more from future SHA-1 collision attacks than just the security you&#x27;d get from SHA-1 itself.<p>This means that you&#x27;ve changed an attack where someone can maliciously clobber an existing object to an edge case where their object just won&#x27;t get backed up.",
+  "time" : 1433939126,
+  "type" : "comment"
+}

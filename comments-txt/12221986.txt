@@ -1,0 +1,11 @@
+Comment-Id:	12221986
+Comment-Author:	avar
+Comment-Date:	Wed Aug  3 22:17:09 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12221346
+
+That's horrible advice. The existing .git/hooks/pre-commit may not even be a
+shellscript, you could be appending to a binary file.
+
+Even if it's a shellscript you can't just concatenate shellscripts together and
+expect them to work as thought you'd run them as two independent shellscripts.

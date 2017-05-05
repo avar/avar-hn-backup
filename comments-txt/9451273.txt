@@ -1,0 +1,13 @@
+Comment-Id:	9451273
+Comment-Author:	avar
+Comment-Date:	Tue Apr 28 10:19:22 UTC 2015
+Comment-Type:	comment
+Parent-Id:	9451163
+
+The way you generally deal with the second problem is to have a profiler that
+can give you the inclusive time spent in a subroutine, not just the exclusive
+time. The inclusive time is the time spent in that sub and in subs it calls,
+the exclusive time is time spent only in that sub.
+
+When you have inclusive time it usually becomes easy to find that function
+that's spending 80% of the time in either itself or in the things it calls.

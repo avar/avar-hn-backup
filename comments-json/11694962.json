@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 11694962,
+  "kids" : [ 11694990, 11696462, 11695005, 11696226, 11708756 ],
+  "parent" : 11694845,
+  "text" : "Chrome&#x27;s still fast, but other browsers caught up, and more importantly web developers took advantage of the increase in performance and started getting away with writing more bloated websites, resulting in much of the speed gains being nullified.<p>Just try to use Chrome or Firefox to browse relatively lightweight websites (e.g. GNU.org), they&#x27;re amazingly fast compared to what browsers used to be like before Chrome came out.",
+  "time" : 1463211403,
+  "type" : "comment"
+}

@@ -1,0 +1,18 @@
+Comment-Id:	11241337
+Comment-Author:	avar
+Comment-Date:	Mon Mar  7 20:24:02 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11241169
+
+    > It's not without precedent. [...] Debian's solution [for qmail]
+    > was packages that, as part of the install, patched, built, and
+    > installed qmail from sources on the target machine.
+
+I don't see how this is a relevant comparison in this context beyond the
+trivial "Debian has had some packages built from source at install time in the
+past".
+
+At the time qmail was shipped in Debian's non-free section, and the resulting
+binary wasn't being linked to a GPL codebase to get around linking clauses.
+
+So I can't see how this has anything to do with what's happening with ZFS here.

@@ -1,0 +1,24 @@
+Comment-Id:	11388479
+Comment-Author:	avar
+Comment-Date:	Wed Mar 30 11:30:59 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11388131
+
+One of the relatively cryptic parts of the release notes is:
+
+    * Update the untracked cache subsystem and change its primary UI from
+      "git update-index" to "git config".
+
+This is a feature we worked on, it means that you can do this:
+
+    $ sudo git config --system core.untrackedCache true
+
+And have [core] untrackedCache = true written to /etc/gitconfig. This'll speed
+up "git status" and similar index operations significantly.
+
+I've seen "git status" times go from ~400ms to ~200ms and from ~140ms to ~60ms
+simply by setting this.
+
+It could be set via "git update-index" in previous Git versions on a per-repo
+basis, but not on a system-wide basis, this makes it easier to e.g. puppetize
+it.

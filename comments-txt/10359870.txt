@@ -1,0 +1,38 @@
+Comment-Id:	10359870
+Comment-Author:	avar
+Comment-Date:	Fri Oct  9 13:36:36 UTC 2015
+Comment-Type:	comment
+Parent-Id:	10359589
+
+The topic of discussion is not what's reasonable activity. Of course it's
+reasonable to legally park your car outside, it's also reasonable to go rock
+climbing.
+
+We're talking about insurance. There's certain reasonable activity that exposes
+you to heightened risk. Your car is at higher risk parked outside than in a
+garage.
+
+Who should assume the cost of that heightened risk? Should the insurance
+company charge a person with a garage and a person without one the same
+premiums? Should there be no consequences for damage that could have been
+avoided by storing your car in a garage?
+
+If the answer to those questions is "yes" you've created a moral hazard. Why
+would anyone store their car in a safer location if their insurance company
+will pay for any damages without their premiums going up?
+
+To categorically say that this shouldn't be priced into insurance is to say
+that some buyers of insurance with higher risk profiles should be subsidized by
+those with lower risk profiles.
+
+Now of course insurance companies are far from perfect. They have limited data
+to work with and it wouldn't be cost effective to figure out whether some
+individual customer had a one-off freak accident or not.
+
+But over their entire customer base it's not an unreasonable approximation to
+connect your premiums to traffic incidents you were involved in, even though
+you were not at fault.
+
+Not being at fault is not the same thing as not having exposed yourself to
+heightened risk. The police deals with the former, insurance companies deal
+with the latter.

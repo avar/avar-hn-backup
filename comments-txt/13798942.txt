@@ -1,0 +1,8 @@
+Comment-Id:	13798942
+Comment-Author:	avar
+Comment-Date:	Sun Mar  5 21:50:30 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13793102
+
+The check digit gets used today by e.g. JavaScript in input forms to indicate a
+typo in the card number.

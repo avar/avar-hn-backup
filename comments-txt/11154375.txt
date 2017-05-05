@@ -1,0 +1,22 @@
+Comment-Id:	11154375
+Comment-Author:	avar
+Comment-Date:	Mon Feb 22 21:19:39 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11153504
+
+I genuinely don't mean to sound passive aggressive when I ask, do you know
+anything about this subject or are you just guessing?
+
+I don't know anything about it, but I can think of numerous ways to mitigate
+the issues you mention. E.g.:
+
+* Does it actually matter that the absolute value of temperature sensors is
+inaccurate, or is it enough that they have good relative accuracy (do they?)
+
+* Do you really need to tell if someone is indoors or outdoors given a large
+enough sample of users in a given area? That also seems like something you
+could detect with heuristics (work hours, jumps up/down in temperature).
+
+There's a lot of ways to tease useful signals from noisy data. Is it really the
+case that smart phone temperature sensors in the aggregate are useless as an
+input into weather forecasting models?

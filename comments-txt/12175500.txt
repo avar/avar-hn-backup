@@ -1,0 +1,13 @@
+Comment-Id:	12175500
+Comment-Author:	avar
+Comment-Date:	Wed Jul 27 18:46:47 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12175154
+
+    > Most of them talk about how you should avoid try/catch in
+    > performant code, even though it's only one engine that doesn't
+    > optimize it
+
+That still sounds like great advice even though it's "only" slow on one engine.
+Very few performant JS applications have the luxury of not worrying about how
+Chrome performs, as opposed to only IE, Firefox & Safari.

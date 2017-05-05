@@ -1,0 +1,9 @@
+Comment-Id:	14068621
+Comment-Author:	avar
+Comment-Date:	Sat Apr  8 19:45:45 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14068532
+
+Unrelated to your jhbuild issues, you can often solve this class of issue in
+git by teaching git itself to search-replace the URL with "url.
+<base>.insteadOf". See the git-config manpage.

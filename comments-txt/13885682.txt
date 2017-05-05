@@ -1,0 +1,26 @@
+Comment-Id:	13885682
+Comment-Author:	avar
+Comment-Date:	Thu Mar 16 15:17:33 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13885250
+
+I'm not involved in Emacs/Guile/GuileEmacs development. I just searched
+emacs-devel / EmacsWiki before writing that comment.
+
+Having said that it seems to be in a POC state, but is very slow and needs
+optimization. These two wiki pages provide a decent overview: https://
+www.emacswiki.org/emacs/GuileEmacs & https://www.emacswiki.org/emacs/
+GuileEmacsTodo
+
+This "Preview: portable dumper," thread from November 2016 and spin-offs appear
+to be the most up-to-date emacs-devel discussion on the subject: https://
+lists.gnu.org/archive/html/emacs-devel/2016-11/threa...
+
+The older October 2015 "In support of guile-emacs" thread seems to have been
+written after development mostly tapered out, discusses some work to be done,
+and is a call for more development (which seems to have gone unanswered):
+https://lists.gnu.org/archive/html/emacs-devel/2015-10/threa...
+
+All the work on the Emacs integration appears to have been done by Robin
+Templeton in early 2015 with no commit since May 2015: http://git.hcoop.net/?p=
+bpt/emacs.git;a=shortlog

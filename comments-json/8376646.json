@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 8376646,
+  "kids" : [ 8377387, 8376676, 8376697, 8376852, 8376719 ],
+  "parent" : 8376598,
+  "text" : "Your comparison doesn&#x27;t make any sense. It&#x27;s an obvious requirement for a JSON parser that it be able to parse input from arbitrary sources, including malicious ones. It&#x27;s not so obvious that a shell should have to deal with malicious environment variables, due to the reasons outlined in the original post.",
+  "time" : 1411813891,
+  "type" : "comment"
+}

@@ -1,0 +1,19 @@
+Comment-Id:	12524568
+Comment-Author:	avar
+Comment-Date:	Sun Sep 18 09:24:24 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12524535
+
+What do you think the risk is? That some sociopath gains access to the perl6
+repo and replaces all the code with a shellscript that "sudo rm -rf /"'s?
+
+Sure, that's possible, but good contributors will vastly outnumber bad
+contributors, and such a person's commit access would be revoked instantly.
+There's still code review for everything, and such a change would not go
+unnoticed.
+
+Just look at Wikipedia. That's the equivalent of a publically writeable repo
+and hasn't turned into a total shitshow as a result.
+
+As the Perl 6 ecosystem demonstrates you get way more out of inclusiveness than
+being paranoid about some hypothetical bad actor getting access to your repo.

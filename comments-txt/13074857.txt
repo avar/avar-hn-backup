@@ -1,0 +1,25 @@
+Comment-Id:	13074857
+Comment-Author:	avar
+Comment-Date:	Wed Nov 30 21:29:22 UTC 2016
+Comment-Type:	comment
+Parent-Id:	13074510
+
+Relatively speaking this really couldn't be further from the truth.
+
+There's plenty of codebases that implement some programming language and only
+use C bindings for truly low-level primitives, such as external library calls,
+memory allocation etc, leaving any substantial logic that's built on top of
+those OS primitives to a higher level language.
+
+Emacs is not such a codebase, most of the C code by volume is things that could
+perfectly well be implemented in Emacs Lisp itself, but aren't because Emacs
+Lisp is relatively slow.
+
+So while it's fine for "scripting" Emacs itself, things like regexes, anything
+that has to do with low-level character handling, most of the GUI layout of
+Emacs itself (i.e. the buffer logic etc, not actually calling ncurses or X)
+etc. is written in C.
+
+Just browse through the C files in src/, most of this clearly has nothing to do
+with interacting with low-level OS primitives: http://git.savannah.gnu.org/cgit
+/emacs.git/tree/src

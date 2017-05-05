@@ -1,0 +1,16 @@
+Comment-Id:	6280126
+Comment-Author:	avar
+Comment-Date:	Mon Aug 26 21:45:44 UTC 2013
+Comment-Type:	comment
+Parent-Id:	6279706
+
+When you use "[sic]" like that it means the exact opposite of what you think it
+means. It means that you're quoting something with any errors or nonstandard
+presentation preserved.
+
+That caused me to do a double take when I read that wondering whether it was
+actually $1000/hr or whether you were reproducing some misquotation of that
+number.
+
+Usually people resolve the matter by writing something like this instead: "
+[...] charges up to $1000/hour (yes, one thousand dollars per hour!) [...]".

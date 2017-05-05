@@ -1,0 +1,25 @@
+Comment-Id:	10715084
+Comment-Author:	avar
+Comment-Date:	Fri Dec 11 02:09:34 UTC 2015
+Comment-Type:	comment
+Parent-Id:	10713556
+
+    > Right now, if North Korea launched a missile
+    > at California, Japan would have to watch as
+    > it sailed over Tokyo.
+
+This doesn't detract from your general point, but I was curious to see if this
+particular thing was true.
+
+If you use the "measure distance" tool on Google Maps you can see that even if
+North Korea launched an ICBM from the southernmost part of their eastern coast
+to the southernmost part of California it would only intersect Japanese
+territory by a few miles, at the point of Rebun Island northwest of Hokkaido,
+something they could trivially avoid. They'd have a much bigger practical
+problem with having to fly it over Russia than Japan.
+
+In order for its course to go anywhere near Tokyo they'd have to be aiming said
+ICBM somewhere midway around Argentina, around a thousand miles south of Buenos
+Aires or so.
+
+Don't let the Mercator projection interfere with your sense of reality.

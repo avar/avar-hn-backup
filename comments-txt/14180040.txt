@@ -1,0 +1,17 @@
+Comment-Id:	14180040
+Comment-Author:	avar
+Comment-Date:	Sun Apr 23 19:42:02 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14179114
+
+    > If it ever leaks, they can send the target
+    > company the report.
+
+Any usage of the exploit by the NSA constitutes leaking it.
+
+You can't treat cyberweapons like normal weapons.
+
+The analogy is not that you come up with a secret bomb design and drop it on
+the target, but that to use your bomb you must send the full Top Secret designs
+for the bomb to every target, hoping that they voluntarily use it to blow
+themselves up instead of writing the design down & using it against you.

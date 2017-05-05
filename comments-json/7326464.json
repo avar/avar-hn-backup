@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 7326464,
+  "kids" : [ 7326561 ],
+  "parent" : 7326109,
+  "text" : "<p><pre><code>    &gt; But since Python syntax is arguably cleaner\n    &gt; and more readable, it&#x27;s easier to catch.\n</code></pre>\nI&#x27;ve seen nasty bugs in Python code having to do with the end of blocks losing their indentation due to someone&#x27;s merge&#x2F;editor mistake.<p>Having braces or other explicit start&#x2F;end markers for blocks would have prevented those issues. So Python&#x27;s syntax can in some cases encourage these sorts of mistakes.",
+  "time" : 1393713397,
+  "type" : "comment"
+}

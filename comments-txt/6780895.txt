@@ -1,0 +1,54 @@
+Comment-Id:	6780895
+Comment-Author:	avar
+Comment-Date:	Fri Nov 22 14:34:18 UTC 2013
+Comment-Type:	comment
+Parent-Id:	6779835
+
+To add a bit to flexie's comments, I'm not from Denmark but from Iceland, which
+used to be a Danish colony, so it shares some of the same legal framework. But
+what I'm about to point out is true in much of Europe.
+
+Much of the culture clash you're seeing between comments from Europeans and
+Americans in this thread comes down to the difference in how the funding for
+public institutions is managed when it comes to copyrighted works.
+
+In the US it's federal law that any work the government produces be placed in
+the public domain, no questions asked. So e.g. when the USGS produces a map
+it's fully funded by the government and placed in the public domain.
+
+In Europe it's common for public (and pseudo-public, like the DIN) institutions
+to have a hybrid funding model, they're partially funded by taxpayers, but are
+expected to collect a nominal fee from the public or industry that expects to
+directly use some of their work.
+
+Both models have their advantaged and disadvantages. One obvious one over in
+Europe is that if you partially depend on direct public funding you're more
+likely to actively serve the public, whereas in the US institutions would me
+more likely to gravitate towards serving the government itself, since it's only
+the government they depend on for funding.
+
+Another aspect is that hypothetically it costs around the same thing to produce
+a map in Europe and America, but in Europe the general population will be taxed
+less for it, but people who directly use it (and buy it) will disproportionally
+pay for it.
+
+Much of this is changing over in Europe, e.g. the National Land Survey of
+Iceland now gives out its map data under a free license, because indirect value
+to society of having freely available maps was judged greater than the sum of
+the nominal fee they previously charged for a license to use those maps.
+
+This gets especially hairy in cases like these where some of this data being
+charged for is referenced directly or indirectly by law.
+
+In the Reykjavík area in Iceland you can't do significant construction work
+without spending a relatively trivial sum to buy a ridiculously accurate map
+from the city (I think it's accurate down to 1-2 millimeters) showing where all
+the pipes and electrical cabling is installed. The surveying effort is mostly
+funded by private construction companies.
+
+Would it be better if the average citizen just paid more in taxes and that map
+was made freely available, is some private citizen who isn't going to build a
+whole road but just do some significant yard work being overcharged because he
+has to legally comply with proprietary information?
+
+I don't know, but the trade-offs involved aren't very clear in my mind.

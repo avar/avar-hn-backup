@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 9014960,
+  "kids" : [ 9015860 ],
+  "parent" : 9014940,
+  "text" : "When you clone the Git repository and build the package all the\nutilities come with manual pages built from DocBook, e.g. for chronic:<p><pre><code>    $ man .&#x2F;chronic.1 | col -b | grep -v ^$ | head -n 12\n    CHRONIC(1)                                                                                                                              CHRONIC(1)\n    NAME\n           chronic - runs a command quietly unless it fails\n    SYNOPSIS\n           chronic COMMAND...\n    DESCRIPTION\n           chronic runs a command, and arranges for its standard out and standard error to only be displayed if the command fails (exits nonzero or\n           crashes).  If the command succeeds, any extraneous output will be hidden.\n           A common use for chronic is for running a cron job. Rather than trying to keep the command quiet, and having to deal with mails containing\n           accidental output when it succeeds, and not verbose enough output when it fails, you can just run it verbosely always, and use chronic to\n           hide the successful output.\n                   0 1 * * * chronic backup # instead of backup &gt;&#x2F;dev&#x2F;null 2&gt;&amp;1</code></pre>",
+  "time" : 1423336249,
+  "type" : "comment"
+}

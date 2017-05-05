@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 12132646,
+  "kids" : [ 12132786, 12132676, 12133164 ],
+  "parent" : 12131909,
+  "text" : "My rephrasing of their follow-up actions:<p>* &quot;Audit our regular expressions and post\n    validation workflow for any similar issues&quot;<p>* ==&gt; &quot;Not even people who&#x27;ve worked for years on the guts of regex engines can easily predict the runtime of a given regex, but somehow our engineers will be expected to do that&quot;.<p>* &quot;Add controls to our load balancer to disable the healthcheck – as we believe everything but the home page would have been accessible if it wasn’t for the the health check&quot;<p>* ==&gt; &quot;Our lb check was checking &#x2F;index, that failed because &#x2F;index was slow: Lesson learned, let&#x27;s not lb check anything at all&quot;",
+  "time" : 1469049938,
+  "type" : "comment"
+}

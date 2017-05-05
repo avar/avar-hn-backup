@@ -1,0 +1,22 @@
+Comment-Id:	14263297
+Comment-Author:	avar
+Comment-Date:	Thu May  4 08:03:21 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14263101
+
+The main reason for this in my opinion is that the fear free software had of
+permissive licenses in the 90s by an large didn't come true.
+
+The GPL is excellent to guard against the sort of embrace, extend and close
+that the GPL prevented when it came to GCC, Emacs etc. back in its day, but
+would likely have otherwise happened.
+
+Times are different now, and while there's still some of that going on (e.g.
+Sony with FreeBSD) for the vast majority of free software out there companies
+see no point in maintaining some value-added fork, it's just going to cost them
+money. E.g. SQLite & cURL are a good example of this.
+
+Nowadays your project is much more likely to die because of overly restrictive
+licensing than because some company steals it from you and refuses to give
+back. Imagine how much smaller SQLite would be if it was GPL 3 instead of
+public domain, ditto for cURL.

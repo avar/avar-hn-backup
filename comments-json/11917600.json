@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 11917600,
+  "kids" : [ 11918104 ],
+  "parent" : 11916276,
+  "text" : "Reformat old diffs? If you&#x27;re under the impression that Git stores diffs you&#x27;re mistaken. It stores the full file contents and delta-compresses them later.<p>Diffs in Git are purely a presentation format for human consumption.",
+  "time" : 1466098379,
+  "type" : "comment"
+}

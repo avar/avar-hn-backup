@@ -1,0 +1,16 @@
+Comment-Id:	9038129
+Comment-Author:	avar
+Comment-Date:	Thu Feb 12 09:50:31 UTC 2015
+Comment-Type:	comment
+Parent-Id:	9038067
+
+If you generate ids like:
+
+    <fixed width timestamp><random data>
+
+Your ids are guaranteed to be sorted chronologically until you start generating
+them at the same time. So as a hack to work around that they generate:
+
+    <fixed width timestamp><fuzzed random data>
+
+Where the fuzz to the random data ensures that it's sorted chronologically.

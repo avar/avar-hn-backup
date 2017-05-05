@@ -1,0 +1,19 @@
+Comment-Id:	9714525
+Comment-Author:	avar
+Comment-Date:	Sun Jun 14 11:36:19 UTC 2015
+Comment-Type:	comment
+Parent-Id:	9714046
+
+The gist of this is that perl's parser depends on previously symbols that are
+already defined to figure out how to parse things.
+
+The same goes for languages like C, but the difference is that in perl you can
+define symbols at compilation time as a result of running other code, e.g.:
+
+    $ perl -wE 'BEGIN { eval "sub spew { say \@_ }" if time % 2 == 0 } spew "hello"'
+    hello
+    $ perl -wE 'BEGIN { eval "sub spew { say \@_ }" if time % 2 == 0 } spew "hello"'
+    Unquoted string "spew" may clash with future reserved word at -e line 1.
+
+Here the program can be syntactically correct or incorrect depending on the
+compilation time.

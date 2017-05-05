@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 13932111,
+  "parent" : 13930736,
+  "text" : "<p><pre><code>    &gt; But a storm surge would be unpredictable, right?\n</code></pre>\nNo we know what sort of storm surges are 10, 100, 1000 year events etc. At that point it&#x27;s just a question of what you design the tunnel to withstand.<p><pre><code>    &gt; How do the physics of &quot;crushing&quot; a boat by\n    &gt; raising water level in a confined space work?\n</code></pre>\nThis is an elementary application of Archimedes&#x27; principle. The weight of the ship is equivalent to the weight of the water it displaces[1].<p>If the ship is stuck against the ceiling of a confined space the pressure it&#x27;s excreting on the ceiling is going to be the equivalent to the displacement of that &quot;extra&quot; water.<p>1. Leaving aside the full calculation which takes the difference in the weight of air &amp; water into account for the purposes of this explanation.",
+  "time" : 1490199291,
+  "type" : "comment"
+}

@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 10875961,
+  "kids" : [ 10876033 ],
+  "parent" : 10875954,
+  "text" : "No, the two mean the same thing in C, e.g.:<p><pre><code>    if (x)\n        y;\n</code></pre>\nIs the same as:<p><pre><code>    if (x) {\n        y;\n    }</code></pre>",
+  "time" : 1452444929,
+  "type" : "comment"
+}

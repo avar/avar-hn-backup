@@ -1,0 +1,21 @@
+Comment-Id:	13650688
+Comment-Author:	avar
+Comment-Date:	Wed Feb 15 09:03:05 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13650594
+
+'The standard pluralized form of "octopus" in the English language is
+"octopuses" although the Ancient Greek plural "octopodes", has also been used
+historically.'[1].
+
+The book "Octopus: The Ocean's Intelligent Invertebrate"[2] which I have here
+says this on the matter: "By the way, the plural of octopus isn't octopi,
+because the word is Greek -- octopus to be exact -- not Latin. The Greek plural
+would be octopodes, but we call them octopuses."
+
+You're not being pedantic as it pertains to this word in the English language,
+you're just wrong.
+
+1. https://en.wikipedia.org/wiki/Octopus#Etymology_and_pluraliz...
+
+2. https://www.amazon.com/Octopus-Intelligent-Invertebrate-Rola...

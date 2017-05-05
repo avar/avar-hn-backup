@@ -1,0 +1,14 @@
+Comment-Id:	6097112
+Comment-Author:	avar
+Comment-Date:	Wed Jul 24 16:26:30 UTC 2013
+Comment-Type:	comment
+Parent-Id:	6095454
+
+Is there any information on whether the drivers on the phone will be open
+source as well? I'm on the fence, but the main thing stopping me is that I'm
+not very keen on buying yet another phone powered by a bunch of proprietary
+binary blobs.
+
+I'd like to hack on the software, build my own, try to install Debian on it
+instead etc. All that is going to be much harder if I have to use whatever
+kernel version their binary blobs target.

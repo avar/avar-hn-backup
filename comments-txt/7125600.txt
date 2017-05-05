@@ -1,0 +1,18 @@
+Comment-Id:	7125600
+Comment-Author:	avar
+Comment-Date:	Sun Jan 26 16:29:30 UTC 2014
+Comment-Type:	comment
+Parent-Id:	7125469
+
+To play devil's advocate, do you think in an alternative universe where Apple
+products have built-in easy to use native support for jailbreaking with the
+push of a button that some large malware outbreak that only affects those
+devices jailbroken devices won't be blamed on them anyway?
+
+Apple has other motivations to maintain their walled garden, but their goals of
+controlling the whole experience also extend to things like that. They want
+there to be no question that any Apple device is "safe", regardless of
+legitimate user configuration.
+
+And as long as users at large aren't demanding general purpose computers who
+can really blame them?

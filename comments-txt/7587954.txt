@@ -1,0 +1,12 @@
+Comment-Id:	7587954
+Comment-Author:	avar
+Comment-Date:	Mon Apr 14 18:37:15 UTC 2014
+Comment-Type:	comment
+Parent-Id:	7587757
+
+Having cheap & sustainable launch capabilities is going to be a much bigger
+deal in the long term than brute forcing your way to the Moon as a one-off by
+spending 1/20th of the US GDP over the period of a few years.
+
+After we have cheap & reusable rockets we'll have much larger leaps in space
+travel in the next 40 years than we have since the 40 years since Apollo.

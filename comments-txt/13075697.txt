@@ -1,0 +1,35 @@
+Comment-Id:	13075697
+Comment-Author:	avar
+Comment-Date:	Wed Nov 30 23:35:06 UTC 2016
+Comment-Type:	comment
+Parent-Id:	13075502
+
+I know the difference between autoconf and its generated ./configure target.
+
+Your comment overall indicated to me that you were talking about automake, not
+autoconf. But if not, fair enough.
+
+E.g. you talk about "learn the generating language instead of the Make
+language". I know you were using that as an example, but there's no general
+non-horrible replacement for autoconf that you can write by hand, as opposed to
+automake where you can write a portable Makefile
+
+You can of course write a bunch of ad-hoc shellscripts & C test programs to
+probe your system, but this is going to be a lot nastier and buggier than just
+using autoconf to achieve the same goal.
+
+You also don't generally need autoconf to build projects you clone from source
+control in the same way that you need automake (because that actually makes the
+Makefile).
+
+The output of autoconf is generally just a file full of variables the Makefile
+includes, if you don't have that file you can just manually specify anything
+that differs from the Makefile defaults, e.g. NO_IPV6=YesPlease or whatever.
+
+The Git project, whose autoconf recipe I've contributed to, is a good example
+of this. You can "git clone" it and just issue "make" and it works, but if the
+default config doesn't work then "make configure && make" generally solves it,
+but you can also just e.g. do "make NO_IPV6=YesPlease" if it was lack of IPv6
+that was causing the compilation failure. It'll then get your NO_IPV6 variable
+from the command-line instead of from the ./configure generated
+config.mak.autogen.

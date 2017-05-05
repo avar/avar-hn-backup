@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 11388528,
+  "parent" : 11388435,
+  "text" : "This doesn&#x27;t work with a lot of packages because they depend on some newer C library that would have to upgrade pretty much all of your installation from stable, but I&#x27;ve just tested this now and pinning &quot;git git-svn git-email git-man&quot; to testing&#x2F;unstable on an otherwise stable distro works.",
+  "time" : 1459338165,
+  "type" : "comment"
+}

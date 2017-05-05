@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 10858060,
+  "kids" : [ 10858098, 10858095, 10858094 ],
+  "parent" : 10857967,
+  "text" : "What do they mean by &quot;legacy&quot; in this context? INSERT ... ODKU is not a legacy feature of MySQL, it&#x27;s a currently supported first-class feature of the database, nor is MySQL itself a &quot;legacy&quot; database.",
+  "time" : 1452176873,
+  "type" : "comment"
+}

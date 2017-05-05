@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 11388479,
+  "kids" : [ 11388521, 11390011, 11388511, 11419843, 11419844, 11419839, 11419838 ],
+  "parent" : 11388131,
+  "text" : "One of the relatively cryptic parts of the release notes is:<p><pre><code>    * Update the untracked cache subsystem and change its primary UI from\n      &quot;git update-index&quot; to &quot;git config&quot;.\n</code></pre>\nThis is a feature we worked on, it means that you can do this:<p><pre><code>    $ sudo git config --system core.untrackedCache true\n</code></pre>\nAnd have [core] untrackedCache = true written to\n&#x2F;etc&#x2F;gitconfig. This&#x27;ll speed up &quot;git status&quot; and similar index\noperations significantly.<p>I&#x27;ve seen &quot;git status&quot; times go from ~400ms to ~200ms and from ~140ms\nto ~60ms simply by setting this.<p>It could be set via &quot;git update-index&quot; in previous Git versions on a\nper-repo basis, but not on a system-wide basis, this makes it easier\nto e.g. puppetize it.",
+  "time" : 1459337459,
+  "type" : "comment"
+}

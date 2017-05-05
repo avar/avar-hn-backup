@@ -1,0 +1,14 @@
+Comment-Id:	8142809
+Comment-Author:	avar
+Comment-Date:	Wed Aug  6 15:06:35 UTC 2014
+Comment-Type:	comment
+Parent-Id:	8142741
+
+Yes, they release it under GPL/LGPL and make their money on proprietary
+licenses for users that can't or won't use those licenses. If you want to
+develop Qt itself and get your changes included you have to sign a copyright
+assignment agreement that gives Digia the right to re-license your work. See:
+
+    http://qt-project.org/doc/qt-5/licensing.html
+    http://qt-project.org/legal.html
+

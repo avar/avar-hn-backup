@@ -1,0 +1,16 @@
+Comment-Id:	10727916
+Comment-Author:	avar
+Comment-Date:	Sun Dec 13 20:59:42 UTC 2015
+Comment-Type:	comment
+Parent-Id:	10727340
+
+    > Like that my long-time favorite, XFS, totally kicks ass in the
+    > comparisons.
+
+I think you'll find this an interesting read then: http://teh.entar.net/~nick/
+mail/why-reiserfs-is-teh-sukc
+
+It's written in 2004 so I don't know how current it is, but it makes the point
+that XFS makes certain performance & safety guarantees essentially assuming
+that you're running on hardware that has a UPS with the ability to interrupt
+the OS saying "oops, we're out of power".

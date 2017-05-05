@@ -1,0 +1,10 @@
+Comment-Id:	13936461
+Comment-Author:	avar
+Comment-Date:	Thu Mar 23 00:29:07 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13934645
+
+This is a bit like asking why bats never evolved the ability to spin webs.
+
+Evolution strongly favors initial conditions, and doesn't tend to come up with
+major changes in bodyplans once something is established.

@@ -1,0 +1,17 @@
+Comment-Id:	12741959
+Comment-Author:	avar
+Comment-Date:	Wed Oct 19 08:04:31 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12741445
+
+    > What happens if US and Russian relations break down?
+
+Isn't it literally the case that if the US wanted to send people into space on
+their own hardware they could do it with months of lead time with the Falcon 9,
+Delta IV etc.?
+
+Those rockets aren't "human rated", but are they (particularly the Delta IV)
+any less safe then the Soyuz or Chinese rockets?
+
+I.e. this seems more of a "we have some rockets, but it's cheaper to launch
+with the Russians" rather than "we can't do it" problem to me.

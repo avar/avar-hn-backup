@@ -1,0 +1,17 @@
+Comment-Id:	11515934
+Comment-Author:	avar
+Comment-Date:	Sun Apr 17 19:38:49 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11515567
+
+I do pretty much this but I have public dotfiles (on github), then an overlay
+for work files so I need a script to maintain those symlinks, and then work
+ones that I don't share with coworkers (contain private passwords).
+
+So I have a script that manages the symlinks for multiple such repos, knows to
+remove the broken links as needed, and I have something I can just paste into
+the terminal of any machine and it'll set that box up with my public/work/
+private dotfiles as appropriate.
+
+It's not perfect, but it works, just pointing out that even for relatively
+simple cases having a dotfile manager (or writing your own) can make sense.

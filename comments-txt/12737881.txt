@@ -1,0 +1,9 @@
+Comment-Id:	12737881
+Comment-Author:	avar
+Comment-Date:	Tue Oct 18 19:30:35 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12736367
+
+The .git file format has also changed multiple times, packed refs, multiple
+pack file formats etc. There's even WIP ref backends now which store the whole
+thing in some embedded database format.

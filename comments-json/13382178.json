@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 13382178,
+  "kids" : [ 13382236, 13383066, 13382423, 13387216 ],
+  "parent" : 13382134,
+  "text" : "For anyone hoping for a Presto revival it&#x27;s Chrome under the hood:<p><pre><code>    Mozilla&#x2F;5.0 (Macintosh; Intel Mac OS X 10_12_2)\n    AppleWebKit&#x2F;537.36 (KHTML, like Gecko)\n    Chrome&#x2F;53.0.2785.21 Safari&#x2F;537.36 MMS&#x2F;1.0.2459.0</code></pre>",
+  "time" : 1484229435,
+  "type" : "comment"
+}

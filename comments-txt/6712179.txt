@@ -1,0 +1,12 @@
+Comment-Id:	6712179
+Comment-Author:	avar
+Comment-Date:	Mon Nov 11 15:57:59 UTC 2013
+Comment-Type:	comment
+Parent-Id:	6712147
+
+Why is that? Maybe I'm misunderstanding something but why can't you make
+including content in your magazine predicated on the author agreeing to release
+it under a free license?
+
+Releasing something under a free license is orthogonal to the authors retaining
+copyright over their work.

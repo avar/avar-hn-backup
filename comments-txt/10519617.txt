@@ -1,0 +1,19 @@
+Comment-Id:	10519617
+Comment-Author:	avar
+Comment-Date:	Fri Nov  6 14:32:51 UTC 2015
+Comment-Type:	comment
+Parent-Id:	10519550
+
+It looks like the headline technically violates the HN guidelines[1], unless we
+consider "languages that are not English" to be "misleading or linkbait" :)
+
+What might be getting lost in translation here is that in English language news
+it's customary to use "says" when the quote is actually a translation, without
+noting that it is. See e.g. news articles about world leaders ("Putin says Y")
+that don't note that he actually said X in Russian, it was just translated into
+Y.
+
+Now I'm curious, is it customary to note that such quotes are translated in
+German language news?
+
+1. https://news.ycombinator.com/newsguidelines.html

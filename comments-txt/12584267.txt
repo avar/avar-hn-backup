@@ -1,0 +1,23 @@
+Comment-Id:	12584267
+Comment-Author:	avar
+Comment-Date:	Mon Sep 26 18:21:18 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12583853
+
+Don't get your hopes up. NASA has a long history of pre-teasing these
+announcements, and then it turns out to be some announcement that while
+marginally interesting scientifically, is really no big deal as a news story.
+
+E.g. last year they pre-announced that they were going to make some big
+announcement about Mars, and everyone was thinking "evidence of life?". And it
+turned out to be that they'd just found evidence for brine flowing on the
+surface in some cases[1].
+
+While that was certainly interesting in itself if you follow what's going on on
+Mars, it was just an incremental addition to the knowledge we already had about
+water on Mars.
+
+My prediction is that this Europa announcement is going to be something
+similarly mundane.
+
+1. http://www.nasa.gov/press-release/nasa-confirms-evidence-tha...

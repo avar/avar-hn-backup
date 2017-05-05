@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 6097112,
+  "kids" : [ 6097907 ],
+  "parent" : 6095454,
+  "text" : "Is there any information on whether the drivers on the phone will be open source as well? I&#x27;m on the fence, but the main thing stopping me is that I&#x27;m not very keen on buying yet another phone powered by a bunch of proprietary binary blobs.<p>I&#x27;d like to hack on the software, build my own, try to install Debian on it instead etc. All that is going to be much harder if I have to use whatever kernel version their binary blobs target.",
+  "time" : 1374683190,
+  "type" : "comment"
+}

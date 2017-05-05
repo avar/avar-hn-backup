@@ -1,0 +1,15 @@
+Comment-Id:	7406655
+Comment-Author:	avar
+Comment-Date:	Sat Mar 15 21:58:20 UTC 2014
+Comment-Type:	comment
+Parent-Id:	7406064
+
+It's faux-open because it's not developed in the open. Google just code-dumps
+Android after every major release, only OEMs have access to development builds.
+If you don't get a Google paycheck it's thus very hard to contribute to it as
+an open project.
+
+It's faux-open because almost every single Android device needs proprietary
+kernel blobs & firmware to operate almost any non-trivial hardware feature on
+the device. In practice this pins you to specific kernel versions/APIs, and
+you're running code you can't change or even audit.

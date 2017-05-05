@@ -1,0 +1,8 @@
+Comment-Id:	13337256
+Comment-Author:	avar
+Comment-Date:	Fri Jan  6 15:57:26 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13336806
+
+For anyone going to FOSDEM, there's Git Merge 2017 also in Brussels just a day
+before FOSDEM starts: http://git-merge.com

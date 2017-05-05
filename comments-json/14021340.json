@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 14021340,
+  "kids" : [ 14022185, 14021428 ],
+  "parent" : 14021222,
+  "text" : "<p><pre><code>    &gt; I don&#x27;t know Android well enough to say.\n</code></pre>\nYou can easily fake the battery status on Android: <a href=\"https:&#x2F;&#x2F;stanfy.com&#x2F;blog&#x2F;android-shell-part-1-mocking-battery-status&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;stanfy.com&#x2F;blog&#x2F;android-shell-part-1-mocking-battery...</a><p><pre><code>    &gt; It&#x27;s not that hard of a problem.\n</code></pre>\nYou and the grandparent are proposing that Uber somehow use information provided by the user&#x27;s phone to waive the cancellation fee, when the user is in control of their phone and has every economic incentive to game the system.<p>Even if you could get this to work it&#x27;s not at all obvious that it&#x27;s desirable. Right now the system is simple, you order a car and for some reason the app turns off, you get charged a cancellation fee. That&#x27;s a hard problem to solve.<p>What if you have one Uber and two customers who&#x27;d like to order it, one with 3% battery and one with 97%? Should the risk of sending the car to the user with 3% battery purely be assumed by Uber?",
+  "time" : 1491207895,
+  "type" : "comment"
+}

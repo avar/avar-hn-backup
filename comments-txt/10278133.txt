@@ -1,0 +1,8 @@
+Comment-Id:	10278133
+Comment-Author:	avar
+Comment-Date:	Fri Sep 25 13:57:33 UTC 2015
+Comment-Type:	comment
+Parent-Id:	10277799
+
+This opens up the possibility for an interesting defense, what if I make my
+password contain the coordinates of those illegal drugs I buried?

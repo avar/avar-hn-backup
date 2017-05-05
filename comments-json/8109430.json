@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 8109430,
+  "kids" : [ 8110008, 8109970, 8110024, 8109536, 8109894 ],
+  "parent" : 8108985,
+  "text" : "I think it&#x27;s a bit odd thinking of programming languages as a career option. I work at what&#x27;s one of the biggest if not the biggest single employer of Perl programmers (Booking.com), and we don&#x27;t specifically hire people with prior Perl experience. We hire people with relevant programming experience and bring them up to speed on Perl.<p>Anecdotally we&#x27;ve hired people who&#x27;ve had years of Perl experience who haven&#x27;t done all that well, and people who&#x27;ve had no prior Perl experience who&#x27;ve just picked it up on the job and been very productive contributors within days or weeks.<p>The unstated assumption with articles like these is that you&#x27;d be losing out if you don&#x27;t get experience with the &quot;winning&quot; platform, but in my opinion a much better way to become a good programmer is to get experience with a wide selection of toolsets and programming languages. Even if none of those toolsets are widely used commercially.<p>Having said that if you&#x27;re interested in Perl as a career choice we&#x27;re always hiring :)",
+  "time" : 1406739729,
+  "type" : "comment"
+}

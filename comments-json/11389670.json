@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 11389670,
+  "kids" : [ 11391596 ],
+  "parent" : 11389554,
+  "text" : "In reply to that:<p>1) I find that for the large repos I work on the difference goes from &quot;noticeably slow&quot; to &quot;I don&#x27;t notice it&quot; which is somewhere on the magical ~200ms boundary.<p>2) This really doesn&#x27;t help, the Git repo is likely in the FS cache anyway, you&#x27;ll get exactly the same results &#x2F; speedup if you do this in &#x2F;dev&#x2F;shm i.e. the in-memory filesystem.<p>This has nothing to do with fast drives, it has to do with syscall overhead. Recursively stat-ing a huge directory is simply never going to be all that fast.<p>3) Irrelevant for the reasons noted above.",
+  "time" : 1459349526,
+  "type" : "comment"
+}

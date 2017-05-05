@@ -1,0 +1,32 @@
+Comment-Id:	5928612
+Comment-Author:	avar
+Comment-Date:	Sun Jun 23 18:03:46 UTC 2013
+Comment-Type:	comment
+Parent-Id:	5928561
+
+   > it can all be accomplished with other tools
+
+Sure it can be accomplished with other tools, but if Git is sufficient
+introducing other tools just increases the complexity of your stack, and the
+complexity of e.g. validating that a Git tag corresponds to what claims to be
+rolled out as that tag.
+
+   > and without needing the entire deployment history stored on each
+   > production machine.
+
+This is a constraint a lot of people seem to think they need but they don't
+actually need. If someone gets your current checkout they'll have current code
+/ passwords (if you accidentally checked in a password but removed it you
+should change that password). Getting the code history will just satisfy
+historical curiosity. Hardly a pressing concern for an attacker.
+
+   > As for your comment about being "back to comparing files", that's
+   > all Git is doing internally anyway. You can do the same with
+   > other deployment tools and sha1 hashes etc.
+
+Yes, but the point is that it just gives you that for free without you having
+to hack anything extra on top of your syncing mechanism.
+
+You'd be pleasantly surprised how much checking/validation/syncing logic that
+you have to write around e.g. rsync when syncing a Git repo just disappears
+entirely if you just use Git to sync the files.

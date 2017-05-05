@@ -1,0 +1,10 @@
+Comment-Id:	13223378
+Comment-Author:	avar
+Comment-Date:	Tue Dec 20 19:57:46 UTC 2016
+Comment-Type:	comment
+Parent-Id:	13221903
+
+Imagine all the poor programmers in the alternate universe where the US was
+similarly stubborn about its calendar system as it is now about its measurement
+system, with everyone having to convert between Julian & Gregorian on a daily
+basis.

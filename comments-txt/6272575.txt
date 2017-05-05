@@ -1,0 +1,9 @@
+Comment-Id:	6272575
+Comment-Author:	avar
+Comment-Date:	Sun Aug 25 16:34:15 UTC 2013
+Comment-Type:	comment
+Parent-Id:	6272566
+
+This is an update to the policies of the Play store. Kindle Store != Play
+Store. So no, you can still do whatever Amazon deems OK on their Kindle
+playground on your Nexus.

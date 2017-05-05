@@ -1,0 +1,8 @@
+Comment-Id:	11639514
+Comment-Author:	avar
+Comment-Date:	Thu May  5 20:42:00 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11639500
+
+Very pertinent previous HN discussion about the difference between Japanese and
+US zoning: https://news.ycombinator.com/item?id=8540845

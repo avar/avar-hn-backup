@@ -1,0 +1,11 @@
+Comment-Id:	8376646
+Comment-Author:	avar
+Comment-Date:	Sat Sep 27 10:31:31 UTC 2014
+Comment-Type:	comment
+Parent-Id:	8376598
+
+Your comparison doesn't make any sense. It's an obvious requirement for a JSON
+parser that it be able to parse input from arbitrary sources, including
+malicious ones. It's not so obvious that a shell should have to deal with
+malicious environment variables, due to the reasons outlined in the original
+post.

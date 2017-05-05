@@ -1,0 +1,17 @@
+Comment-Id:	10875961
+Comment-Author:	avar
+Comment-Date:	Sun Jan 10 16:55:29 UTC 2016
+Comment-Type:	comment
+Parent-Id:	10875954
+
+No, the two mean the same thing in C, e.g.:
+
+    if (x)
+        y;
+
+Is the same as:
+
+    if (x) {
+        y;
+    }
+

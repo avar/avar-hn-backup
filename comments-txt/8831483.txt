@@ -1,0 +1,9 @@
+Comment-Id:	8831483
+Comment-Author:	avar
+Comment-Date:	Sat Jan  3 18:17:41 UTC 2015
+Comment-Type:	comment
+Parent-Id:	8831256
+
+Google employees have explicitly agreed with this in the past, indicating that
+Incognito is explicitly not meant to anonymize the user: https://
+code.google.com/p/chromium/issues/detail?id=142214#c...

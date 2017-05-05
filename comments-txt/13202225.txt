@@ -1,0 +1,8 @@
+Comment-Id:	13202225
+Comment-Author:	avar
+Comment-Date:	Sat Dec 17 20:05:42 UTC 2016
+Comment-Type:	comment
+Parent-Id:	13202196
+
+It does now, see https://en.wikipedia.org/wiki/Galileo_
+(satellite_navigation)...

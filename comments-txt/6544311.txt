@@ -1,0 +1,13 @@
+Comment-Id:	6544311
+Comment-Author:	avar
+Comment-Date:	Sun Oct 13 22:01:06 UTC 2013
+Comment-Type:	comment
+Parent-Id:	6544284
+
+You're right about the issues, I wish GitHub used some plain-text format with
+an optional UI for that (e.g. plain org-mode files), but the wiki on GitHub is
+just a plain Git repo with Markdown files, it's not centralized.
+
+I don't see how you lose the community more than with any hosting method. If
+GitHub were nuked off the face of the earth you have all the contributors in
+your Git history, just send them a mail with the new location of the repo.

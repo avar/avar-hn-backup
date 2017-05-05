@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 14085849,
+  "kids" : [ 14092518 ],
+  "parent" : 14084875,
+  "text" : "This is how you can implement isUpper() on EBCDIC: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;Perl&#x2F;perl5&#x2F;blob&#x2F;v5.24.0&#x2F;handy.h#L1153\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;Perl&#x2F;perl5&#x2F;blob&#x2F;v5.24.0&#x2F;handy.h#L1153</a>",
+  "time" : 1491899460,
+  "type" : "comment"
+}

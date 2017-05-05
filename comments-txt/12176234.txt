@@ -1,0 +1,17 @@
+Comment-Id:	12176234
+Comment-Author:	avar
+Comment-Date:	Wed Jul 27 20:25:39 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12176134
+
+Yes it makes perfect sense that they're selling it. I'm not saying it doesn't.
+
+What I'm saying is that the comments here to the effect of "Microsoft has
+changed their stance" don't seem to be in touch with reality.
+
+Microsoft has just realized relatively late that there's certain things that
+they can't make money on yet are still strategically important, such as core
+.NET technology, or JS engines.
+
+That doesn't mean that they'll keep open sourcing stuff, or that they're not
+likely to pull back the second they think it services their commercial aims.

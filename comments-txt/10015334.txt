@@ -1,0 +1,13 @@
+Comment-Id:	10015334
+Comment-Author:	avar
+Comment-Date:	Thu Aug  6 09:01:59 UTC 2015
+Comment-Type:	comment
+Parent-Id:	10015308
+
+You can get the answer to all these questions by reading:
+
+https://en.wikipedia.org/wiki/Tidal_locking
+
+and:
+
+https://en.wikipedia.org/wiki/Orbit_of_the_Moon

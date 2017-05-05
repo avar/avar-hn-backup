@@ -1,0 +1,9 @@
+Comment-Id:	13543972
+Comment-Author:	avar
+Comment-Date:	Wed Feb  1 19:18:41 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13543360
+
+Don't fully airtight structures need a lot of redundant safety systems to
+protect against just leaving a candle on killing everyone from carbon dioxide
+poisoning?

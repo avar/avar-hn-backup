@@ -1,0 +1,19 @@
+Comment-Id:	12164054
+Comment-Author:	avar
+Comment-Date:	Tue Jul 26 08:10:49 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12163936
+
+The article is discussing taller populations, not individuals. Within
+populations being tall tends to be a proxy metric for general prosperity, so of
+course it's a positive.
+
+Aside from that there seem to be intrinsic advantages to being tall. Taller
+people have bigger bodyparts, including bigger brains, and there's a
+correlation between larger craniums and higher intelligence[1].
+
+This doesn't seem to be a very thoroughly studied subject though, but it really
+should be. If there's anything we could be doing to increase the average
+intelligence of human species that's going to pay dividends down the road.
+
+1. https://en.wikipedia.org/wiki/Height_and_intelligence

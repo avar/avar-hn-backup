@@ -1,0 +1,16 @@
+Comment-Id:	6779082
+Comment-Author:	avar
+Comment-Date:	Fri Nov 22 03:25:18 UTC 2013
+Comment-Type:	comment
+Parent-Id:	6778689
+
+Using "DMZ" in this context is very confusing, in common usage it means the
+exact opposite of what you intended.
+
+A lot of home routers have a "DMZ" feature that gives the device you put in the
+DMZ full access to the outside internet, but restricts their access to other
+hosts on the local network.
+
+It's typically used for gaming machines when you can't be bothered to forward a
+lot of ports individually, I have a gaming console in a "DMZ" on my network so
+I can play games online without fuss.

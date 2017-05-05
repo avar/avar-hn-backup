@@ -1,0 +1,10 @@
+Comment-Id:	10155920
+Comment-Author:	avar
+Comment-Date:	Tue Sep  1 21:34:48 UTC 2015
+Comment-Type:	comment
+Parent-Id:	10155869
+
+It's not at all unreasonable that if sites want to be indexed for their content
+that a search engine penalizes them if they don't display that content
+prominently once the user lands on the site and instead display some advert
+orthogonal to what the user wanted.

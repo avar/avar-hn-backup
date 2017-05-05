@@ -1,0 +1,11 @@
+Comment-Id:	11713504
+Comment-Author:	avar
+Comment-Date:	Tue May 17 13:40:25 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11713312
+
+Coming up with real fake evidence is a lot harder than just coming up with a
+random blob that the cops think is evidence the suspect is hiding.
+
+E.g. are you really able to carefully craft a filesystem image that you're sure
+has no metadata that proves the innocence of the suspect?

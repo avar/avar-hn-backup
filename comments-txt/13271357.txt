@@ -1,0 +1,15 @@
+Comment-Id:	13271357
+Comment-Author:	avar
+Comment-Date:	Wed Dec 28 16:05:45 UTC 2016
+Comment-Type:	comment
+Parent-Id:	13270509
+
+What do you even mean by "devaluing"? Of course a more error prone, dangerous
+and expensive driver has less value.
+
+Is pointing this out somehow wrong? I think not pointing it out devalues human
+life.
+
+The road of getting rid of fallible humans from boring automatable jobs leads
+to Utopia, and I reject your notion that this is somehow inherently different
+from e.g automation in agriculture or computing

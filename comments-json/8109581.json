@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 8109581,
+  "kids" : [ 8111505 ],
+  "parent" : 8109394,
+  "text" : "How are you going to ensure that you&#x27;re legally compliant with &quot;only $X per-year per-person&quot; unless you keep track of who&#x27;s making every Bitcoin donation to you?<p>If you don&#x27;t do that you could trivially go over the limit by just donating &gt;$X over multiple Bitcoin transactions.",
+  "time" : 1406740660,
+  "type" : "comment"
+}

@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 6364220,
+  "kids" : [ 6364298, 6364532, 6364549, 6364261, 6364371 ],
+  "parent" : 6364186,
+  "text" : "<p><pre><code>   &gt; [...]and install a 3rd party ROM free\n   &gt; of any closed-source software.\n</code></pre>\nNo you can&#x27;t. I&#x27;m not aware of any commercial Android phone that doesn&#x27;t need binary firmware blobs running in kernel space to work, e.g. for display drivers, WiFi, the radio stack etc.<p><pre><code>   &gt; Hardware backdoors are a separate issue.\n</code></pre>\nYou don&#x27;t need a hardware backdoor when you can just put a backdoor in the binary blob your users run along with some open source software they download along with it.",
+  "time" : 1378854546,
+  "type" : "comment"
+}

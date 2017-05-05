@@ -1,0 +1,22 @@
+Comment-Id:	10722055
+Comment-Author:	avar
+Comment-Date:	Sat Dec 12 06:56:46 UTC 2015
+Comment-Type:	comment
+Parent-Id:	10720667
+
+    > a predator imaging drone telling a human
+    > operator falsely that the current image
+    > is a terrorist?
+
+I think you're missing how this can be a really good thing. Right now this is
+happening but the "algorithm" is some unpredictable twenty year old in uniform.
+
+Are we going to have hearings auditing what the algorithm is like? is there
+going to be a scandal because isBrownPerson() is discovered in there somewhere?
+Is someone going to run it against a video collection of regular daily life and
+discover the drones would be indiscriminately bombing innocent situations if
+given the chance?
+
+The end result is that we're going to have to effectively have to come up with
+rules of engagement for every scenario. I think this will lead to war being
+fought more justly and with less collateral damage than ever before.

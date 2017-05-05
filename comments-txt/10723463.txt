@@ -1,0 +1,13 @@
+Comment-Id:	10723463
+Comment-Author:	avar
+Comment-Date:	Sat Dec 12 17:49:38 UTC 2015
+Comment-Type:	comment
+Parent-Id:	10721930
+
+    > 30,000 people in the US alone are killed per year in car
+    > accidents involving human drivers. What is the acceptable number
+    > of motor vehicle related deaths per year when all cars are
+    > self-driving?
+
+The right answer to that question is "29,999 and getting better", but
+unfortunately luddites abound even in modern hi-tech society.

@@ -1,0 +1,11 @@
+Comment-Id:	13272879
+Comment-Author:	avar
+Comment-Date:	Wed Dec 28 19:21:46 UTC 2016
+Comment-Type:	comment
+Parent-Id:	13272746
+
+> The 5X has slowed to a crawl after a year of use.
+
+I ordered mine in November 2015 and it still works just as fine. Just as fast,
+if not faster with the Android updates, and the battery still lasts around a
+day and a half, i.e. usually 20-40% when I plug it in to charge at night.

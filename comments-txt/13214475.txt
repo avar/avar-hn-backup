@@ -1,0 +1,23 @@
+Comment-Id:	13214475
+Comment-Author:	avar
+Comment-Date:	Mon Dec 19 19:52:48 UTC 2016
+Comment-Type:	comment
+Parent-Id:	13214221
+
+Very interesting. I didn't know about that, or that as their FAQ[1] indicates
+that local city law can override general Dutch traffic law. I.e. instead of
+priority to the right applying to these intersections[2] nobody has priority.
+
+Seems confusing, especially as their FAQ stipulates the same intersection will
+revert back to priority to the right at night when the yellow lights are
+blinking, but admittedly "priority to the guyw ho wins the game of chicken" is
+the way it works in the rest of the Netherlands anyway.
+
+1. http://groningenfietsstad.nl/en/green-light-for-all-cyclists...
+
+2. Per RVV 1990[3] article 15: "Op kruispunten verlenen bestuurders voorrang
+aan voor hen van rechts komende bestuurders".
+
+3. http://wetten.overheid.nl/BWBR0004825/2014-03-20 [4]
+
+4. Yes my footnotes now have footnotes.

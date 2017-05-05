@@ -1,0 +1,12 @@
+Comment-Id:	11014157
+Comment-Author:	avar
+Comment-Date:	Mon Feb  1 18:44:24 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11013872
+
+I'm no fan of Slack, but it has IRC and XMPP gateways. You can trivially set up
+an IRC bot that logs your channels & conversations, I connect to Slack via
+irssi & use its standard logging facility.
+
+So you're no more likely to lose your logs via Slack than via IRC or XMPP if
+you set things up correctly.

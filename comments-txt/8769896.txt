@@ -1,0 +1,7 @@
+Comment-Id:	8769896
+Comment-Author:	avar
+Comment-Date:	Thu Dec 18 21:59:23 UTC 2014
+Comment-Type:	comment
+Parent-Id:	8769667
+
+Link to the patch that fixed it: https://github.com/git/git/commit/cc2fc7c

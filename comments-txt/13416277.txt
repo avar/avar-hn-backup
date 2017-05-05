@@ -1,0 +1,15 @@
+Comment-Id:	13416277
+Comment-Author:	avar
+Comment-Date:	Tue Jan 17 10:06:17 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13416209
+
+Start by picking GMOs instead of the woo-woo that is organic farming. See e.g.
+a German-funded meta-analysis[1] that found that:
+
+"[...] the adoption of herbicide-tolerant (HT) soybean, maize, and cotton, and
+insect-resistant (IR) maize and cotton has resulted in a 22% increase in
+average yields, a 37% overall decrease in pesticide use, and a 68% increase in
+farmer profits.".
+
+1. http://www.theskepticsguide.org/gm-impact-meta-analysis

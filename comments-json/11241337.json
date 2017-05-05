@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 11241337,
+  "parent" : 11241169,
+  "text" : "<p><pre><code>    &gt; It&#x27;s not without precedent. [...] Debian&#x27;s solution [for qmail]\n    &gt; was packages that, as part of the install, patched, built, and\n    &gt; installed qmail from sources on the target machine.\n</code></pre>\nI don&#x27;t see how this is a relevant comparison in this context beyond\nthe trivial &quot;Debian has had some packages built from source at install\ntime in the past&quot;.<p>At the time qmail was shipped in Debian&#x27;s non-free section, and the\nresulting binary wasn&#x27;t being linked to a GPL codebase to get around\nlinking clauses.<p>So I can&#x27;t see how this has anything to do with what&#x27;s happening with\nZFS here.",
+  "time" : 1457382242,
+  "type" : "comment"
+}

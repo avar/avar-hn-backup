@@ -1,0 +1,8 @@
+Comment-Id:	13203135
+Comment-Author:	avar
+Comment-Date:	Sat Dec 17 22:40:02 UTC 2016
+Comment-Type:	comment
+Parent-Id:	13202736
+
+I think the FAA is an authoritative reference, and I linked to their claims
+about GPS III regional denial in my original post.

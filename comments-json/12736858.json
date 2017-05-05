@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 12736858,
+  "kids" : [ 12737846 ],
+  "parent" : 12736514,
+  "text" : "As someone who works at another company with a big monorepo, briefly:<p>* Ability to change an API and all its users at the same time.<p>* Circular dependencies become a non-issue in a lot of cases where the would be if you vendor your dependencies.<p>* Even if you vendor your dependencies hunting for bugs is a lot easier, your bisect of a bug in a library will just come down the commit that upgraded it from 1.0 to 2.0 without a monorepo, with a monorepo you can bisect anything down to a specific commit.<p>* Code discoverability &#x2F; mass edits are a lot easier, and integrate seamlessly into a lot more tools than if you need to manage multiple checkouts etc.",
+  "time" : 1476812301,
+  "type" : "comment"
+}

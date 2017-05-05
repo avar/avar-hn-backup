@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 5928663,
+  "parent" : 5928525,
+  "text" : "You might be interested in checking out git-deploy. It&#x27;s a tool we wrote to manage tag creation and completely pluggable rollouts&#x2F;rollbacks with sync hooks you write: <a href=\"https://github.com/git-deploy/git-deploy\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;git-deploy&#x2F;git-deploy</a><p>It&#x27;s basically a more advanced version of what you&#x27;re doing.",
+  "time" : 1372011185,
+  "type" : "comment"
+}

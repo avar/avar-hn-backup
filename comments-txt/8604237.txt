@@ -1,0 +1,9 @@
+Comment-Id:	8604237
+Comment-Author:	avar
+Comment-Date:	Thu Nov 13 21:29:28 UTC 2014
+Comment-Type:	comment
+Parent-Id:	8603833
+
+What people are really saying when they say you shouldn't write history is that
+your SCM shouldn't support work in progress checkins. Not supporting that just
+makes your SCM inflexible.

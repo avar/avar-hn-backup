@@ -1,0 +1,9 @@
+Comment-Id:	12899043
+Comment-Author:	avar
+Comment-Date:	Tue Nov  8 10:21:42 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12898816
+
+I work for one of the companies on that wall of shame. I wonder to what extent
+it has the reverse of the intended effect. "Oh so not even Amazon, Twitter or
+GitHub gives a crap about IPv6? Why should we?".

@@ -1,0 +1,11 @@
+Comment-Id:	10604275
+Comment-Author:	avar
+Comment-Date:	Fri Nov 20 22:23:50 UTC 2015
+Comment-Type:	comment
+Parent-Id:	10604188
+
+As far as I know neither of those failures would have resulted in loss of crew.
+One was a partial failure where due to a partial engine failure they didn't
+make their secondary orbital insertion, and the other was a loss of vehicle
+that would have been covered by either the crew escape system, or the dragon
+capsule parachuting to safety.

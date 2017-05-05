@@ -1,0 +1,8 @@
+Comment-Id:	11331835
+Comment-Author:	avar
+Comment-Date:	Mon Mar 21 20:45:53 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11331698
+
+It's trivial to game geolocation, e.g.: https://play.google.com/store/apps/
+details?id=com.lexa.fakeg...

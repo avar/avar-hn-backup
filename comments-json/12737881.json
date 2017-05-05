@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 12737881,
+  "kids" : [ 12739018 ],
+  "parent" : 12736367,
+  "text" : "The .git file format has also changed multiple times, packed refs, multiple pack file formats etc. There&#x27;s even WIP ref backends now which store the whole thing in some embedded database format.",
+  "time" : 1476819035,
+  "type" : "comment"
+}

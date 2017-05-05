@@ -1,0 +1,25 @@
+Comment-Id:	8109772
+Comment-Author:	avar
+Comment-Date:	Wed Jul 30 17:40:07 UTC 2014
+Comment-Type:	comment
+Parent-Id:	8109536
+
+I quizzed my interviewers for about an hour on how Booking did things and why
+when I had my interview, and I still got hired. Besides, like everyone if we
+don't hire someone we don't tell them why due to liability reasons.
+
+So if you had an interview and got rejected maybe it was for some completely
+different reason, I've certainly never heard about someone getting rejected
+because they asked too many questions.
+
+You might get rejected because you don't seem like a good fit though. I
+commented on this a bit more specifically in a Reddit discussion a while ago:
+http://www.reddit.com/r/perl/comments/1mkdl4/what_exactly_is...
+
+Anyway, it's unclear from your post whether you tried and failed at an
+interview with Booking, or whether you used to work there. If it's the former
+I'd be happy to help you with another try.
+
+Like any employer we'd rather not hire one right person than hire ten people we
+shouldn't have hired, so statistically we reject some candidates that would
+have been good fits.

@@ -1,0 +1,17 @@
+Comment-Id:	10513541
+Comment-Author:	avar
+Comment-Date:	Thu Nov  5 14:44:53 UTC 2015
+Comment-Type:	comment
+Parent-Id:	10508627
+
+I don't think they should. This way lies madness. You want e.g. the kernel &
+packages to be pruned down to only have the things needed for each cloud host?
+
+That means that for N cloud hosts Red Hat would have to potentially build N
+different patches for any update or security fix.
+
+Now you can't certify software to run on "RHEL 7" anymore, it has to be "RHEL
+7, assuming it has XYZ, which some cloud hosts don't".
+
+It can be done, but it's a huge hassle, it's much easier to just ship the same
+distro to everyone. Space is cheap.

@@ -1,0 +1,9 @@
+Comment-Id:	8259512
+Comment-Author:	avar
+Comment-Date:	Tue Sep  2 19:14:15 UTC 2014
+Comment-Type:	comment
+Parent-Id:	8259493
+
+I find it most interesting that he doesn't use some map provider using
+OpenStreetMap data because that's what embedded in the DuckDuckGo search
+results: https://duckduckgo.com/?q=amsterdam

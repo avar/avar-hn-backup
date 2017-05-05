@@ -1,0 +1,11 @@
+Comment-Id:	10519468
+Comment-Author:	avar
+Comment-Date:	Fri Nov  6 14:03:22 UTC 2015
+Comment-Type:	comment
+Parent-Id:	10518942
+
+    > Strictly speaking, he said "Kdbus ist nich tot"
+
+Is there actually a subtle translation difference that I'm missing, or is this
+nitpicking on the order of "Ceasar didn't say 'you, too, Brutus?', the English
+language didn't even exist at the time!"?

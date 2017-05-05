@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 13580175,
+  "kids" : [ 13636562 ],
+  "parent" : 13579838,
+  "text" : "I write Perl 5 for a living, we have Perl 6 installed here and I occasionally use it for one-liners[1] that are much less verbose than Perl 5 or most other languages. But nothing else.<p>1. <a href=\"https:&#x2F;&#x2F;github.com&#x2F;dnmfarrell&#x2F;Perl6-One-Liners\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;dnmfarrell&#x2F;Perl6-One-Liners</a>",
+  "time" : 1486394427,
+  "type" : "comment"
+}

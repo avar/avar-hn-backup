@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 11805901,
+  "kids" : [ 11808716 ],
+  "parent" : 11805164,
+  "text" : "The flock() method is preferable when you don&#x27;t need to use NFS because as you say it&#x27;ll automatically clean the lock up if the process holding it dies.<p>This gets rid of all the edge cases with stale locks in one fell swoop.<p>But as you point out if you want to do this e.g. over NFS you should create a file, but then you need to deal with stale locks.<p>If you can at all avoid that using flock() is generally better.",
+  "time" : 1464694007,
+  "type" : "comment"
+}

@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 8611532,
+  "kids" : [ 8614231 ],
+  "parent" : 8611473,
+  "text" : "The NASA website seems to imply that it&#x27;s done manually: <a href=\"http://mars.jpl.nasa.gov/msl/mission/rover/brains/\" rel=\"nofollow\">http:&#x2F;&#x2F;mars.jpl.nasa.gov&#x2F;msl&#x2F;mission&#x2F;rover&#x2F;brains&#x2F;</a><p>Presumably there&#x27;s some basic functions in the radio stack they use where they can trigger operations like shutdown, startup, reboot, switch boards etc.",
+  "time" : 1416053841,
+  "type" : "comment"
+}

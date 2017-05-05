@@ -1,0 +1,18 @@
+Comment-Id:	6364220
+Comment-Author:	avar
+Comment-Date:	Tue Sep 10 23:09:06 UTC 2013
+Comment-Type:	comment
+Parent-Id:	6364186
+
+   > [...]and install a 3rd party ROM free
+   > of any closed-source software.
+
+No you can't. I'm not aware of any commercial Android phone that doesn't need
+binary firmware blobs running in kernel space to work, e.g. for display
+drivers, WiFi, the radio stack etc.
+
+   > Hardware backdoors are a separate issue.
+
+You don't need a hardware backdoor when you can just put a backdoor in the
+binary blob your users run along with some open source software they download
+along with it.

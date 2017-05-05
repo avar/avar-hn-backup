@@ -1,0 +1,15 @@
+Comment-Id:	11307520
+Comment-Author:	avar
+Comment-Date:	Thu Mar 17 20:53:44 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11306926
+
+You're missing a few advantages:
+
+* Automatic ability to integrate into environments designed for humans. Think
+doorknobs, ladders etc.
+
+* All the advantages of legged locomotion over wheels.
+
+* Once you have legged locomotion down you might as well do it on two legs and
+add some arms, and voila you have a humanoid robots.

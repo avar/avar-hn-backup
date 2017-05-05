@@ -1,0 +1,14 @@
+Comment-Id:	13287449
+Comment-Author:	avar
+Comment-Date:	Fri Dec 30 21:06:32 UTC 2016
+Comment-Type:	comment
+Parent-Id:	13287378
+
+The Ehang 184 has 8 propellers, two for each of the four quad points. I'd
+assume the reason is safety, that it can limp to the ground with just 7.
+
+You're wrong about a quadcopter not being able to fly with 3 rotors, see this
+video: https://www.youtube.com/watch?v=bsHryqnvyYA
+
+That looks like it would be quite a ride with a human on-board, but would
+probably suck less than crashing.

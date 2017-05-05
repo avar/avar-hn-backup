@@ -1,0 +1,20 @@
+Comment-Id:	13716392
+Comment-Author:	avar
+Comment-Date:	Thu Feb 23 18:33:00 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13716101
+
+Let's say a Russian company opens up a chain of coffee shops in the US, has
+surveillance cameras for theft prevention, keeps various records on its
+customers etc.
+
+Now the Russian government issues a warrant to demand data from the US
+subsidiary. Do you think that US jurisdiction should have no say in the matter?
+
+If the Russians compelled their US subsidiary to hand over the data in
+violation of US law, how long do you think they'd be allowed to operate in the
+US?
+
+The end result of this US overreach will be trade wars and the further rise of
+national enclaves of the Internet. I'd argue that that's not in anyone's long
+term interests, least alone the US's.

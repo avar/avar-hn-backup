@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 10495256,
+  "kids" : [ 10495398, 10496118, 10496661, 10495600 ],
+  "parent" : 10495082,
+  "text" : "I&#x27;ve just read that it uses a lot of Linux-specific things, but are there features that inherently can&#x27;t be ported to BSD? And are those features absolutely critical to running it at all?<p>What I&#x27;ve read sounds more like &quot;we&#x27;re focusing on Linux, and won&#x27;t be porting it&quot; rather than &quot;this software is inherently Linux-only, and can&#x27;t be ported&quot;.<p>I daresay coming up with a shimmy layer to port it to BSD is probably less effort than completely rewriting it.",
+  "time" : 1446498517,
+  "type" : "comment"
+}

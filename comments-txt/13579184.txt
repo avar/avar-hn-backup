@@ -1,0 +1,9 @@
+Comment-Id:	13579184
+Comment-Author:	avar
+Comment-Date:	Mon Feb  6 13:26:27 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13578255
+
+One major issue and you stop artificially inserting errors, which are inserted
+at a rate such that you could turn off the error inserted within some timely
+manner and still stay within budget.

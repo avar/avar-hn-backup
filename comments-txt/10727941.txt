@@ -1,0 +1,30 @@
+Comment-Id:	10727941
+Comment-Author:	avar
+Comment-Date:	Sun Dec 13 21:05:35 UTC 2015
+Comment-Type:	comment
+Parent-Id:	10726542
+
+    > The only way to really be sure is to check your files after
+    > writing them that they match.
+
+This is assuming that the underlying block device would forcibly flush those
+queued writes to disk and then re-read them again rather than just serve them
+up directly from the pending write queue directly without flushing them first.
+
+You generally can't make that assumption about a black box, so reading back
+your writes guarantees nothing.
+
+Unless you're intimately familiar with your underlying block device you really
+can't guarantee anything about writes going to physical hardware. All you can
+do is read its documentation and hope for the best.
+
+If you need a general hack to that's pretty much guaranteed to flush your
+writes to a physical disk it would be something like:
+
+    After your write, append X random bytes to a file where X is
+    greater than your block device's advertised internal memory, then
+    call fsync().
+
+Even then you have no guarantees that those writes wouldn't be flushed to the
+medium while leaving the writes you care about in the block device's internal
+memory.

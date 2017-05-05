@@ -1,0 +1,43 @@
+Comment-Id:	13991350
+Comment-Author:	avar
+Comment-Date:	Wed Mar 29 22:50:47 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13990391
+
+This whole thread is full of comments from people who obviously haven't read
+the article / listened to the podcast in question[1].
+
+Joseph Bankman proposed ReadyReturn in California, which is the kind of tax
+return pretty much the entirety of the rest of the western world uses. I.e.
+instead of an empty return, it's pre-filled in with the details the government
+knows anyway. This vastly simplifies things for most people, especially those
+whose main income comes from working one job.
+
+This was in no way a change to the tax system, or what taxes people had to pay.
+The government would just hand you a filled-in form instead of an empty one, so
+you could make corrections instead of filling it in from scratch.
+
+It had north of 99% approval ratings by the people in the test groups for it,
+something unheard of when it comes to government programs.
+
+As a parlor trick Bankman would carry around a thick binder with the feedback
+the program had received from taxpayers. When he wanted to convince someone
+he'd start paging through it and ask the person he was talking to to say
+"stop", to ensure he wasn't cherry-picking. He'd then start reading raving
+reviews of the program starting at that page, some in all-caps from people who
+couldn't contain their excitement.
+
+It didn't make it into law, partly due to lobbying by the likes of Intuit, but
+more interestingly, I thought, because Grover Norquist, the well known promoter
+of the "Taxpayer Protection Pledge" took the counterintuitive view that just
+making the process easier equated to a new tax, since taxpayers might end up
+paying taxes already on the books that they might have previously
+unintentionally evaded.
+
+That to me is the most bizarre detail about this entire story. It's likely that
+it would have passed if not for the strange interpretation of one man to this
+not-a-new-tax of it effectively being a new tax, and his ability to sway the
+Republicans due to the political power his "Taxpayer Protection Pledge" holds
+over Republicans.
+
+1. http://www.npr.org/sections/money/2017/03/22/521132960/episo...

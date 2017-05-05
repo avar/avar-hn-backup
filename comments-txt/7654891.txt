@@ -1,0 +1,17 @@
+Comment-Id:	7654891
+Comment-Author:	avar
+Comment-Date:	Sun Apr 27 13:00:57 UTC 2014
+Comment-Type:	comment
+Parent-Id:	7653287
+
+    > If it were no longer possible to upload that data the system
+    > would eventually become either non-functional (depending on how
+    > the satellites and individual handsets are designed) or
+    > increasingly inaccurate until no longer useful.
+
+If that were to happen you could just augment GPS receivers to use more
+accurate ephemeris data provided from other sources.
+
+It is, after all, now computed on the ground and uploaded to the GPS
+constellation, having it be provided by the satellites is just a convenience,
+not a necessity.

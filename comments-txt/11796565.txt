@@ -1,0 +1,12 @@
+Comment-Id:	11796565
+Comment-Author:	avar
+Comment-Date:	Sun May 29 14:58:01 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11796522
+
+Isn't the simpler & more plausible explanation that most individual foods
+aren't measured like that, but rather just by summing up the protein/
+carbohydrate/fat etc. amounts that go into making the food?
+
+E.g. if you're making frozen pizza just add up flour, the pepperoni etc. you
+put in and divide it by portion size.

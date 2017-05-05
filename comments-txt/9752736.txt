@@ -1,0 +1,8 @@
+Comment-Id:	9752736
+Comment-Author:	avar
+Comment-Date:	Sun Jun 21 09:06:27 UTC 2015
+Comment-Type:	comment
+Parent-Id:	9752459
+
+You'd have to never connect your Kindle to the Internet ever again, when you
+re-connect it uploads the page position for all your books.

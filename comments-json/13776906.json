@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 13776906,
+  "parent" : 13776573,
+  "text" : "Yes, but be careful. UIs like that tend to accumulate &quot;--yes&quot; options, because you don&#x27;t feel like being asked every time for 1 server. Then one day you screw up the wildcard and it&#x27;s 1000 servers, but you used the --yes template.<p>Which is why I&#x27;m pointing out that to design UIs like these you should fall back on slightly <i>different</i> UIs depending on the severity of the operation.",
+  "time" : 1488480283,
+  "type" : "comment"
+}

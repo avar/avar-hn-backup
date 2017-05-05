@@ -1,0 +1,11 @@
+Comment-Id:	13101196
+Comment-Author:	avar
+Comment-Date:	Sun Dec  4 18:54:11 UTC 2016
+Comment-Type:	comment
+Parent-Id:	13101093
+
+That's because "all text" was an actual accessibility concern back then, so
+you'd see that just like you'd see a "mobile" version now.*
+
+It doesn't mean that web programmers care less, it just means technology moved
+on.

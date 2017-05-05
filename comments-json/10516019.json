@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 10516019,
+  "parent" : 10514752,
+  "text" : "If you&#x27;re concerned about either of those RHEL is not the distro for you. It has a bunch of running processes, some of them are even written in Python! Talk about unoptimal. Similarly it&#x27;s not the smallest Linux distro by far.<p>I think this whole line of argument is just some misplaced nostalgia for distro micro-optimization. It&#x27;s not the mid-90s anymore. Space and CPU is cheap, you&#x27;re not going to gain anything significant by trimming down your distro.<p>If those things were actually important you wouldn&#x27;t be using Azure in the first place.",
+  "time" : 1446756567,
+  "type" : "comment"
+}

@@ -1,0 +1,16 @@
+Comment-Id:	10516019
+Comment-Author:	avar
+Comment-Date:	Thu Nov  5 20:49:27 UTC 2015
+Comment-Type:	comment
+Parent-Id:	10514752
+
+If you're concerned about either of those RHEL is not the distro for you. It
+has a bunch of running processes, some of them are even written in Python! Talk
+about unoptimal. Similarly it's not the smallest Linux distro by far.
+
+I think this whole line of argument is just some misplaced nostalgia for distro
+micro-optimization. It's not the mid-90s anymore. Space and CPU is cheap,
+you're not going to gain anything significant by trimming down your distro.
+
+If those things were actually important you wouldn't be using Azure in the
+first place.

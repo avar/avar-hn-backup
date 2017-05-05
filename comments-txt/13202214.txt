@@ -1,0 +1,24 @@
+Comment-Id:	13202214
+Comment-Author:	avar
+Comment-Date:	Sat Dec 17 20:03:12 UTC 2016
+Comment-Type:	comment
+Parent-Id:	13202112
+
+Selective Availability was replaced by regional denial capabilities with the
+GPS III satellites, i.e. instead of fuzzing the signal the US can now turn off
+GPS for entire countries[1].
+
+It's strategically foolish for the major economies like the EU, Russia & China
+to depend on the US's goodwill in maintaining a system that drives a huge part
+of their economy, GPS is used pervasively for everything, and that's only
+increasing.
+
+Trump wants NATO countries to pay their fair share, how long until he gets the
+idea that all countries around the world should pay a GPS licensing fee least
+GPS regional denial be turned on?
+
+Those are the sort of reasons for why it makes sense to develop a GPS
+alternative, even if you're only aiming for feature parity, or even less than
+that.
+
+1. https://www.faa.gov/about/office_org/headquarters_offices/at...

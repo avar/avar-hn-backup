@@ -1,0 +1,8 @@
+Comment-Id:	13914819
+Comment-Author:	avar
+Comment-Date:	Mon Mar 20 15:08:32 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13914712
+
+That would be an argument against it being the sole factor, but has little to
+do with whether it's a contributing factor.

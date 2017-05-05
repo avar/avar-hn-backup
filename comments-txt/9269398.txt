@@ -1,0 +1,7 @@
+Comment-Id:	9269398
+Comment-Author:	avar
+Comment-Date:	Thu Mar 26 13:32:30 UTC 2015
+Comment-Type:	comment
+Parent-Id:	9269110
+
+No: http://en.wikipedia.org/wiki/Flight_control_modes#Alternate_...

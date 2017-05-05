@@ -1,0 +1,12 @@
+Comment-Id:	11797516
+Comment-Author:	avar
+Comment-Date:	Sun May 29 18:19:55 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11796833
+
+The first thing I looked through, the pedometer/ directory, has a project that
+itself may be <500 lines, but is using compressed versions of JS libraries like
+highcharts.js & jquery.js.
+
+Don't you think including huge external libraries like that defeats the spirit
+of showing things that are 500 lines or less?

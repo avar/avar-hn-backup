@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 13332097,
+  "parent" : 13331908,
+  "text" : "<p><pre><code>    &gt; For example, if a contributor force pushes a new commit to a PR\n    &gt; branch, as a reviewer, I can&#x27;t see the old version and compare\n    &gt; against it.\n</code></pre>\nThis is not fully true. While you can&#x27;t &quot;git fetch&quot; that branch\nanymore, you can see comments against those old diffs in the pull\nrequest UI, which are the things likely to have changed.<p>For example, I submitted this PR against uWSGI a few months ago:\n<a href=\"https:&#x2F;&#x2F;github.com&#x2F;unbit&#x2F;uwsgi&#x2F;pull&#x2F;1392\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;unbit&#x2F;uwsgi&#x2F;pull&#x2F;1392</a><p>Initially I screwed it up and inserted a field in the middle of a\nstruct, whereas within a stable release it should of course be added\nto the end. If you click on &quot;show outdated&quot; you can see that old diff\nwhere I&#x27;m adding the field to the middle of the struct, but click on\n&quot;files changed&quot; and it&#x27;s the current change where I fixed the issue.<p>I do think GitHub could improve here, they could expose forced pushes\nvia refs&#x2F;pull&#x2F;NUM-COUNTER instead of just refs&#x2F;pull&#x2F;NUM as they do\nnow, but it&#x27;s important to point out that they&#x27;re handling the common\ncase. When someone force-pushes a pull request they&#x27;re usually doing\nso in response to comments on the request, and those comments will\nstill make sense because GitHub saves away the old diff, which you can\ncompare with the current state.",
+  "time" : 1483655847,
+  "type" : "comment"
+}

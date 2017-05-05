@@ -1,0 +1,21 @@
+Comment-Id:	10714337
+Comment-Author:	avar
+Comment-Date:	Thu Dec 10 23:15:35 UTC 2015
+Comment-Type:	comment
+Parent-Id:	10714211
+
+Plans for building a birdhouse are completely incomparable to what the parent
+is talking about. This would be like me having an "open source" birdhouse
+design where the birdhouse is made of glued-together Intel™ processors.
+
+Sure I've opened the schematics, but unlike a birdhouse made from wood you have
+zero chance of being able to build one from scratch on your own, or sourcing
+the Intel™ processors from another vendor.
+
+This is the same reason for why if I release the binary of a program produced
+with a secret compiler as "open source" I'll be laughed at, it completely goes
+against the spirit of the thing, which is that anyone should be able to change
+any part of the thing I've released.
+
+It's good that they're doing this. But it's completely incomparable to actual
+fully open source hardware.

@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 11731191,
+  "kids" : [ 11731350, 11731449 ],
+  "parent" : 11730373,
+  "text" : "Google has explicitly WontFix&#x27;d bugs on the subject of expanding incognito to be hardened against fingerprinting: <a href=\"https:&#x2F;&#x2F;bugs.chromium.org&#x2F;p&#x2F;chromium&#x2F;issues&#x2F;detail?id=142214#c1\" rel=\"nofollow\">https:&#x2F;&#x2F;bugs.chromium.org&#x2F;p&#x2F;chromium&#x2F;issues&#x2F;detail?id=142214...</a><p>Don&#x27;t you think this sort of thing warrants a separate sort of browsing mode? A lot of people who use the likes of incognito mode just use it for e.g. browsing porn where they don&#x27;t want the local history to be preserved.<p>Turning that mode into one that&#x27;s highly hardened against fingerprinting would in practice ruin the browsing experience for those users. Just look at what the Tor browser needs to do with fixed preset resolutions, no JavaScript etc.",
+  "time" : 1463673751,
+  "type" : "comment"
+}

@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 14122278,
+  "kids" : [ 14123388, 14122745, 14123127 ],
+  "parent" : 14121780,
+  "text" : "Oh man:<p><pre><code>    &gt; I am bemused by an approach to accepting\n    &gt; security reports which is to go through the\n    &gt; motions of having PGP public keys available\n    &gt; for people to use to report issues but upon\n    &gt; receiving such a request ask for it to be\n    &gt; submitted without PGP because digging out\n    &gt; the keys is too much of a hassle.</code></pre>",
+  "time" : 1492283428,
+  "type" : "comment"
+}

@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 10122247,
+  "parent" : 10121997,
+  "text" : "Consider sending these changes upstream to contrib&#x2F;completion&#x2F;git-prompt.sh in git.git. It already has a lot of toggles for adjusting the prompt. These things you&#x27;ve added could be added as options.",
+  "time" : 1440589245,
+  "type" : "comment"
+}

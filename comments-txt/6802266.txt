@@ -1,0 +1,10 @@
+Comment-Id:	6802266
+Comment-Author:	avar
+Comment-Date:	Tue Nov 26 16:26:36 UTC 2013
+Comment-Type:	comment
+Parent-Id:	6801928
+
+The standard filesystem in Mac OS X isn't POSIX compliant and hasn't ever been
+(HFS+ isn't, UFS is). If you're concerned about filesystem operations working
+as intended in code written for things that are POSIX compliant (like Git is)
+don't use it.

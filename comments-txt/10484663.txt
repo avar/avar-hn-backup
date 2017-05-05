@@ -1,0 +1,35 @@
+Comment-Id:	10484663
+Comment-Author:	avar
+Comment-Date:	Sat Oct 31 23:23:07 UTC 2015
+Comment-Type:	comment
+Parent-Id:	10484461
+
+The author never elaborates on why exactly he thinks this is needed. I think
+reading between the lines the reason is that if someone's done a merge/rebase
+and screwed up a conflict resolution the information about how that's happened
+is lost forever, so let's come up with some hack to save that information in
+case there was a conflict.
+
+If that's the case, a solution that would categorically lose less information
+would be:
+
+1. You're going to push branch you/whatever
+
+2. You rebase you/whatever on on master
+
+3. You solve whatever conflicts you have
+
+4. You make a non-fast-forward merge commit to indicate that you/whatever was
+rebased as a series with a name
+
+5. You push your conflict resolved & rebased you/whatever branch to master
+
+6. You push the original you/whatever as unrebased/you/whatever
+
+Now you have the original unrebased commits in your repository, you can now
+simply inspect your history to see what the original commits were, how they
+conflicted, and how those conflicts were resolved.
+
+Once branches in unrebased/* get old enough you just delete them. In my
+experience the importance of seeing how someone did something in source control
+is inversely proportional to how recently it was committed.

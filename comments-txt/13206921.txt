@@ -1,0 +1,25 @@
+Comment-Id:	13206921
+Comment-Author:	avar
+Comment-Date:	Sun Dec 18 18:35:17 UTC 2016
+Comment-Type:	comment
+Parent-Id:	13203236
+
+Yes I'm pretty sure you're right. I wrote most of my comment from memory and
+just dug up a reference, knowing the FAA doesn't operate GPS, but figured their
+FAQ was summarizing the satellite features.
+
+But I've searched around and can't find anything that indicates that this is a
+feature of the satellites themselves, rather it's just as you say, the US
+military has replaced SA with the general ability to jam local radio traffic,
+including GPS. E.g. [1] is another source for that.
+
+So it does look like the US can't block GPS for entire countries anymore, I
+take that back.
+
+I must say though, I think any public commentary about GPS capabilities should
+be taken with a huge grain of salt. It's a military system, they're very likely
+lying or not telling the full truth about what it's really capable of. E.g. I
+find the claim that the new generation can't do SA by design dubious, surely
+just fuzzing the signal by some offset is a rather trivial change.
+
+1. https://web.archive.org/web/20050921115614/http://ngs.woc.no...

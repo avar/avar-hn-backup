@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 14179302,
+  "kids" : [ 14179498, 14183331, 14179453 ],
+  "parent" : 14178705,
+  "text" : "<p><pre><code>    &gt; I&#x27;m not sure what you&#x27;re on about.\n</code></pre>\nYou clearly interpreted OS to mean &quot;the kernel&quot; in my comment. To be clear I&#x27;m including the C library which implements malloc() in &quot;the OS&quot;.<p><pre><code>    &gt; curl is a piece of software that spends 99.99%\n    &gt; of its time waiting for network traffic.\n</code></pre>\nYou&#x27;re commenting on an article that shows that in some cases 30% of the time was spent on malloc() overhead.",
+  "time" : 1492969759,
+  "type" : "comment"
+}

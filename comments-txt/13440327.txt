@@ -1,0 +1,13 @@
+Comment-Id:	13440327
+Comment-Author:	avar
+Comment-Date:	Thu Jan 19 23:09:43 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13439763
+
+If you can block gravity you can achieve orbit at walking speeds if you turn of
+your anti-gravity machine some tiny fraction of the time you're spending in
+orbit.
+
+Similarly with going outside the solar system, you could just jump on the
+planet Earth and press the "anti-grav" button, and in a few hundred thousand
+years you'd be outside the solar system.

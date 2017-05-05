@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 12176049,
+  "kids" : [ 12176459, 12176134, 12177353, 12178857 ],
+  "parent" : 12175913,
+  "text" : "All the things you&#x27;ve listed fall squarely in the category of &quot;we&#x27;ve lost the hosting war, and nobody&#x27;s going to ship proprietary .NET binaries on Linux distros&quot;.<p>The further you go from that sort of thing where they&#x27;ve already lost the market and either have nothing to lose or the writing is on the wall (how long can paid-for languages truly compete with free ones?), the less they have open sourced.<p>E.g. even Visual Studio which would be the next logical step is still for sale starting at $500 on their website[1], maybe that&#x27;ll be fully open one day. After all how long can the paid-for editor wars persist?<p>What I was pointing out is that there&#x27;s no sign of them opening up anything that would truly make them an open source company. I.e. things they make real money on, or would threaten their established lock-in.<p>1. <a href=\"https:&#x2F;&#x2F;www.visualstudio.com&#x2F;products&#x2F;how-to-buy-vs\" rel=\"nofollow\">https:&#x2F;&#x2F;www.visualstudio.com&#x2F;products&#x2F;how-to-buy-vs</a>",
+  "time" : 1469649624,
+  "type" : "comment"
+}

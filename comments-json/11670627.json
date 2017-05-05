@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 11670627,
+  "kids" : [ 11670855 ],
+  "parent" : 11670162,
+  "text" : "Since Redis is BSD licensed I wouldn&#x27;t be surprised if this is the start of popular paid-for proprietary third party modules.",
+  "time" : 1462914102,
+  "type" : "comment"
+}

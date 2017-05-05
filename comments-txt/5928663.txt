@@ -1,0 +1,11 @@
+Comment-Id:	5928663
+Comment-Author:	avar
+Comment-Date:	Sun Jun 23 18:13:05 UTC 2013
+Comment-Type:	comment
+Parent-Id:	5928525
+
+You might be interested in checking out git-deploy. It's a tool we wrote to
+manage tag creation and completely pluggable rollouts/rollbacks with sync hooks
+you write: https://github.com/git-deploy/git-deploy
+
+It's basically a more advanced version of what you're doing.

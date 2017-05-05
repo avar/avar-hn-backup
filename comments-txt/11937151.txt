@@ -1,0 +1,9 @@
+Comment-Id:	11937151
+Comment-Author:	avar
+Comment-Date:	Mon Jun 20 10:30:57 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11932467
+
+I didn't know that the "clearing your orbit" requirement had the caveat that it
+had to be cleared up to a given mass ratio. Do you know what that mass ratio
+is?

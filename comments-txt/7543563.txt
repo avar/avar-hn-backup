@@ -1,0 +1,24 @@
+Comment-Id:	7543563
+Comment-Author:	avar
+Comment-Date:	Sun Apr  6 22:55:51 UTC 2014
+Comment-Type:	comment
+Parent-Id:	7543068
+
+Here's a patch I submitted purely for discussion to add a feature to Git to
+allow for vanity commit hashes back in 2011, it generated some interesting
+discussion: http://lists-archives.com/git/756392-choosing-the-sha1-prefi...
+
+Unlike the linked it didn't alter the commit date, but altered the Git code
+itself to add a new custom header to the commit object.
+
+Git handles custom headers just fine since it ignores unknown headers for
+future compatibility. This commit still lives in the main Git repo at work
+without any issues:
+
+    commit 313375d995e6f8b7773c6ed1ee165e5a9e15690b
+    tree c9bebc99c05dfe61cccf02ebdf442945c8ff8b3c
+    parent 0dce2d45a79d26a593f0e12301cdfeb7eb23c17a
+    author Ævar Arnfjörð Bjarmason <avar@booking.com> 1319042708 +0200
+    committer Ævar Arnfjörð Bjarmason <avar@booking.com> 1319042708 +0200
+    lulz 697889
+

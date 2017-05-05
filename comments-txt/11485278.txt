@@ -1,0 +1,12 @@
+Comment-Id:	11485278
+Comment-Author:	avar
+Comment-Date:	Wed Apr 13 02:29:27 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11481606
+
+You seem to be assuming that there needs to be a distinctive backend codebase
+for each domain covering the wildcard certificate.
+
+This is something entirely orthogonal to the number of certificates. You could
+have 1000 codebases with different attack vectors under one SSL certificate, or
+1 codebase the same attack vectors serving up 1000 SSL certificates.

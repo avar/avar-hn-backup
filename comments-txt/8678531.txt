@@ -1,0 +1,11 @@
+Comment-Id:	8678531
+Comment-Author:	avar
+Comment-Date:	Sun Nov 30 22:51:05 UTC 2014
+Comment-Type:	comment
+Parent-Id:	8677536
+
+Isn't one of the main advantages of IRC that it's still a true federated
+protocol? I.e. you can host a channel #foobar across 10 servers and that
+channel will always survive netsplits (albeit with some number of clients
+splitting off), whereas with Jabber some server will always have to be the sole
+host of that channel?

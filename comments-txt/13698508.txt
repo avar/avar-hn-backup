@@ -1,0 +1,16 @@
+Comment-Id:	13698508
+Comment-Author:	avar
+Comment-Date:	Tue Feb 21 19:06:24 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13698061
+
+It's not in any way hidden, just run a whois query:
+
+    $ whois packagecloud.io|grep Owner
+    Owner Name    : JOSEPH DAMATO
+    Owner OrgName : COMPUTOLOGY, LLC
+    Owner Addr    : 359 FILLMORE ST!12
+    Owner Addr    : SAN FRANCISCO
+    Owner Addr    : CA
+    Owner Addr    : US
+

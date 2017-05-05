@@ -1,0 +1,10 @@
+Comment-Id:	11513040
+Comment-Author:	avar
+Comment-Date:	Sun Apr 17 01:11:18 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11511707
+
+I'll bite. Please post the C code required to portably and safely create a file
+and write a timestamp to it in a way that beats the safety provided by SQLite.
+
+Most C programmers can't even write that piece of code. Let's see if you can.

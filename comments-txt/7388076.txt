@@ -1,0 +1,8 @@
+Comment-Id:	7388076
+Comment-Author:	avar
+Comment-Date:	Wed Mar 12 20:18:49 UTC 2014
+Comment-Type:	comment
+Parent-Id:	7387908
+
+Or performing some useful function that can't trivially be replaced by menial
+robotic labor?

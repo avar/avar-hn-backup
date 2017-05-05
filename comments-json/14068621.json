@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 14068621,
+  "kids" : [ 14068628 ],
+  "parent" : 14068532,
+  "text" : "Unrelated to your jhbuild issues, you can often solve this class of issue in git by teaching git itself to search-replace the URL with &quot;url.&lt;base&gt;.insteadOf&quot;. See the git-config manpage.",
+  "time" : 1491680745,
+  "type" : "comment"
+}

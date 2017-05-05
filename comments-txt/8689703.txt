@@ -1,0 +1,15 @@
+Comment-Id:	8689703
+Comment-Author:	avar
+Comment-Date:	Tue Dec  2 20:37:48 UTC 2014
+Comment-Type:	comment
+Parent-Id:	8689645
+
+That's not the issue at all. If you look at the historical budget of NASA[1] it
+has a very low correlation with Republican presidents[2].
+
+The main issue is that they get a lot of misdirected funding that's mainly
+allocated as a function of short-term political interests, and that's an
+entirely bipartisan issue in the United States.
+
+1. http://upload.wikimedia.org/wikipedia/commons/0/09/NASA-Budg... 2. http://
+en.wikipedia.org/wiki/List_of_Presidents_of_the_Unite...

@@ -1,0 +1,17 @@
+Comment-Id:	12378319
+Comment-Author:	avar
+Comment-Date:	Sun Aug 28 20:17:21 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12377785
+
+So the US can't access the EU through:
+
+   US -> Canada -> EU
+
+But somehow the EU can access the US through:
+
+   EU -> Canada -> US
+
+What part af that path doesn't involve a bidirectional free trade agreement
+that would make it just as easy for the US to access the EU via Canada as the
+other way around?

@@ -1,0 +1,35 @@
+Comment-Id:	14188955
+Comment-Author:	avar
+Comment-Date:	Mon Apr 24 22:23:38 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14188746
+
+    > That's not globbing but using the regex matcher.
+
+Indeed. I'm just using the regex behavior to show that perl's regex matcher
+uses a general optimization to defeat patterns like the ones Russ is discussing
+using a strategy orthogonal to handling backtracking.
+
+But Russ doesn't talk about using this strategy to optimize glob(), so it's
+worth pointing out that it could just as well be used in a glob()
+implementation.
+
+I.e. just try to find a fixed part later in the pattern, and if it can't be
+found fail the entire match.
+
+    > I'm curious why the graph displays [perl]
+    > as exponential on linux, where it should be linear.
+
+The glob() routine in perl uses a fork of a BSD glob which ships with perl:
+https://github.com/Perl/perl5/blob/blead/ext/File-Glob/bsd_g...
+
+    > pcre2 performs much better than perl btw: it
+    > errors with match limit exceeded (-47)
+
+The pcre2 library will still perform better if you adjust the match limit so
+that the pattern actually matches, e.g. with --match-limit=1000000000 to
+pcre2grep. That finishes in around 1s with PCRE, 10s with Perl.
+
+But in general a regex library can't be said to perform better just because it
+errors out with a match limit error sooner. That just means it's compiled with
+different defaults.

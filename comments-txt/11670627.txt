@@ -1,0 +1,8 @@
+Comment-Id:	11670627
+Comment-Author:	avar
+Comment-Date:	Tue May 10 21:01:42 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11670162
+
+Since Redis is BSD licensed I wouldn't be surprised if this is the start of
+popular paid-for proprietary third party modules.

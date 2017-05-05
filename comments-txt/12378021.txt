@@ -1,0 +1,29 @@
+Comment-Id:	12378021
+Comment-Author:	avar
+Comment-Date:	Sun Aug 28 19:18:46 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12377608
+
+How do you propose to mediate trade disputes between companies and states
+without something like the ISDS?
+
+Imagine this on say the US national level. Apple wants to sell its computers in
+Alaska, but Alaska has a domestic computing company that gets goverment
+subsidizes, creating unfair competition. In this case the federal government
+would step in.
+
+There's an analogous issue with international trade agreements. National
+governments will enter into those agreements, but their courts are always going
+to be biased towards their local constituents, so in my example Apple couldn't
+hope for a fair result by suing in Alaskan courts.
+
+So there needs to be some pan-national body to settle these sort of disputes
+without turning every little international company v.s. company or company v.s.
+government issue into a full-on diplomatic dispute between the respective
+governments involved.
+
+The ISDS in the TTIP seems like such a facility. Why is it unreasonable? I'm
+not some TTIP proponent or corporate shill, I'm just genuinely curious about
+this, it just seems to me that a lot of comments on the Internet, including on
+HN, have knee-jerk negative reactions to every provision in the TTIP without
+thinking about the real issues those provisions might be solving.

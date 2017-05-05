@@ -1,0 +1,12 @@
+Comment-Id:	11712684
+Comment-Author:	avar
+Comment-Date:	Tue May 17 11:32:12 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11712449
+
+I wonder if TBL would have written the same article 10 years later when search
+engines had gotten much better.
+
+It's still an inconvenience when a URL moves, but before the likes of Google
+that used to be a huge inconvenience and it would often take tens of minutes to
+track down the new location, now it's on the order of tens of seconds at most.

@@ -1,0 +1,22 @@
+Comment-Id:	12733065
+Comment-Author:	avar
+Comment-Date:	Tue Oct 18 09:29:36 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12732473
+
+As the parent of a 1 year old, this looks great, can the content filtering be
+disabled, since this is a Live CD?
+
+I wonder if there's any evidence whatsoever for content filtering actually
+being useful for children's development, as opposed to just reinforcing
+societal squeamishness.
+
+The example they have[1] on their page is blocking the DuckDuck go result for
+"sex", whose first result is the Wikipedia article.
+
+I really can't imagine why a child who's developed enough to search for that on
+their own isn't ready to read about it. To the extent that the parent needs to
+be around to explain things to the child I don't see how that needs to be done
+for sex in particular, as opposed to say economics.
+
+1. http://www.doudoulinux.org/web/english/documentation-7/advan...

@@ -1,0 +1,12 @@
+Comment-Id:	12362222
+Comment-Author:	avar
+Comment-Date:	Thu Aug 25 20:29:36 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12361976
+
+Big proprietary users of protocols tend to discover bugs in them, that they
+feed upstream, even if they run otherwise closed networks.
+
+E.g. it benefits you that Google uses TCP internally, even if you can't get on
+their network? Why? Because they've submitted patches to Linux to make it work
+better.

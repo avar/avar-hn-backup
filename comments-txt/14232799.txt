@@ -1,0 +1,63 @@
+Comment-Id:	14232799
+Comment-Author:	avar
+Comment-Date:	Sun Apr 30 17:45:09 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14232629
+
+Any free or open source software license does not need an EULA, and presenting
+it as such is antithetical to the entire idea of free software.
+
+You by definition do not need to agree to any free software license before you
+use the software, you can vehemently disagree with it or completely ignore its
+existence.
+
+The license only exists to give you extra rights you didn't already have under
+standard copyright law (permission to distribute the program & modify it, under
+certain conditions).
+
+An EULA is a dubious legal hack used by proprietary software to deprive you of
+rights you'd have had anyway if not for the EULA, which is the exact opposite
+of how free software works.
+
+Edit: A lot of people are replying to this saying I'm incorrect. I'm not. A lot
+of free software licenses such as the GPL v2 spell out explicitly that they
+have nothing to do with anything except copying/distribution or modification:
+
+    > Activities other than copying, distribution
+    > and modification are not covered by this License;
+    > they are outside its scope.[...]
+
+The GPL v3 says the same thing in different words, and as FigBug points out
+downthread the general FSF license FAQ makes this clear[1].
+
+The Open Source definition also asserts this by proxy. Licenses aren't allowed
+to impose any restrictions on users that they wouldn't have anyway if they had
+no license to the software.
+
+Really, if you use free software you can just completely ignore all the
+licenses and you don't need to understand or have read any of them. This is one
+of the beautiful things about free software that separates it from EULA-using
+proprietary software.
+
+Of course you need to understand the licenses if you want to distribute the
+software in any way, but that entirely falls under the umbrella of activity you
+didn't have permission for without the license, it would be copyright
+infringement by default.
+
+This is also why free software organizations like the FSF would as a last
+resort sue someone for copyright infringement, not violating the GPL (but of
+course adhering to the GPL would bring them back into compliance).
+
+This is different from proprietary software companies which might sue you over
+violations of their own made up rules, which you supposedly agreed to via the
+EULA.
+
+The EULA is a hack to try to apply contract law to your use of the program,
+whereas free software & open source licenses purely piggy-back on copyright
+law.
+
+All those licenses are a way to say "here's stuff we allow you to do, which you
+didn't have legal permission to do anyway in the absence of this license, given
+certain conditions" (or no conditions for e.g. the WFTPL).
+
+1. https://www.gnu.org/licenses/gpl-faq.en.html#NoDistributionR...

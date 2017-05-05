@@ -1,0 +1,9 @@
+Comment-Id:	12570668
+Comment-Author:	avar
+Comment-Date:	Sat Sep 24 12:25:18 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12570252
+
+You can make certain changes to any video and still keep the id. E.g. any
+arbitrary trimming or other edits allowed by YouTube's video editor, adding
+annotations to the video itself etc.

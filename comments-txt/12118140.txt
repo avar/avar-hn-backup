@@ -1,0 +1,19 @@
+Comment-Id:	12118140
+Comment-Author:	avar
+Comment-Date:	Mon Jul 18 21:25:32 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12116425
+
+Could you elaborate on what you think the current deployment of the X-37 has to
+do timeline wise with the cancellation of the shuttle program?
+
+After Challenger the Air Force cancelled its plan to use the shuttle for
+satellites and opted instead for more conventional boosters.
+
+I can't remember whether it was after Challenger or Columbia but didn't NASA
+also stop returning payloads from orbit from safety reasons after one of those
+disasters?
+
+I'm sure the Air Force is using the X-37 for something, although they're not
+saying what, but I don't see how whatever it is has to do with the timeline of
+the cancellation of the shuttle program.

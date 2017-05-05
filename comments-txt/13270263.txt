@@ -1,0 +1,17 @@
+Comment-Id:	13270263
+Comment-Author:	avar
+Comment-Date:	Wed Dec 28 13:18:02 UTC 2016
+Comment-Type:	comment
+Parent-Id:	13270188
+
+Because certain types of technical advancement requires an element of devaluing
+people.
+
+"Calculator" used to be a job performed exclusively by humans. Moving to
+mechanical & digital calculators didn't only require gains in efficiency, but
+also a recognition that this was a job humans were simply worse at than
+machines, so it was irresponsible to task a human with it.
+
+Similarly self-driving cars can't simply be a nice thing to have, eventually we
+have to have the discussion that it's irresponsible to have human driven
+vehicles on the road.

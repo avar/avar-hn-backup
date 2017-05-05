@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 6758173,
+  "parent" : 6757610,
+  "text" : "Just using &quot;sort(hash-keys())&quot; instead of &quot;hash-keys()&quot; should be a trivial patch that fixes this.",
+  "time" : 1384818552,
+  "type" : "comment"
+}

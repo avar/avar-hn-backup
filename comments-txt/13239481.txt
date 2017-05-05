@@ -1,0 +1,42 @@
+Comment-Id:	13239481
+Comment-Author:	avar
+Comment-Date:	Thu Dec 22 19:01:09 UTC 2016
+Comment-Type:	comment
+Parent-Id:	13239135
+
+Your paraphrasing of Feynman's bridge quote is inaccurate. From Appendix F[1]
+of the report:
+
+    [..]  In spite of these variations from case to case, officials behaved as
+    if they understood it, giving apparently logical arguments to each
+    other often depending on the "success" of previous flights. For
+    example. in determining if flight 51-L was safe to fly in the face of
+    ring erosion in flight 51-C, it was noted that the erosion depth was
+    only one-third of the radius. It had been noted in an experiment
+    cutting the ring that cutting it as deep as one radius was necessary
+    before the ring failed. Instead of being very concerned that
+    variations of poorly understood conditions might reasonably create a
+    deeper erosion this time, it was asserted, there was "a safety factor
+    of three." This is a strange use of the engineer's term ,"safety
+    factor." If a bridge is built to withstand a certain load without the
+    beams permanently deforming, cracking, or breaking, it may be designed
+    for the materials used to actually stand up under three times the
+    load. This "safety factor" is to allow for uncertain excesses of load,
+    or unknown extra loads, or weaknesses in the material that might have
+    unexpected flaws, etc. If now the expected load comes on to the new
+    bridge and a crack appears in a beam, this is a failure of the
+    design. There was no safety factor at all; even though the bridge did
+    not actually collapse because the crack went only one-third of the way
+    through the beam. The O-rings of the Solid Rocket Boosters were not
+    designed to erode. Erosion was a clue that something was wrong.
+    Erosion was not something from which safety can be inferred.
+
+His point about NASA's nonsensical use of the "safety factor" is not that you
+could drive over a bridge, and look, it didn't break, so it must be OK!
+
+It's even worse, you drive a truck over it, afterwards 1/3 of the steel is
+cracked, so you conclude that it must be able to safely accept 3x the weight.
+Nonesense! This is the sort of moronic engineering that killed the crew of the
+Challenger.
+
+1. http://science.ksc.nasa.gov/shuttle/missions/51-l/docs/roger...

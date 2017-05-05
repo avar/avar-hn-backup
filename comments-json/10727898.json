@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 10727898,
+  "parent" : 10727733,
+  "text" : "The inherent issue is that there&#x27;s a <i>huge</i> performance benefit to be gained by batching updates. FS safety will always come at the cost of performance.<p>The article doesn&#x27;t  say but I suspect most of the issues it mentions can be mitigated by mounting with the &quot;sync&quot; and &quot;dirsync&quot; options, but that absolutely <i>kills</i> performance.<p>The APIs involved could definitely be friendlier, but the app developer is using an API that&#x27;s explicitly performance oriented by default at the cost of safety, and needs to opt-in to get safer writes. Whether the default should be the other way around is one matter, but ultimately someone has to pick which one they want and live with the consequences.",
+  "time" : 1450040109,
+  "type" : "comment"
+}

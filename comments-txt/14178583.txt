@@ -1,0 +1,22 @@
+Comment-Id:	14178583
+Comment-Author:	avar
+Comment-Date:	Sun Apr 23 15:40:11 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14177921
+
+RAM is cheap.
+
+What's not cheap is requesting RAM from the OS piecemeal.
+
+In this particular case the curl maintainer ended up saving a bit of RAM as a
+side-effect, but it's actually much more common for programs that benefit from
+this class of optimization to waste RAM as a side-effect, and yet be much
+faster.
+
+For example a common optimization in high-level programming languages is to
+overallocate memory for strings. E.g. if the user requests "x" you allocate 16
+bytes, if you need 17 bytes you allocate 32 etc.
+
+This wastes RAM, a 513 byte string will malloc 1024 bytes, but ends up being
+much faster on overage exactly because RAM is cheap, but allocations are
+expensive.

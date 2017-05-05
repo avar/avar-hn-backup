@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 14179849,
+  "parent" : 14179498,
+  "text" : "You seem insistent on having some side-thread argument with me for some reason.<p><pre><code>    &gt; once you remove two bottlenecks...\n</code></pre>\nThe article we&#x27;re both commenting on goes to great length to point this out. I don&#x27;t know why you&#x27;re trying to convince me or anyone else of this.<p>Yes, in a network library malloc overhead isn&#x27;t usually a worthwhile thing to worry about, but libcurl is hardly just any random library.<p><pre><code>    &gt; libc is not the OS, it&#x27;s the standard library for C.\n</code></pre>\nI&#x27;m not trying to convince you that you should consider libc part of the OS.<p>I was merely clarifying that in the context of my comment, which you replied to assuming I just meant the kernel, that I was talking about the C library as well.<p>FWIW lots of people use &quot;Operating System&quot; to mean the set of software you get by default. OpenBSD, GNU, OSX, Android etc. definitely consider libc to be part of the OS, and Android probably considers its java class library part of the base OS. If everyone meant &quot;the kernel&quot; by &quot;the OS&quot; we&#x27;d just say &quot;the kernel&quot;.<p>You don&#x27;t have to  agree with that, but correcting people on that point is about as futile as trying to convince people that your use of &quot;hacker&quot; is correct.",
+  "time" : 1492974780,
+  "type" : "comment"
+}

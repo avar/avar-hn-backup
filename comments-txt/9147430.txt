@@ -1,0 +1,12 @@
+Comment-Id:	9147430
+Comment-Author:	avar
+Comment-Date:	Wed Mar  4 21:18:39 UTC 2015
+Comment-Type:	comment
+Parent-Id:	9147344
+
+You and mortehu upthread have mentioned Schengen in the context of being
+allowed to reside in any country within the area. That's not what Schengen is
+about, you're thinking of the European Economic Area.
+
+Schengen is a customs union which allows passport-free travel within its
+borders, but the EEA is the area you can freely migrate within.

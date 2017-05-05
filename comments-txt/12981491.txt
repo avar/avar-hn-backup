@@ -1,0 +1,16 @@
+Comment-Id:	12981491
+Comment-Author:	avar
+Comment-Date:	Thu Nov 17 20:58:46 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12981363
+
+Maybe one a month. Usually "We saw your profile on GitHub which matches <our
+vague search criteria> and would you be interested in <hackathon/conference/
+somesuchthing>?".
+
+To hijack your comment for my own follow-up question. I'm in the EU
+(Netherlands). Many of these mails are clearly mass E-Mails with just my name
+as a template sent by some US-based company, they'll include an unsubscribe
+link for future E-Mails, but aren't unsolicited mass-marketing E-Mails like
+these illegal in the EU, and if so would it be worthwhile reporting them, and
+who to?

@@ -1,0 +1,13 @@
+Comment-Id:	9714849
+Comment-Author:	avar
+Comment-Date:	Sun Jun 14 13:44:07 UTC 2015
+Comment-Type:	comment
+Parent-Id:	9714566
+
+As the sibling points out this isn't quite like what you have in Perl. In this
+case the python code will be parsed the same way. The difference with Perl is
+that depending on previously defined symbols something might parse as a
+function call, an indirect method call etc.
+
+This comment in the perl parser describes some of the beginnings of that rabbit
+hole: http://perl5.git.perl.org/perl.git/blob/70f63a4c7dba89e8e48b...

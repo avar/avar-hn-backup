@@ -1,0 +1,10 @@
+Comment-Id:	12093531
+Comment-Author:	avar
+Comment-Date:	Thu Jul 14 13:28:04 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12093429
+
+They're releasing with 30 games, and although they don't say it explicitly
+reading between the lines there's no mention of being able to install more, so
+they don't need a generic emulation for the 700-ish NES games that were
+released.

@@ -1,0 +1,13 @@
+Comment-Id:	10739282
+Comment-Author:	avar
+Comment-Date:	Tue Dec 15 18:02:49 UTC 2015
+Comment-Type:	comment
+Parent-Id:	10733409
+
+What if they had won? What bearing does suing the Wikimedia Foundation, a US
+entity, for material published in the US under US publishing laws?
+
+The German Wikipedia is published and maintained by a US entity, there's a
+local German Wikimedia chapter but it's not the publisher of the German
+Wikipedia. The article says that they sued the US entity (the Wikimedia
+Foundation Inc., not Wikimedia Deutschland), but doesn't explain this issue.

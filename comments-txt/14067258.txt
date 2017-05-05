@@ -1,0 +1,29 @@
+Comment-Id:	14067258
+Comment-Author:	avar
+Comment-Date:	Sat Apr  8 15:07:14 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14066948
+
+This bit about ICU support v.s. glibc:
+
+    > [...] Furthermore, at least on Red Hat, glibc regularly whacks
+    > around the behavior of OS-native collations in minor releases,
+    > which effectively corrupts PostgreSQL's indexes, since the index
+    > order might no longer match the (revised) collation order.  To
+    > me, changing the behavior of a widely-used system call in a
+    > maintenance release seems about as friendly as locking a family
+    > of angry racoons in someone's car, but the glibc maintainers
+    > evidently don't agree.
+
+Is a reference to the PostgreSQL devs wanting to make their index order a
+function of strxfrm() calls and to not have it change when glibc updates,
+whereas some on the glibc list think it should only be used for feeding it to
+the likes of strcmp() in the same process:
+
+    > The only thing that matters about strxfrm output is its strcmp
+    > ordering.  If that changes, it's either a bug fix or a bug
+    > (either in the code or in the locale data).  If the string
+    > contents change but the ordering doesn't, then it's an
+    > implementation detail that is allowed to change.
+
+-- https://sourceware.org/ml/libc-alpha/2015-09/msg00197.html

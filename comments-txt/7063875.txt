@@ -1,0 +1,10 @@
+Comment-Id:	7063875
+Comment-Author:	avar
+Comment-Date:	Wed Jan 15 15:38:38 UTC 2014
+Comment-Type:	comment
+Parent-Id:	7063842
+
+That's the least troubling side of this law. The most troubling thing is that
+you can now be thrown in prison on no more evidence than the presence of a blob
+of random data on your computer that the police can just claim is encrypted
+data that you're refusing to give up.

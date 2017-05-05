@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 11514308,
+  "kids" : [ 11514333 ],
+  "parent" : 11513822,
+  "text" : "You&#x27;ll find this old mailing list post a good answer to your question: <a href=\"http:&#x2F;&#x2F;zork.net&#x2F;~nick&#x2F;mail&#x2F;why-reiserfs-is-teh-sukc\" rel=\"nofollow\">http:&#x2F;&#x2F;zork.net&#x2F;~nick&#x2F;mail&#x2F;why-reiserfs-is-teh-sukc</a><p>The answer is cost. We used to have the computers you&#x27;re describing. They were made by SGI and the hardware &amp; OS made all sorts of guarantees like the ones you&#x27;re describing, to the point where XFS was ported to Linux x86 initially it had all sorts of bugs that simply couldn&#x27;t happen on SGI machines.<p>The x86 boxes were cheaper, nobody really cared enough about hardware reliability enough to pay the price for the likes of SGI, and the rest is history. Today we have a &quot;worse is better&quot; hardware architecture and software has to be able to handle it.",
+  "time" : 1460896300,
+  "type" : "comment"
+}

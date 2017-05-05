@@ -1,0 +1,10 @@
+Comment-Id:	7799454
+Comment-Author:	avar
+Comment-Date:	Mon May 26 12:28:25 UTC 2014
+Comment-Type:	comment
+Parent-Id:	7799132
+
+Aren't there areas of scientific research where people doing genuinely valuable
+research don't get cited at all except within a closed community? I'd imagine
+e.g. that a handful of researchers all studying some obscure animal species
+would have a high h-index but a very low PageRank.

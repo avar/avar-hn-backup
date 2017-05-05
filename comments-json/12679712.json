@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 12679712,
+  "kids" : [ 12679741, 12679731 ],
+  "parent" : 12679647,
+  "text" : "Maybe someone else&#x27;s servers wouldn&#x27;t be down when you post a link to your blog on HN.<p>As someone who hosts a lot of his own stuff, that&#x27;s the <i>real</i> selling point of cloud hosting. Not having to care about things like spam filtering, or how some blog you want to publish is going to scale in the face of unexpected traffic.",
+  "time" : 1476132779,
+  "type" : "comment"
+}

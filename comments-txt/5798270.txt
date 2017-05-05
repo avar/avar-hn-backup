@@ -1,0 +1,10 @@
+Comment-Id:	5798270
+Comment-Author:	avar
+Comment-Date:	Fri May 31 12:57:15 UTC 2013
+Comment-Type:	comment
+Parent-Id:	5798216
+
+    > Google/Apple/Microsoft buy their data from private satellites
+
+The Google coverage people are most familiar with (i.e. major cities) is not
+from private satellites, but private aerial surveys.

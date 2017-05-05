@@ -1,0 +1,10 @@
+Comment-Id:	13482484
+Comment-Author:	avar
+Comment-Date:	Wed Jan 25 16:04:02 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13479761
+
+Seems like a pretty perverse incentive to have the project largely funded by a
+commercial company offering a repackaging of the open source product with some
+added features that Wine couldn't add themselves least they compete with the
+benefactor directly and lose their funding.

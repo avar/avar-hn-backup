@@ -1,0 +1,18 @@
+Comment-Id:	12863080
+Comment-Author:	avar
+Comment-Date:	Thu Nov  3 11:35:45 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12863036
+
+The referendum to enter the EU had a 64% turnout with 67.23% voting yes &
+32.77% voting no. So that's around 43% that voted to enter[1].
+
+Regardless, I think this entire line of reasoning makes no sense. You could
+dismiss pretty much any election by multiplying the "yes" votes with voter
+turnout to get less than 50%.
+
+That's just how democracies work, if you don't care enough to vote you don't
+get a say, that doesn't mean the opinions of people who do turn up should be
+given less weight.
+
+1. https://en.wikipedia.org/wiki/United_Kingdom_European_Commun...

@@ -1,0 +1,16 @@
+Comment-Id:	11651353
+Comment-Author:	avar
+Comment-Date:	Sat May  7 21:06:18 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11650967
+
+I suppose it doesn't matter much in practice because few things have the
+density of an engine block, but I wonder if the Tesla is crash tested with
+luggage in the frunk, or always with it empty.
+
+People are going to be putting stuff into the frunk, even stuff that may be
+really solid and pointy and likely to breach into the cabin in the event of a
+crash.
+
+Is it especially armored to deal with those situations? Or should Tesla owners
+generally keep it empty if they're concerned with safety?

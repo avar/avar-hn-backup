@@ -1,0 +1,10 @@
+Comment-Id:	13029126
+Comment-Author:	avar
+Comment-Date:	Thu Nov 24 08:51:54 UTC 2016
+Comment-Type:	comment
+Parent-Id:	13028782
+
+If you're a state actor (Russia, China etc.) that has a sufficient funding /
+motivation to take a dataset like this and systematically blackmail people in
+it for information, it seems naïve to think that those states haven't had this
+sort of information for decades already through traditional espionage methods.

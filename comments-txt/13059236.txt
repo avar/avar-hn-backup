@@ -1,0 +1,14 @@
+Comment-Id:	13059236
+Comment-Author:	avar
+Comment-Date:	Mon Nov 28 23:08:55 UTC 2016
+Comment-Type:	comment
+Parent-Id:	13057605
+
+    > Let's jump back to the late 90s. You want to
+    > try Linux [...] get a KVM [...].
+
+KVM as in Kernel-based Virtual Machine? Don't you have the late 90s confused
+with the late 00s?
+
+The first Linux release with KVM was in 2007, KVM came out of an Israeli
+startup around 2005.

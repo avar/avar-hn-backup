@@ -1,0 +1,9 @@
+Comment-Id:	7894079
+Comment-Author:	avar
+Comment-Date:	Sun Jun 15 01:01:00 UTC 2014
+Comment-Type:	comment
+Parent-Id:	7894065
+
+More specifically radiation pressure, not all of it is visible light. Some
+quick searching turns up http://en.wikipedia.org/wiki/Radiation_pressure#
+Stellar_inte... and http://www.astro.caltech.edu/~george/ay20/Ay20-Lec7x.pdf

@@ -1,0 +1,14 @@
+Comment-Id:	13221270
+Comment-Author:	avar
+Comment-Date:	Tue Dec 20 16:29:16 UTC 2016
+Comment-Type:	comment
+Parent-Id:	13221207
+
+    > If you're on a POSIX machine.
+
+Don't you just mean some Linux distros & BSDs? I don't see any indication that
+ncal is standardized by POSIX: http://pubs.opengroup.org/onlinepubs/9699919799/
+idx/utilitie...
+
+According to the Linux manpage it's a FreeBSD command originally introduced in
+FreeBSD 2.2.6 in 1998: https://www.freebsd.org/releases/2.2.6R/announce.html

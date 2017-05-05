@@ -1,0 +1,28 @@
+Comment-Id:	10737559
+Comment-Author:	avar
+Comment-Date:	Tue Dec 15 13:15:57 UTC 2015
+Comment-Type:	comment
+Parent-Id:	10737513
+
+That's something you can easily attain in Git as well, your central repository
+just denies non-fast-forwards, which gives you exactly what fossil is giving
+you.
+
+What fossil is denying you is the ability to rewrite all history for whatever
+reason, whether that's because you want to squash multiple commits or have
+decided (after audits etc.) that you really want to rewrite your central
+history and start anew.
+
+Nobody needs audibility on unfinished work that hasn't been pushed to the
+central repositories (and would thus be protected by non-fast-forward).
+
+To the extent that you would fossil doesn't make the situation better, if I
+can't fix up my commits after the fact before I push them I'm just not going to
+make those intermediate commits in the first place, which gives the system no
+more information to work with, and results in a less convenient workflow for
+me.
+
+This whole "we preserve history forever" statement is a red herring. They've
+just picked a data model which is hard-immutable, but it doesn't mean that
+they're categorically preserving more information, or that tools that have
+configurable-immutable datamodels (like Git) preserve less history in practice.

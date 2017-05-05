@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 9014952,
+  "kids" : [ 9015274 ],
+  "parent" : 9014873,
+  "text" : "That&#x27;s true for something that uses e.g. autoconf, but moreutils doesn&#x27;t build any makefile or configure script, it&#x27;s right there in the Git repository. So I see what your objection is for packages in general, but it doesn&#x27;t apply in this case.",
+  "time" : 1423336102,
+  "type" : "comment"
+}

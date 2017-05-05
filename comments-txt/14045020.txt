@@ -1,0 +1,32 @@
+Comment-Id:	14045020
+Comment-Author:	avar
+Comment-Date:	Wed Apr  5 19:52:11 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14042115
+
+I'm not concluding that "the EU is just as bad as the US", and really, I can't
+see how you could possibly come to that conclusion after reading my comments.
+
+Yes, on average pretty much any part of the EU is better when it comes to
+homicide statistics. All I've been pointing out that from looking at the
+homicide & gun death statistics in the US you can't conclude that guns are
+important variable driving those statistics.
+
+    > we're [..] not talking about suicides [...]
+    > Stop injecting them into the discussion.
+
+You're the one who started injecting suicides into the discussion. In your
+earlier comment[1] you said, in response to a graph[2] I posted that included
+non-suicide numbers, which is the part I was citing, that the "lowest groups
+are 2-7". Those numbers include gun suicides, whereas I wasn't talking about
+that at all but the other data on the page which shows gun homicide statistics
+similar to the Dutch 0.58.
+
+But since you muddied the water by bringing up these unrelated suicide numbers,
+I started to itemize the suicide & the non-suicide you were conflating them
+with, and now a few comments later you're complaining about my discussing
+something you brought up in the first place.
+
+1. https://news.ycombinator.com/item?id=14034308
+
+2. http://projects.oregonlive.com/ucc-shooting/gun-deaths

@@ -1,0 +1,15 @@
+Comment-Id:	6534847
+Comment-Author:	avar
+Comment-Date:	Fri Oct 11 18:12:55 UTC 2013
+Comment-Type:	comment
+Parent-Id:	6534660
+
+    > What if you publish a negative review of a restaurant? Now it's
+    > super easy for them to find you and possibly harass you.
+
+That's already the case if you publish restaurant reviews on Google Maps, isn't
+the only difference here that those reviews will be presented on search
+results?
+
+Like Afterlife I really don't see what the big deal is. They're taking data
+that's already public and presenting it slightly differently.

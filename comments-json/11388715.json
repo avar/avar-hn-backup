@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 11388715,
+  "kids" : [ 11389890 ],
+  "parent" : 11388674,
+  "text" : "On which one does it work? I haven&#x27;t run across a Linux filesystem where it doesn&#x27;t work, including mounts over NFS. But I suppose on some non-POSIX platforms you might have more issues, or with some esoteric mount options to screw with mtime or something.<p>The reason it&#x27;s disabled by default is first of all that it&#x27;s relatively new, but secondly that if your FS stops behaving as expected (or you move your repo to one that doesn&#x27;t behave) it&#x27;ll degrade very badly, i.e. &quot;git status&quot; might now completely miss files that have been modified in your working tree.<p>But if you&#x27;re just running a system where you know you can trust the FS you can use the untracked cache and get a lot of &quot;git status&quot; speed-up, which&#x27;ll matter more the larger your checkout size is in terms of checked out directories &amp; files.",
+  "time" : 1459340752,
+  "type" : "comment"
+}

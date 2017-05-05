@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 13075697,
+  "kids" : [ 13076566 ],
+  "parent" : 13075502,
+  "text" : "I know the difference between autoconf and its generated .&#x2F;configure target.<p>Your comment overall indicated to me that you were talking about automake, not autoconf. But if not, fair enough.<p>E.g. you talk about &quot;learn the generating language instead of the Make language&quot;. I know you were using that as an example, but there&#x27;s no general non-horrible replacement for autoconf that you can write by hand, as opposed to automake where you can write a portable Makefile<p>You can of course write a bunch of ad-hoc shellscripts &amp; C test programs to probe your system, but this is going to be a lot nastier and buggier than just using autoconf to achieve the same goal.<p>You also don&#x27;t generally <i>need</i> autoconf to build projects you clone from source control in the same way that you need automake (because that actually makes the Makefile).<p>The output of autoconf is generally just a file full of variables the Makefile includes, if you don&#x27;t have that file you can just manually specify anything that differs from the Makefile defaults, e.g. NO_IPV6=YesPlease or whatever.<p>The Git project, whose autoconf recipe I&#x27;ve contributed to, is a good example of this. You can &quot;git clone&quot; it and just issue &quot;make&quot; and it works, but if the default config doesn&#x27;t work then &quot;make configure &amp;&amp; make&quot; generally solves it, but you can also just e.g. do &quot;make NO_IPV6=YesPlease&quot; if it was lack of IPv6 that was causing the compilation failure. It&#x27;ll then get your NO_IPV6 variable from the command-line instead of from the .&#x2F;configure generated config.mak.autogen.",
+  "time" : 1480548906,
+  "type" : "comment"
+}

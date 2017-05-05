@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 10344936,
+  "kids" : [ 10346898 ],
+  "parent" : 10344462,
+  "text" : "These instructions show how to build the Rakudo 2015.03 release, 2015.09 is the current one.",
+  "time" : 1444208896,
+  "type" : "comment"
+}

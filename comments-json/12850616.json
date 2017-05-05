@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 12850616,
+  "parent" : 12850536,
+  "text" : "Linux works just fine on lots of off the shelf hardware. E.g. I&#x27;m running Debian on a Dell E6330 and everything Just Works, same goes for lots of other hardware.<p>The only hassle is that I have to get the WiFi firmware from non-free in Debian, but that&#x27;s just a Debian-ism.",
+  "time" : 1478038809,
+  "type" : "comment"
+}

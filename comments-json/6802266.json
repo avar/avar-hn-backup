@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 6802266,
+  "parent" : 6801928,
+  "text" : "The standard filesystem in Mac OS X isn&#x27;t POSIX compliant and hasn&#x27;t ever been (HFS+ isn&#x27;t, UFS is). If you&#x27;re concerned about filesystem operations working as intended in code written for things that are POSIX compliant (like Git is) don&#x27;t use it.",
+  "time" : 1385483196,
+  "type" : "comment"
+}

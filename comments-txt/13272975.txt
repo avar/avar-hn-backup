@@ -1,0 +1,9 @@
+Comment-Id:	13272975
+Comment-Author:	avar
+Comment-Date:	Wed Dec 28 19:31:30 UTC 2016
+Comment-Type:	comment
+Parent-Id:	13272931
+
+Go to the "Battery" tab in the settings and see what you're spending it on.
+Most likely you've installed some app that's running services in the background
+which eats up your battery.

@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 13698447,
+  "kids" : [ 13698586 ],
+  "parent" : 13698351,
+  "text" : ":&lt;whatever&gt; means &quot;read it from the &lt;whatever&gt;&quot; file. See the last part of the relevant glibc documentation: <a href=\"https:&#x2F;&#x2F;www.gnu.org&#x2F;savannah-checkouts&#x2F;gnu&#x2F;libc&#x2F;manual&#x2F;html_node&#x2F;TZ-Variable.html\" rel=\"nofollow\">https:&#x2F;&#x2F;www.gnu.org&#x2F;savannah-checkouts&#x2F;gnu&#x2F;libc&#x2F;manual&#x2F;html_...</a><p>However the reason it works without : is that the implementation is being lazy and just ignores the : delimiter and falls back to parsing out a filename either way:<p><a href=\"https:&#x2F;&#x2F;sourceware.org&#x2F;git&#x2F;?p=glibc.git;a=blob;f=time&#x2F;tzset.c;hb=refs&#x2F;heads&#x2F;master#l418\" rel=\"nofollow\">https:&#x2F;&#x2F;sourceware.org&#x2F;git&#x2F;?p=glibc.git;a=blob;f=time&#x2F;tzset....</a>",
+  "time" : 1487703760,
+  "type" : "comment"
+}

@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 13776413,
+  "kids" : [ 13776573 ],
+  "parent" : 13776335,
+  "text" : "You don&#x27;t have to know what would be a mistake. E.g. if the tool is used most of the time to operate on a small set of servers, you have some extra confirmation or command-line option for removing a large set.<p>That&#x27;s good UI design in tools with powerful destructive capabilities. You make the UI to do <i>lots</i> of things v.s. the few things you do routinely different enough that there&#x27;s no mistaking them.",
+  "time" : 1488477486,
+  "type" : "comment"
+}

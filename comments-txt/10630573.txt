@@ -1,0 +1,8 @@
+Comment-Id:	10630573
+Comment-Author:	avar
+Comment-Date:	Thu Nov 26 00:00:40 UTC 2015
+Comment-Type:	comment
+Parent-Id:	10629955
+
+Are there certificates that are "generally unrecognized" and are shipped by the
+two biggest OSs in use? That seems like an oxymoron.

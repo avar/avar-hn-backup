@@ -1,0 +1,15 @@
+Comment-Id:	12822885
+Comment-Author:	avar
+Comment-Date:	Sat Oct 29 06:34:02 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12822816
+
+Another approach you can use in some cases with the JVM, which is often the
+simplest, is to set up the JVM so it doesn't GC (give it a lot of memory), then
+either just spawn a new JVM to take over, or take the machine about to run a GC
+out of your load-balanced pool before running a full GC, then put it back in
+again.
+
+Doing the manually triggered & staggered GC trick on a pool of machines you
+control can give you very low latency guarantees, since no production request
+will ever hit a GC-ing JVM.

@@ -1,0 +1,12 @@
+Comment-Id:	7749000
+Comment-Author:	avar
+Comment-Date:	Thu May 15 12:26:00 UTC 2014
+Comment-Type:	comment
+Parent-Id:	7748780
+
+Interestingly thought it's easy to find press releases and related material
+from the Icelandic government itself which uses Icelandic patronyms as
+surnames. E.g. [1] from the Icelandic Minstry for Foreign Affairs referring to
+the foreign minister, Gunnar Bragi Sveinsson as "Mr. Sveinsson".
+
+1. http://eng.utanrikisraduneyti.is/news-and-publications/nr/77...

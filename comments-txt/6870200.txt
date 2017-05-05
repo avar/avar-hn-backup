@@ -1,0 +1,17 @@
+Comment-Id:	6870200
+Comment-Author:	avar
+Comment-Date:	Sun Dec  8 16:53:41 UTC 2013
+Comment-Type:	comment
+Parent-Id:	6870140
+
+That doesn't need to be the case. You can have a weighted web of trust where if
+a new party (e.g. because they presented their passport & proof of ownership of
+a domain) gets trusted because they were certified by an already trusted party.
+
+You could implement a weighted trust system where you're more trusted the more
+people trust you, and consequently if you "issue" trust it's counted as more
+trustworthy than issuing trust to yourself.
+
+So you could have the equivalent of CA's in a system like that, but the list
+could be dynamic based on total trust on the network, instead of being issued
+by a static list of 100% trusted parties like the system we have now.

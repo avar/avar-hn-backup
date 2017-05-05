@@ -1,0 +1,10 @@
+Comment-Id:	11514317
+Comment-Author:	avar
+Comment-Date:	Sun Apr 17 12:36:51 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11514271
+
+How would this work while still retaining the ability to have e.g. indoor GPS
+repeaters?[1].
+
+1. http://www.gps-repeaters.com

@@ -1,0 +1,44 @@
+Comment-Id:	9210883
+Comment-Author:	avar
+Comment-Date:	Mon Mar 16 11:37:33 UTC 2015
+Comment-Type:	comment
+Parent-Id:	9210322
+
+Exactly-once is possible in practice if you effectively bring the client under
+the umbrella of your transactions. E.g. you can (ab)use MySQL and other RDBMs
+to do something like:
+
+1. Have a table where each row is a "job" or "message" and has a status which
+when enqueued is status = "unclaimed". You can also have a `last_changed`
+column.
+
+2. Have workers consuming that table that GET_LOCK() a row and set status =
+"processing" and hold the lock for the duration of the processing.
+
+3. When they're finished with the task they update status = "finished" and
+unlock the row (or equivalently, disconnect).
+
+This requires much tighter coupling between the queue and the queue consumer
+(each client must maintain a lock / connection for the duration of processing
+items).
+
+But it means that:
+
+* Nothing will ever pick up the item more than once due to the GET_LOCK().
+
+* If the consumer dies the item is either just unlocked, or the status is
+"processing". You can as a matter of policy re-pick up "processing" with a
+`last_changed` in the distant past, alert on those items and manually inspect
+them.
+
+* If the consumer processes the item successfully it'll set the status to
+"finished" and nothing will process the item again.
+
+Now obviously this requires a lot more overhead & maintenance than what you
+have in mind, in particular it makes some of the failure cases be "the item is
+delayed due to a consumer dying and won't be processed until a human looks at
+whether it was actually finished".
+
+But this is the sort of pattern that you might use e.g. if you have a queue for
+sending out invoices. At work we use MySQL + https://metacpan.org/pod/
+Data::Consumer::MySQL to do this.

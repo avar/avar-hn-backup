@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 11603344,
+  "kids" : [ 11605905, 11605434 ],
+  "parent" : 11603290,
+  "text" : "Wasn&#x27;t he working from home from Hawaii as a contractor with a remote login and could easily transfer data from NSA systems at his leisure? Isn&#x27;t this whole framing of a Jason Bourne-esque exfiltration of the data just a myth?<p>Aside from Snowden you don&#x27;t have to elaborately hide an SD card in a Rubik&#x27;s cube. Just strick it in a condom and shove it.<p>From what I&#x27;ve read security against this sort of exfiltration is focused on disabling USB ports and the like. Not trying to detect something the size of an SD card leaving the building. They&#x27;re not doing a full cavity search or giving you an MRI each time you enter&#x2F;exit.",
+  "time" : 1462046946,
+  "type" : "comment"
+}

@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 13111287,
+  "kids" : [ 13112188, 13115070 ],
+  "parent" : 13110536,
+  "text" : "<p><pre><code>    Its [errno&#x27;s] value is significant only when the return value of\n    the call indicated an error (i.e., -1 from most calls; -1 or NULL\n    from most library functions); a function that succeeds is allowed\n    to change errno.</code></pre>",
+  "time" : 1480984823,
+  "type" : "comment"
+}

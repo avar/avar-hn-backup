@@ -1,0 +1,24 @@
+Comment-Id:	11809112
+Comment-Author:	avar
+Comment-Date:	Tue May 31 18:59:13 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11808716
+
+Yes as I pointed out you don't want this if you're doing NFS.
+
+Personally I prefer something like a MySQL table with GET_LOCK() to process
+things instead of NFS if I need multiple machines. It gives you flock() like
+semantics in that if a machine or client goes away the GET_LOCK() is
+automatically freed, i.e. it survives as long as the connection to the database
+survives.
+
+Not having to deal with stale locks generally sucks way less than the extra
+overhead of a database.
+
+For any NFS-based scenario you usually end up creating a "task" "task.underway"
+and "task.done" files as locks, and re-enqueuing tasks if you have a "underway"
+file that's too old without a "done" file.
+
+You'd do the same with a MySQL table that you GET_LOCK() on, except you can
+safely re-enqueue "underway" tasks if you acquire the lock on them, since you
+know their consumers have gone away.

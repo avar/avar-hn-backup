@@ -1,0 +1,34 @@
+Comment-Id:	13663806
+Comment-Author:	avar
+Comment-Date:	Thu Feb 16 21:45:07 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13663707
+
+Is it possible to go outside the bounds of what a typical international airport
+looks like today? E.g. no security screenings so people can pretty much just
+walk on the plane like it's a train station?
+
+That would mean you don't need space for restaurants, or lots of space for
+people to pool as they're waiting past security.
+
+It would be very interesting to experiment with changes like that and see how
+it would look.
+
+Edit: There's now an entire discussion downthread about how airports did and
+didn't look like before 9/11.
+
+That misses the point of what I'm asking, which I'll rephrase. I'm asking as a
+simulation game, how customizable is this? E.g. in in SimCity 2000 it initially
+looks like you can do anything, but really you can't design something that
+doesn't look & function either like an American suburb or car-centric Los
+Angeles. There's no way to construct something that looks & functions remotely
+like the city of Venice in SimCity.
+
+Similarly in this game, can you really design your own airport that works
+anyway you want from scratch? Or are you just placing all the pieces in your
+typical international airport in different places on the board, while the NPCs
+walk in some pre-determined route from parking, to checkin, to security etc.
+
+There's nothing that appears in the very brief trailer that suggests that it
+isn't highly constrained in the same way SimCity is. But I'd love to know if
+that's really the case.

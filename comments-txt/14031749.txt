@@ -1,0 +1,7 @@
+Comment-Id:	14031749
+Comment-Author:	avar
+Comment-Date:	Tue Apr  4 12:23:57 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14030963
+
+Silencers also mitigate hearing loss & noise pollution.

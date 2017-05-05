@@ -1,0 +1,21 @@
+Comment-Id:	13263422
+Comment-Author:	avar
+Comment-Date:	Tue Dec 27 14:53:01 UTC 2016
+Comment-Type:	comment
+Parent-Id:	13262559
+
+How are you calculating that entire reservoir would boil? It's filled with 8B m
+^3 of water.
+
+I couldn't find the formulas to calculate this myself, but given Tuna-Fish's
+comment above that it's enough to boil a kiloton of water (1000 m^3) ever hour
+that's 1K/8B =~ 0.00001%.
+
+So it's going to be more on the order of dropping a single drop of boiling
+water into a backyard pool every hour, is it not? I.e. something that wouldn't
+change the overall temperature of the reservoir to any significant degree.
+
+This is all assuming that you'd have to use the energy to heat the reservoir
+itself, you could just as easily use it to pump out some water and boil it
+until it evaporates, not impacting the temperature of the reservoir at all,
+just emitting a lot of steam into the air.

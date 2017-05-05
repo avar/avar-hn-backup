@@ -1,0 +1,9 @@
+Comment-Id:	12378273
+Comment-Author:	avar
+Comment-Date:	Sun Aug 28 20:09:43 UTC 2016
+Comment-Type:	comment
+Parent-Id:	12378234
+
+We're discussing the TTIP here, which is exclusively a deal between western
+democracies. You may be confusing it with the TPP which e.g. includes
+Singapore.

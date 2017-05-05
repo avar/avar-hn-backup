@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 13833985,
+  "kids" : [ 13838472 ],
+  "parent" : 13830740,
+  "text" : "It&#x27;s way easier for someone to hack up an acceptable new UI for org-mode (whatever that looks like) using the existing underlying Emacs org-mode code&#x2F;runtime than it is to hack up a new UI <i>and</i> completely replace all the Emacs code &amp; org-mode.<p>You can run Emacs headless, it has C extension support now, your Mac app could start it headless and communicate with it over a socket or as a network process. Multiple Emacs modes do this to make Emacs itself talk to other programs (e.g. mu4e &lt;-&gt; mu, gud &lt;-&gt; gdb), there&#x27;s no reason you can&#x27;t do it the other way around.",
+  "time" : 1489095609,
+  "type" : "comment"
+}

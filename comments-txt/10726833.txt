@@ -1,0 +1,14 @@
+Comment-Id:	10726833
+Comment-Author:	avar
+Comment-Date:	Sun Dec 13 16:47:46 UTC 2015
+Comment-Type:	comment
+Parent-Id:	10726570
+
+How does Plan 9 deal the equivalent of this append-only pattern potentially
+causing corruption on Unix if you have multiple writers and the writes are
+larger than PIPE_BUF (4k by default on Linux)?
+
+Most users of this pattern (concurrent updates to log files) get away with it
+because their updates are smaller than 4k, but if you're trying to write
+something as big as an E-Mail with this pattern you can trivially get
+interleaved writes resulting in corruption.

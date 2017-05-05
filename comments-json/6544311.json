@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 6544311,
+  "kids" : [ 6544407 ],
+  "parent" : 6544284,
+  "text" : "You&#x27;re right about the issues, I wish GitHub used some plain-text format with an optional UI for that (e.g. plain org-mode files), but the wiki on GitHub is just a plain Git repo with Markdown files, it&#x27;s not centralized.<p>I don&#x27;t see how you lose the community more than with any hosting method. If GitHub were nuked off the face of the earth you have all the contributors in your Git history, just send them a mail with the new location of the repo.",
+  "time" : 1381701666,
+  "type" : "comment"
+}

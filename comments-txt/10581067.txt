@@ -1,0 +1,57 @@
+Comment-Id:	10581067
+Comment-Author:	avar
+Comment-Date:	Tue Nov 17 14:06:16 UTC 2015
+Comment-Type:	comment
+Parent-Id:	10580951
+
+    > That seems a very poor and weak definition.
+
+It's not the definition. It's my poor recollection of a book I read over a year
+ago for the purposes of a HN comment. I'm not trying to establish some
+all-encompassing holistic definition of morality right here in this comment
+chain.
+
+I'm just replying to the religious OP (@cmdkeen) that if he's interested in
+what secular people have to say on the subject of morality there's a lot
+written on that subject. I found Sam Harris's book on it interesting, but it's
+certainly not the first or the last word on a secular definition of morality.
+
+Having said that I'll elaborate a bit more on my poor recollection of the book.
+
+    > 1. It focuses on human as only a human can be happy.
+
+I think for the purposes of the book, yes, but there's nothing intrinsic about
+his idea of morality that's isolated to Homo Sapiens. If you wanted to maximize
+human and canine happiness you could do that too to some degree.
+
+    > 2. net increase is relative, so this is relative to the author's life/view of the world.
+    > 3. Well-being doesn't mean anything. Does he defines it too?
+
+He argues that this largely isn't the case.
+
+The basic idea he's putting forth is that there's actions you can perform which
+will make people happy (e.g. being nice to them) and sad (e.g. subjecting them
+to genocide).
+
+Obviously this is not a single-axis spectrum. So he's setting forth the
+argument that happiness can be attained similarly to how we maximize the
+performance of a hill-climbing algorithm.
+
+If we were in real-time able to monitor the net happiness of every human (and
+also animals, if you insist) and tweak our societies so that net happiness
+would go up we'd arrive at a moral society.
+
+So thus we can say that some societies are more moral than others. E.g. every
+modern western state would be morally superior to the Mongol empire by this
+happiness ratio we can say the society is "better", and once we have a metric
+we can work to maximize happiness in our own societies.
+
+I think the main hole someone who's religious would poke in this would be "but
+that's not morality, you're just optimizing for hedonism!". I think to some
+degree that's true, but from what I've read of secular literature on the
+subject the idea of "morality" is pretty much discredited.
+
+It's based on the notion of absolutes, usually handed down by some deity. Once
+you get rid of that (because deities don't exist) what do you replace it with?
+Some combination of "don't do harm" and "let's make everyone happy" most
+likely.

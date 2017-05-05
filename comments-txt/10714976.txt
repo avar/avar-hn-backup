@@ -1,0 +1,14 @@
+Comment-Id:	10714976
+Comment-Author:	avar
+Comment-Date:	Fri Dec 11 01:36:56 UTC 2015
+Comment-Type:	comment
+Parent-Id:	10714946
+
+I think the crucial difference is that when you talk about "open source X" it
+means that any aspect of X can be modified as you please. Obviously when you're
+talking about an open source iOS app it's understood that the underlying OS
+isn't open source.
+
+Since there is hardware that is actually open in that sense it's worthwhile to
+distinguish whether you're talking about open hardware or merely open plans for
+assembly of closed hardware.

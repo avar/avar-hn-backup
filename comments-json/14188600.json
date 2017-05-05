@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 14188600,
+  "kids" : [ 14188746, 14193658 ],
+  "parent" : 14184528,
+  "text" : "There&#x27;s another way for glob() implementations to mitigate these sort of patterns that Russ doesn&#x27;t discuss, but can be inferred from a careful reading of the different examples in this new glob() article &amp; the 2007 regex article.<p>In the regex article he notes that e.g. perl is subject to pathological behavior when you match a?^na^n against an a^n:<p><pre><code>    $ time perl -wE &#x27;my $l = shift; my $str = &quot;a&quot; x $l; my $rx = &quot;a?&quot; x $l . $str; $str =~ &#x2F;${rx}&#x2F;&#x27; 28\n    real    0m13.278s\n</code></pre>\nHowever changing the pattern to &#x2F;${rx}b&#x2F; makes it execute almost instantly. This is because the matcher will look ahead for fixed non-pattern strings found in the pattern, and deduce that whatever globbing we&#x27;re trying to match now it can&#x27;t possibly matter if the string doesn&#x27;t have a &quot;b&quot; in it.<p>I wonder if any globbing implementations take advantage of that class of optimization, and if there&#x27;s any cases where Russ&#x27;s suggested solution of not backtracking produces different results than you&#x27;d get by backtracking, in particular with some of the extended non-POSIX glob syntax out there.",
+  "time" : 1493070135,
+  "type" : "comment"
+}

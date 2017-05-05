@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 9689975,
+  "kids" : [ 9690466 ],
+  "parent" : 9689706,
+  "text" : "From the article:<p><pre><code>    Of particular concern is that Obnam has a theoretical collision\n    potential, in that if a block has the same MD5 hash as another\n    block, it will assume they are the same. This behaviour is the\n    default, but can be mitigated by using the verify option. I tried\n    with and without, and interestingly did not notice any speed\n    difference (2 seconds, which is statistically insignificant) and\n    also did not encounter any bad data on restoration. So I don&#x27;t\n    know why it&#x27;s off by default.\n</code></pre>\nWorrying about this violates Taylor&#x27;s Law of Programming\nProbability[1]:<p><pre><code>    The theoretical possibility of a catastrophic occurrence in your\n    program can be ignored if it&#x27;s less likely than the entire\n    installation being wiped out by meteor strike.\n</code></pre>\nI&#x27;ve seen a lot of sysadmins or programmers nitpick systems that have\nthe theoretical possibility of md5 or sha1 collisions, but it&#x27;s\n<i>amazingly</i> unlikely to happen in something like a backup system where\nyou&#x27;re backing up your own data, and not taking hostile user data\nwhere the users might be engineering collisions:<p>1. <a href=\"http:&#x2F;&#x2F;www.miketaylor.org.uk&#x2F;tech&#x2F;law.html\" rel=\"nofollow\">http:&#x2F;&#x2F;www.miketaylor.org.uk&#x2F;tech&#x2F;law.html</a>",
+  "time" : 1433909066,
+  "type" : "comment"
+}

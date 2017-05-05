@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 8759797,
+  "kids" : [ 8762155 ],
+  "parent" : 8759710,
+  "text" : "You can relatively easily MITM most applications by uploading a custom root certificate to your phone, and doing SSL termination + re-establishment on a router your phone is using.",
+  "time" : 1418766751,
+  "type" : "comment"
+}

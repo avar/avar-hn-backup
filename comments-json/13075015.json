@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 13075015,
+  "kids" : [ 13075502 ],
+  "parent" : 13074863,
+  "text" : "You&#x27;ve confused autoconf with automake. The output from autoconf is just a list of variables that are sourced by your handwritten Makefile, which you can supply yourself if you don&#x27;t feel like executing autoconf.<p>It&#x27;s automake that writes your Makefile for you, but you can just skip using that. E.g. the Git project uses autoconf optionally but not automake.",
+  "time" : 1480542430,
+  "type" : "comment"
+}

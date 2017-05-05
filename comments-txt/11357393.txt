@@ -1,0 +1,17 @@
+Comment-Id:	11357393
+Comment-Author:	avar
+Comment-Date:	Thu Mar 24 23:31:12 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11356461
+
+I've been curious as to why the following strategy wouldn't work as a hack as
+well:
+
+* Your credit card has a balance of $0 on it
+
+* You have some app that allows $NAME to deduct $X from it
+
+* You transfer $X to it earmarked for $NAME for some limited amount of time.
+
+I.e. you could walk into Starbucks, have an app on your phone to say you're
+depositing $20 into an account earmarked for /starbucks/i for 30 minutes.

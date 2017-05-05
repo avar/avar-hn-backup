@@ -1,0 +1,22 @@
+Comment-Id:	7546440
+Comment-Author:	avar
+Comment-Date:	Mon Apr  7 13:50:30 UTC 2014
+Comment-Type:	comment
+Parent-Id:	7545881
+
+Right, and now you can use "git show --pretty=raw" to see the commit header:
+
+    $ git show --pretty=raw 313378458f8c4fb53c808f4b0bae5bf71ba5e23b | head -n 10
+    commit 313378458f8c4fb53c808f4b0bae5bf71ba5e23b
+    tree 7e93df01bfc9c187d58a0b96e756dd8ac0031c82
+    parent e4eef26d985177e4bdd32bf58b6ae40e7ae67289
+    author Spencer Creasey <screasey@monetate.com> 1396872901 -0400
+    committer Spencer Creasey <screasey@monetate.com> 1396872901 -0400
+    lulz 843475
+
+        1337 Test Commit
+
+        http://lists-archives.com/git/756394-choosing-the-sha1-prefix-of-your-commits.html
+
+There's replies in that thread where the naïve technique I was using was
+improved a lot.

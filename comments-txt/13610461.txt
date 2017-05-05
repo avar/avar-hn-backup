@@ -1,0 +1,24 @@
+Comment-Id:	13610461
+Comment-Author:	avar
+Comment-Date:	Thu Feb  9 20:12:39 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13605508
+
+> In case of GPL, you merely sell support licenses.
+
+This really isn't an option for a lot of things, and gives you some really
+perverse incentives to make things complex enough that they need support. Who's
+going to buy support licenses for /bin/ls, or most of coreutils, or most of
+libc?
+
+You'll get people buying support licenses for MySQL and other difficult to
+configure & operate codebases, but not for the vast majority of code they use
+on their systems.
+
+I work for a big company that runs a shit-ton of open source, we sponsor the
+two/three biggest projects we use, but by volume it's 0.1% of the total number
+of open source projects we use, at best.
+
+This is a general problem for open source, everyone's using a huge long tail of
+infrastructure code that needs to be maintained, but any one company has no
+strong reason to support it.

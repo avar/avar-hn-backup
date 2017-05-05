@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 13948118,
+  "kids" : [ 13948210 ],
+  "parent" : 13946842,
+  "text" : "You also need the permission of all the authors of the code those patches are based on, because almost all new patches are inevitably derived work of the existing codebase.<p>It&#x27;s not practical unless you can maintain a near-100% approval rate from all OpenSSL contributors that their patches are dual-licensed.",
+  "time" : 1490354256,
+  "type" : "comment"
+}

@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 11500266,
+  "kids" : [ 11500329 ],
+  "parent" : 11499484,
+  "text" : "Google&#x27;s certainly at some fault here, e.g. by choosing to long-term fork Linux instead of trying to upstream their patches.<p>But my understanding is that they couldn&#x27;t &quot;just&quot; do something like what Windows does, they don&#x27;t get to boss the OEMs around in that capacity, some of the big ones effectively have their own Android forks (Samsung) or have already forked (Amazon), and if Google starts bossing them around they&#x27;re just as likely to fully fork it as be brought into the fold.",
+  "time" : 1460667282,
+  "type" : "comment"
+}

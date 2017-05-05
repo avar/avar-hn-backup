@@ -1,0 +1,13 @@
+Comment-Id:	13540246
+Comment-Author:	avar
+Comment-Date:	Wed Feb  1 12:43:03 UTC 2017
+Comment-Type:	comment
+Parent-Id:	13540212
+
+That guy is going to be interviewing at some company with someone who's
+obsessive enough about outage reports to remember a then-obscure one years
+later, but enough of an idiot to not understand that people aren't personally
+to blame for this sort of stuff?
+
+Sounds like even in that very contrived scenario the guy involved would dodge a
+bullet in not being hired by a bunch of idiots.

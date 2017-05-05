@@ -1,0 +1,21 @@
+Comment-Id:	11261135
+Comment-Author:	avar
+Comment-Date:	Thu Mar 10 18:44:00 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11259155
+
+    > So while passing the Turing Test may not be enough, not passing
+    > the Turing Test is a sign that the computer is unintelligent.
+
+You could have an intelligence that's just not smart in the human sense.
+Consider running into an alien intelligence evolved from our equivalent of
+octopuses, you ask it a questions but it only communicates via color changes on
+its body.
+
+Similarly you can conceive of an AI that's smart, self-aware and intelligent
+just hasn't been developed to talk to humans.
+
+The Turing test is a fine test to figure out if your AI is conversational with
+humans, but the OP I was replying to was suggesting it as a general AI
+intelligence test, it's not meant for that, and will give you both false
+positives & negatives.

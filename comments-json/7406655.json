@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 7406655,
+  "kids" : [ 7406777 ],
+  "parent" : 7406064,
+  "text" : "It&#x27;s faux-open because it&#x27;s not developed in the open. Google just code-dumps Android after every major release, only OEMs have access to development builds. If you don&#x27;t get a Google paycheck it&#x27;s thus very hard to contribute to it as an open project.<p>It&#x27;s faux-open because almost every single Android device needs proprietary kernel blobs &amp; firmware to operate almost any non-trivial hardware feature on the device. In practice this pins you to specific kernel versions&#x2F;APIs, and you&#x27;re running code you can&#x27;t change or even audit.",
+  "time" : 1394920700,
+  "type" : "comment"
+}

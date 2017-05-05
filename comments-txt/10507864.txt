@@ -1,0 +1,9 @@
+Comment-Id:	10507864
+Comment-Author:	avar
+Comment-Date:	Wed Nov  4 16:57:34 UTC 2015
+Comment-Type:	comment
+Parent-Id:	10507157
+
+What would be the benefit of slowing the release process of RHEL on AWS by
+pruning it down to the bare essentials? Is redundant stuff like WiFi-drivers &
+firmware really taking that much space that it matters?

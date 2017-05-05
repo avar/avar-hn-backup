@@ -1,0 +1,9 @@
+Comment-Id:	10593804
+Comment-Author:	avar
+Comment-Date:	Thu Nov 19 09:55:03 UTC 2015
+Comment-Type:	comment
+Parent-Id:	10593778
+
+It's quite easy to make this particular *.exe path return an "Internal Error"
+by fuzzing the GET parameters, which may or may not be due to someone having
+written something that parses user-supplied data in C that then segfaults :)

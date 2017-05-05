@@ -1,0 +1,10 @@
+Comment-Id:	11917600
+Comment-Author:	avar
+Comment-Date:	Thu Jun 16 17:32:59 UTC 2016
+Comment-Type:	comment
+Parent-Id:	11916276
+
+Reformat old diffs? If you're under the impression that Git stores diffs you're
+mistaken. It stores the full file contents and delta-compresses them later.
+
+Diffs in Git are purely a presentation format for human consumption.

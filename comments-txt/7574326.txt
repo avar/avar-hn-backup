@@ -1,0 +1,18 @@
+Comment-Id:	7574326
+Comment-Author:	avar
+Comment-Date:	Fri Apr 11 17:46:04 UTC 2014
+Comment-Type:	comment
+Parent-Id:	7573825
+
+Right, I'm just elaborating and pointing out that this caveat only happens as
+long as the offer is structured in such a way that you have a massive increase
+to it at a specified time once a year.
+
+Then if you hate your job and you're close to that specified time it's in your
+interest to wait, even though the point of the policy is that Amazon would
+rather that you quit.
+
+If they just increased the offer with more granularity they wouldn't create
+that conflict of interest. You'd only get more money as a function of the time
+you stayed on the job, so you might as well quit right away instead of waiting
+a few months for a much larger payout.
