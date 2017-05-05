@@ -1,0 +1,13 @@
+Comment-Id:	1279986
+Comment-Author:	avar
+Comment-Date:	Tue Apr 20 17:17:58 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1279766
+
+"Ability" doesn't imply "first-class support" or "good idea". In languages that
+aren't Lisp this usually ends up being done by passing a raw string to eval()
+which is extremely error prone. It's not something you do lightly.
+
+Constructing macros in Lisp however /is/ something you do lightly. A typical
+lisp program might have a 20/80 division of macros/functions. You aren't going
+to see a sane program in other languages that do the same thing.

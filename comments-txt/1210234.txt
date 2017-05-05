@@ -1,0 +1,16 @@
+Comment-Id:	1210234
+Comment-Author:	avar
+Comment-Date:	Mon Mar 22 13:33:07 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1210114
+
+That's an incomplete analogy. Specific Open Source projects aren't democracies
+Open Source at large is, or something resembling it.
+
+I installed Ubuntu 10.04 beta1 and didn't like the button arrangement. It was
+trivial to fix it by just doing: sudo add-apt-repository ppa:stownsend42/
+light-themes
+
+If enough people don't like the default setup of Ubuntu someone will just fork
+it. In fact there are already three forks that I know of: Kubuntu, Xubuntu and
+Edubuntu.

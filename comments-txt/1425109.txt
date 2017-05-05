@@ -1,0 +1,14 @@
+Comment-Id:	1425109
+Comment-Author:	avar
+Comment-Date:	Fri Jun 11 23:24:06 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1424033
+
+Something like "you should explain a joke, it's like dissecting a frog. It's
+messy and the frog doesn't survive the process" went a quote whose original
+source or exact wording I can't find now.
+
+For what it's worth I meant it in the sense that euccastro pointed out. Not
+that this particular change made things worse, but that entering into a deal
+which one of the parties can arbitrarily change doesn't make for the stablest
+of work environments.

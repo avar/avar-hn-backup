@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1458769,
+  "kids" : [ 1459303 ],
+  "parent" : 1458697,
+  "text" : "I tried it on a 943M tarball that contains miscellaneous Git\nrepositories and their checked out trees that I had lying around:<p><pre><code>    Compressor  Size  Ratio  Compression  Decompression\n    gzip -9     555M  59%    2m39.840s    0m16.495s\n    bzip2 -9    531M  56%    4m10.541s    1m27.720s\n    xz -9       457M  48%    13m55.730s   0m53.290s</code></pre>",
+  "time" : 1277405145,
+  "type" : "comment"
+}

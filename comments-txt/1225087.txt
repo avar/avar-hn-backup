@@ -1,0 +1,10 @@
+Comment-Id:	1225087
+Comment-Author:	avar
+Comment-Date:	Sun Mar 28 19:31:40 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1225078
+
+It's required for using your ibuffer-format which references eproject. I
+couldn't be bothered to customize it to something different.
+
+I should probably learn to use eproject anyway.

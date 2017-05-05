@@ -1,0 +1,10 @@
+Comment-Id:	1286463
+Comment-Author:	avar
+Comment-Date:	Thu Apr 22 21:11:24 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1286433
+
+Some of the issues they cite ("doesn't currently handle HTTP authentication as
+well as it might", "no support for HTTP/1.1") look like they could be solved by
+using a HTTP library like libcurl instead of rolling their own thing. I wonder
+if there's political opposition to that (since cURL isn't GNU).

@@ -1,0 +1,9 @@
+Comment-Id:	1185440
+Comment-Author:	avar
+Comment-Date:	Fri Mar 12 00:36:58 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1181589
+
+As pointed out in the thread the planned features are now maintained in the
+Emacs repository in etc/TODO. Here's a link to in on GitHub: http://github.com/
+emacsmirror/emacs/blob/master/etc/TODO#L15

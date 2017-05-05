@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1286106,
+  "kids" : [ 1287550 ],
+  "parent" : 1285674,
+  "text" : "It's not just easier for that. I just did a push from a Git checkout on a Linux virtual machine where I'd been doing some debugging. I just had to type in my GitHub password and not set up any ssh keys for a one-off push.",
+  "time" : 1271962884,
+  "type" : "comment"
+}

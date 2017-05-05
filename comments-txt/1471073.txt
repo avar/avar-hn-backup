@@ -1,0 +1,12 @@
+Comment-Id:	1471073
+Comment-Author:	avar
+Comment-Date:	Tue Jun 29 11:53:34 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1470925
+
+It's not the copying that's the problem. It's the part where they're doing it
+badly.
+
+If the best Microsoft can do is to struggle to keep up with what Apple was
+doing two years ago they're not going to look very impressive to OEM's like HP
+as they decide to move forward with their products, with our without Microsoft.

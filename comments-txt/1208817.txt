@@ -1,0 +1,10 @@
+Comment-Id:	1208817
+Comment-Author:	avar
+Comment-Date:	Sun Mar 21 23:15:30 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1208780
+
+XEmacs is considered pretty dead at this point. Very few people bother to make
+new (or old) elisp programs XEmacs compatible these days.
+
+And I'm hoping you're not one of the remaining 20 XEmacs users :)

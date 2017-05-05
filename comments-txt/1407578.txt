@@ -1,0 +1,16 @@
+Comment-Id:	1407578
+Comment-Author:	avar
+Comment-Date:	Sat Jun  5 22:44:18 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1407355
+
+That's interesting. Are there any recent benchmarks of Lua on Parrot v.s.
+LuaJIT? The only thing I could find was this from 2007 where it was ~2 orders
+of magnitude slower: http://www.nntp.perl.org/group/perl.perl6.internals/2007/
+09/...
+
+The URL to the benchmark script was broken so I couldn't run it.
+
+Don't get me wrong, I think Parrot's very neat. But I could see why compiler
+implementors would be sceptical of it since it's not feature complete, and
+seemingly not very optimized. So there's a lot of unknowns.

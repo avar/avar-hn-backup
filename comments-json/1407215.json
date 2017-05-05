@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1407215,
+  "kids" : [ 1407355, 1407307 ],
+  "parent" : 1407060,
+  "text" : "It's in extensive use by Apple on the iPhone and in XCode, and outside Apple. The JVM is also well understood and widely deployed.<p>By comparison the Parrot project with the widest use is Rakudo, which is still just at a testing stage. Maybe there's some larger user of Parrot that I haven't heard about, so correct me if I'm wrong.",
+  "time" : 1275762487,
+  "type" : "comment"
+}

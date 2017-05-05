@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1236979,
+  "kids" : [ 1237468, 1237469 ],
+  "parent" : 1236797,
+  "text" : "It just seemed so plausible!<p>In 9.04 every time there was a notification you had to wait for it to disappear before you could click on the buttons. In 9.10 they moved the notifications down a bit as a hack around that.<p>Now in 10.04 the notifications are where they were but they've introduced a social menu &#38; moved the lock screen / switch user / shutdown menu to the top-right.<p>If they hadn't moved the buttons it would be very easy to accidentally close a window when you meant to use those new menus.",
+  "time" : 1270229169,
+  "type" : "comment"
+}

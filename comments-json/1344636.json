@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 1344636,
+  "parent" : 1343303,
+  "text" : "&#62; Well, \"rm -r\" when run as root does warn.<p>No it doesn't, but perhaps you're using a distro (like RedHat) where \"rm -r\" is actually aliased to \"rm -ri\".",
+  "time" : 1273766945,
+  "type" : "comment"
+}

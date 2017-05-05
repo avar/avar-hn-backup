@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1377646,
+  "kids" : [ 1377655 ],
+  "parent" : 1377587,
+  "text" : "I think the us v.s. them aspect of this is all in your head. We all like working on our hobbies, but unless we're able to get paid for it that's all they'll ever be.<p>Clojure has been trying to solve this problem for a while (see <a href=\"http://clojure.org/funding\" rel=\"nofollow\">http://clojure.org/funding</a>). If they're able to make something like this work then I think that's great. It's still an open source project, it's not like they'll be rejecting patches because they come from the wrong people.<p>It just means that more people can do Clojure for a living, which'll improve the language itself and the platform for everyone.",
+  "time" : 1274801333,
+  "type" : "comment"
+}

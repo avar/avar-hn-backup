@@ -1,0 +1,11 @@
+Comment-Id:	1185596
+Comment-Author:	avar
+Comment-Date:	Fri Mar 12 02:00:58 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1185495
+
+I'll make sure to do that, no promises that I'll actually get around to this
+though.
+
+Perl and others could definitely use the test work that was done on RE2 though,
+the way the tests are being automatically generated is really neat.

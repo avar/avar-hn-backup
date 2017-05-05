@@ -1,0 +1,9 @@
+Comment-Id:	1378470
+Comment-Author:	avar
+Comment-Date:	Tue May 25 20:19:37 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1378010
+
+Those packages are great, my only complaint is that they (at least the Debian
+ones) don't include a changelog file. It would be great to see what's new
+through the standard Debian facility when they release new versions.

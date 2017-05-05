@@ -1,0 +1,27 @@
+Comment-Id:	1438340
+Comment-Author:	avar
+Comment-Date:	Thu Jun 17 09:15:59 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1438194
+
+Perhaps you missed the part where I indicated that they were better than the
+previous government. They're just still a disappointment.
+
+It's not like I'm some bitter right winger either, my views align more closely
+with theirs in theory. But in practice they're about the worst thing that could
+have happened after the crisis, sans the incumbents.
+
+They've failed to enact any meaningful change to financial regulation or
+government oversight since they took power. They've failed to implement the
+government transparency that was widely demanded of them (e.g. doing secretive
+dealings with the IMF). The issue of changing the constitution is now dead in
+some committee.
+
+As an example of something that's (still) being done right check out the
+election of the Best Party in Reykjavík. Their agenda (here in Icelandic: http:
+//www.bestiflokkurinn.is/ur-starfi-flokksins/samstarfsy...) includes things
+that are actually relevant to improving short- and long term life for the
+population. They've set up an instance of a "shadow government" at http://
+betrireykjavik.is (running http://github.com/rbjarnason/open-direct-democracy),
+a fair amount of their policies are being drawn from there. So they're actually
+listening to their constituency.

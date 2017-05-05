@@ -1,0 +1,8 @@
+Comment-Id:	1338045
+Comment-Author:	avar
+Comment-Date:	Tue May 11 15:00:46 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1337982
+
+You're probably talking about the long dead one-man project to rewrite all the
+/bin/* utilities in Perl. That had nothing to do with Larry Wall.

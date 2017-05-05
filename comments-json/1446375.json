@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1446375,
+  "kids" : [ 1447005, 1446876 ],
+  "parent" : 1446235,
+  "text" : "Here's a plan on the Rakudo GitHub wiki for what's going into the release: <a href=\"http://wiki.github.com/rakudo/rakudo/whats-going-into-rakudo\" rel=\"nofollow\">http://wiki.github.com/rakudo/rakudo/whats-going-into-rakudo</a><p>And here's the number of tests it's passing now: <a href=\"http://rakudo.org/status\" rel=\"nofollow\">http://rakudo.org/status</a><p>Rakudo's still slow and doesn't have a lot of modules written for it, but this release is meant to address that by getting more users. It's considered good enough at this point to write normal programs in it.",
+  "time" : 1277036962,
+  "type" : "comment"
+}

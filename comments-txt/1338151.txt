@@ -1,0 +1,18 @@
+Comment-Id:	1338151
+Comment-Author:	avar
+Comment-Date:	Tue May 11 15:25:27 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1337490
+
+While Wikipedia (especially the English version) has its problems. That
+statement is an exaggeration.
+
+You're very likely to run into these issues if you contribute to certain
+topics. Examples include living persons, video game characters, some piece of
+software you wrote, or anything else that's not very notable, controversial or
+hard to find references for.
+
+However for the vast majority of topics this isn't an issue. If you're just
+writing about a place, landmark, some historical character, a scientific
+discipline or any of the topics that make up ~80% of the actual content on
+Wikipedia you're not going to have your article listed for deletion.

@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 1372769,
+  "parent" : 1372560,
+  "text" : "There was a similar thread on reddit 2 days ago: <a href=\"http://www.reddit.com/r/programming/comments/c6o1t/i_created_a_markov_text_generator_that_learns/\" rel=\"nofollow\">http://www.reddit.com/r/programming/comments/c6o1t/i_created...</a><p>I pointed out a bot that I run there: <a href=\"http://twitter.com/twatterhose\" rel=\"nofollow\">http://twitter.com/twatterhose</a><p>Here's the code: <a href=\"http://github.com/avar/bot-twatterhose\" rel=\"nofollow\">http://github.com/avar/bot-twatterhose</a><p>And the Markov engine powering it: <a href=\"http://hailo.github.com/\" rel=\"nofollow\">http://hailo.github.com/</a>",
+  "time" : 1274641415,
+  "type" : "comment"
+}

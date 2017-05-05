@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1301105,
+  "kids" : [ 1301113 ],
+  "parent" : 1301080,
+  "text" : "I use emacs_chrome with Google Chrome which allows me to write E-Mail in Emacs (or actually, any editor). Under Firefox you can use the It's All Text! extension to shell out to any editor.",
+  "time" : 1272444959,
+  "type" : "comment"
+}

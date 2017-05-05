@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1224688,
+  "kids" : [ 1225078 ],
+  "parent" : 1224580,
+  "text" : "That's very useful. I've got it installed already.<p>Here's a small patch to it to make it work without your dotemacs: <a href=\"http://github.com/avar/ibuffer-git/commit/59674f\" rel=\"nofollow\">http://github.com/avar/ibuffer-git/commit/59674f</a><p>And here's what I had to do to get it working with my dotemacs which uses autoloads instead of loading everything at startup: <a href=\"http://github.com/avar/dotemacs/commit/9bd611\" rel=\"nofollow\">http://github.com/avar/dotemacs/commit/9bd611</a><p>One day I'll figure out how eproject works, and customize-variable, and everything else I haven't looked at in Emacs yet :)",
+  "time" : 1269789051,
+  "type" : "comment"
+}

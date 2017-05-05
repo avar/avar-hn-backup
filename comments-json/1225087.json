@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1225087,
+  "kids" : [ 1225096 ],
+  "parent" : 1225078,
+  "text" : "It's required for using your ibuffer-format which references eproject. I couldn't be bothered to customize it to something different.<p>I should probably learn to use eproject anyway.",
+  "time" : 1269804700,
+  "type" : "comment"
+}

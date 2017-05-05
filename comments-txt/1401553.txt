@@ -1,0 +1,11 @@
+Comment-Id:	1401553
+Comment-Author:	avar
+Comment-Date:	Thu Jun  3 15:24:29 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1401353
+
+Actually it's the NULL pointer by definition. 0 is always equivalent to NULL in
+pointer context, even though you're working with some hypothetical crazy system
+where NULL is actually #define NULL 1337. It's mandated by the standard.
+
+If (NULL == 0) isn't true you're not using C.

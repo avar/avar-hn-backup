@@ -1,0 +1,15 @@
+Comment-Id:	1475847
+Comment-Author:	avar
+Comment-Date:	Wed Jun 30 19:15:51 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1475816
+
+Then again, there's no reason why an embedded database can't launch multiple
+subprocesses, or talk to itself via a socket for that matter. The same goes for
+the storage SQLite uses one file, but an embedded PostgreSQL allocating one
+opaque directory would be fine.
+
+The important part is that you'd be able to easily statically link to it and
+handle permissions on a by-file basis, instead of PostgreSQL's current
+permission model. For all intents and purposes it'd be a larger SQLite
+replacement then.

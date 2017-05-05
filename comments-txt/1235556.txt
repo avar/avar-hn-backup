@@ -1,0 +1,11 @@
+Comment-Id:	1235556
+Comment-Author:	avar
+Comment-Date:	Thu Apr  1 22:38:02 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1235480
+
+Everyone's talking about how they went from right to left but few mention that
+they also removed the "menu" button from the layout.
+
+That's the one that you can click on to make a window "always on top" or
+"always on visible workspace". I switched to the old layout to get it back.

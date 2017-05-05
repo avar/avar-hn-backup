@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 1355231,
+  "parent" : 1354391,
+  "text" : "This is always relevant: <a href=\"http://keithp.com/blogs/Repository_Formats_Matter/\" rel=\"nofollow\">http://keithp.com/blogs/Repository_Formats_Matter/</a><p>\"I would like to argue that none of the user-interface and high-level functional details are nearly as important as the fundamental repository structure. When evaluating source code management systems, I primarily researched the repository structures and essentially ignored the user interface details. We can fix the user interface over time and even add features. We cannot, however, fix a broken repository structure without all of the pain inherent in changing systems.\"<p>Keith makes a good point. While Git's interface is lacking in some areas, those things can be fixed in the higher level porcelain. Picking a system with a nicer interface whose plumbing is uglier will lead to problems further down the road.",
+  "time" : 1274123941,
+  "type" : "comment"
+}

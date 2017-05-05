@@ -1,0 +1,8 @@
+Comment-Id:	1350223
+Comment-Author:	avar
+Comment-Date:	Sat May 15 17:00:38 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1350089
+
+If FreeBSD does replace GCC, will there be any GNU software left in the base
+system?

@@ -1,0 +1,30 @@
+Comment-Id:	1196132
+Comment-Author:	avar
+Comment-Date:	Tue Mar 16 16:56:59 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1195757
+
+I'm just a mortal developer so I don't have to admin anything serious, but
+here's how I do backups of my personal files & server. Mainly using Git:
+
+Any code / changes to Debian's default /etc setup go into Git and are at least
+on both the relevant machine (laptop or server) and GitHub. See http://
+github.com/avar and http://github.com/avar/linode-etc for the /etc on the
+server. I keep some personal data (like finance notes) in GPG encrypted files
+in private Git repositories.
+
+E-Mail is backed up my Google's GMail (presumably) and data like my small
+collection of music is something I can always get back from the Internet.
+
+If the filesystem on my laptop, server or GitHub is destroyed right now I can
+get everything working again relatively quickly just by installing Ubuntu or
+Debian from scratch and copying my home directory, /etc and code from Git on
+one of the remaining machines.
+
+I've made a script that automatically backs up my Git repositories daily (http:
+//github.com/avar/github-backup), the resulting backup is around 180MB. Losing
+some of my other data would be an annoyance but this is all I /really/ care
+about.
+
+Follow somebody else's advice if you need "real" backups, but for my simple
+needs this suffices.

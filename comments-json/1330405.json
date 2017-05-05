@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1330405,
+  "kids" : [ 1331163 ],
+  "parent" : 1330021,
+  "text" : "From NEWS.23.2: \"The pointer now becomes invisible when typing.Customize `make-pointer-invisible' to disable this feature.\"",
+  "time" : 1273335894,
+  "type" : "comment"
+}

@@ -1,0 +1,27 @@
+Comment-Id:	1475661
+Comment-Author:	avar
+Comment-Date:	Wed Jun 30 18:16:37 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1475222
+
+I use Emacs to do all my editing. But I think it's a failure compared to what
+it could have been.
+
+There's nothing inherent about Emacs that ties it to being an editor, it could
+have been rewritten a long time ago in Scheme or acquired a FFI. Then things
+like GNOME or TextMate might have been rewritten as part of the Emacs
+ecosystem, while looking exactly like they do today.
+
+Instead Emacs is a very specific thing to a small crowd, and adding things like
+a FFI to it have been vetoed by Stallman in the past. That's one of the reasons
+I think that we still don't have Lisp as a first-class systems programming
+language on GNU as the initial announcement promised: http://www.gnu.org/gnu/
+initial-announcement.html
+
+GCC is much the same. There was a proposal many years ago to make a libgcc.
+Stallman vetoed that on the basis that things like C++ support might be written
+without contributing the changes back to the FSF.
+
+That's a fair point, but LLVM+Clang are quickly replacing GCC in some areas due
+to its monolithic architecture. You can't write things like a C source code
+using GCC as a backend (easily), but you can with the LLVM tools.

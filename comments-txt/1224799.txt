@@ -1,0 +1,8 @@
+Comment-Id:	1224799
+Comment-Author:	avar
+Comment-Date:	Sun Mar 28 16:28:11 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1224796
+
+Yes. You create a stash with your changes, or commit them before switching
+branches.

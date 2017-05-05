@@ -1,0 +1,7 @@
+Comment-Id:	1436358
+Comment-Author:	avar
+Comment-Date:	Wed Jun 16 17:46:58 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1435914
+
+I moved from Slicehost to prgmr to Linode. I like Linode the best of the three.

@@ -1,0 +1,20 @@
+Comment-Id:	1185330
+Comment-Author:	avar
+Comment-Date:	Thu Mar 11 23:48:44 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1184563
+
+After reading Russ's original article in 2007 I did some work on bringing the
+nascent regex API in perl's core up to par so one could lexically replace
+perl's regex engine with the plan9 engine, PCRE and others.
+
+One interesting product of this work was the ability to compare other regex
+engines to Perl's in perl's own test suite. See this journal entry for some
+info about that: http://use.perl.org/~avar/journal/33585
+
+Maybe I'll resurrect some of that work once Perl 5.12 comes out and try
+dropping in RE2 and see how it compares to PCRE and Perl on the various edge
+cases involved.
+
+This would be somewhat easier if RE2 supported Perl's syntax for named
+captures.

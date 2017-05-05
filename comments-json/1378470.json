@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1378470,
+  "kids" : [ 1379531 ],
+  "parent" : 1378010,
+  "text" : "Those packages are great, my only complaint is that they (at least the Debian ones) don't include a changelog file. It would be great to see what's new through the standard Debian facility when they release new versions.",
+  "time" : 1274818777,
+  "type" : "comment"
+}

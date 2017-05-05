@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1224799,
+  "kids" : [ 1224854 ],
+  "parent" : 1224796,
+  "text" : "Yes. You create a stash with your changes, or commit them before switching branches.",
+  "time" : 1269793691,
+  "type" : "comment"
+}

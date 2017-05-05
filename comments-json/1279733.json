@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1279733,
+  "kids" : [ 1279781, 1280136, 1279761 ],
+  "parent" : 1279370,
+  "text" : "For some value of \"already\":<p>* multi-methods: MooseX::MultiMethods and MooseX::Method::Signatures add a lot of overhead to subroutine calls (blogged in <a href=\"http://blogs.perl.org/users/aevar_arnfjor_bjarmason/2010/02/moosexmethodsignatures-is-really-slow.html\" rel=\"nofollow\">http://blogs.perl.org/users/aevar_arnfjor_bjarmason/2010/02/...</a>). Sometimes this doesn't matter, but they're certainly not a replacement for having a native type system. All the magic is done at runtime.<p>* rules: Perl6::Rules and Regexp::Grammars are both depended on by a grand total of 0 CPAN modules. They're interesting experiments but not something in use, and not a replacement of rules with its \"your regex opcodes are a normal method\" model.<p>* macros: Devel::Declare and the B::* modules are usable but they're a long way away from the Lisp model of being able to easily write macros. TryCatch is 800 lines of Perl and C to implement try { ... } catch { ...}. In any Lisp this would be trivially done with a macro in under 50 lines.<p>As for the other stuff pretty much anything except smart match (which is now in Perl 5 core), Class::MOP and Moose falls under the \"neat but some combination of: underused, slow, unstable, epic hack nobody wants to use\".",
+  "time" : 1271778807,
+  "type" : "comment"
+}

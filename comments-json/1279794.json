@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1279794,
+  "kids" : [ 1279896 ],
+  "parent" : 1279761,
+  "text" : "It's not. I was talking about Perl6::Gather, Perl6::Junction etc.: \"pretty much anything <i>except</i> smart match [...], Class::MOP and Moose falls under the ... underused\".<p>So Moose is <i>not</i> underused. But some of the other modules that draegtun cited are. It's disingenuous to cite some crazy module Damian wrote that nobody uses as an example of Perl 6 features in Perl 5.",
+  "time" : 1271779818,
+  "type" : "comment"
+}

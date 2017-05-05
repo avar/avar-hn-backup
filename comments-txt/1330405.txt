@@ -1,0 +1,8 @@
+Comment-Id:	1330405
+Comment-Author:	avar
+Comment-Date:	Sat May  8 16:24:54 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1330021
+
+From NEWS.23.2: "The pointer now becomes invisible when typing.Customize
+`make-pointer-invisible' to disable this feature."

@@ -1,0 +1,9 @@
+Comment-Id:	1301105
+Comment-Author:	avar
+Comment-Date:	Wed Apr 28 08:55:59 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1301080
+
+I use emacs_chrome with Google Chrome which allows me to write E-Mail in Emacs
+(or actually, any editor). Under Firefox you can use the It's All Text!
+extension to shell out to any editor.

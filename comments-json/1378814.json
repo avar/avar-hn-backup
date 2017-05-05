@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1378814,
+  "kids" : [ 1379786, 1379328 ],
+  "parent" : 1378740,
+  "text" : "Any standard library is a collection of libraries. While I get your point, mine is that different languages have different ways of handling libraries, with different tradeoffs. Perl's way is to make it really easy to get libraries over the network, instead of trying to ship a large collection of them with the core.<p>A standard library, I think. Is what you go look for when you need a module to solve your problem. With Java that's [1], with Python that's [2]. With PHP (until somewhat recently) that was using one of the ~1200 built-in functions.<p>With Perl, the place to go for libraries is the CPAN. I look at <a href=\"http://search.cpan.org\" rel=\"nofollow\">http://search.cpan.org</a>, not `perldoc perlmodlib` if I need a library to do X.<p>There are cases where this is painful, such as offline machines. But in those cases you can pack all of CPAN on a CD (with minicpan), or produce a self-contained Perl program + libraries with local::lib and/or PAR.<p>1. <a href=\"http://java.sun.com/javase/6/docs/api/\" rel=\"nofollow\">http://java.sun.com/javase/6/docs/api/</a>\n2. <a href=\"http://docs.python.org/library/\" rel=\"nofollow\">http://docs.python.org/library/</a>\n3. <a href=\"http://perldoc.perl.org/perlmodlib.html\" rel=\"nofollow\">http://perldoc.perl.org/perlmodlib.html</a>",
+  "time" : 1274825592,
+  "type" : "comment"
+}

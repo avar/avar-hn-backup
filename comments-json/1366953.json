@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1366953,
+  "kids" : [ 1366960, 1366961 ],
+  "parent" : 1366949,
+  "text" : "A lot of users run on misconfigured operating systems. I expect that Google has done some homework on whether language-by-GeoIP makes sense for the general case. They probably don't do it just to annoy you.",
+  "time" : 1274438500,
+  "type" : "comment"
+}

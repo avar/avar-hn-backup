@@ -1,0 +1,9 @@
+Comment-Id:	1366953
+Comment-Author:	avar
+Comment-Date:	Fri May 21 10:41:40 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1366949
+
+A lot of users run on misconfigured operating systems. I expect that Google has
+done some homework on whether language-by-GeoIP makes sense for the general
+case. They probably don't do it just to annoy you.

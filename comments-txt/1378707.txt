@@ -1,0 +1,13 @@
+Comment-Id:	1378707
+Comment-Author:	avar
+Comment-Date:	Tue May 25 21:36:36 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1377961
+
+Perl already has a large standard library, it's called the CPAN. Unlike say
+Python the aim of Perl's standard libraries isn't to give you a good
+stand-alone programming environment, it's rather to bootstrap the CPAN
+toolchain so that you can install these libraries.
+
+Perl has numerous web libraries on the CPAN (Catalyst, Mojo, Dancer etc.), and
+if you don't like the bare-bones object system you should look at Moose.

@@ -1,0 +1,12 @@
+Comment-Id:	1407215
+Comment-Author:	avar
+Comment-Date:	Sat Jun  5 18:28:07 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1407060
+
+It's in extensive use by Apple on the iPhone and in XCode, and outside Apple.
+The JVM is also well understood and widely deployed.
+
+By comparison the Parrot project with the widest use is Rakudo, which is still
+just at a testing stage. Maybe there's some larger user of Parrot that I
+haven't heard about, so correct me if I'm wrong.

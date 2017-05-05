@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 1387763,
+  "parent" : 1387418,
+  "text" : "Here's one using modern Perl regex features. It's part of the perl regression tests: <a href=\"http://github.com/mirrors/perl/blob/blead/t/re/reg_email.t#L13\" rel=\"nofollow\">http://github.com/mirrors/perl/blob/blead/t/re/reg_email.t#L...</a>",
+  "time" : 1275083390,
+  "type" : "comment"
+}

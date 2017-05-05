@@ -1,0 +1,15 @@
+Comment-Id:	1342960
+Comment-Author:	avar
+Comment-Date:	Thu May 13 01:44:32 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1342682
+
+Why yes, a lot of us are just fine spending "hours" learning something that
+we'll probably spend more than a few years using.
+
+Git's user interface isn't perfect, but you're not going to get the "Mac of
+DVCSs" either. There's a reason for the complexity, doing stuff like merging
+together the work of three people is inherently complex.
+
+You're not going to come up with some solution that allows the user to "just do
+it" without also destroying history.

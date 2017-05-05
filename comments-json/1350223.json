@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1350223,
+  "kids" : [ 1350236, 1350886 ],
+  "parent" : 1350089,
+  "text" : "If FreeBSD does replace GCC, will there be any GNU software left in the base system?",
+  "time" : 1273942838,
+  "type" : "comment"
+}

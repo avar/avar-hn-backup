@@ -1,0 +1,10 @@
+Comment-Id:	1339209
+Comment-Author:	avar
+Comment-Date:	Tue May 11 21:09:42 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1338219
+
+This whole thread is a joke that's gone over your head. "Perl is the glue that
+binds the web together" (or variants thereof) is an old pun on how Perl often
+gets used. Not so much to write large systems (as is the case with C/C++/..)
+but as a glue layer to stitch them together.

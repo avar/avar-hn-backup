@@ -1,0 +1,25 @@
+Comment-Id:	1378814
+Comment-Author:	avar
+Comment-Date:	Tue May 25 22:13:12 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1378740
+
+Any standard library is a collection of libraries. While I get your point, mine
+is that different languages have different ways of handling libraries, with
+different tradeoffs. Perl's way is to make it really easy to get libraries over
+the network, instead of trying to ship a large collection of them with the
+core.
+
+A standard library, I think. Is what you go look for when you need a module to
+solve your problem. With Java that's [1], with Python that's [2]. With PHP
+(until somewhat recently) that was using one of the ~1200 built-in functions.
+
+With Perl, the place to go for libraries is the CPAN. I look at http://
+search.cpan.org, not `perldoc perlmodlib` if I need a library to do X.
+
+There are cases where this is painful, such as offline machines. But in those
+cases you can pack all of CPAN on a CD (with minicpan), or produce a
+self-contained Perl program + libraries with local::lib and/or PAR.
+
+1. http://java.sun.com/javase/6/docs/api/ 2. http://docs.python.org/library/ 3.
+http://perldoc.perl.org/perlmodlib.html

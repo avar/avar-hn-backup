@@ -1,0 +1,17 @@
+Comment-Id:	1377646
+Comment-Author:	avar
+Comment-Date:	Tue May 25 15:28:53 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1377587
+
+I think the us v.s. them aspect of this is all in your head. We all like
+working on our hobbies, but unless we're able to get paid for it that's all
+they'll ever be.
+
+Clojure has been trying to solve this problem for a while (see http://
+clojure.org/funding). If they're able to make something like this work then I
+think that's great. It's still an open source project, it's not like they'll be
+rejecting patches because they come from the wrong people.
+
+It just means that more people can do Clojure for a living, which'll improve
+the language itself and the platform for everyone.

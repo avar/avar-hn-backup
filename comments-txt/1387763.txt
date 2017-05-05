@@ -1,0 +1,8 @@
+Comment-Id:	1387763
+Comment-Author:	avar
+Comment-Date:	Fri May 28 21:49:50 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1387418
+
+Here's one using modern Perl regex features. It's part of the perl regression
+tests: http://github.com/mirrors/perl/blob/blead/t/re/reg_email.t#L...

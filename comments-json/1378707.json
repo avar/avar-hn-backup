@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1378707,
+  "kids" : [ 1378740 ],
+  "parent" : 1377961,
+  "text" : "Perl already has a large standard library, it's called the CPAN. Unlike say Python the aim of Perl's standard libraries isn't to give you a good stand-alone programming environment, it's rather to bootstrap the CPAN toolchain so that you can install these libraries.<p>Perl has numerous web libraries on the CPAN (Catalyst, Mojo, Dancer etc.), and if you don't like the bare-bones object system you should look at Moose.",
+  "time" : 1274823396,
+  "type" : "comment"
+}

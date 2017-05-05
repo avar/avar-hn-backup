@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1475775,
+  "kids" : [ 1475816 ],
+  "parent" : 1474712,
+  "text" : "I keep hoping that PostgreSQL will support an embedded version. SQLite only gets you so far, and it'd be nice to be able to ship PostgreSQL statically linked into your applications with zero-configuration at the user's end.<p>MySQL's working on this (<a href=\"http://mysql.com/oem/\" rel=\"nofollow\">http://mysql.com/oem/</a>), but I've read that PostgreSQL is way too tied to their multi-process network architecture for this to be feasible. But I'd love to be shown to wrong on that.",
+  "time" : 1277923893,
+  "type" : "comment"
+}

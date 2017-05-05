@@ -1,0 +1,20 @@
+Comment-Id:	1475938
+Comment-Author:	avar
+Comment-Date:	Wed Jun 30 19:44:55 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1475776
+
+Indeed. Worse is better, and I use Linux and not Hurd because it does what I
+need even if it doesn't look shiny on paper.
+
+I'm not convinced that Hurd's translator idea is a hack, or that it's doing it
+in the wrong layer.
+
+That every program that presents FTP on my system (GNOME, KDE, lftp, Emacs/
+TRAMP) has to implement its own VFS is a hack, so is having to use iptables or
+another forwarder if I want to run a non-root daemon on port <1024. And that I
+have to recompile and reboot if I want to enable some minor feature in the
+kernel.
+
+EDIT: The last two paragraphs are redundant because I misread rbanffy's reply,
+and I oddly can't reply to his new one so I'm putting this here.

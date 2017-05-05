@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1475737,
+  "kids" : [ 1475776 ],
+  "parent" : 1474941,
+  "text" : "Hurd's current status should be considered in the context of how the GNU project is run. In the early days GNU had some paid developers, but now their projects are run purely on a volunteer basis. Or in the case projects like GCC, developers that are paid by companies to work on GNU projects.<p>Hurd is late because there isn't any need for it anymore, we now have plenty of free kernels. And GNU isn't sponsoring it because of that, just like it isn't sponsoring a GNU MTA.<p>But work continues because a few people are still interested. There's a lot of neat ideas in Hurd. You get a lot of nice things once you move most of the kernel to user-space.<p>The best example of this is custom user-mounted filesystems (translators). You can e.g. mount a remote FTP site on Hurd in ~/ftp without being a superuser, this is something that GNOME and KDE implement on their own because users can't do it on other systems without special permissions.<p>Linux has been accumulating a lot of microkernel-like features over the years. E.g. dynamic loading of device drivers, FUSE etc. In time it'll probably usurp every useful Hurd feature worth having.",
+  "time" : 1277923387,
+  "type" : "comment"
+}

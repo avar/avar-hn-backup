@@ -1,0 +1,17 @@
+Comment-Id:	1224688
+Comment-Author:	avar
+Comment-Date:	Sun Mar 28 15:10:51 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1224580
+
+That's very useful. I've got it installed already.
+
+Here's a small patch to it to make it work without your dotemacs: http://
+github.com/avar/ibuffer-git/commit/59674f
+
+And here's what I had to do to get it working with my dotemacs which uses
+autoloads instead of loading everything at startup: http://github.com/avar/
+dotemacs/commit/9bd611
+
+One day I'll figure out how eproject works, and customize-variable, and
+everything else I haven't looked at in Emacs yet :)

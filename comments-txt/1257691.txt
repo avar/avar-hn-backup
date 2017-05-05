@@ -1,0 +1,7 @@
+Comment-Id:	1257691
+Comment-Author:	avar
+Comment-Date:	Sun Apr 11 21:47:06 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1257570
+
+NCSA Mosaic 2.7b6: None existant

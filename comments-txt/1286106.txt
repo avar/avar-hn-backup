@@ -1,0 +1,9 @@
+Comment-Id:	1286106
+Comment-Author:	avar
+Comment-Date:	Thu Apr 22 19:01:24 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1285674
+
+It's not just easier for that. I just did a push from a Git checkout on a Linux
+virtual machine where I'd been doing some debugging. I just had to type in my
+GitHub password and not set up any ssh keys for a one-off push.

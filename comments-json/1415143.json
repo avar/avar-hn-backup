@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1415143,
+  "kids" : [ 1415171 ],
+  "parent" : 1414979,
+  "text" : "I still remember learning Emacs for the first time, it was easy, Just time consuming.<p>Sure I'm still learning it (that's the nature of Emacs), but getting started is easy. Just read the tutorial to get a grasp of the basic commands and concepts, and as soon as you read about the built-in help system you're good to go.<p>If you don't know what a key does you just prefix it with do `C-h k` to get help. If you can't recall the keybindings do `C-h b`, and if you've forgotten all of this do `C-h ?`. The entire manual is just a `C-h r` away.<p>The built-in documentation makes it really easy to learn more, it just takes patience.",
+  "time" : 1276029382,
+  "type" : "comment"
+}

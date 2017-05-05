@@ -1,0 +1,11 @@
+Comment-Id:	1205799
+Comment-Author:	avar
+Comment-Date:	Sat Mar 20 02:04:12 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1204101
+
+Here's another thing that needs to stop: Asking people for their first name +
+surname.
+
+Not every culture has the concept of a surname. If you need to ask people for
+their names just do so via one one text field.

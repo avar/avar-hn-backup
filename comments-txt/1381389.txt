@@ -1,0 +1,8 @@
+Comment-Id:	1381389
+Comment-Author:	avar
+Comment-Date:	Wed May 26 19:38:52 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1381336
+
+Stock price isn't meant to predict the future, it represent trust in the future
+turning out well for investors.

@@ -1,0 +1,10 @@
+Comment-Id:	1344636
+Comment-Author:	avar
+Comment-Date:	Thu May 13 16:09:05 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1343303
+
+> Well, "rm -r" when run as root does warn.
+
+No it doesn't, but perhaps you're using a distro (like RedHat) where "rm -r" is
+actually aliased to "rm -ri".

@@ -1,0 +1,11 @@
+Comment-Id:	1320879
+Comment-Author:	avar
+Comment-Date:	Wed May  5 11:51:53 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1320294
+
+I've moved from Slicehost to prgmr to Linode and I'm happiest with Linode out
+of the three.
+
+the I/O on Linode is faster, but it's still very slow compared to a "real"
+machine, but that's the case with any VPS at this pricepoint as far as I know.

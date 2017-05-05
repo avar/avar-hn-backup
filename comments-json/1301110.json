@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1301110,
+  "kids" : [ 1301152 ],
+  "parent" : 1301072,
+  "text" : "Would you mind posting your offlineimap and Gnus configuration (sans passwords) somewhere. I've had a few false starts with Gnus and always get lost customizing something. Maybe there's a nice tutorial for this somewhere?",
+  "time" : 1272445068,
+  "type" : "comment"
+}

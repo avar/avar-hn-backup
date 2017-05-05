@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 1372372,
+  "parent" : 1366960,
+  "text" : "Do you have some statistics on that? Google probably does, and that probably factored into their decision to not trust use the Accept-Language header as their sole mechanism for deciding what language to serve content in.<p>Most computers with Windows sold in large markets like Germany probably send the right Accept-Language headers, but there's a lot of localities where this isn't the case.<p>Small countries like Iceland just use the stock English version of Windows, then there's stuff like mobile devices which may not send Accept-Language at all to think about.",
+  "time" : 1274626855,
+  "type" : "comment"
+}

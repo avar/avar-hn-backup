@@ -1,0 +1,14 @@
+Comment-Id:	1458769
+Comment-Author:	avar
+Comment-Date:	Thu Jun 24 18:45:45 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1458697
+
+I tried it on a 943M tarball that contains miscellaneous Git repositories and
+their checked out trees that I had lying around:
+
+    Compressor  Size  Ratio  Compression  Decompression
+    gzip -9     555M  59%    2m39.840s    0m16.495s
+    bzip2 -9    531M  56%    4m10.541s    1m27.720s
+    xz -9       457M  48%    13m55.730s   0m53.290s
+

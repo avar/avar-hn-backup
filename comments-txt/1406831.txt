@@ -1,0 +1,16 @@
+Comment-Id:	1406831
+Comment-Author:	avar
+Comment-Date:	Sat Jun  5 13:13:42 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1406701
+
+Parrot's been claiming that it's slow and incomplete now, but a solution to
+that is just around the corner for a few years.
+
+Maybe that's true, but I think that'd be the main concern of any compiler
+writer thinking of targeting it. It's not a mature platform with known pros and
+cons, unlike the JVM or LLVM.
+
+I hope it all turns out for the best and Parrot delivers on its promises. But I
+can see why e.g. the PHP team isn't rushing to target it given the state of its
+native languages.

@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1200895,
+  "kids" : [ 1201918 ],
+  "parent" : 1200807,
+  "text" : "The issue isn't that it's technically impractical to support H.264 but rather that it's legally impractical.<p>Sure you could just offload the problem to the operating system via something like GStreamer but that just moves the target, it doesn't eliminate it. It just means anyone who distributes your OS gets into trouble rather than your browser distributor.<p>This is about eliminating the possibility of submarine patents for an essential feature like video, not just moving the target around.",
+  "time" : 1268906751,
+  "type" : "comment"
+}

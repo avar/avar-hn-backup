@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1210234,
+  "kids" : [ 1210598 ],
+  "parent" : 1210114,
+  "text" : "That's an incomplete analogy. Specific Open Source projects  aren't democracies Open Source at large is, or something resembling it.<p>I installed Ubuntu 10.04 beta1 and didn't like the button arrangement. It was trivial to fix it by just doing: sudo add-apt-repository ppa:stownsend42/light-themes<p>If enough people don't like the default setup of Ubuntu someone will just fork it. In fact there are already three forks that I know of: Kubuntu, Xubuntu and Edubuntu.",
+  "time" : 1269264787,
+  "type" : "comment"
+}

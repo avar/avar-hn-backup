@@ -1,0 +1,14 @@
+Comment-Id:	1372769
+Comment-Author:	avar
+Comment-Date:	Sun May 23 19:03:35 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1372560
+
+There was a similar thread on reddit 2 days ago: http://www.reddit.com/r/
+programming/comments/c6o1t/i_created...
+
+I pointed out a bot that I run there: http://twitter.com/twatterhose
+
+Here's the code: http://github.com/avar/bot-twatterhose
+
+And the Markov engine powering it: http://hailo.github.com/

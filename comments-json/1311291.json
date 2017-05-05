@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1311291,
+  "kids" : [ 1312213, 1311311, 1312085 ],
+  "parent" : 1311199,
+  "text" : "Actually using Google's nameservers are really fast compared to a default Bind/PowerDNS setup.<p>I have a PowerDNS setup on localhost that was a lot slower than Google's servers. That's because by default it recurses to the root servers.<p>I found that the fastest setup in my case was to use PowerDNS and have it recurse via bt.com servers (this is in London). BT is a big commercial provider so what I need is often hot in their cache, the same goes for Google.",
+  "time" : 1272750162,
+  "type" : "comment"
+}

@@ -1,0 +1,14 @@
+Comment-Id:	1470371
+Comment-Author:	avar
+Comment-Date:	Tue Jun 29 04:10:45 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1470276
+
+The first example wouldn't be the same. There's a big difference between it
+being a theoretical impossibility, and something that sounds like we just
+haven't tested it enough.
+
+Proponents of homeopathy like to confuse the issue by citing some of their own
+badly done studies. Explaining to the layman that proving the efficacy of
+homeopathy would earn you a Nobel Price in physics helps to bring some context
+to that.

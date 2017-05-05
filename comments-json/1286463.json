@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1286463,
+  "kids" : [ 1286554 ],
+  "parent" : 1286433,
+  "text" : "Some of the issues they cite (\"doesn't currently handle HTTP authentication as well as it might\", \"no support for HTTP/1.1\") look like they could be solved by using a HTTP library like libcurl instead of rolling their own thing. I wonder if there's political opposition to that (since cURL isn't GNU).",
+  "time" : 1271970684,
+  "type" : "comment"
+}

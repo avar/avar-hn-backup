@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 1475754,
+  "parent" : 1475542,
+  "text" : "And even for PHP apps like MediaWiki that do support PostgreSQL the primary development target is still MySQL.<p>So it's not worth the trouble to use PostgreSQL in most cases, you'll eventually want to install some extension that only supports MySQL, or get tired of reading documentation that assumes MySQL etc.",
+  "time" : 1277923632,
+  "type" : "comment"
+}

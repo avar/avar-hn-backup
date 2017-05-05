@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1433070,
+  "kids" : [ 1433081 ],
+  "parent" : 1432617,
+  "text" : "The two aren't really comparable. With Newtonian physics there were clear signs decades before Einstein that something wasn't right, the clearest example being the perihelion precession of Mercury: <a href=\"http://en.wikipedia.org/wiki/Kepler_problem_in_general_relativity#Historical_context_and_intuitive_understanding\" rel=\"nofollow\">http://en.wikipedia.org/wiki/Kepler_problem_in_general_relat...</a><p>In modern particle physics the main limitation is lack of experimental data. To get that data we have to build giant and expensive experiments like the LHC. Even if the LHC is completely successful we're still going to need bigger colliders to test other things at even higher energies.<p>Another problem is that the current theories make predictions about things that we probably won't ever be able to measure directly due to the microscopic scales involved.<p>To name an example. We think that gluons exist inside atomic nuclei, but we can't observe them unless we break the nuclei apart, thus destroying the gluon's habitat. We think it's there because we see what looks like the energy of a gluon falling apart, and because mathematical models back it up.",
+  "time" : 1276617341,
+  "type" : "comment"
+}

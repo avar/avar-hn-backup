@@ -1,0 +1,9 @@
+Comment-Id:	1251838
+Comment-Author:	avar
+Comment-Date:	Fri Apr  9 04:09:19 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1251806
+
+Please upload it to blip.tv instead (or in addition to) YouTube. There's
+already a Clojure channel there (http://clojure.blip.tv/) and you can download
+the raw HD video.

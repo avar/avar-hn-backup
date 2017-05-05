@@ -1,0 +1,11 @@
+Comment-Id:	1393275
+Comment-Author:	avar
+Comment-Date:	Mon May 31 19:38:29 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1393217
+
+Is there anything to suggest that they'll let the current development hell
+continue? They have a lot invested in Java now, they might actually get their
+act together and push Java forward. Both to make it attractive to the
+programmers that like C# better, and to add features to the JVM to allow
+alternate languages to thrive, e.g. tail-calls and coroutines.

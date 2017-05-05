@@ -1,0 +1,19 @@
+Comment-Id:	1355224
+Comment-Author:	avar
+Comment-Date:	Mon May 17 19:13:38 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1354847
+
+It still handles them poorly by default. You can do things like edit
+.gitattributes to say that e.g. a *.binary file should be treated specially,
+but Git's still not a good system for e.g. archiving HD video.
+
+Some of this can be fixed, but a lot of it is probably not going to change.
+When you git-add something it has to checksum the old data + new data. That's
+going to be a pretty expensive operation when you have 50TB of data.
+
+There's no DVCS that I'm aware of that handles large binary files as well as
+say Perforce or Subversion.
+
+Check out this project for more info on tuning Git for big files: http://
+caca.zoy.org/wiki/git-bigfiles

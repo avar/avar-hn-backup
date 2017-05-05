@@ -1,0 +1,14 @@
+Comment-Id:	1224876
+Comment-Author:	avar
+Comment-Date:	Sun Mar 28 17:16:43 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1224854
+
+Ah, I don't know if magit has that feature. It's relatively easy conceptually
+though.
+
+You'd write a hook for magit that on branch change would check what buffers
+were open to files within the repository and refresh their contents.
+
+Maybe something like that exists already. I just press "r" to refresh the file
+from the filesystem when editing the individual files in this case.

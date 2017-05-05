@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 1344327,
+  "parent" : 1343048,
+  "text" : "My post was unfortunately worded. That's what you get for posting late at night I guess.<p>What I meant to say is that you're not going to get away with using any sort of complex system without understanding what it's doing. This seems to be the sentiment expressed in the original posting, and some of the replies here.<p>Sure, Git's UI could be improved. But managing several divergent histories and correctly merging them together <i>is</i> a non-trivial problem. If you make a tool that allows the user to just plow on without understanding the underlying paradigm the results are going to suffer.<p>It's like asking for a RDBMS that allows you to \"just do it\". You might get away with that for a while, but not for long.",
+  "time" : 1273760828,
+  "type" : "comment"
+}

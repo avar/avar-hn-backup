@@ -1,0 +1,9 @@
+Comment-Id:	1301110
+Comment-Author:	avar
+Comment-Date:	Wed Apr 28 08:57:48 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1301072
+
+Would you mind posting your offlineimap and Gnus configuration (sans passwords)
+somewhere. I've had a few false starts with Gnus and always get lost
+customizing something. Maybe there's a nice tutorial for this somewhere?

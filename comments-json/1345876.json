@@ -1,0 +1,12 @@
+{
+  "by" : "avar",
+  "descendants" : 1,
+  "id" : 1345876,
+  "kids" : [ 1346076 ],
+  "score" : 20,
+  "text" : "A follow-up to http://news.ycombinator.com/item?id=1056158",
+  "time" : 1273788560,
+  "title" : "Microsoft Attack CPAN Testers (Again)",
+  "type" : "story",
+  "url" : "http://blog.cpantesters.org/diary/76"
+}

@@ -1,0 +1,18 @@
+Comment-Id:	1236979
+Comment-Author:	avar
+Comment-Date:	Fri Apr  2 17:26:09 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1236797
+
+It just seemed so plausible!
+
+In 9.04 every time there was a notification you had to wait for it to disappear
+before you could click on the buttons. In 9.10 they moved the notifications
+down a bit as a hack around that.
+
+Now in 10.04 the notifications are where they were but they've introduced a
+social menu & moved the lock screen / switch user / shutdown menu to the
+top-right.
+
+If they hadn't moved the buttons it would be very easy to accidentally close a
+window when you meant to use those new menus.

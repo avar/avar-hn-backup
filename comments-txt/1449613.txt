@@ -1,0 +1,13 @@
+Comment-Id:	1449613
+Comment-Author:	avar
+Comment-Date:	Mon Jun 21 18:28:57 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1449376
+
+Aren't scientific journals more of a hindrance to scientific progress these
+days anyway? They're not essential to the peer review process, and the services
+that they do provide could be decoupled from publication.
+
+It would be very nice to see a distributed publication system taken up by the
+scientific community, based on circles of trust where anyone could partake in
+the peer review process.

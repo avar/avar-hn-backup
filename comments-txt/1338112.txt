@@ -1,0 +1,15 @@
+Comment-Id:	1338112
+Comment-Author:	avar
+Comment-Date:	Tue May 11 15:17:25 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1337870
+
+The phrase "Perl holds the internet together" was coined by analogy with Perl's
+widespread use as a glue language. You've interpreted it too literally. It
+doesn't mean that you can't set up a router or another piece of Internet
+infrastructure without using Perl.
+
+It means that Perl is used in a lot of unexpected places, and that a lot of
+critical things are "held together" by Perl. Even if you think your website is
+running on Java, some systems administrator probably has a cronjob written in
+Perl critical to its operation.

@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 1407578,
+  "parent" : 1407355,
+  "text" : "That's interesting. Are there any recent benchmarks of Lua on Parrot v.s. LuaJIT? The only thing I could find was this from 2007 where it was ~2 orders of magnitude slower: <a href=\"http://www.nntp.perl.org/group/perl.perl6.internals/2007/09/msg40359.html\" rel=\"nofollow\">http://www.nntp.perl.org/group/perl.perl6.internals/2007/09/...</a><p>The URL to the benchmark script was broken so I couldn't run it.<p>Don't get me wrong, I think Parrot's very neat. But I could see why compiler implementors would be sceptical of it since it's not feature complete, and seemingly not very optimized. So there's a lot of unknowns.",
+  "time" : 1275777858,
+  "type" : "comment"
+}

@@ -1,0 +1,8 @@
+Comment-Id:	1276836
+Comment-Author:	avar
+Comment-Date:	Mon Apr 19 14:59:38 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1276529
+
+The first demo is yet another example of an E-Mail address validator that
+rejects valid E-Mail addresses.

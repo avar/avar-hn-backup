@@ -1,0 +1,16 @@
+Comment-Id:	1349262
+Comment-Author:	avar
+Comment-Date:	Sat May 15 03:09:05 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1349084
+
+There have been totally unproved speculations that they've been doing that. But
+if they did it on a scale like that their CA would be revoked from all default
+browser installations.
+
+They could still force the issue and mandate that their CA be patched back in
+on all computers sold in mainland China.
+
+Either case seems very unlikely, just outright blocking things they don't like
+seems to be their current approach. I don't see why they'd change that for
+Google.

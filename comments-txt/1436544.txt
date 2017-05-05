@@ -1,0 +1,13 @@
+Comment-Id:	1436544
+Comment-Author:	avar
+Comment-Date:	Wed Jun 16 18:40:23 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1436446
+
+The reason you'd call someone Mr. Smith in the English speaking world is
+because surnames are culturally significant. Because they group entire male
+lineages together.
+
+That's not the case with patronyms, so this usage has never developed. In
+Iceland you'd never use just the patronym. It's not a proper name, just an
+indication of parental lineage.

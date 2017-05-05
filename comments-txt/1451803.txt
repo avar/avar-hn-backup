@@ -1,0 +1,10 @@
+Comment-Id:	1451803
+Comment-Author:	avar
+Comment-Date:	Tue Jun 22 13:33:06 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1451626
+
+This could turn out great. The music industry sues Google for linking to sites
+like The Pirate Bay, and Google with its deep pockets successfully defends
+linking in count. That might set precedence not only for general search engines
+like Google, but also torrent search engines like The Pirate Bay.

@@ -1,0 +1,8 @@
+Comment-Id:	1428264
+Comment-Author:	avar
+Comment-Date:	Sun Jun 13 21:47:02 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1428235
+
+That's what they seemed to be promising with Wave initially, i.e. to make a
+decentralized and federated protocol. But Buzz doesn't use wave ...

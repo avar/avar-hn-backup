@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1402627,
+  "kids" : [ 1402774, 1404066 ],
+  "parent" : 1402227,
+  "text" : "Yeah, that's unportable. Although I'm not aware of any system where it\ndoesn't work.<p>For the record, regarding 0 in pointer context the C standard has this to say:<p><pre><code>       An integral constant expression with the value 0, or such an\n    expression cast to type void * , is called a null pointer constant.  If\n    a null pointer constant is assigned to or compared for equality to a\n    pointer, the constant is converted to a pointer of that type.  Such a\n    pointer, called a null pointer, is guaranteed to compare unequal to a\n    pointer to any object or function.\n\n    -- C89/C90 section 3.2.2.3 Pointers\n</code></pre>\nThe standard then goes on to say that NULL is a macro that's\nguaranteed to expand to a null pointer constant.",
+  "time" : 1275600383,
+  "type" : "comment"
+}

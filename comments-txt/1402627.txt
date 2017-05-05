@@ -1,0 +1,22 @@
+Comment-Id:	1402627
+Comment-Author:	avar
+Comment-Date:	Thu Jun  3 21:26:23 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1402227
+
+Yeah, that's unportable. Although I'm not aware of any system where it doesn't
+work.
+
+For the record, regarding 0 in pointer context the C standard has this to say:
+
+       An integral constant expression with the value 0, or such an
+    expression cast to type void * , is called a null pointer constant.  If
+    a null pointer constant is assigned to or compared for equality to a
+    pointer, the constant is converted to a pointer of that type.  Such a
+    pointer, called a null pointer, is guaranteed to compare unequal to a
+    pointer to any object or function.
+
+    -- C89/C90 section 3.2.2.3 Pointers
+
+The standard then goes on to say that NULL is a macro that's guaranteed to
+expand to a null pointer constant.

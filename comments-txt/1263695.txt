@@ -1,0 +1,11 @@
+Comment-Id:	1263695
+Comment-Author:	avar
+Comment-Date:	Tue Apr 13 23:37:59 UTC 2010
+Comment-Type:	comment
+Parent-Id:	1263660
+
+I presume that you mean "copying" via Ctrl+C and not the X11 way of simply
+highlighting the text. The latter is known to be broken in Chrome.
+
+I filed a bug for it that which was wontfixed: http://code.google.com/p/
+chromium/issues/detail?id=27972

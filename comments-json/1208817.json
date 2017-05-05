@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1208817,
+  "kids" : [ 1210856 ],
+  "parent" : 1208780,
+  "text" : "XEmacs is considered pretty dead at this point. Very few people bother to make new (or old) elisp programs XEmacs compatible these days.<p>And I'm hoping you're not one of the remaining 20 XEmacs users :)",
+  "time" : 1269213330,
+  "type" : "comment"
+}

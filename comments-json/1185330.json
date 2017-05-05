@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 1185330,
+  "kids" : [ 1185495 ],
+  "parent" : 1184563,
+  "text" : "After reading Russ's original article in 2007 I did some work on bringing the nascent regex API in perl's core up to par so one could lexically replace perl's regex engine with the plan9 engine, PCRE and others.<p>One interesting product of this work was the ability to compare other regex engines to Perl's in perl's own test suite. See this journal entry for some info about that: <a href=\"http://use.perl.org/~avar/journal/33585\" rel=\"nofollow\">http://use.perl.org/~avar/journal/33585</a><p>Maybe I'll resurrect some of that work once Perl 5.12 comes out and try dropping in RE2 and see how it compares to PCRE and Perl on the various edge cases involved.<p>This would be somewhat easier if RE2 supported Perl's syntax for named captures.",
+  "time" : 1268351324,
+  "type" : "comment"
+}
