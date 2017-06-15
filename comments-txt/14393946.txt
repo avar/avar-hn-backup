@@ -1,0 +1,33 @@
+Comment-Id:	14393946
+Comment-Author:	avar
+Comment-Date:	Mon May 22 14:42:27 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14392421
+
+I live in Amsterdam too. This meme that we're all under sealevel is common, but
+wrong.
+
+While literally true in some areas is extremely misleading in the context of a
+discussion about how rising sealevels impact world cities in general. Your
+Wikipedia source shows that the elevation goes as low as -2 meters, not that
+that's the mean elevation of the city.
+
+Here's an elevation map of Amsterdam:
+
+http://www.floodmap.net/Elevation/ElevationMap/?gi=2759794
+
+And here's one of The Netherlands:
+
+http://www.floodmap.net/Elevation/CountryElevationMap/?ct=NL
+
+Now I happen to live -1 below in Amsterdam, but I'm the exception. Most of
+Amsterdam is above sealevel, the average seems to be around 6-10 meters above.
+
+But most importantly, the elevation profile of the entire country is one where
+the coast is much higher than sealevel, and then gradually slopes downwards to
+bits of the interior that are entirely landlocked, but are say 1 meter below
+sealevel. In other words we have pockets of land that are below sealevel, but
+they're surrounded by and protected by land that's not.
+
+There's pretty much zero overlap between where Amsterdam has been sited for the
+last 800 years and the areas that are anywhere near being under sealevel.

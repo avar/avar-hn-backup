@@ -1,0 +1,30 @@
+Comment-Id:	14435679
+Comment-Author:	avar
+Comment-Date:	Sun May 28 19:17:13 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14435436
+
+I may be missing something here, but if you take a step back this just seems
+like a tragedy of misaligned economic incentives.
+
+Both the US & EU would have wanted this information from day one, and this
+whole fiasco cost VW billions in fines.
+
+There would have been any number of engineers at VW and Bosch that knew exactly
+how this worked, but there was nothing in it for them to come clear about it.
+They were never going to get charged for writing that code, and they would have
+likely been out of a job or destroyed their career at those companies if they
+volunteered to authorities how this worked.
+
+So why don't investigators just offer a huge cash prices to engineers at those
+companies who can provide details about exactly how this worked, along with
+immunity as long as they're forthcoming with information about who instructed
+them to implement this?
+
+You'd have an army of engineers overnight willing to spill the beans, and you'd
+save millions in investigative costs, and quickly get to the real root cause of
+the corruption.
+
+Instead some independent team of investigators is left digging through old
+firmware images posted on forums to reverse engineer how the defeat device
+worked.

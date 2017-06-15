@@ -1,0 +1,9 @@
+Comment-Id:	14501280
+Comment-Author:	avar
+Comment-Date:	Tue Jun  6 20:59:16 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14500782
+
+It's not a good idea and it's dangerous, but we wouldn't say with confidence
+that smoking or drunk driving "will kill you one day", which is the part of the
+GPs comment I'm replying to.

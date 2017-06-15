@@ -1,0 +1,18 @@
+Comment-Id:	14455328
+Comment-Author:	avar
+Comment-Date:	Wed May 31 19:45:32 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14454581
+
+A fair comparison is not what SpaceX is doing today, but what SpaceX could be
+doing with today's technology with multi-percentage points of US GDP as their
+funding.
+
+In that context it's not at all impressive that they're just getting past
+beating 60s technology, and not even in all cases. Yes they've got reusability,
+but there's still nothing as big as the Saturn V.
+
+Edit: To clarify, I think SpaceX is very impressive, but I think we as a
+species are doing proportionally less impressive things than in the 20th
+century given the level of technology we have. It's not their fault we aren't
+spending multi-percentage points of GDP on similarly impressive projects.

@@ -1,0 +1,15 @@
+Comment-Id:	14279223
+Comment-Author:	avar
+Comment-Date:	Sat May  6 07:55:49 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14279136
+
+Yes you're right. I mixed up micro & milli there. So:
+
+* [...] 20,000,000,000 Tsar Bombas per year
+
+* One Tsar Bomba going off every 1.5ms
+
+* World energy production satisfied in 1.8 seconds
+
+We're also going to need more sunscreen.

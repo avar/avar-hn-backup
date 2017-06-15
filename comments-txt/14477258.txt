@@ -1,0 +1,17 @@
+Comment-Id:	14477258
+Comment-Author:	avar
+Comment-Date:	Sat Jun  3 17:02:44 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14476945
+
+This isn't applicable to scheme as a config format, but some config formats are
+line based and have programmatic tools to manipulate them, e.g. the .ini-like
+format Git uses, try adding some comments to ~/.gitconfig and manipulating it
+with `git config --global <...>`, it'll all be preserved.
+
+You will lose any comments like this though:
+
+    [user]
+        name = My Name ; that's my name!
+
+Programming is hard in the face of arbitrary user data.

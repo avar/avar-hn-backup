@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 14477258,
+  "parent" : 14476945,
+  "text" : "This isn&#x27;t applicable to scheme as a config format, but some config formats are line based and have programmatic tools to manipulate them, e.g. the .ini-like format Git uses, try adding some comments to ~&#x2F;.gitconfig and manipulating it with `git config --global &lt;...&gt;`, it&#x27;ll all be preserved.<p>You will lose any comments like this though:<p><pre><code>    [user]\n        name = My Name ; that&#x27;s my name!\n</code></pre>\nProgramming is hard in the face of arbitrary user data.",
+  "time" : 1496509364,
+  "type" : "comment"
+}

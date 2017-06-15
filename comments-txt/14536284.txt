@@ -1,0 +1,23 @@
+Comment-Id:	14536284
+Comment-Author:	avar
+Comment-Date:	Mon Jun 12 10:58:33 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14536121
+
+What would you call it then? Market failures can also be created by ineffective
+regulation, as is the case in my example.
+
+Considering the substance of the transaction isn't a viable strategy, it might
+be possible at larger scales as in your Ford example, but individuals can and
+will find clever ways around tariffs that are impossible for the authorities to
+keep up with.
+
+As an example, I lived in a European country where import tolls on bicycles
+were much higher than the import fees on spare parts, so if the price of
+shipping was low enough you could simply ask the seller to send over a bike in
+multiple packages marked as spare parts to evade the import fees.
+
+How are you going to detect cases like that with perfect accuracy? You'd need
+some massive tracking system to figure out who bought what, and even then it
+could be trivially evaded by me and a friend buying 1/2 of two bikes each as
+spare parts and combining them after they've been imported.

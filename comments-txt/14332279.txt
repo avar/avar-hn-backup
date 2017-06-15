@@ -1,0 +1,29 @@
+Comment-Id:	14332279
+Comment-Author:	avar
+Comment-Date:	Sat May 13 18:31:21 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14330728
+
+Thanks a lot for that reference. I listened to that episode, it's got a really
+interesting idea related to a "marketplace for organs" that I hadn't heard
+about before.
+
+They describe setting up a consensual "kidney club". The idea being that if
+you're in the club and need a kidney, one member of the club is chosen at
+random and compelled to give you a kidney, but likewise if you have kidney
+failure and would otherwise die you get a kidney from a random member.
+
+This sidesteps the usual concerns about implementing a marketplace for organs.
+I.e. even if you're a billionaire the only way to insure yourself against
+kidney failure is to enter the pool of potentially mandatory donors, and you
+can of course stay outside the "kidney club" and not have to donate to anyone,
+but then you also die if you have kidney failure.
+
+Katz points out that the reason this doesn't work is that current law can't
+compel you to donate your organs, even if you've previously signed a contract
+to that effect, but that this creates a market failure & tragedy of the
+commons.
+
+Implementing a system like this seems like a no-brainer and a benefit for
+everyone involved, but it's blocked by current contract law & the inability to
+force people to undergo medical procedures they consented to in the past.

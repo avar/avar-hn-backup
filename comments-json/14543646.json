@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 14543646,
+  "kids" : [ 14544803, 14544286, 14544106 ],
+  "parent" : 14543639,
+  "text" : "I&#x27;m having a hard time imagining a case where even a grossly complex 100,000 line implementation of yes(1) couldn&#x27;t be trivially proven to be correct.",
+  "time" : 1497344824,
+  "type" : "comment"
+}

@@ -1,0 +1,9 @@
+Comment-Id:	14533912
+Comment-Author:	avar
+Comment-Date:	Sun Jun 11 21:35:17 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14533665
+
+Because the kernel developers aren't interested in assuming the maintenance
+burden of maintaining (possibly many incompatible and versioned) interfaces
+purely for the benefit of users who maintain out of tree drivers.

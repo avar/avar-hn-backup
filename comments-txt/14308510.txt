@@ -1,0 +1,28 @@
+Comment-Id:	14308510
+Comment-Author:	avar
+Comment-Date:	Wed May 10 14:36:32 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14305491
+
+I implemented that feature in the 2.13 release, glad to see interest in it,
+more details on how it works & can be used from the commit message[1]:
+
+This allows for finding the last-good rollout tag given a known-bad <commit>.
+Given a hypothetically bad commit cf5c725, the git version to revert to can be
+found with this hacky two-liner:
+
+    (git tag -l 'v[0-9]*'; git tag -l --contains cf5c725 'v[0-9]*') |
+        sort | uniq -c | grep -E '^ *1 ' | awk '{print $2}' | tail -n 10
+
+With this new --no-contains option the same can be achieved with:
+
+    git tag -l --no-contains cf5c725 'v[0-9]*' | sort | tail -n 10
+
+As the filtering machinery is shared between the tag, branch & for-each-ref
+commands, implement this for those commands too. A practical use for this with
+"branch" is e.g. finding branches which were branched off between v2.8.0 and
+v2.10.0:
+
+    git branch --contains v2.8.0 --no-contains v2.10.0
+
+1. https://github.com/git/git/commit/ac3f5a346860b824e083c5d305...

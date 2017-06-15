@@ -1,0 +1,23 @@
+Comment-Id:	14523216
+Comment-Author:	avar
+Comment-Date:	Fri Jun  9 18:12:18 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14522364
+
+Just some honest feedback on your pricing that's hopefully helpful: Your
+Enterprise plan is at least an order of magnitude more expensive than what many
+organizations would pay for something like this.
+
+E.g. a Jira license for 2000 people costs $24,000 yearly[1], licensing this for
+the same amount of users would be $1,200,000.
+
+This is way more than organizations of that size tend to pay for top-tier
+support contracts for software that's critical to business continuity.
+
+Pricing per-user without any advertised discounts is also a trap if you're
+selling to large organizations. A lot of them tend to, for simplicity's sake,
+want to just give everyone in the org access to a tool like this, but only
+5-10% of the workforce might be using it, but due to how you're pricing it
+there's no way it's going to be bought in the first place.
+
+1. https://www.atlassian.com/licensing/jira-software

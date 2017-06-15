@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 14435679,
+  "kids" : [ 14435726, 14437104 ],
+  "parent" : 14435436,
+  "text" : "I may be missing something here, but if you take a step back this just seems like a tragedy of misaligned economic incentives.<p>Both the US &amp; EU would have wanted this information from day one, and this whole fiasco cost VW billions in fines.<p>There would have been any number of engineers at VW and Bosch that knew exactly how this worked, but there was nothing in it for them to come clear about it. They were never going to get charged for writing that code, and they would have likely been out of a job or destroyed their career at those companies if they volunteered  to authorities how this worked.<p>So why don&#x27;t investigators just offer a huge cash prices to engineers at those companies who can provide details about exactly how this worked, along with immunity as long as they&#x27;re forthcoming with information about who instructed them to implement this?<p>You&#x27;d have an army of engineers overnight willing to spill the beans, and you&#x27;d save millions in investigative costs, and quickly get to the real root cause of the corruption.<p>Instead some independent team of investigators is left digging through old firmware images posted on forums to reverse engineer how the defeat device worked.",
+  "time" : 1495999033,
+  "type" : "comment"
+}

@@ -1,0 +1,11 @@
+Comment-Id:	14455620
+Comment-Author:	avar
+Comment-Date:	Wed May 31 20:25:45 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14448578
+
+It wasn't clear from your post that you meant /battery/ cases.
+
+What's the problem with the cases on the market that make them unacceptable? I
+haven't tried the one I linked to but it looks good, seems to be well designed,
+and is around the total thickness you're aiming fora

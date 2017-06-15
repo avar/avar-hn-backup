@@ -1,0 +1,15 @@
+Comment-Id:	14436141
+Comment-Author:	avar
+Comment-Date:	Sun May 28 21:22:27 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14436093
+
+Here's quotes from a bunch of people interested in the subject on how this
+would be useful, instead of me trying to repeat all of that: https://
+bitcoinmagazine.com/articles/what-are-the-use-cases-...
+
+It would be useful beyond some custom git-based solution because if what you
+want is just a distributed ledger with safety & auditing built-in you can get
+that off the shelf by leveraging e.g. the Bitcoin codebase. If you're doing
+that with Git you need to write a bunch of custom software around it to arrive
+at the same result.

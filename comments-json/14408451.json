@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 14408451,
+  "kids" : [ 14409986 ],
+  "parent" : 14408228,
+  "text" : "I used to work for an AV vendor and we sold AV for the likes of Linux, Solaris, AIX etc.<p>Now, that can be directly useful for e.g. mail or file servers on those platforms, but a lot of customers simply had to buy AV everywhere for compliance reasons. They&#x27;d be running the AV scan in cron checking for Windows viruses on AIX.<p>Discussions with those people were funny. They knew what they were buying was worthless and made that clear, we knew our product was worthless to them and made that clear. But their boss&#x27;s boss had obligated them to buy AV, so sure, if they wanted it anyway we were going to make it and take their money.<p>I suspect Android AV exists for much the same reason.",
+  "time" : 1495615303,
+  "type" : "comment"
+}

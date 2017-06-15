@@ -1,0 +1,9 @@
+Comment-Id:	14507388
+Comment-Author:	avar
+Comment-Date:	Wed Jun  7 15:52:27 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14507337
+
+I use git-annex which satisfies almost all of those requirements. I don't back
+up whole machines (why backup the OS when I can reinstall faster), but it
+otherwise has all those things.

@@ -1,0 +1,37 @@
+Comment-Id:	14436075
+Comment-Author:	avar
+Comment-Date:	Sun May 28 21:02:45 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14435725
+
+You're making a couple of assumptions which make your entire argument invalid
+in the context of a "private" blockchain between e.g. several banks.
+
+The first is that you're assuming a race to the bottom where the banks will
+simply try to outspend each other on CPU. You can get a lot of the benefits of
+a blockchain where e.g. the 10 banks could all agree to each have 1 x86 box
+contributing to their part of the blockchain.
+
+Any violation of such an agreement could be easily solved in meatspace, i.e. 9/
+10 remaining banks would just agree to ignore the chain maintained by the
+violator. Since they'd all recognize that they're getting /other/ benefits out
+of the blockchain without succumbing to some game-theory-esque race to the
+bottom.
+
+Even if there's no such agreement the claim that any sort of alternate
+blockchain will use up the same resources as Bitcoin itself does is trivially
+refuted by various altcoins which use up less total CPU, since they're smaller
+networks.
+
+The second faulty assumption is thinking that the only thing standing in the
+way of rewriting blockchain history is prohibitively expensive CPU resources.
+In the context of a "private" bank blockchain the banks could simply manually
+ignore a branch of the chain recognized as being produced by some malicious
+actor.
+
+That leaves a bunch of valuable uses of the blockchain for banks. It's been
+mentioned as a replacement for the largely manual cross-bank money settling
+protocols they use now, replacing those with a blockchain would likely be much
+more secure and transparent, and any issues that arose by voluntarily running a
+"limited" blockchain would likely be smaller and more easily mitigated than
+whatever security issues their ad-hoc protocols have now.

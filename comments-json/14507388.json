@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 14507388,
+  "kids" : [ 14507433 ],
+  "parent" : 14507337,
+  "text" : "I use git-annex which satisfies almost all of those requirements. I don&#x27;t back up whole machines (why backup the OS when I can reinstall faster), but it otherwise has all those things.",
+  "time" : 1496850747,
+  "type" : "comment"
+}

@@ -1,0 +1,8 @@
+Comment-Id:	14448484
+Comment-Author:	avar
+Comment-Date:	Tue May 30 20:58:25 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14447373
+
+Always relevant in this context, a parable from Theodore Ts'o about XFS & FS
+reliability: http://zork.net/~nick/mail/why-reiserfs-is-teh-sukc

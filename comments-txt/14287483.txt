@@ -1,0 +1,31 @@
+Comment-Id:	14287483
+Comment-Author:	avar
+Comment-Date:	Sun May  7 20:31:08 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14287235
+
+I was very actively involved in MediaWiki development & Wikimedia ops (less so
+though) in 2004-2006 back when IIRC there were just 1-4 paid Wikimedia
+employees.
+
+It was a very different time, and the whole thing was run much more like a
+typical open source project.
+
+I think the whole project has gone in completely the wrong direction since
+then. Wikipedia itself is still awesome, but what's not awesome is that the
+typical reader / contributor experience is pretty much the same as it was in
+2005.
+
+Moreover, because of the growing number of employees & need for revenue the
+foundation's main goal is still to host a centrally maintained site that must
+get your pageviews & donations directly.
+
+The goal of Wikipedia should be to spread the content as far & wide as
+possible, the way OpenStreetMap operates is a much better model. Success should
+be measured as a function of how likely any given person is to see factually
+accurate content sourced from Wikipedia, and it shouldn't matter if they're
+viewing it on some third party site.
+
+Instead it's still run as one massive monolithic website, and it's still hard
+to get any sort of machine readable data out of it. This IMO should have been
+the main focus of Wikimedia's development efforts.

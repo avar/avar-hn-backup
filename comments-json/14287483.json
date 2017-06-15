@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 14287483,
+  "kids" : [ 14287688, 14289357, 14287556, 14288162, 14287887, 14287571 ],
+  "parent" : 14287235,
+  "text" : "I was very actively involved in MediaWiki development &amp; Wikimedia ops (less so though) in 2004-2006 back when IIRC there were just 1-4 paid Wikimedia employees.<p>It was a very different time, and the whole thing was run much more like a typical open source project.<p>I think the whole project has gone in completely the wrong direction since then. Wikipedia itself is still awesome, but what&#x27;s not awesome is that the typical reader &#x2F; contributor experience is pretty much the same as it was in 2005.<p>Moreover, because of the growing number of employees &amp; need for revenue the foundation&#x27;s main goal is still to host a centrally maintained site that must get your pageviews &amp; donations directly.<p>The goal of Wikipedia should be to spread the content as far &amp; wide as possible, the way OpenStreetMap operates is a much better model. Success should be measured as a function of how likely any given person is to see factually accurate content sourced from Wikipedia, and it shouldn&#x27;t matter if they&#x27;re viewing it on some third party site.<p>Instead it&#x27;s still run as one massive monolithic website, and it&#x27;s still hard to get any sort of machine readable data out of it. This IMO should have been the main focus of Wikimedia&#x27;s development efforts.",
+  "time" : 1494189068,
+  "type" : "comment"
+}

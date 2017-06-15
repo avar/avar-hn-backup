@@ -1,0 +1,21 @@
+Comment-Id:	14536246
+Comment-Author:	avar
+Comment-Date:	Mon Jun 12 10:45:17 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14536192
+
+Reading over the Wikipedia article[1] it seems that you're historically at
+least somewhat correct, since this tax used to be directly based on the price
+of the car, but since 2007 it's been partially and then in 2010 entirely based
+on CO^2 emissions.
+
+There are other tolls & fees for owning a car in The Netherlands. I don't own a
+car, but from what I've read taken as a whole the tax policy here has nothing
+to do with "luxury", you're free to buy a million Euro gold-plated scooter.
+
+It's meant to discourage excessively heavy vehicles and those who pollute more.
+Any sort of a flat fee that doesn't take into account the weight / size of the
+vehicle doesn't account for the disproportional cost to infrastructure incurred
+by larger & more polluting vehicles.
+
+1. https://nl.wikipedia.org/wiki/Belasting_van_personenauto%27s...

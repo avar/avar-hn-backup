@@ -1,0 +1,18 @@
+Comment-Id:	14543640
+Comment-Author:	avar
+Comment-Date:	Tue Jun 13 09:04:10 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14543536
+
+One thing to keep in mind when looking at GNU programs is that they're often
+intentionally written in an odd style to remove all questions of Unix copyright
+infringement at the time that they were written.
+
+The long-standing advice when writing GNU utilities used to be that if the
+program you were replacing was optimized for minimizing CPU use, write yours to
+minimize memory use, or vice-versa. Or in this case, if the program was
+optimized for simplicity, optimize for throughput.
+
+It would have been very easy for the nascent GNU project to unintentionally
+produce a line-by-line equivalent of BSD yes.c, which would have potentially
+landed them in the 80/90s equivalent of the Google v.s. Oracle case.

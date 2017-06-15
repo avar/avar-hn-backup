@@ -1,0 +1,8 @@
+Comment-Id:	14302243
+Comment-Author:	avar
+Comment-Date:	Tue May  9 17:44:16 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14302135
+
+How to become a member & associated rules are covered in their procedures
+documentation: https://jcp.org/en/procedures/jcp2#3.2.2

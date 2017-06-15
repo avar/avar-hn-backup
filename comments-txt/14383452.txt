@@ -1,0 +1,11 @@
+Comment-Id:	14383452
+Comment-Author:	avar
+Comment-Date:	Sat May 20 17:41:22 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14382923
+
+If this Quora post[1] is to be believed it takes 10 years for an airline to
+break even on a 747. Assuming similar costs for the blimp that 8x turns into 80
+years.
+
+1. https://www.quora.com/How-long-does-it-take-for-an-airline-t...

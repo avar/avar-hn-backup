@@ -1,0 +1,12 @@
+Comment-Id:	14536105
+Comment-Author:	avar
+Comment-Date:	Mon Jun 12 09:55:22 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14535851
+
+You can't selectively tax certain goods without creating a market failure.
+
+E.g. if the purchase of cars isn't taxed I'll just import €10,000 of audio
+equipment by buying an old beater, then ripping out and selling the sound
+system and selling the car for scrap, while making a big profit because I'll be
+competing with local sellers that have to pay import tax on sound systems.

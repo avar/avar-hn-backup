@@ -1,0 +1,7 @@
+Comment-Id:	14389169
+Comment-Author:	avar
+Comment-Date:	Sun May 21 20:46:54 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14388839
+
+The Window 2000 source code leaked. Not the same, but pretty damn close.

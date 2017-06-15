@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 14413749,
+  "kids" : [ 14414213 ],
+  "parent" : 14412844,
+  "text" : "The compactionHeuristic was removed entirely in the 2.12.0 release. You can&#x27;t enable both since only the indentHeuristic  exists now, and serves pretty much the same purpose.",
+  "time" : 1495662637,
+  "type" : "comment"
+}

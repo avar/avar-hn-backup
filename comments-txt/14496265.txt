@@ -1,0 +1,14 @@
+Comment-Id:	14496265
+Comment-Author:	avar
+Comment-Date:	Tue Jun  6 10:55:57 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14495604
+
+I just set up a recurring donation for what I think is fair given my (very
+small) use of GPG.
+
+I can't help but cynically wonder how much funding GPG would get just from the
+various journalists in this donation video making a decent salary who claim
+that GPG is indispensable for their work.
+
+Another case of free software tragedy of the commons.

@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 14436141,
+  "kids" : [ 14436389, 14436233 ],
+  "parent" : 14436093,
+  "text" : "Here&#x27;s quotes from a bunch of people interested in the subject on how this would be useful, instead of me trying to repeat all of that: <a href=\"https:&#x2F;&#x2F;bitcoinmagazine.com&#x2F;articles&#x2F;what-are-the-use-cases-for-private-blockchains-the-experts-weigh-in-1466440884&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;bitcoinmagazine.com&#x2F;articles&#x2F;what-are-the-use-cases-...</a><p>It would be useful beyond some custom git-based solution because if what you want is just a distributed ledger with safety &amp; auditing built-in you can get that off the shelf by leveraging e.g. the Bitcoin codebase. If you&#x27;re doing that with Git you need to write a bunch of custom software around it to arrive at the same result.",
+  "time" : 1496006547,
+  "type" : "comment"
+}

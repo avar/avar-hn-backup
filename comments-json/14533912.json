@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 14533912,
+  "kids" : [ 14533995 ],
+  "parent" : 14533665,
+  "text" : "Because the kernel developers aren&#x27;t interested in assuming the maintenance burden of maintaining (possibly many incompatible and versioned) interfaces purely for the benefit of users who maintain out of tree drivers.",
+  "time" : 1497216917,
+  "type" : "comment"
+}

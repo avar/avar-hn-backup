@@ -1,0 +1,8 @@
+Comment-Id:	14543646
+Comment-Author:	avar
+Comment-Date:	Tue Jun 13 09:07:04 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14543639
+
+I'm having a hard time imagining a case where even a grossly complex 100,000
+line implementation of yes(1) couldn't be trivially proven to be correct.

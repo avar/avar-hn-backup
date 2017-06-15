@@ -1,0 +1,19 @@
+Comment-Id:	14500985
+Comment-Author:	avar
+Comment-Date:	Tue Jun  6 20:27:03 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14500883
+
+There's lots of uses for random but predictable numbers, e.g. adding random
+fuzz to a test suite run that you'd like to be able to repeat.
+
+A weak random number generator that usually powers rand() is also usually
+faster and takes less CPU to run.
+
+Both of these things were thought to be more important in more innocent times
+when C was standardized.
+
+OpenBSD's decision makes sense on balance, it gives some security to otherwise
+insecure programs by default, the trade-off is breaking programs written
+against the C standard which make assumptions about the documented rand()
+behavior.

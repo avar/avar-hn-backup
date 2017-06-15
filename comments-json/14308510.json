@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 14308510,
+  "kids" : [ 14320326 ],
+  "parent" : 14305491,
+  "text" : "I implemented that feature in the 2.13 release, glad to see interest in it, more details on how it works &amp; can be used from the commit message[1]:<p>This allows for finding the last-good rollout tag given a known-bad\n&lt;commit&gt;. Given a hypothetically bad commit cf5c725, the git\nversion to revert to can be found with this hacky two-liner:<p><pre><code>    (git tag -l &#x27;v[0-9]*&#x27;; git tag -l --contains cf5c725 &#x27;v[0-9]*&#x27;) |\n        sort | uniq -c | grep -E &#x27;^ *1 &#x27; | awk &#x27;{print $2}&#x27; | tail -n 10\n</code></pre>\nWith this new --no-contains option the same can be achieved with:<p><pre><code>    git tag -l --no-contains cf5c725 &#x27;v[0-9]*&#x27; | sort | tail -n 10\n</code></pre>\nAs the filtering machinery is shared between the tag, branch &amp;\nfor-each-ref commands, implement this for those commands too. A\npractical use for this with &quot;branch&quot; is e.g. finding branches which\nwere branched off between v2.8.0 and v2.10.0:<p><pre><code>    git branch --contains v2.8.0 --no-contains v2.10.0\n</code></pre>\n1. <a href=\"https:&#x2F;&#x2F;github.com&#x2F;git&#x2F;git&#x2F;commit&#x2F;ac3f5a346860b824e083c5d305757c3260565475\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;git&#x2F;git&#x2F;commit&#x2F;ac3f5a346860b824e083c5d305...</a>",
+  "time" : 1494426992,
+  "type" : "comment"
+}

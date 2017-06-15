@@ -1,0 +1,9 @@
+Comment-Id:	14413749
+Comment-Author:	avar
+Comment-Date:	Wed May 24 21:50:37 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14412844
+
+The compactionHeuristic was removed entirely in the 2.12.0 release. You can't
+enable both since only the indentHeuristic exists now, and serves pretty much
+the same purpose.

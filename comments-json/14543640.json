@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 14543640,
+  "kids" : [ 14544005, 14543671, 14547723 ],
+  "parent" : 14543536,
+  "text" : "One thing to keep in mind when looking at GNU programs is that they&#x27;re often intentionally written in an odd style to remove all questions of Unix copyright infringement at the time that they were written.<p>The long-standing advice when writing GNU utilities used to be that if the program you were replacing was optimized for minimizing CPU use, write yours to minimize memory use, or vice-versa. Or in this case, if the program was optimized for simplicity, optimize for throughput.<p>It would have been very easy for the nascent GNU project to unintentionally produce a line-by-line equivalent of BSD yes.c, which would have potentially landed them in the 80&#x2F;90s equivalent of the Google v.s. Oracle case.",
+  "time" : 1497344650,
+  "type" : "comment"
+}

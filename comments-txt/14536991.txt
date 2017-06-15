@@ -1,0 +1,24 @@
+Comment-Id:	14536991
+Comment-Author:	avar
+Comment-Date:	Mon Jun 12 13:00:45 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14536811
+
+No, it's not fraud. Yes the car is now worth €11000, but it's not taxed on its
+ticket price, it's taxed on what it is. It's a car, and a car includes seats, a
+car stereo (albeit now a very expensive one), an engine etc.
+
+Nobody's trying to undervalue the car as costing €1,000 with a €10,000 stereo,
+that would be fraud.
+
+The point is that by introducing differences in what sort of taxes you have to
+pay for certain products you trivially open yourself up to legal tax evasion in
+the form of simply bundling higher cost items as part of products in lower tax
+categories.
+
+Perhaps a better example: Let's say you have a 200% tax on cylindrical metal
+tubes, but a 10% tax on bicycles. A lot of people would now legally import
+bicycle frames, cut them apart, and evade the import fees without the
+authorities being able to do anything about it. There's nothing illegal about
+buying a bicycle frame, and there's nothing illegal about cutting apart your
+bicycle and re-using it for parts.

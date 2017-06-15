@@ -1,0 +1,27 @@
+Comment-Id:	14438321
+Comment-Author:	avar
+Comment-Date:	Mon May 29 09:49:54 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14437606
+
+You and so many other people in this thread misunderstand how a 51% attack
+would work in this context.
+
+You buy a house, the transaction gets on the blockchain network. Just like you
+wait for confirmations with Bitcoin you'd wait e.g. for 1 day or for 1 week
+confirmations, this would be agreed upon by both the seller and buyer.
+
+Now, let's say someone with deep pockets re-computes the last 1 week of
+transactions in a 51% attack and "undoes" that transaction. The branch of the
+blockchain that got replaced doesn't just disappear, it has your house in it,
+thousands of other houses will have been sold through that branch of the chain,
+and thousands of people will have that full public record.
+
+At this point you and the rest of the owners could obviously go to a court and
+get your houses back, just as you could if the deeds got lost through a fire
+today but you had other evidence to prove they existed.
+
+Nobody's suggesting that the entire court system be replaced by a blockchain
+and we ignore all other mitigating evidence, it's just being suggested that
+storing e.g. deeds in such a system is more reliable than storing them in a
+couple of filing cabinets somewhere.
