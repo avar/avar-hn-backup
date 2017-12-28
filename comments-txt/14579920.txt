@@ -1,0 +1,13 @@
+Comment-Id:	14579920
+Comment-Author:	avar
+Comment-Date:	Sun Jun 18 10:06:57 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14579866
+
+The drivers are free and already in the kernel. I'm talking about firmware
+support.
+
+You can still use Debian on the desktop, it has all the WiFi support e.g.
+Ubuntu has. It's just the installer that doesn't have parity since it's 100%
+free, working around it is a bit of a hassle as I described, but a one-time
+pain.

@@ -1,0 +1,33 @@
+Comment-Id:	15409964
+Comment-Author:	avar
+Comment-Date:	Thu Oct  5 15:30:11 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15409544
+
+I understand that Norway doesn't have duty-free import of goods into the EU.
+What I'm referring to is that the existing tolls and import duties weren't
+negotiated with the assumption that Norway has tariff-free access to the
+biggest producer of cheap goods in the world.
+
+I elaborated a bit on this in a sibling comment[1], but let's say for example
+that the import duties on electric drills from China into the EU are set at
+30%, but the same duty for Norway is 10%.
+
+After signing a FTA with China Norway can simply import the drills at 0%, then
+re-export them to Germany at a rate of 10%.
+
+Even if they can't simply re-export finished products a Norwegian company could
+buy cheap Chinese parts for making drills, then finish constructing them
+domestically and export them to the EU.
+
+Even if they don't directly re-export anything from China Norwegian industry
+would be more competitive than its neighbors, e.g. a Norwegian paper mill might
+buy cheap acids for industrial from China that their neighbors in Sweden don't
+have access to. This would make Norwegian paper cheaper than Swedish paper, and
+Sweden would pressure the EU to adjust its import duties accordingly.
+
+Thus the EU will start having to either treat Norway and Iceland more like
+China in terms of tariffs and import duties, or to treat China more like Norway
+and Iceland.
+
+1. https://news.ycombinator.com/item?id=15409391

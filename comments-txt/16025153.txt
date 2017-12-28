@@ -1,0 +1,29 @@
+Comment-Id:	16025153
+Comment-Author:	avar
+Comment-Date:	Thu Dec 28 21:44:47 UTC 2017
+Comment-Type:	comment
+Parent-Id:	16024874
+
+Must be my vivid imagination:
+
+    > Within the root network, residents will have
+    > their private spaces protected from harsh
+    > radiation, meteoroid impact, and thermal
+    > environment.
+    > [...]
+    > The radiation protection will be enhanced by
+    > the inclusion of a layer in the shield
+    > consisting of a water reservoir.
+    > [...]
+    > This [regolith layer] layer can also serve
+    > as shielding from solar and cosmic radiation
+    > fields. The thickness of the layer would be
+    > variable, with thicker construction in the
+    > directions with greater sun exposure.
+    > [...]
+    > The weight of the regolith sandbags will
+    > provide protection from radiation and
+    > impact;
+
+If they're not worried about radiation why would they construct walls that are
+thicker on the side that faces the sun?

@@ -1,0 +1,28 @@
+Comment-Id:	14579821
+Comment-Author:	avar
+Comment-Date:	Sun Jun 18 09:31:31 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14579080
+
+HEADLINE: Better support for non-free firmware during installation
+
+DESCRIPTION: Long-time Debian user here and free software supporter. One aspect
+where I don't have any practical choice for free software is my non-free
+iwlwifi firmware.
+
+It's a huge PITA to install Debian like that when you don't have the fallback
+of a wired network. You provide "non-free" firmware packages, but these don't
+have the actual firmware! Rather they're dummy *.deb packages that expect to be
+able to download the firmware from the installer, which is of course a chicken
+& egg problem for WiFi firmware.
+
+I end up having to "apt install" the relevant package on another Debian system,
+copy the firmware from /lib manually, copy it to a USB drive, then manually
+copy it over in the installer.
+
+I understand that the Debian project doesn't want to distribute non-free
+firmware by default, but it would be great to be able to run a supported
+official shellscript to create an ISO image that's like the Stretch installer
+but with selected non-free firmware available on the image.
+
+DISTRIBUTION: Stable on my server, testing on my laptop.

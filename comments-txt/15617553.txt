@@ -1,0 +1,13 @@
+Comment-Id:	15617553
+Comment-Author:	avar
+Comment-Date:	Fri Nov  3 08:34:08 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15615315
+
+You normally can't stall an Airbus aircraft, except in cases where the flight
+mode changes as it did in this situation. This was a huge part of the problem,
+an emergency occurred and the pilots were effectively flying an aircraft they
+hadn't flown before.
+
+Fully pulling back the stick is what you'd normally do in an Airbus to gain
+altitude. It's guaranteed not to stall the plane.

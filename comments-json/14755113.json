@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 14755113,
+  "kids" : [ 14755747, 14755188 ],
+  "parent" : 14754602,
+  "text" : "This is because they&#x27;re not trying to give you stuff you&#x27;d generally like given your entire history. The recommendation feature powers the part of YouTube that auto-plays the upcoming video.<p>So e.g. if I go and view Russian dashcam videos they&#x27;re going to automatically play more of them, even though I&#x27;ve shown no prior interest in that topic.<p>Having two systems for recommendations would introduce a lot of UI complexity, so I can see why they didn&#x27;t go for that, and why the recommendations are consequently tuned for people who are actively watching videos on some topic right now.",
+  "time" : 1499883825,
+  "type" : "comment"
+}

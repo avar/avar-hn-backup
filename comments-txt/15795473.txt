@@ -1,0 +1,11 @@
+Comment-Id:	15795473
+Comment-Author:	avar
+Comment-Date:	Tue Nov 28 08:46:39 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15790179
+
+Basic income isn't like Negative Income Tax at all. The core idea of BI is that
+no matter how much money you make you always get the BI, it's "basic".
+
+NIT is just moving the progressive tax system into negative values, which means
+you subsidize the poor but once you make enough money you won't get subsidized.

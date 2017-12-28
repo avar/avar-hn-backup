@@ -1,0 +1,8 @@
+Comment-Id:	15342981
+Comment-Author:	avar
+Comment-Date:	Tue Sep 26 22:10:20 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15342889
+
+Excluding the username from the 140 character limit was only changed this year:
+http://www.wired.co.uk/article/twitter-character-limit

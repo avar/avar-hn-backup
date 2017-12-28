@@ -1,0 +1,17 @@
+Comment-Id:	15611336
+Comment-Author:	avar
+Comment-Date:	Thu Nov  2 15:36:26 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15609807
+
+This diagram shows a shaft going into this void from two sides. I was wondering
+why they don't send a robot down into those.
+
+Seems the answer is that they have, but there's something blocking the shaft
+and they're not willing to destroy it any further for some reason:
+
+http://guardians.net/hawass/articles/news_on_the_robot_Dec_2...
+
+http://www.crystalinks.com/gantenbrink.html
+
+http://www.gizapower.com/Articles/door2.html

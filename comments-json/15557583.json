@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 15557583,
+  "kids" : [ 15557929 ],
+  "parent" : 15557338,
+  "text" : "This is a bit like saying &quot;I don&#x27;t get why web development is overworking people, just look at all this cool stuff Google is doing with the Go runtime!&quot;.<p>Most people who work in the game industry are not doing deep game engine hacking, but doing grunt work like scripting&#x2F;designing some scene in a giant adventure game who&#x27;s going to have thousands of those, and all of those need to be finished before the release date.",
+  "time" : 1509011930,
+  "type" : "comment"
+}

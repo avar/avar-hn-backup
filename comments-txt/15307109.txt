@@ -1,0 +1,9 @@
+Comment-Id:	15307109
+Comment-Author:	avar
+Comment-Date:	Thu Sep 21 20:37:20 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15305724
+
+Almost everyone can't type anything but a fraction of Unicode already. Can you
+easily type Chinese, Farsi, Russian etc? All of those are in domain names,
+passwords, usernames etc. There's no reason not to allow emoji.

@@ -1,0 +1,35 @@
+Comment-Id:	15879537
+Comment-Author:	avar
+Comment-Date:	Fri Dec  8 15:56:26 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15879330
+
+In the context of this discussion, which is gold holders hypothetically pumping
+& dumping the market it's pretty much only the big reserve holders that matter.
+
+How do you think someone who's gold holdings are 1 kg in a warehouse embedded
+in motherboards is going to extract that to dump it on the market? Most gold by
+weight is effectively illiquid, while every Bitcoin is equally liquid.
+
+As the source the article uses[1] discusses the breakdown of those 187,200 tons
+is:
+
+* Jewellery: 89,200 tonnes, 47.6%
+
+* Private investment: 40,000 tonnes, 21.4%
+
+* Official sector: 31,500 tonnes, 16.8%
+
+* Other: 26,500 tonnes, 14.2%
+
+* Below ground stocks: 57,000 tonnes
+
+So around 50% of the number you're quoting is gold still in the ground. To
+repeat your snarky remark: Did you read the article?
+
+I guess counting the official sector and private investment the top 10 official
+holders "only" have around 30% of the liquid market, which is way more
+distorted than Bitcoin, and very comparable in this context of a few owners of
+large liquid assets being able to distort the market.
+
+1. https://www.gold.org/about-gold/gold-supply/gold-mining/how-...

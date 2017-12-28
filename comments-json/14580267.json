@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 14580267,
+  "kids" : [ 14580492 ],
+  "parent" : 14580075,
+  "text" : "These don&#x27;t work for WiFi drivers as I pointed out because they&#x27;re not actually the firmware, they&#x27;re packages to download the firmware. That obviously doesn&#x27;t work if you don&#x27;t have a network connection.",
+  "time" : 1497786840,
+  "type" : "comment"
+}

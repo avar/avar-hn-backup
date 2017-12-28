@@ -1,0 +1,8 @@
+Comment-Id:	15580098
+Comment-Author:	avar
+Comment-Date:	Sun Oct 29 17:03:11 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15578797
+
+Is there some website where you can see a good visualization of IMDB or other
+ratings across seasons/episodes like that for any show?

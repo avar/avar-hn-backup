@@ -1,0 +1,33 @@
+Comment-Id:	14608017
+Comment-Author:	avar
+Comment-Date:	Wed Jun 21 21:13:52 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14606955
+
+On second look, yes that Guardian source is pretty shitty. I couldn't find some
+authoritative source for the CO^2 emissions required to produce a new car. My
+point was that you had to consider it.
+
+    > cars used for ride services will be replaced
+    > more often.
+
+It's not meaningful to consider how often they're replaced, but what mileage
+they tend to get if we're going to look at how the CO^2 cost of producing the
+car is amortized over its lifetime.
+
+According to EPA statistics a typical car gets used for 100-200K miles[1], for
+taxis that number seems to be easily 2x or 3x larger[2]. So for the same amount
+of moving people from A to B taxis are mor CO^2 efficient.
+
+Of course there are all sorts of secondary effects you're not taking into
+account. Once people don't own a car because they have something like Uber
+available to them, they're more likely to use a bike or public transport for a
+trip they'd otherwise take by car. Just compare somewhere like NYC to LA in
+terms of how much CO^2 a typical person emits while going about their day.
+
+I don't know what the exact numbers are, but this is a lot more complex than
+what you're making it out to be.
+
+1. https://en.wikipedia.org/wiki/Car_longevity#Statistics
+
+2. https://www.quora.com/How-many-miles-does-a-NYC-taxi-do-in-i...

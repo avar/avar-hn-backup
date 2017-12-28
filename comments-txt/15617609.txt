@@ -1,0 +1,26 @@
+Comment-Id:	15617609
+Comment-Author:	avar
+Comment-Date:	Fri Nov  3 08:47:59 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15615268
+
+This theory isn't citing the report itself, but independent analysis that's
+been done on the same data. The Wikipedia article on the topic has a whole
+section for these [1], and a section about this theory in particular [2].
+
+Furthermore. The official accident report for crashes is not always considered
+the authoritative source for what happened. One good example is EgyptAir Flight
+990 which the official report claims is a mechanical failure [3], but which is
+widely considered to have been pilot suicide. In that case the Egyptian
+investigative body was thought to be politically motivated.
+
+Similarly, it's not at all implausible that the French BEA would be reluctant
+to make conclusions that could result in the grounding of the entire worldwide
+Airbus fleet while they're retrofitted with Boeing-style controls while France
+is the main Airbus manufacturing partner country.
+
+1. https://en.wikipedia.org/wiki/Air_France_Flight_447#Independ...
+
+2. https://en.wikipedia.org/wiki/Air_France_Flight_447#Sidestic...
+
+3. https://en.wikipedia.org/wiki/EgyptAir_Flight_990

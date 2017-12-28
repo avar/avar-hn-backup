@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 15105357,
+  "kids" : [ 15108369, 15105795, 15105702, 15105423, 15105416, 15108382, 15106193 ],
+  "parent" : 15105009,
+  "text" : "This implementation is freely licenced enough that the BSDs and others that don&#x27;t use Git for license reasons could use it.<p>It would be interesting to see an alternative implementation like this get enough feature parity that projects like the BSDs could migrate and still be protocol and worktree compatible so most users could continue using the GPL2 implementation.<p>Edit: Seems people here are unaware that the BSDs treat GPL software like cooties, see e.g. [1]. They wouldn&#x27;t start using source control that gave them less freedom than SVN, an with CVS there&#x27;s the expectation that OpenCVS might get finished.<p>1. <a href=\"https:&#x2F;&#x2F;wiki.freebsd.org&#x2F;GPLinBase\" rel=\"nofollow\">https:&#x2F;&#x2F;wiki.freebsd.org&#x2F;GPLinBase</a>",
+  "time" : 1503754604,
+  "type" : "comment"
+}

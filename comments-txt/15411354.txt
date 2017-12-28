@@ -1,0 +1,27 @@
+Comment-Id:	15411354
+Comment-Author:	avar
+Comment-Date:	Thu Oct  5 18:20:11 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15410881
+
+Yes legally it can't, but enforcing this on an open border with a direct road
+connection to the rest of the EU is going to be quite interesting.
+
+Right now this situation exists in theory, but in practice pretty much nobody
+in the EU has any cause to try to import something via Norway, since its trade
+deals are quite similar to what the EU itself has.
+
+But the EU has huge tariffs on some Chinese products, including slapping China
+with 30-70% tariffs on basic metal alloys in some cases[1][2].
+
+The difference can be so large that it becomes beneficial for you as a private
+EU citizen to drive up to Norway yourself to fetch e.g. basic alloys at lower
+prices.
+
+Nothing remotely like this situation exists within the land borders of Schengen
+today. There's the agreement with Iceland, but as it's an island enforcement is
+much easier.
+
+1. https://www.cnbc.com/2017/06/09/reuters-america-update-2-eu-...
+
+2. https://www.theguardian.com/business/2016/oct/07/european-un...

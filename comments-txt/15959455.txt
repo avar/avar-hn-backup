@@ -1,0 +1,12 @@
+Comment-Id:	15959455
+Comment-Author:	avar
+Comment-Date:	Tue Dec 19 11:43:19 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15959106
+
+Because if the fuel tank breaks you can just weld pretty much any replacement
+on and it'll work, you could even use a bucket on the back of your pick-up
+trunk & a hose as a temporary replacement.
+
+That's not the case with electric cars and their batteries. They're deeply
+integrated with the rest of the powertrain.

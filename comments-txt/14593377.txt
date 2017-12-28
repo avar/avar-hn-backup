@@ -1,0 +1,10 @@
+Comment-Id:	14593377
+Comment-Author:	avar
+Comment-Date:	Tue Jun 20 10:21:59 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14593215
+
+MEP seats are allocated per-country, voting based on domestic policies is the
+entire point of the EP. The council & commission (in particular the latter) are
+then supposed to balance it out with unified national & cross-national
+representation, respectively.

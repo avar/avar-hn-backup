@@ -1,0 +1,9 @@
+Comment-Id:	14571167
+Comment-Author:	avar
+Comment-Date:	Fri Jun 16 17:54:12 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14569872
+
+This is US-specific, in some European countries at least you're automatically
+part of some union by law if you're a software developer. They don't tend to do
+collective bargaining, but they're there.

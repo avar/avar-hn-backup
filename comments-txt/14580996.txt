@@ -1,0 +1,14 @@
+Comment-Id:	14580996
+Comment-Author:	avar
+Comment-Date:	Sun Jun 18 15:18:13 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14580911
+
+Hence my suggestion that the Debian project distribute a script that I can run
+to get the firmware myself & trivially build my own install CD, and that this
+be prominently advertised on debian.org.
+
+The Debian project already ships that sort of script in the current non-free
+firmware CD, so clearly it's not a legal issue. What it doesn't ship is the
+ability to run that on another machine as part of preparing an ISO to install
+on a fresh machine that needs the proprietary firmware.

@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 14634793,
+  "kids" : [ 14635380 ],
+  "parent" : 14634201,
+  "text" : "Do you mean this 2010 paper: <a href=\"https:&#x2F;&#x2F;www.cl.cam.ac.uk&#x2F;research&#x2F;security&#x2F;banking&#x2F;nopin&#x2F;oakland10chipbroken.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;www.cl.cam.ac.uk&#x2F;research&#x2F;security&#x2F;banking&#x2F;nopin&#x2F;oak...</a><p>Here&#x27;s their blog post about it at the time (but the YouTube video is down, unfortunately): <a href=\"http:&#x2F;&#x2F;www\" rel=\"nofollow\">http:&#x2F;&#x2F;www</a>.\nlightbluetouchpaper.org&#x2F;2010&#x2F;02&#x2F;11&#x2F;chip-and-pin-is-broken&#x2F;<p>From the paper: &quot;Because stolen cards can be used without knowing the PIN, by our definition, Chip and PIN is broken. We do not believe that the system is broken beyond repair, but neither is it the case that a simple fix will suffice, due to the unmanageable complexity of EMV.&quot;",
+  "time" : 1498462423,
+  "type" : "comment"
+}

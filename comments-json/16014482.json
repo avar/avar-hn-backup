@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 16014482,
+  "parent" : 16012620,
+  "text" : "You don&#x27;t pay Netflix to use FreeBSD, you pay them for a streaming video service that would be indistinguishable to you if they used Linux.<p>I&#x27;d expect Netflix to pay enough for FreeBSD to fund things they&#x27;re interested in for running their own infrastructure. This is how free software development works, if you have an itch you either scratch it yourself or pay someone to scratch it.<p>You wouldn&#x27;t want a FreeBSD that would be entirely funded by Netflix either, because nobody would be working on anything Netflix itself didn&#x27;t need, such a system would quickly end up being useless to you.",
+  "time" : 1514379369,
+  "type" : "comment"
+}

@@ -1,0 +1,11 @@
+Comment-Id:	15478914
+Comment-Author:	avar
+Comment-Date:	Sun Oct 15 19:45:44 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15478442
+
+For anyone wondering why airlines are retiring the 747 this Wikipedia section
+summarizes it: https://en.wikipedia.org/wiki/Boeing_747-400#Retirement_and_...
+
+Summary: Old, inefficient, less need for jumbo jets. Everyone's either buying
+smaller or migrating to the modern Airbus A380.

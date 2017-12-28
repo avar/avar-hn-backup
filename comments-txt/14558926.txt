@@ -1,0 +1,11 @@
+Comment-Id:	14558926
+Comment-Author:	avar
+Comment-Date:	Thu Jun 15 09:29:48 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14558695
+
+You might also want to look at the Wireshark module for MySQL: https://
+github.com/wireshark/wireshark/blob/master/epan/diss...
+
+It does all the work of figuring out what's a request/response and parsing /
+dumping out various parts of the protocol.

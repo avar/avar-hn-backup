@@ -1,0 +1,8 @@
+Comment-Id:	14983692
+Comment-Author:	avar
+Comment-Date:	Thu Aug 10 20:13:43 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14983013
+
+Not all SSH implementations use this convention. Git would need to start
+detecting if your ssh is openssh.

@@ -1,0 +1,10 @@
+Comment-Id:	14606330
+Comment-Author:	avar
+Comment-Date:	Wed Jun 21 18:02:45 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14602372
+
+The original Dune quote makes perfect sense in context. Paul was talking about
+destroying the spice supply by making Arrakis barren of sandworms. "Control" in
+this context is control of the spice, specifically being able to control there
+being none at all.

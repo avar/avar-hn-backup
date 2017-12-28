@@ -1,0 +1,25 @@
+Comment-Id:	16024032
+Comment-Author:	avar
+Comment-Date:	Thu Dec 28 18:59:23 UTC 2017
+Comment-Type:	comment
+Parent-Id:	16023253
+
+A much more cost-effective way of dealing with radiation on Mars is to
+construct shelters out of something that doesn't shield against radiation at
+all, then only pick astronauts who are smokers, and send them to Mars without
+cigarettes[1].
+
+For the smokers sent to Mars living in flimsy shelters this'll decrease their
+lifetime odds of dying from cancer compared to smoking two packs a day and
+staying on Earth.
+
+This article like so many others describes designs for Mars habitats that are
+optimized for being accepted under NASA's strict safety rules, and it's an
+organization run by safety-obsessed bureaucrats.
+
+I predict that once the second space race kicks off in earnest these
+unpractical restrictions are going to be quickly dismissed, because NASA's
+going to have to compete with e.g. China which'll likely use much simpler
+designs because they're realistic about their risk assessments.
+
+1. https://www.space.com/21813-mars-one-colony-space-radiation....

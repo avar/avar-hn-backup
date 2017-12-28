@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 14639224,
+  "kids" : [ 14639332, 14639284, 14639299 ],
+  "parent" : 14638988,
+  "text" : "Ask them how they would, on a Unix system, do some task that&#x27;s trivially done via a standard POSIX shell command.<p>E.g. &quot;how would you count the number of lines in a file?&quot;, &quot;given a regex, please print lines in a file matching the regex&quot;, &quot;given N lines, sort them by numeric value&quot; etc.<p>The most egregious over-engineering I see is someone writing a 100 line Python script for something that could be at most a 100 character shell one-liner with a couple of pipes between different programs.<p>If they pass that ask them about a problem that would be trivially solved by resisting the urge to reinvent make, a HTTP server, or an SMTP server.<p>Edit: Re downthread: Yes obviously only in the context of someone expected to know *nix in the case of those examples. But the general approach is very transferable.<p>Ask the candidate about some trivial problem solvable in 1 minute with standard tooling they use every day, you&#x27;d be amazed at the architecture astronauts that come out of the woodworks keen to waste their time on some needlessly over-engineered solution.",
+  "time" : 1498502889,
+  "type" : "comment"
+}

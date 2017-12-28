@@ -1,0 +1,33 @@
+Comment-Id:	14975087
+Comment-Author:	avar
+Comment-Date:	Thu Aug 10 00:20:34 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14974391
+
+You say you understand the point but you seem to have entirely missed it, the
+same problem remains.
+
+The point of the APM limit is presumably to fairly emulate a human player, but
+the APMs for humans are obviously averaged over a minute.
+
+However, for certain things humans can initiate actions in SC2 in quick
+succession that, if sustained over a greater time period, would yield a
+ridiculous APM rate. Think a Terran player highlighting the barracks and
+tapping "A" really fast, say with a 10ms delay, that would result in 600 APM.
+
+Let's say a human can build 5 marines like that in quick succession. You're
+going to have to allow for temporary spikes in APM to not unfairly give the
+human player an advantage.
+
+But if you do that the computer is able to really rapidly execute more complex
+actions that the human can't because he's limited by the SC2 UI, whereas every
+action via the API is equally difficult for the computer. E.g. moving 3
+different subgroups of marines out of the way of a High Templar Storm. I doubt
+any human player could select 3 different subgroups of marines from one big
+group and move them out of the way in 3 different directions within the span of
+60ms (10ms for each action of select/move for 3x groups).
+
+So any "fair" APM limit really needs to be dynamic in some way, or at least
+take into account the complexity of actions (say highlighting a group v.s.
+tapping "A"). It's not at all obvious how to do this while retaining fairness
+and not giving either the human or the computer an unfair advantage.

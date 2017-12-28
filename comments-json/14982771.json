@@ -1,0 +1,11 @@
+{
+  "by" : "avar",
+  "descendants" : 2,
+  "id" : 14982771,
+  "kids" : [ 14983013 ],
+  "score" : 4,
+  "time" : 1502390460,
+  "title" : "Remote code execution when cloning a malicious Git, Mercurial or SVN repository",
+  "type" : "story",
+  "url" : "https://public-inbox.org/git/xmqqh8xf482j.fsf@gitster.mtv.corp.google.com/T/#u"
+}

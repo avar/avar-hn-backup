@@ -1,0 +1,13 @@
+Comment-Id:	15974866
+Comment-Author:	avar
+Comment-Date:	Wed Dec 20 23:28:29 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15974770
+
+If you mainly advertised for employees in certain newspapers you'd get people
+of a given political leaning. If you advertised on the radio at 6 in the
+morning you probably wouldn't get anyone under 35.
+
+It's not obvious to me why employers should be able to use the implicit
+filtering traditional media provides, but not the explicit filtering new
+advertising platforms provide.

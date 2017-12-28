@@ -1,0 +1,16 @@
+Comment-Id:	15071858
+Comment-Author:	avar
+Comment-Date:	Tue Aug 22 12:54:38 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15069260
+
+This doesn't inherently have anything to do with open source, but the problem
+that whatever license the apps on the phone are under they can't all be
+implementing their own push/pull message queue, having 30 open network
+connections constantly waking up the phone is going to drain the battery.
+
+If I install 100 apps that have their own messaging implementation should the
+phone just not be showing that to me, even though my battery is now drained in
+half the time as a result? I'm pointing out that as a user this is very
+pertinent info to be showing me, if I have 30 apps running in the background
+I'd like to see it.

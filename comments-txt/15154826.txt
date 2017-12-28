@@ -1,0 +1,10 @@
+Comment-Id:	15154826
+Comment-Author:	avar
+Comment-Date:	Sat Sep  2 07:46:25 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15153894
+
+Even if you could, that sounds like a bad idea. There's a lot of churn in the
+hotel industry, the hotel you're booking 7 years out may not even exist in its
+current form that far in the future, and if it does new/better/cheaper hotels
+might have popped up next to it. 18 months in advance should be plenty of time.

@@ -1,0 +1,12 @@
+Comment-Id:	14673930
+Comment-Author:	avar
+Comment-Date:	Fri Jun 30 22:26:05 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14673068
+
+It's been a failure in my opinion. The benefits of the patent licensing clause
+did not win out over the massive loss of the likes of Apple, the BSDs etc.
+shunning GPLv3 software.
+
+It also spurred a lot of rewrites of GPL software. This has been good for the
+most part, but the opposite of what the FSF intended.

@@ -1,0 +1,39 @@
+Comment-Id:	14701630
+Comment-Author:	avar
+Comment-Date:	Wed Jul  5 11:52:02 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14701494
+
+That's a trivial cost when we're talking about sending things to Mars. The
+Curiosity rover has around 5kg of Pu-238. NASA estimates that restarting
+production will cost $6M/kg[1]. The total cost of the MSL program is 2.5
+billion[2]. That's $30 million out of 2.5 billion, or 1.2%.
+
+NASA has also been buying Pu-238 from the Russians at around $1.5 million/kg
+[3], which would be $7.5 million for Curiosity, or 0.3% of the cost of the
+program.
+
+I'm interested in deep-space exploration (but am no expert), and as far as I
+can tell the reason the US is running out of Pu-238 has absolutely nothing to
+do with cost.
+
+It's been happening because only NASA has really wanted this, but producing it
+has been the purview of the military or the DOE.
+
+So the issue has been stuck in some bureaucratic nightmare for decades, the
+only people allowed to produce Pu-238 didn't need it, and NASA couldn't simply
+spend a crapload of money to pay another agency or branch of the government to
+restart production due to the way money politics works, even though it was an
+overall good investment.
+
+So rather than simply restart production at a trivial cost compared to what
+NASA otherwise spends, it's been easier to buy it from Russia.
+
+As [1] shows there's now a real possibility that Pu-238 will run out, so the US
+has restarted production.
+
+1. https://www.nasa.gov/pdf/636900main_Howe_Presentation.pdf
+
+2. https://en.wikipedia.org/wiki/Mars_Science_Laboratory
+
+3. http://dailycaller.com/2017/03/28/nasa-wants-to-stop-buying-...

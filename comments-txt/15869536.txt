@@ -1,0 +1,20 @@
+Comment-Id:	15869536
+Comment-Author:	avar
+Comment-Date:	Thu Dec  7 12:47:26 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15869248
+
+Fuel taxes are a very crude tool, road tolls are much better instrument to
+actually regulate the behavior you care about.
+
+If you raise fuel taxes because there's too much congestion that's going to
+equally affect someone who lives in some rural area where congestion isn't an
+issue at all, and someone who's driving down a busy freeway every day
+contributing to congestion.
+
+You also raise the price of gasoline, which has other uses that have nothing
+whatsoever to do with road transport.
+
+If you want to discourage specific behavior you should tax that specific
+behavior, not tax something one or two steps removed from the behavior you care
+about.

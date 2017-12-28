@@ -1,0 +1,17 @@
+Comment-Id:	16014482
+Comment-Author:	avar
+Comment-Date:	Wed Dec 27 12:56:09 UTC 2017
+Comment-Type:	comment
+Parent-Id:	16012620
+
+You don't pay Netflix to use FreeBSD, you pay them for a streaming video
+service that would be indistinguishable to you if they used Linux.
+
+I'd expect Netflix to pay enough for FreeBSD to fund things they're interested
+in for running their own infrastructure. This is how free software development
+works, if you have an itch you either scratch it yourself or pay someone to
+scratch it.
+
+You wouldn't want a FreeBSD that would be entirely funded by Netflix either,
+because nobody would be working on anything Netflix itself didn't need, such a
+system would quickly end up being useless to you.

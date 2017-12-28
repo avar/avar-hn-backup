@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 14580712,
+  "kids" : [ 14580911 ],
+  "parent" : 14580492,
+  "text" : "I see that I mixed up two of my laptops in my example. You&#x27;re right, but my general feature request still stands.<p>Yes the iwlwifi firmware in particular is shipped on the nonfree firmware CD image. But the firmware my other laptop isn&#x27;t. With the stretch rc5 non-free image mounted:<p><pre><code>    $ dpkg -c firmware&#x2F;firmware-iwlwifi_20161130-3_all.deb|grep -c ucode\n    46\n</code></pre>\nBut instead of providing the b43 firmware there&#x27;s only a network installer to fetch it:<p><pre><code>    $ ls firmware&#x2F;*b43*\n    firmware&#x2F;firmware-b43-installer_019-3_all.deb\n    firmware&#x2F;firmware-b43legacy-installer_019-3_all.deb\n</code></pre>\nLooking over the packages more closely now it seems only the b43 package[1] uses this approach (although there might be more firmware that&#x27;s not included at all).<p>1. <a href=\"https:&#x2F;&#x2F;wiki.debian.org&#x2F;bcm43xx#b43_and_b43legacy\" rel=\"nofollow\">https:&#x2F;&#x2F;wiki.debian.org&#x2F;bcm43xx#b43_and_b43legacy</a>",
+  "time" : 1497795235,
+  "type" : "comment"
+}

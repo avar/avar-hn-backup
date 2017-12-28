@@ -1,0 +1,9 @@
+Comment-Id:	15959485
+Comment-Author:	avar
+Comment-Date:	Tue Dec 19 11:51:22 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15958886
+
+How do you think issuing a "crypto token" is legally different from the
+government issuing you a check which it's going to exchange at face value for
+Euros, which all governments in the Eurozone can do today?

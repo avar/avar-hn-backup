@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 14690996,
+  "kids" : [ 14691240 ],
+  "parent" : 14690281,
+  "text" : "Linus says it&#x27;s a large release, here&#x27;s a numeric breakdown of recent kernel releases, showing number of commits, diff | wc, and a diffstat with&#x2F;without the drivers&#x2F; directory:<p><pre><code>    v4.7..v4.8:\n        14552\n        1331854 5068427 42175318\n        11363 files changed, 627754 insertions(+), 279373 deletions(-)\n        6657 files changed, 329595 insertions(+), 167605 deletions(-)\n    v4.8..v4.9:\n        17392\n        1419476 5372905 44206994\n        11179 files changed, 632159 insertions(+), 354871 deletions(-)\n        5993 files changed, 214842 insertions(+), 120945 deletions(-)\n    v4.9..v4.10:\n        14249\n        1463146 5668517 49833479\n        11726 files changed, 744012 insertions(+), 249810 deletions(-)\n        5884 files changed, 329130 insertions(+), 115189 deletions(-)\n    v4.10..v4.11:\n        13891\n        1227388 4763853 39671475\n        12506 files changed, 530154 insertions(+), 232410 deletions(-)\n        6230 files changed, 209555 insertions(+), 95502 deletions(-)\n    v4.11..v4.12:\n        15736\n        2025692 7383431 88754335\n        12396 files changed, 1300537 insertions(+), 267064 deletions(-)\n        5829 files changed, 215764 insertions(+), 124745 deletions(-)\n</code></pre>\nVia:<p><pre><code>    parallel -k &#x27;r=v4.$(({}-1))..v4.{} ; echo $r: ; (git rev-list $r | wc -l; git -c diff.renameLimit=10240 diff $r | wc; git -c diff.renameLimit=10240 diff --shortstat $r ; git -c diff.renameLimit=10240 diff --shortstat $r -- &quot;:!drivers&#x2F;&quot;) | sed -r &quot;s&#x2F;^ *&#x2F;&#x2F;; s&#x2F;^&#x2F;    &#x2F;&quot;&#x27; ::: {8..12}</code></pre>",
+  "time" : 1499112242,
+  "type" : "comment"
+}

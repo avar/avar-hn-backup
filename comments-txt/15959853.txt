@@ -1,0 +1,8 @@
+Comment-Id:	15959853
+Comment-Author:	avar
+Comment-Date:	Tue Dec 19 13:00:38 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15959509
+
+The government doesn't need to immediately borrow 1 EUR or have it on hand
+write you a check for 1 EUR, so the comparison holds.

@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 14731924,
+  "kids" : [ 14732578 ],
+  "parent" : 14731631,
+  "text" : "In case you aren&#x27;t aware of this, what you&#x27;ve made is very similar to the rx.el[1] that&#x27;s shipped with Emacs since 21.1 (released in 2001).<p>Many of the comments here are speculating on what this might&#x2F;could be used for, but could simply look at how it&#x27;s used in various Emacs modes compared to writing raw regexes in string form.<p>It&#x27;s not fully comparable, since a large reason to use rx.el in Emacs is Emacs&#x27;s nasty regex syntax coupled with having no native quoting construct for regex, making writing anything an exercise in bashing your backslash key.<p>But it also makes it easier to programmatically generate regexes, which as your Python implementation also shows can lead to much clearer code.<p>1. <a href=\"http:&#x2F;&#x2F;doc.endlessparentheses.com&#x2F;Fun%2Frx.html\" rel=\"nofollow\">http:&#x2F;&#x2F;doc.endlessparentheses.com&#x2F;Fun%2Frx.html</a>",
+  "time" : 1499637367,
+  "type" : "comment"
+}

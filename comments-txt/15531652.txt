@@ -1,0 +1,8 @@
+Comment-Id:	15531652
+Comment-Author:	avar
+Comment-Date:	Mon Oct 23 08:36:08 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15531195
+
+You appear to be confusing the Chevy Volt (hybrid) with the Chevy Bolt
+(all-electric).

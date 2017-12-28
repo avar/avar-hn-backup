@@ -1,0 +1,12 @@
+Comment-Id:	15107726
+Comment-Author:	avar
+Comment-Date:	Sat Aug 26 22:04:04 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15107493
+
+A transaction here is a block. A block averages 2000 or so transfers, so that
+$20 becomes $0.01 for any individual transfer in the block.
+
+Electricity price in the US is also irrelevant. As the article shows just over
+0% of blocks are mined in the US, or a rounding error. Bitcoin mining chases
+cheap electricity.

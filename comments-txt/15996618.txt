@@ -1,0 +1,23 @@
+Comment-Id:	15996618
+Comment-Author:	avar
+Comment-Date:	Sat Dec 23 22:32:12 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15996298
+
+Holiday delivery isn't really "hard" to scale in the sense that it's some
+challenge nobody knows how to solve. It's just basic economics. If UPS had 2x
+the number of drivers they'd have no issues during the holidays.
+
+Why don't the have 2x the number of drivers? Because the delivery market is
+hyper-competitive and stuck in a Nash Equilibrium where if any one delivery
+company would raise their prices, customers wouldn't favor them.
+
+"Why should I need to pay double to deliver goods with 3 days notice on
+December 20th? I don't need to do that on any other time of the year!" They'll
+say.
+
+Instead there's a much simpler explanation. Customers want to pay lower prices
+for delivery, even to the extent that the reliability of delivery around busy
+dates will slip. Of course delivery companies will attempt to perform some
+heroics to make it happen, but their margins will only allow them to go so far,
+and those are driven by how much customers actually care about prompt delivery.

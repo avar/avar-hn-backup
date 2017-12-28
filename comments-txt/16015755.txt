@@ -1,0 +1,15 @@
+Comment-Id:	16015755
+Comment-Author:	avar
+Comment-Date:	Wed Dec 27 16:34:53 UTC 2017
+Comment-Type:	comment
+Parent-Id:	16015304
+
+Flying jumbo jets is bad business these days, but the immediate reason for why
+these carriers dropped the 747 in 2017 was because starting in 2018 they
+wouldn't have been allowed to fly due to new FAA rules around fuel tank
+inerting.
+
+Of course putting "we won't be allowed to fly them since the regulator thinks
+they're too likely to explode coming next year, but we're still selling flights
+on them!" in your own press releases is bad for business, so most of the news
+only mentions other reasons.

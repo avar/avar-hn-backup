@@ -1,0 +1,39 @@
+Comment-Id:	16010441
+Comment-Author:	avar
+Comment-Date:	Tue Dec 26 19:32:44 UTC 2017
+Comment-Type:	comment
+Parent-Id:	16010056
+
+It doesn't mean that you've built too much capacity, it means that the producer
+estimates that his cost of shutting down some of the capacity is higher than
+just paying to offload the excess capacity and continuing to run at 100%.
+
+That's an important distinction because you're always going to need more
+capacity, simply because peak use over the day tends to be 2x-3x more than
+during off-peak.
+
+Whether negative prices are bad for producers depends entirely on the details
+of their setup. If they run a coal plant it's obviously mostly bad, since
+they're paying consumers to take their electricity while they're having to pay
+for coal.
+
+But it's not necessarily going to be the case with other forms of production,
+e.g. what's the marginal cost of continuing to run a wind farm at 100% capacity
+v.s. shutting part of it down? Maybe shutting it down is expensive for some
+reason, and at that point you can just pay consumers to act as a heatsink, and
+make up the difference during the day.
+
+Now, everything I've read on the topic suggests that excess negative prices are
+a bad thing today, but that's not some fundamental law.
+
+E.g. let's say that fusion once invented is going to be ridiculously expensive
+to start up and stop, and can only run at either 0% or 100%, but it'll be cheap
+to just keep it running once it's started up.
+
+Then you'd expect that there would be negative prices for around half the day,
+and for both the producers and consumers to be happy with that arrangement,
+since the alternative for the producer would be to buy a massive heat sink farm
+to burn off the excess capacity during the night.
+
+Instead they could use the same money as a price signal to consumers to use
+their existing heatsinks, e.g. running their heating during the night.

@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 14580259,
+  "kids" : [ 14582375, 14580300 ],
+  "parent" : 14579999,
+  "text" : "<p><pre><code>    &gt; rename testing to something with a positive\n    &gt; connotation that doesn&#x27;t suggest it&#x27;s for\n    &gt; testing only.\n</code></pre>\nIsn&#x27;t unstable what you want to use?<p>The reason it&#x27;s called &quot;testing&quot; is because it&#x27;s a branch of Debian that&#x27;s &quot;in testing for stable&quot;. IIRC packages have to be 2 weeks in unstable without bugs before migrating to testing.<p>So it&#x27;s explicitly not a bleeding edge release, but a preparation release for the next stable, which is why testing since late-2016 or so hasn&#x27;t been getting any new major releases, it&#x27;s been undergoing release prep.<p>Maybe there should be a sixth branch of Debian between unstable and testing that doesn&#x27;t slow down the migration of packages bug-free for 2 weeks from unstable around release, but that seems like a lot of maintenance burden to impose on Debian.",
+  "time" : 1497786747,
+  "type" : "comment"
+}

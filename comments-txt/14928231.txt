@@ -1,0 +1,24 @@
+Comment-Id:	14928231
+Comment-Author:	avar
+Comment-Date:	Fri Aug  4 12:42:17 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14918299
+
+Most people using gettext get it via their package system. Your library is also
+an external tool they need to similarly fetch & install.
+
+And no, my argument is not similar to your IDE comparison. You'd get the exact
+same thing, parsing / compiling when you compile your project. You'd just
+offload slightly more work to make & the linker.
+
+You can also get access to the parsed version as a datastructure. This is what
+the gettext library does with its compiled *.mo files.
+
+Anyway, I don't think your thing is a useless approach. It's very hacky in C++
+but this sort of thing is the best way to do something like this in many other
+languages.
+
+I was just pointing out that there's decades of precedence for achieving the
+same results in C, i.e. parsing some custom language out of the project at
+compile-time and shipping it with the binary. Which you (with your "what else
+is there" question) seemed to be unaware of.

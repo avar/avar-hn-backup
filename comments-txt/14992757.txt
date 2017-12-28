@@ -1,0 +1,9 @@
+Comment-Id:	14992757
+Comment-Author:	avar
+Comment-Date:	Fri Aug 11 18:23:02 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14991343
+
+How would a program like git figure out what flavor of "ssh" program is on the
+system? Keep in mind that it may change while a long-running git command is
+running.

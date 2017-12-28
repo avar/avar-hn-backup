@@ -1,0 +1,28 @@
+Comment-Id:	15801583
+Comment-Author:	avar
+Comment-Date:	Tue Nov 28 21:02:33 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15797611
+
+The proponents of both have, in the words of a paper on the subject[1] agreed
+that "the two achieve the same distributive outcome through an appropriate
+tax-benefit system, [but] are fundamentally different from economic and ethical
+points of view".
+
+Consider trying to introduce a universal health care system. You might say why
+do we need a system that subsidizes Jeff Bezos's health care? He can damn well
+pay for it himself, he might even agree since it's going to cost him less in
+terms of his tax contributions.
+
+That's the equivalent of trying to sell NIT. Right out of the gate you have to
+not say "this is for everyone" but "it's just for the poor, but don't worry
+because...". That's what I mean by the marketing being different.
+
+Of course with UBI the benefit is literally fungible, it's money. So it's
+really not like universal health care, but in the minds of a lot of people it
+is. They find it easier to accept the state providing a service if it's
+provided to them as well, even though it's a net cost center for them.
+
+Humans.
+
+1. https://mpra.ub.uni-muenchen.de/2052/1/MPRA_paper_2052.pdf

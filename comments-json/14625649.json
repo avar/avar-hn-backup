@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 14625649,
+  "parent" : 14625546,
+  "text" : "Even if a lot of the vulnerable machines still run insecure software there&#x27;s just no reason why they all need to be networked as they are now. E.g. medical machines at the NHS running Windows recently got ransomware&#x27;d.<p>There&#x27;s no intrinsic reason for why these machines need to be connected to even an internal network other than lazyness prioritizing convenience over security.",
+  "time" : 1498313896,
+  "type" : "comment"
+}

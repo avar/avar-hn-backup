@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 15785918,
+  "kids" : [ 15786247, 15786599 ],
+  "parent" : 15785805,
+  "text" : "<p><pre><code>    &gt; Is Amazon really getting value\n    &gt; out of all the dev time they are\n    &gt; putting into building game engines?\n</code></pre>\nWhat an odd way to think about projects like these. It seems obvious that the answer is &quot;of course not, <i>yet</i>&quot;.<p>You could have asked the same question about AWS in 2001. Why is a bookstore putting all this effort into some online hosting platform for third parties?",
+  "time" : 1511774400,
+  "type" : "comment"
+}

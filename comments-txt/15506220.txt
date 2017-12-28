@@ -1,0 +1,12 @@
+Comment-Id:	15506220
+Comment-Author:	avar
+Comment-Date:	Thu Oct 19 08:04:39 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15504382
+
+    > don't consume as much non-local food
+
+This is actually an unscientific myth. It's counterintuitive but it can be much
+better for the environment to eat non-local food:
+
+http://www.realclearscience.com/blog/2015/06/the_biggest_myt...

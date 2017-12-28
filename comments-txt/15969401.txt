@@ -1,0 +1,10 @@
+Comment-Id:	15969401
+Comment-Author:	avar
+Comment-Date:	Wed Dec 20 13:47:47 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15969248
+
+They have 27 engines, but the Soviet N1 still holds the record at 30[1]. For
+comparison the Saturn V first stage had 5.
+
+1. https://en.wikipedia.org/wiki/N1_(rocket)

@@ -1,0 +1,8 @@
+Comment-Id:	15581274
+Comment-Author:	avar
+Comment-Date:	Sun Oct 29 20:35:21 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15579017
+
+Steve Coast, OpenStreetMap founder and what3words employee on why what3words is
+a good thing: https://stevecoast.com/2016/03/25/why-i-like-what3words/

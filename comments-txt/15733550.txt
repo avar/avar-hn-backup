@@ -1,0 +1,14 @@
+Comment-Id:	15733550
+Comment-Author:	avar
+Comment-Date:	Sun Nov 19 12:08:04 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15733025
+
+This advice is usually "Don't (only) invest in the industry you're employed
+in".
+
+See e.g. the dot-com bubble and how people who worked in IT and had invested
+their money mainly in IT were screwed, whereas it wasn't so bad if you just got
+fired and say invested in an S&P 500 index fund.
+
+But yes, investing only in your employer is a particularly bad version of that.

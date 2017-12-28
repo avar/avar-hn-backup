@@ -1,0 +1,19 @@
+Comment-Id:	14606212
+Comment-Author:	avar
+Comment-Date:	Wed Jun 21 17:51:47 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14605134
+
+There's plenty of people, myself included, who don't have a car but would
+otherwise probably get one if effortless car services on-demand like Uber
+didn't exist. You need to take that into account.
+
+According to some estimates I've seen just constructing a car is equivalent to
+3-4 years of carbon footprint of driving it[1][2].
+
+You might say "buy used!". I would, but over the entire economy it would add up
+to the same amount, the net demand for new cars would increase.
+
+1. https://www.epa.gov/greenvehicles/greenhouse-gas-emissions-t...
+
+2. https://www.theguardian.com/environment/green-living-blog/20...

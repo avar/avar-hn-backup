@@ -1,0 +1,15 @@
+Comment-Id:	15775759
+Comment-Author:	avar
+Comment-Date:	Sat Nov 25 12:46:10 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15774330
+
+They don't even need the 33% improvement. They could just add that much battery
+and fake the charge rate by misinforming the user about the charge rate. I.e.
+say it took 30 minutes to get from 0% to 80%, but really you went from 30% to
+80%, the car just shuts down at 30%.
+
+They already have firmware unlocked battery capacity in their currently
+shipping cars, so this isn't some wild conjuncture. The margins on these
+vehicles are huge, they can just decide they'd like to pay for marketing by
+cutting into some of those and shipping more batteries with each vehicle.

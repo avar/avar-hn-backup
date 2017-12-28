@@ -1,0 +1,13 @@
+Comment-Id:	15973388
+Comment-Author:	avar
+Comment-Date:	Wed Dec 20 20:17:53 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15969821
+
+What's your source for that? I'd have assumed that the reason was the
+engineering effort required to produce an engine the size of the American F-1,
+leading to smaller engines, at which point it becomes more natural to steer
+with variable thrust than with gimballed engines.
+
+The Soviets didn't produce anything rivaling the F-1 until the RD-170 in the
+mid-80s, and that uses 4 thrust chambers instead of 1 as the F-1.

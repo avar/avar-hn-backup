@@ -1,0 +1,13 @@
+Comment-Id:	15557583
+Comment-Author:	avar
+Comment-Date:	Thu Oct 26 09:58:50 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15557338
+
+This is a bit like saying "I don't get why web development is overworking
+people, just look at all this cool stuff Google is doing with the Go runtime!".
+
+Most people who work in the game industry are not doing deep game engine
+hacking, but doing grunt work like scripting/designing some scene in a giant
+adventure game who's going to have thousands of those, and all of those need to
+be finished before the release date.

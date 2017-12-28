@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 14731542,
+  "kids" : [ 14734324 ],
+  "parent" : 14731262,
+  "text" : "These free databases are really inaccurate in many cases compared to e.g. Maxmind. E.g. this thinks my IP address is 100 km away near the German border, but Maxmind&#x27;s commercial DB puts me a 7 minute walk away in the center of Amsterdam.<p>They&#x27;re better than nothing, but be careful when relying on them for anything you need accurate Geo-IP info for.",
+  "time" : 1499632565,
+  "type" : "comment"
+}

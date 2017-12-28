@@ -1,0 +1,11 @@
+Comment-Id:	15382630
+Comment-Author:	avar
+Comment-Date:	Mon Oct  2 09:30:23 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15380414
+
+You definitely can't consider them metric tons. If the bridge you're about to
+cross has a maximum advertised load of 120 sh tn and you consider it safe to
+drive your 120 m tn vehicle over the bridge on the basis of that you're going
+to be putting a 132.3 m tn load on the bridge, or roughly 10% more than it's
+rated for.

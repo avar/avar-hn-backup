@@ -1,0 +1,17 @@
+Comment-Id:	14756888
+Comment-Author:	avar
+Comment-Date:	Wed Jul 12 21:31:39 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14756748
+
+Radiolab did an episode recently[1] which disagrees with that Bloomberg
+article.
+
+They interview ex-Secretary of Defense William Perry asking him what controls
+there are, if any, on a crazy president just willy-nilly deciding to nuke
+something.
+
+He says there's absolutely none, even if the president is in a room full of
+people who vehemently disagree with him he alone makes the call to launch.
+
+1. http://www.radiolab.org/story/nukes/

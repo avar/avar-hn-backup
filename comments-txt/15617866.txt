@@ -1,0 +1,31 @@
+Comment-Id:	15617866
+Comment-Author:	avar
+Comment-Date:	Fri Nov  3 09:49:49 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15617721
+
+I think PM brought wide attention to it, but it's not like it's just some
+fringe theory of theirs, see e.g. this CBS report [1] from 2012 (after the PM
+article was published) with Captain Chesley Sullenberger (of the 2009 Hudson
+crash fame). Many aviation experts have weighed in on this.
+
+Yes they don't have all the data, but they have enough to draw this sort of
+conclusion, including flight path, status of the plane at any given point, and
+the cockpit transcripts.
+
+And true. Suggesting the fleet would be grounded was hyperbolic on my part. But
+I stand by my general point. Aside from happened in this accident, you're
+assuming that anything worthwhile to be learned from a given incident must be
+covered in the final report, or it must not be worth considering at all.
+
+This expects too much of accident investigators, and doesn't account for the
+sort of institutional blindness that happens when everyone is used to things
+being done a certain way. Of course that was pilot error, two disconnected
+joysticks are just how planes are flown!
+
+This wasn't the first case of an incident being attributed to Airbus's
+overdesigned flight controls, QF72 [2]. comes to mind.
+
+1. https://www.youtube.com/watch?time_continue=62&v=kERSSRJant0
+
+2. https://en.wikipedia.org/wiki/Qantas_Flight_72

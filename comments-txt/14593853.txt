@@ -1,0 +1,25 @@
+Comment-Id:	14593853
+Comment-Author:	avar
+Comment-Date:	Tue Jun 20 12:02:57 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14593723
+
+The UK has an entirely different governmental structure than the EU, so
+comparing why someone votes for an MEP v.s. UK MP makes no sense.
+
+Of course MEPs are going to need to consider the EU as a whole, because in
+order to advance the goals of their constituencies they need to cooperate with
+the MEPs representing everyone else (and other EU institutions).
+
+But expecting that you can ban MEPs from being a product of national politics
+or national political branding would be folly and undemocratic. That's what the
+EP is for, it's there to represent voting blocks within the nation-states that
+make up the EU, MEPs are explicitly not voted for across national boundaries.
+
+Targeting MEPs to solve a perceived "democratic deficit" in the EU seems
+bizarre. They're the only directly elected institution, and they're the most
+locally accountable EU representatives or institution.
+
+It seems to me what you'd like to accomplish here would be better solved by
+making the 28 members of the Commission directly elected across national
+boundaries by the entirety of EU citizens.

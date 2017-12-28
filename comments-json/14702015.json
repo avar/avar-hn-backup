@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 14702015,
+  "kids" : [ 14702317 ],
+  "parent" : 14701802,
+  "text" : "My original point was that dredmorbius&#x27;s comment that Pu-238 is in low supply wasn&#x27;t referencing some law of nature, but a political decision that could be changed.<p>I said they were a &quot;bad idea for general power generation&quot;, so I&#x27;m not suggesting that they be used to power a Mars colony, but rather that the reasons not to do so <i>don&#x27;t</i> include Pu-238 being in low supply.<p>We also have a low supply of rockets &amp; other infrastructure to colonize Mars, but we can simply decide to make them.<p>Still, I think any extrapolation of current numbers to say that Pu-238 would be categorically unsuitable for such a purpose is probably premature. Nobody&#x27;s tried to produce it on a truly industrial scale, which would bring costs down. It has a half-life of around 90 years degrading at 1%&#x2F;year, so once you produce it it&#x27;ll power the colony for a <i>long</i> time.<p>It&#x27;s also around 6% efficient at generating electricity[1], but 100% efficient at generating heat, which is a <i>huge</i> part of energy requirements on Mars when it comes to human habitation. The Curiosity rover generates 120W of electricity but 2000W of heat.<p>1. <a href=\"https:&#x2F;&#x2F;physics.stackexchange.com&#x2F;questions&#x2F;34203&#x2F;mars-curiosity-power-system\" rel=\"nofollow\">https:&#x2F;&#x2F;physics.stackexchange.com&#x2F;questions&#x2F;34203&#x2F;mars-curio...</a>",
+  "time" : 1499259599,
+  "type" : "comment"
+}

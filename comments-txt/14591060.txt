@@ -1,0 +1,17 @@
+Comment-Id:	14591060
+Comment-Author:	avar
+Comment-Date:	Mon Jun 19 23:00:34 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14589450
+
+Do you have a source for that? According to this article[1] which is
+summarizing an official Japanese zoning document [2] they have 12 well-defined
+zones.
+
+They're overall more relaxed about mixed-use zoning, but they do have
+exclusively industrial zones, and exclusively residential (with small shops &
+schools) zones.
+
+1. http://urbankchoze.blogspot.nl/2014/04/japanese-zoning.html
+
+2. http://www.mlit.go.jp/common/000234477.pdf

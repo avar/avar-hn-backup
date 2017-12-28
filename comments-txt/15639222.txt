@@ -1,0 +1,14 @@
+Comment-Id:	15639222
+Comment-Author:	avar
+Comment-Date:	Mon Nov  6 21:35:04 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15639014
+
+    > [...] joined the company in January 2013,
+    > was involved in developing technology
+    > for all of Tesla's cars [according to
+    > his LinkedIn profile]
+
+He joined after the Roadster went out of production, which had a proprietary
+Tesla powertrain, so this doesn't seem like an accurate summary, the Model S
+was also introduced half a year before he started in mid-2012.

@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 14983692,
+  "parent" : 14983013,
+  "text" : "Not all SSH implementations use this convention. Git would need to start detecting if your ssh is openssh.",
+  "time" : 1502396023,
+  "type" : "comment"
+}

@@ -1,0 +1,11 @@
+Comment-Id:	15893021
+Comment-Author:	avar
+Comment-Date:	Sun Dec 10 19:27:02 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15892547
+
+Not all of them, e.g. Wences Casares the founder of Xapo is Argentinian and has
+discussed[1] how his family's wealth being wiped out by that country's unstable
+financial system inspired him to do something with Bitcoin.
+
+1. http://www.econtalk.org/archives/2015/07/wences_casares.html

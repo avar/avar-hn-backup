@@ -1,0 +1,70 @@
+Comment-Id:	15127505
+Comment-Author:	avar
+Comment-Date:	Tue Aug 29 20:51:24 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15123228
+
+    > [...]they are end-running around FDA
+    > equivalent rules to get a sketchy study
+    > done[...].
+
+I haven't read anything to suggest that they research being done there is
+actually sketchy, just that people are complaining about the lack of US
+oversight. There's quotes in the article to the effect that all appropriate
+safety precautions are being taken, and no suggestion that the actual
+activities in St. Kitts are sketchy in in of themselves.
+
+Of course that's harder to ascertain without an IRB, but given Thiel's politics
+I'd be just as willing to believe that this is all on the up & up and he's just
+giving the FDA the middle finger out of some libertarian grandstanding as the
+possibility that he's running some offshore Mengelean medical lab.
+
+    > [...]so they can market it somewhere with lax
+    > rules.
+
+That was just a throwaway theory of mine as to what they could be doing, they
+could also just be trying to save money in phase 1 trials on what they see as a
+needless bureaucracy.
+
+    > That's not exactly ethical[...]
+
+I think this entire line of thinking, aside from this specific case, is highly
+arrogant and US-centric. You're assuming that more regulation is automatically
+an improvement, and that e.g. India, China, Saint Kitts and Nevis or some other
+country is inherently incapable of running ethical medical trials just because
+they aren't doing it as some "the FDA's way or the highway" cheerleaders think
+they should be doing it.
+
+If they're actually doing something unethical that behavior warrants criticism.
+The line of argument that the US needs to be involved in everything is
+fallacious.
+
+    > People don't die from genital herpes.
+
+Yes they do. Unless you don't consider newborns people. Maternal genital herpes
+transmitted at birth is the primary cause of neonatal herpes simplex, which can
+be fatal. A herpes vaccine could eliminate this transmission vector and save
+lives.
+
+Whether Thiel or his supposedly sketchy research comes up with that vaccine is
+another matter.
+
+    > sending people to a wild west
+    > jurisdiction like St Kitts
+
+My main beef with this article is the lazy journalism, and its assumption (and
+seemingly yours too) that St. Kitts is some wild-west jurisdiction allowing
+unethical medical trials.
+
+Maybe that's the case, but e.g. some quick googling finds that there's a
+medical school there[1], it seems lazy in the extreme to not e.g. contact them,
+or someone from the St. Kitts government to get their take on this. We're just
+left with something that seems like lazy hit-piece.
+
+    > [...]not undergoing peer-review.
+
+Peer-review would happen once they're ready to publish something in a medical
+journal would it not? The supposedly unethical behavior here is that they're
+not volunteering to US-style oversight.
+
+1. https://en.wikipedia.org/wiki/Windsor_University_School_of_M...

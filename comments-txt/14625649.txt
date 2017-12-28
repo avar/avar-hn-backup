@@ -1,0 +1,12 @@
+Comment-Id:	14625649
+Comment-Author:	avar
+Comment-Date:	Sat Jun 24 14:18:16 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14625546
+
+Even if a lot of the vulnerable machines still run insecure software there's
+just no reason why they all need to be networked as they are now. E.g. medical
+machines at the NHS running Windows recently got ransomware'd.
+
+There's no intrinsic reason for why these machines need to be connected to even
+an internal network other than lazyness prioritizing convenience over security.

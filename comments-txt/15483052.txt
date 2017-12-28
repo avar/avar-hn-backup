@@ -1,0 +1,20 @@
+Comment-Id:	15483052
+Comment-Author:	avar
+Comment-Date:	Mon Oct 16 13:38:36 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15482630
+
+Nobody thinks airplanes are indestructible, but it is counteractive to those
+not familiar with commercial aviation that not only is the market for licensing
+new airframes regulated, but that older airframes are expected to be
+retrofitted to the latest safety standards or lose their license.
+
+This isn't how e.g. trains, buses and even taxis are regulated. E.g. I believe
+in most of the western world you could still operate an antique car without
+seat belts as a taxi.
+
+This is how I read the GPs comment of "I take it 747s have been safe up til
+now". The only way the bus/train/taxi in my example would lose its license is
+if it could be shown if the vehicle didn't adhere to the safety standards at
+the time, whereas the same isn't true for airplanes at all due to how the FAA &
+EASA regulate them.

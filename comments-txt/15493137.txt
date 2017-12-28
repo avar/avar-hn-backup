@@ -1,0 +1,27 @@
+Comment-Id:	15493137
+Comment-Author:	avar
+Comment-Date:	Tue Oct 17 18:02:09 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15491991
+
+    > Buying Bitcoin is not investing,
+    > it is speculation. This may sound
+    > pedantic, but its not.
+
+There's no such generally agreed-upon definition of what constitutes
+speculation and investing[1][2][3]. The most common use of the word
+"speculation" just seems to mean "high-risk investment", but what constitutes
+"high-risk" is a matter of taste.
+
+    > nobody knows for sure if its too late.
+
+If it ends up replacing all money then the value of a single bitcoin will be
+around $200B, but I'd happily characterize that claim as speculation :)
+
+1. https://en.wikipedia.org/wiki/Speculation#Speculation_and_in...
+
+2. https://en.wikipedia.org/wiki/Investment#Related_terms
+
+3. http://www.investopedia.com/terms/s/speculation.asp
+
+4. https://bitcointalk.org/index.php?topic=8113.0

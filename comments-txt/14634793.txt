@@ -1,0 +1,17 @@
+Comment-Id:	14634793
+Comment-Author:	avar
+Comment-Date:	Mon Jun 26 07:33:43 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14634201
+
+Do you mean this 2010 paper: https://www.cl.cam.ac.uk/research/security/banking
+/nopin/oak...
+
+Here's their blog post about it at the time (but the YouTube video is down,
+unfortunately): http://www. lightbluetouchpaper.org/2010/02/11/
+chip-and-pin-is-broken/
+
+From the paper: "Because stolen cards can be used without knowing the PIN, by
+our definition, Chip and PIN is broken. We do not believe that the system is
+broken beyond repair, but neither is it the case that a simple fix will
+suffice, due to the unmanageable complexity of EMV."

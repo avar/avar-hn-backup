@@ -1,0 +1,14 @@
+Comment-Id:	15523843
+Comment-Author:	avar
+Comment-Date:	Sat Oct 21 22:00:39 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15523801
+
+Because what you're primarily saving with public transport is not the cost of
+the vehicles themselves, but all the infrastructure needed if people who would
+otherwise take the bus all own cars.
+
+Sure, if the 50 people on the bus all buy used beaters you'll probably come out
+ahead, but once you start thinking about the real cost of the land in big
+cities needed to park those 50 cars it gets expensive real fast, and that's
+before factoring in extra load on the road system and other externalities.

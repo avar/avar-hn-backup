@@ -1,0 +1,12 @@
+Comment-Id:	16013983
+Comment-Author:	avar
+Comment-Date:	Wed Dec 27 10:31:30 UTC 2017
+Comment-Type:	comment
+Parent-Id:	16012400
+
+That line of citations just ends in a tweet quoting a copyright notice from the
+FreeBSD kernel.
+
+That doesn't mean the Switch runs FreeBSD, just that Nintendo used some code
+from the kernel, which could be as small as adapting a single driver to their
+in-house OS.

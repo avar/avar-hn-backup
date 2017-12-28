@@ -1,0 +1,13 @@
+Comment-Id:	14645903
+Comment-Author:	avar
+Comment-Date:	Tue Jun 27 14:52:16 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14645499
+
+The US is actually #9 behind Iceland, Qatar, Trinidad and Tobago, Kuwait,
+Brunei, Luxembourg, UAE and Canada[1]. Just sort that table by kgoe/a. You're
+right about why Iceland is so high, see [2].
+
+1. https://en.wikipedia.org/wiki/List_of_countries_by_energy_co...
+
+2. https://askjaenergy.com/2014/11/17/iceland-is-the-world-larg...

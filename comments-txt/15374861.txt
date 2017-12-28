@@ -1,0 +1,13 @@
+Comment-Id:	15374861
+Comment-Author:	avar
+Comment-Date:	Sat Sep 30 20:34:33 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15368809
+
+Because if you were to magically turn off the sun and were placed somewhere in
+the solar system wearing a space suit you'd still be in a dangerous radiation
+environment from interstellar radiation. The Sun is not the only source of
+dangerous radiation when making interplanetary trips.
+
+This NASA page has more info on that subject: https://www.nasa.gov/feature/
+goddard/real-martians-how-to-pr...

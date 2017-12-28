@@ -1,0 +1,21 @@
+Comment-Id:	14731924
+Comment-Author:	avar
+Comment-Date:	Sun Jul  9 21:56:07 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14731631
+
+In case you aren't aware of this, what you've made is very similar to the rx.el
+[1] that's shipped with Emacs since 21.1 (released in 2001).
+
+Many of the comments here are speculating on what this might/could be used for,
+but could simply look at how it's used in various Emacs modes compared to
+writing raw regexes in string form.
+
+It's not fully comparable, since a large reason to use rx.el in Emacs is
+Emacs's nasty regex syntax coupled with having no native quoting construct for
+regex, making writing anything an exercise in bashing your backslash key.
+
+But it also makes it easier to programmatically generate regexes, which as your
+Python implementation also shows can lead to much clearer code.
+
+1. http://doc.endlessparentheses.com/Fun%2Frx.html

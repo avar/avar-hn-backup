@@ -1,0 +1,17 @@
+Comment-Id:	15519423
+Comment-Author:	avar
+Comment-Date:	Fri Oct 20 22:06:28 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15518862
+
+Yes, but generally those will average out, and other than carbon emissions the
+environmental impact tends to get pretty well priced into the end product
+because it tends to be more land or resources that are required.
+
+I put "carbon emissions" in parentheses there because the reason for this "buy
+local" fallacy to begin with is because people intuitively assume that it's the
+transportation of the good that makes all the difference, when the reality is
+that that's just 1/10 of the cost.
+
+The environmental impact of the transportation is almost exclusively carbon
+emissions.

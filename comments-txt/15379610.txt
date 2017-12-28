@@ -1,0 +1,9 @@
+Comment-Id:	15379610
+Comment-Author:	avar
+Comment-Date:	Sun Oct  1 20:25:31 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15379335
+
+Read the German Wikipedia article on the subject which shows German signs in
+short tons (non-metric unit): https://de.wikipedia.org/wiki/
+Militärische_Lastenklasse

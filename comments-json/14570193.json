@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 14570193,
+  "kids" : [ 14570969 ],
+  "parent" : 14569833,
+  "text" : "I use Emacs + mu4e with 2 GMail accounts (personal &amp; work). AMA I guess.<p>I use OfflineIMAP to sync the two accounts to ~&#x2F;Maildir&#x2F;{work,personal}, then mu4e-context to switch between settings for the two.<p>I entirely outsource actually sending the mail to a local exim4 daemon which is configured to forward through a GMail smarthost. IMNSHO this is <i>much</i> better than the recommended default configuration of making Emacs actually send the mail, I don&#x27;t have to worry about not having a network connection at the time, or some other transitory error with a real smtpd retrying the send if needed.<p>You then may need a tiny hack on top of Debian&#x27;s default exim configuration to make it switch between different smtp servers &#x2F; accounts depending on what address you&#x27;re sending mail from. For reasons I won&#x27;t go into I send E-Mail through a company-run SMTP server even though I then fetch work E-Mail from GMail.<p>1. <a href=\"https:&#x2F;&#x2F;wiki.debian.org&#x2F;GmailAndExim4\" rel=\"nofollow\">https:&#x2F;&#x2F;wiki.debian.org&#x2F;GmailAndExim4</a>",
+  "time" : 1497629789,
+  "type" : "comment"
+}

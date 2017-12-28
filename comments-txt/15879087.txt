@@ -1,0 +1,17 @@
+Comment-Id:	15879087
+Comment-Author:	avar
+Comment-Date:	Fri Dec  8 15:06:38 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15878964
+
+    > The top 1000 holders of gold
+    > don't have anywhere near 40%
+    > of the market.
+
+You're right, they have a lot more than that. Total world gold reserves are
+around 30K tons. The US alone has 8K tons, Germany 3K, IMF 3K, Italy 2.5K etc.
+
+So just the to 2 holders of Gold have almost 40% of the market, and the top 10
+have 80%.
+
+1. https://en.wikipedia.org/wiki/Gold_reserve

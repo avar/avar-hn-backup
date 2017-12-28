@@ -1,0 +1,40 @@
+Comment-Id:	16016654
+Comment-Author:	avar
+Comment-Date:	Wed Dec 27 18:16:43 UTC 2017
+Comment-Type:	comment
+Parent-Id:	16016457
+
+Start with this thread[1] from HN a couple of months ago (search for "inert").
+This has been a long time coming[2] and is in response to TWA 800 which was a
+747 that exploded in 1996 due to lack of fuel tank inerting[3].
+
+The FAA issued a directive in 2008 saying that by December 26, 2017 (not 2018,
+sorry) [4] passenger planes flying within or into the US had to have fuel tank
+inerting. Many operators such as Delta and United (can't find a better source
+for that now than this reddit comment [5]) decided not to retrofit and flew
+their 747s pretty much right up to the deadline.
+
+Other operators, such as BA (presumably) have already retrofitted their 747s
+and will continue flying them.
+
+So obviously Delta and United weren't very interested in flying the 747s anyway
+since they consider it more economical to turn them into beer cans or cargo
+planes than continue flying them, but the immediate reason they're stopping at
+this time is because they couldn't legally continue past the deadline.
+
+Which is all I'm pointing out here, that they've known this was coming since
+2008 but didn't value the safety of their passengers enough to retrofit the
+planes, and continued flying them right up to the deadline.
+
+It's worth calling out corporate doublespeak and convenient omissions whenever
+they occur.
+
+1. https://news.ycombinator.com/item?id=15478442
+
+2. http://www.iasa.com.au/folders/Safety_Issues/FAA_Inaction/in...
+
+3. https://en.wikipedia.org/wiki/TWA_Flight_800
+
+4. https://www.faa.gov/documentLibrary/media/Advisory_Circular/...
+
+5. https://www.reddit.com/r/aviation/comments/7bxs0x/final_unit...

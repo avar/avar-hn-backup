@@ -1,0 +1,9 @@
+Comment-Id:	15895837
+Comment-Author:	avar
+Comment-Date:	Mon Dec 11 08:35:48 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15894844
+
+With local currency, literally nobody has significant BTC holdings such that
+they'd be impacted by a measure only targeting >$100K account balances, and not
+enough local cash to buy a plane ticket.

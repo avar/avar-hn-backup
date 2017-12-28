@@ -1,0 +1,18 @@
+Comment-Id:	14643507
+Comment-Author:	avar
+Comment-Date:	Tue Jun 27 09:02:04 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14642869
+
+How is the US not improving as well? Renewable energy usage went up from ~9% to
+~13% from 2002 to 2013[1]. The growth in photovoltaics continues[2]. The
+portion of electric cars as part of the fleet is going up[3] etc.
+
+It is true that the US could be doing better, but it's not doing the opposite
+of what China is doing when it comes to energy & environmental improvements.
+
+1. https://en.wikipedia.org/wiki/Renewable_energy_in_the_United...
+
+2. https://en.wikipedia.org/wiki/Growth_of_photovoltaics
+
+3. https://en.wikipedia.org/wiki/Electric_car_use_by_country

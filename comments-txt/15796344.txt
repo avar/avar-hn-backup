@@ -1,0 +1,18 @@
+Comment-Id:	15796344
+Comment-Author:	avar
+Comment-Date:	Tue Nov 28 11:49:40 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15795915
+
+I replied to most of this in a side-thread at https://news.ycombinator.com/
+item?id=15795996
+
+But I'd like to elaborate a bit here. UBI is not identical to NIT because the
+difference is marketing, not math. Most of the electorate's basis for
+evaluating a given policy is not to perform a mathematical comparison of two
+systems and checking whether they yield the same results. How something is done
+is as important in politics as what gets done.
+
+Which is why, as I've pointed out, BI isn't like NIT at all. The difference is
+how the idea is going to get sold to the public, not what each taxpayer is
+going to end up contributing to the system as a function of their income.

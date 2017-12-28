@@ -1,0 +1,18 @@
+Comment-Id:	15584045
+Comment-Author:	avar
+Comment-Date:	Mon Oct 30 10:26:47 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15581656
+
+I'm pointing out that the states forbidding commerce across state lines is not
+a violation of the commerce clause per-se. Rather it's a violation of how the
+federal government has chosen to use the rights it's granted by the commerce
+clause.
+
+I.e. it's just the academic point that it's not inevitable that the Federal
+government uses the power of the CC to enforce free trade between states,
+that's just how it's chosen to implement it.
+
+I.e. there could be an alternate timeline of the US where the CC enforces the
+ability of individual states to impose interstate tariffs up to some threshold,
+similar to how the EU manages agriculture quotas within the single market.

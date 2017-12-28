@@ -1,0 +1,23 @@
+Comment-Id:	16018263
+Comment-Author:	avar
+Comment-Date:	Wed Dec 27 21:39:36 UTC 2017
+Comment-Type:	comment
+Parent-Id:	16017607
+
+Agreed, overall they're safe. I'm just pointing out that the time of the
+phase-out in the US is effectively FAA-mandated due to the airlines not wanting
+to retrofit the fleet, as e.g. BA has apparently done.
+
+This is an interesting bit of trivia, and not something you'll find in airline
+press releases since for better or worse it's going to make them look worse in
+the eyes of their customers.
+
+There's ~500 747s[1] in service. So 30k/500 =~ 60yrs, or a 25% chance that one
+will blow up in the next 15 years. So this seems like a reasonable retrofit
+given the cost.
+
+I assume that the FAA knows what it's doing and 12% oxygen helps, even if it's
+not 9%, similarly I assume they've taken into account the risk of retrofitting
+existing planes, since they started explicitly mandating that in 2008.
+
+1. https://en.wikipedia.org/wiki/List_of_Boeing_747_operators#A...

@@ -1,0 +1,12 @@
+Comment-Id:	15721516
+Comment-Author:	avar
+Comment-Date:	Fri Nov 17 12:42:24 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15720432
+
+Yes, obviously I'm not going to be linking to a video showing a technology that
+doesn't exist yet.
+
+The video serves to demonstrate that given some technological development the
+entire screen could be like that, and aside from that there are E-Ink screens
+in common use that can't refresh even such a small area that fast.

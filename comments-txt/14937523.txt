@@ -1,0 +1,15 @@
+Comment-Id:	14937523
+Comment-Author:	avar
+Comment-Date:	Sat Aug  5 19:46:35 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14934958
+
+It's curious that you leave the US out of your list of nation states that tend
+to attract particularly low-effort comments around here. In my experience this
+is way more pronounced with the US than any other country that's discussed on
+HN.
+
+Of course any country that's discussed here is likely to attract people from
+that country who feel they have something to explain or defend, but due to the
+userbase being predominantly American the bias is very much towards the US, not
+India, Russia, China or whatever.

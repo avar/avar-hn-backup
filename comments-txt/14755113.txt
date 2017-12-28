@@ -1,0 +1,17 @@
+Comment-Id:	14755113
+Comment-Author:	avar
+Comment-Date:	Wed Jul 12 18:23:45 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14754602
+
+This is because they're not trying to give you stuff you'd generally like given
+your entire history. The recommendation feature powers the part of YouTube that
+auto-plays the upcoming video.
+
+So e.g. if I go and view Russian dashcam videos they're going to automatically
+play more of them, even though I've shown no prior interest in that topic.
+
+Having two systems for recommendations would introduce a lot of UI complexity,
+so I can see why they didn't go for that, and why the recommendations are
+consequently tuned for people who are actively watching videos on some topic
+right now.

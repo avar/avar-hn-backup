@@ -1,0 +1,15 @@
+Comment-Id:	15141706
+Comment-Author:	avar
+Comment-Date:	Thu Aug 31 16:55:02 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15141244
+
+When they're avoiding debris that's not something that would have directly
+struck the station, rather they're aiming to keep debris from entering a 1.5 x
+50 x 50 kilometer imaginary box with the station placed in the center[1].
+
+So the inability to avoid debris realistically just increases the risk of
+running the station, it doesn't mean that if they'd skip the next maneuver that
+there's anything but a trivial chance of the station being struck.
+
+1. https://www.nasa.gov/mission_pages/station/news/orbital_debr...

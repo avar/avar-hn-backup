@@ -1,0 +1,24 @@
+Comment-Id:	14580259
+Comment-Author:	avar
+Comment-Date:	Sun Jun 18 11:52:27 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14579999
+
+    > rename testing to something with a positive
+    > connotation that doesn't suggest it's for
+    > testing only.
+
+Isn't unstable what you want to use?
+
+The reason it's called "testing" is because it's a branch of Debian that's "in
+testing for stable". IIRC packages have to be 2 weeks in unstable without bugs
+before migrating to testing.
+
+So it's explicitly not a bleeding edge release, but a preparation release for
+the next stable, which is why testing since late-2016 or so hasn't been getting
+any new major releases, it's been undergoing release prep.
+
+Maybe there should be a sixth branch of Debian between unstable and testing
+that doesn't slow down the migration of packages bug-free for 2 weeks from
+unstable around release, but that seems like a lot of maintenance burden to
+impose on Debian.

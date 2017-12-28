@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 14756707,
+  "kids" : [ 14756961 ],
+  "parent" : 14755747,
+  "text" : "For the user. What you&#x27;re describing is still going to cause complex UX.<p>So let&#x27;s say I&#x27;m interested in exactly two things. Russian dash cam videos and videos of trains without narration.<p>I go to the homepage and click on one type of video, what should the next video be? A random video from the two categories? One or the other? Should it show me a banner at the top indicating what recommendation mode I&#x27;m in (historical preference or &quot;similar to current video&quot;).<p>Now I go and do the same on my Android YouTube app which has no real UI equivalent of a homepage, what happens then?<p>This is a lot of UX complexity for a feature few probably care about.",
+  "time" : 1499893812,
+  "type" : "comment"
+}

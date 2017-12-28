@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 14558926,
+  "parent" : 14558695,
+  "text" : "You might also want to look at the Wireshark module for MySQL: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;wireshark&#x2F;wireshark&#x2F;blob&#x2F;master&#x2F;epan&#x2F;dissectors&#x2F;packet-mysql.c\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;wireshark&#x2F;wireshark&#x2F;blob&#x2F;master&#x2F;epan&#x2F;diss...</a><p>It does all the work of figuring out what&#x27;s a request&#x2F;response and parsing &#x2F; dumping out various parts of the protocol.",
+  "time" : 1497518988,
+  "type" : "comment"
+}

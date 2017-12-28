@@ -1,0 +1,19 @@
+Comment-Id:	14580748
+Comment-Author:	avar
+Comment-Date:	Sun Jun 18 14:23:26 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14580311
+
+This also applies for the perl version they shipped, perl releases are
+supported for 3 years, Debian for 5.
+
+It's inevitable that you're going to get mismatches between OS support and
+"official" support for the specific packages that go into that release. Not all
+projects provide supported releases over a period of years, so distros just do
+their best to patch any issues that upstream has stopped caring about past that
+point.
+
+In practice the only thing that's going to be a big worry are new security
+issues, which upstream is usually willing to go out of their way to fix for
+versions still used in the wild, even for technically "unsupported" releases,
+at least the Perl project is, I don't know about Python.

@@ -1,0 +1,21 @@
+Comment-Id:	16024167
+Comment-Author:	avar
+Comment-Date:	Thu Dec 28 19:17:50 UTC 2017
+Comment-Type:	comment
+Parent-Id:	16021681
+
+The second edition of Jack Bogle's "Little Book of Common Sense Investing" came
+out this last October. It goes into detail in evaluating active investment such
+as what's being recommended in this article v.s. passive investment.
+
+Plainly put, I've yet to see any compelling evidence that the supposed experts
+being quoted in this article can time the market as they're suggesting with
+their suggestion of getting out of tech stocks now.
+
+The percentage of active management firms that can beat the index funds even
+before you factor in their high fees is so miniscule that random chance could
+account for those low numbers.
+
+The market's almost definitely heading for a bit of a crash in a few years, but
+it's instructive to look at how passive v.s. active investing did in 2008
+(detailed in this book) to see how much these supposed experts really know.

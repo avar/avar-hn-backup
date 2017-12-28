@@ -1,0 +1,18 @@
+Comment-Id:	15685567
+Comment-Author:	avar
+Comment-Date:	Mon Nov 13 10:49:07 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15685370
+
+A few years ago the Bloomberg story "Where Is Germany's Gold?"[1] made the
+front page here with a lively discussion [2].
+
+That article has a very different take alleging some conspiracy and the US's
+unwillingness to return the full amount.
+
+This article has none of that. Has the Bloomberg article been shown to be wrong
+since it came out, or is there still some untold story here?
+
+1. https://www.bloomberg.com/news/features/2015-02-05/germany-s...
+
+2. https://news.ycombinator.com/item?id=9004638

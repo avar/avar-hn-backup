@@ -1,0 +1,12 @@
+Comment-Id:	14655668
+Comment-Author:	avar
+Comment-Date:	Wed Jun 28 16:42:56 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14655565
+
+Oil is also fungible, see e.g. biofuels made from sunlight using algae, or
+whale oil harvested from sperm whales.
+
+We just don't bother with alternate sources because it's cheaper to pump it out
+of the ground, we wouldn't bother with alternate electricity generation either
+if we could just dig fully charged batteries out of the ground.

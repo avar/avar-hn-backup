@@ -1,0 +1,14 @@
+Comment-Id:	14701376
+Comment-Author:	avar
+Comment-Date:	Wed Jul  5 10:56:36 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14701362
+
+    > plutonium, which is in very low supply.
+
+Thermoisotopic generators are a bad idea for general power generation for a
+colony for other reasons (they're low power, you need a lot of them), but it's
+not a problem that they're in low supply.
+
+That's just because we haven't been making more plutonium recently, because we
+haven't needed it. We could simply make more.

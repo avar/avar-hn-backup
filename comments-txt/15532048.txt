@@ -1,0 +1,10 @@
+Comment-Id:	15532048
+Comment-Author:	avar
+Comment-Date:	Mon Oct 23 10:21:16 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15531721
+
+It can mean any number of things depending on the contract. An order could be
+everything from a a vague deceleration of interest, to an obligation to buy the
+plane at a set price given that it meets some criteria. The article doesn't say
+which it is, or if it's anything in-between.

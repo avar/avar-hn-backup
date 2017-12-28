@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 14992757,
+  "kids" : [ 14993623 ],
+  "parent" : 14991343,
+  "text" : "How would a program like git figure out what flavor of &quot;ssh&quot; program is on the system? Keep in mind that it may change while a long-running git command is running.",
+  "time" : 1502475782,
+  "type" : "comment"
+}

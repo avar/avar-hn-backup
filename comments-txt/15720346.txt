@@ -1,0 +1,14 @@
+Comment-Id:	15720346
+Comment-Author:	avar
+Comment-Date:	Fri Nov 17 09:00:38 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15720282
+
+That's the GP's point. Of course the update rate sucks because enough research
+hasn't been put into it.
+
+There are already E-Ink displays with much a faster update rate: https://
+www.youtube.com/watch?v=wsY3T1uzjAI
+
+Who knows how much faster this could get with enough investment? Unless there's
+some fundamental physical limitation to the update rate that I'm not aware of.

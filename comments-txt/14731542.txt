@@ -1,0 +1,13 @@
+Comment-Id:	14731542
+Comment-Author:	avar
+Comment-Date:	Sun Jul  9 20:36:05 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14731262
+
+These free databases are really inaccurate in many cases compared to e.g.
+Maxmind. E.g. this thinks my IP address is 100 km away near the German border,
+but Maxmind's commercial DB puts me a 7 minute walk away in the center of
+Amsterdam.
+
+They're better than nothing, but be careful when relying on them for anything
+you need accurate Geo-IP info for.

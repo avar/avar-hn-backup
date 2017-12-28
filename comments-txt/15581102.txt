@@ -1,0 +1,20 @@
+Comment-Id:	15581102
+Comment-Author:	avar
+Comment-Date:	Sun Oct 29 20:04:10 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15581007
+
+Even if that weren't the case, it says:
+
+    [The Congress shall have Power] To
+    regulate Commerce with foreign Nations,
+    and among the several States, and with
+    the Indian Tribes;
+
+I.e. not that the Federal government must regulate interstate commerce, merely
+that it has the power to do that, and even if it said that the commerce must be
+regulated it could still be regulated to the effect that you couldn't e.g. sell
+across state lines.
+
+But yes, the reason the regulation is different for alcohol than for other
+goods is ostensibly the 21st.

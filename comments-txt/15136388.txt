@@ -1,0 +1,30 @@
+Comment-Id:	15136388
+Comment-Author:	avar
+Comment-Date:	Wed Aug 30 21:53:07 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15136209
+
+Yeah I pay around €80 / month but my "own risk" is around €885.
+
+That there's an "own risk" is not stupid, insurance that protects you from
+every little thing is necessarily more expensive than insurance that only
+protects you from an unlikely catastrophe.
+
+I save €17.50/month by setting the "own risk" to €885 instead of €385, a
+difference of €500. This means that if I don't use the health insurance for
+around 2.5 years I make up that difference and then get a "free" €17.50/month.
+
+I would set it even higher than €885 if I could, but at least with CZ that's
+the maximum they seem to offer.
+
+The difference in premiums is probably artificially low in The Netherlands
+since the market is so heavily regulated. I.e. if I expect to get "sick" I can
+just adjust the premiums yearly, e.g. women expecting to be pregnant do that,
+so it distorts the market. The insurer needs to eat the cost of your premium
+adjustment, even if you adjusted it because of a pre-existing condition or
+expected future medical cost.
+
+Also, you should be careful when bragging about the price of health insurance
+in The Netherlands. It's a hybrid privately paid & publicly paid system, so
+most of what you're paying for it is probably coming out of your taxes, not the
+premiums you pay to the insurer.

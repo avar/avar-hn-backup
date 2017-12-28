@@ -10,8 +10,9 @@ His numbers look fine, but I think the assumptions are false.
     > So the Earth has a heat stored which is
     > (4K miles / 50 feet)^3
 
-This seems to assume that the earth is also cube shaped like a 50ft^3 blast
-furnace, instead of a sphere.
+This seems to assume that the earth is also cube shaped like a hypothetical
+50ft^3 blast furnace, instead of a sphere (or oblate spheroid before anyone
+out-pedants me).
 
 It also seems to assume that a 50ft^3 blast furnace contains energy equivalent
 to 50ft^3 of molten mantle. If you look at diagrams of blast furnaces you can

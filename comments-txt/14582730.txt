@@ -1,0 +1,11 @@
+Comment-Id:	14582730
+Comment-Author:	avar
+Comment-Date:	Sun Jun 18 20:29:12 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14580181
+
+You wouldn't need a thrust carriage to get big fuel gains. It's enough that the
+cars form a tightly packed line as racing cyclists do to minimize drag to get
+major gains is fuel economy:
+
+https://www.quora.com/How-much-does-aerodynamics-affect-fuel...

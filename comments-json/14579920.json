@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 14579920,
+  "kids" : [ 14580135 ],
+  "parent" : 14579866,
+  "text" : "The drivers are free and already in the kernel. I&#x27;m talking about firmware support.<p>You can still use Debian on the desktop, it has all the WiFi support e.g. Ubuntu has. It&#x27;s just the installer that doesn&#x27;t have parity since it&#x27;s 100% free, working around it is a bit of a hassle as I described, but a one-time pain.",
+  "time" : 1497780417,
+  "type" : "comment"
+}

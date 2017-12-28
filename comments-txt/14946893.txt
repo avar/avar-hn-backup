@@ -1,0 +1,22 @@
+Comment-Id:	14946893
+Comment-Author:	avar
+Comment-Date:	Mon Aug  7 12:09:43 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14946153
+
+Whenever flood control in The Netherlands is discussed, it's worth looking at
+this detailed elevation map:
+
+http://www.floodmap.net/Elevation/CountryElevationMap/?ct=NL
+
+The elevation profile of the entire country is one where the coast is much
+higher than sealevel, and then gradually slopes downwards to bits of the
+interior that are entirely landlocked, but are say 1 meter below sealevel. In
+other words we have pockets of land that are below sealevel, but they're
+surrounded by and protected by land that's not.
+
+The facts on the ground are very different from claims being made by a sibling
+comment that "we are ALREADY beneath sea level!". This is why the NYT article
+is talking about "reservoirs for when the seas and rivers spill over" and "to
+let water in, where possible". Managing the water is largely about protecting
+these pockets that are below sealevel.

@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 15618601,
+  "kids" : [ 15620959, 15619202 ],
+  "parent" : 15618323,
+  "text" : "It&#x27;s hard to find anything like a schematic of a Nimitz-class carrier for obvious reasons, but as far as I can tell yes, it&#x27;s all directly steam powered. The reactor boils (sea)water, which is used to power 4 steam turbines[1][2][3], those turbines drive the propellers.<p>You&#x27;ve probably seen aircraft carrier decks covered in smoke. This is because the Nimitz&#x27;s catapult system is directly steam powered, service steam is widely used on the class. I can&#x27;t find a citation for this now (this is from memory) but I saw some documentary on it once where it was mentioned in passing that even the washing machines on the ship were steam powered. There&#x27;s service steam everywhere on the Nimitz.<p>Having steam power everywhere introduces a lot of complexities, which is why the Navy&#x27;s moving away from it with their new carrier class[4]. The Gerald R. Ford-class does away with service steam in favor of more powerful electric generators. There&#x27;ll be no service steam, just steam to drive the electric turbines.<p>1. <a href=\"http:&#x2F;&#x2F;www.nimitz.navy.mil&#x2F;FACTS.html\" rel=\"nofollow\">http:&#x2F;&#x2F;www.nimitz.navy.mil&#x2F;FACTS.html</a><p>2. <a href=\"https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Nimitz-class_aircraft_carrier#Propulsion\" rel=\"nofollow\">https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Nimitz-class_aircraft_carrier#...</a><p>3. <a href=\"https:&#x2F;&#x2F;www.marinelink.com&#x2F;news&#x2F;dresserrand-propulsion302604\" rel=\"nofollow\">https:&#x2F;&#x2F;www.marinelink.com&#x2F;news&#x2F;dresserrand-propulsion302604</a><p>4. <a href=\"https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Gerald_R._Ford-class_aircraft_carrier\" rel=\"nofollow\">https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Gerald_R._Ford-class_aircraft_...</a>",
+  "time" : 1509712139,
+  "type" : "comment"
+}

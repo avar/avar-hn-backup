@@ -1,0 +1,20 @@
+Comment-Id:	15105357
+Comment-Author:	avar
+Comment-Date:	Sat Aug 26 13:36:44 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15105009
+
+This implementation is freely licenced enough that the BSDs and others that
+don't use Git for license reasons could use it.
+
+It would be interesting to see an alternative implementation like this get
+enough feature parity that projects like the BSDs could migrate and still be
+protocol and worktree compatible so most users could continue using the GPL2
+implementation.
+
+Edit: Seems people here are unaware that the BSDs treat GPL software like
+cooties, see e.g. [1]. They wouldn't start using source control that gave them
+less freedom than SVN, an with CVS there's the expectation that OpenCVS might
+get finished.
+
+1. https://wiki.freebsd.org/GPLinBase

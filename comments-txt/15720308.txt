@@ -1,0 +1,15 @@
+Comment-Id:	15720308
+Comment-Author:	avar
+Comment-Date:	Fri Nov 17 08:52:47 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15719464
+
+For those that are unaware, all rockets then rapidly increase their G. For
+example the Saturn V had 1.20 g at takeoff but climed up to 4-ish: http://
+www.braeunig.us/apollo/saturnV.htm
+
+Someone on the Saturn V started experiencing more G than the Roadster about a
+minute into the launch.
+
+When you move a building-sized fuel tank under its own thrust it's going to
+start off slow, but accelerate as more fuel is burned.

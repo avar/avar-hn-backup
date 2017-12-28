@@ -1,0 +1,9 @@
+Comment-Id:	15642330
+Comment-Author:	avar
+Comment-Date:	Tue Nov  7 10:46:20 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15642231
+
+Of course it's earnest. If it wasn't he wouldn't have picked the BSD license,
+which rejects the notion that you're poorer today than yesterday just because
+someone started using some software you wrote.

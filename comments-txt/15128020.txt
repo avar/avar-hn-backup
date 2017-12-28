@@ -1,0 +1,10 @@
+Comment-Id:	15128020
+Comment-Author:	avar
+Comment-Date:	Tue Aug 29 22:04:57 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15127153
+
+NPR's Planet Money had a great recent episode summarizing the whole situation.
+It includes an interview with one of the people whose complaint led to the EU's
+initial investigation: http://www.npr.org/sections/money/2017/08/04/541643346/
+episo...

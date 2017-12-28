@@ -1,0 +1,25 @@
+Comment-Id:	15479303
+Comment-Author:	avar
+Comment-Date:	Sun Oct 15 21:06:22 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15479192
+
+The reason the FAA considered fuel tank inerting in the first place is because
+of a 1996 crash of a 747 that killed 230 people[1], and which is thought to
+have been avoided had the tanks been inert[2]. Other 747s were lost to the same
+issue, such as the ULF48 that crashed in 1976 killing all aboard[3].
+
+To answer your question, no, the 747 is not "safe". No aircraft ever made is
+"safe". They will all crash and kill people given sufficient flight hours. The
+question is what we consider acceptable risk, those standards change over time
+as technology improves, and as regulators phase out older models by sunsetting
+certain exceptions.
+
+As that's done older aircraft either need to be retrofitted, or sold to
+jurisdictions with laxer rules.
+
+1. https://en.wikipedia.org/wiki/TWA_Flight_800
+
+2. https://en.wikipedia.org/wiki/Inerting_system#Aircraft
+
+3. https://en.wikipedia.org/wiki/Boeing_747_hull_losses#1970s

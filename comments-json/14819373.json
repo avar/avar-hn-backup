@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 14819373,
+  "kids" : [ 14820519, 14819609, 14819573, 14820136, 14819409, 14819535, 14822826, 14820613, 14819697, 14819485, 14820469, 14821383, 14820318, 14819715 ],
+  "parent" : 14819256,
+  "text" : "If it were to be accepted into Emacs itself that would only be the beginning of the story.<p>Right now Magit is hosted on Github and anyone can contribute by just sending a pull request.<p>If it were part of Emacs you&#x27;d need to use the FSF&#x27;s collaboration tools which have a higher barrier of entry, and if you&#x27;re a first-time contributor with a non-trivial contribution you&#x27;re going to have to wait days&#x2F;weeks as your copyright assignment papers make their way over snail-mail.<p>I&#x27;ve contributed several (trivial) patches to Magit, zero to Emacs itself, and would likely have contributed zero to Magit if it had been an FSF project to begin with.<p>I think the FSF has gotten their priorities seriously wrong. The package is already licensed under the GPLv3, they&#x27;re wanting to subject everyone to a more onerous contribution process to guard against the edge case of someone ripping off one specific Emacs package and the FSF not being in a position to have standing in court if they wanted to sue them.",
+  "time" : 1500633638,
+  "type" : "comment"
+}

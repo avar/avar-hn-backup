@@ -1,0 +1,8 @@
+{
+  "by" : "avar",
+  "id" : 14580996,
+  "parent" : 14580911,
+  "text" : "Hence my suggestion that the Debian project distribute a script that I can run to get the firmware myself &amp; trivially build my own install CD, and that this be prominently advertised on debian.org.<p>The Debian project already ships that sort of script in the current non-free firmware CD, so clearly it&#x27;s not a legal issue. What it doesn&#x27;t ship is the ability to run that on another machine as part of preparing an ISO to install on a fresh machine that needs the proprietary firmware.",
+  "time" : 1497799093,
+  "type" : "comment"
+}

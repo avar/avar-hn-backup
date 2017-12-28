@@ -1,0 +1,12 @@
+Comment-Id:	15067388
+Comment-Author:	avar
+Comment-Date:	Mon Aug 21 20:04:43 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15067197
+
+What part of that page indicates that you can't use the platform like that?
+They just say "more control over how apps run in the background".
+
+Presumably you can still give your users a good reason for why you need to run
+uninterrupted in the background and they can approve it similarly to how they
+now approve other permissions.

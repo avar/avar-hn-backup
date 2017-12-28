@@ -1,0 +1,9 @@
+Comment-Id:	15892980
+Comment-Author:	avar
+Comment-Date:	Sun Dec 10 19:19:26 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15892686
+
+You'll still have 100% of your money instead of 60% in this example, and even
+if the entire local internet infrastructure was destroyed you could just take a
+flight out of the country with your bitcoin wallet on a USB stick.

@@ -1,0 +1,23 @@
+Comment-Id:	15916959
+Comment-Author:	avar
+Comment-Date:	Wed Dec 13 19:45:20 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15913250
+
+The most relevant quote in the article:
+
+    > the research community uses historical journal reputation to
+    > evaluate researchers, making it harder for new, better run
+    > journals to enter the market.
+
+This problem would be solved tomorrow if those allocating public money to
+science made funding contingent on the research being published in open access
+journals.
+
+Scientists can't have their cake and eat it too. Either they fund their own
+research and publish in prestigious expensive journals that cost the public
+money, or they take public money and make the research available for all.
+
+But it's not easy to migrate to that because scientist aren't just using
+journals as a publication platform, but as a reputation platform as a function
+of their exclusivity and reputation.

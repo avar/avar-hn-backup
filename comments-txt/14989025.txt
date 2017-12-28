@@ -1,0 +1,15 @@
+Comment-Id:	14989025
+Comment-Author:	avar
+Comment-Date:	Fri Aug 11 12:41:20 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14983961
+
+Because when the cops measure your speed they can do so in an arbitrarily small
+time period of their choosing, and inertia and power requirements mean you
+can't be going 1000 MPH one milliseconds and 10 MPH the next.
+
+You could decide to measure APM by saying that the time difference between any
+two actions extrapolated to sustaining that rate over a minute or seconds
+couldn't exceed the APM or APS, but as I've explained such a measurement would
+unfairly give the human player an advantage because humans are capable of
+bursts they couldn't sustain over longer periods.

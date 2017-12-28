@@ -1,0 +1,10 @@
+Comment-Id:	15562516
+Comment-Author:	avar
+Comment-Date:	Thu Oct 26 20:06:16 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15562236
+
+In that case however we have other data than just the model to suggest that
+geocentrism is false, whereas the topic of this thread is models in physics
+mathematics that merely differ in complexity, with no apparent difference in
+"truth".

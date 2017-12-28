@@ -1,0 +1,15 @@
+Comment-Id:	15785918
+Comment-Author:	avar
+Comment-Date:	Mon Nov 27 09:20:00 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15785805
+
+    > Is Amazon really getting value
+    > out of all the dev time they are
+    > putting into building game engines?
+
+What an odd way to think about projects like these. It seems obvious that the
+answer is "of course not, yet".
+
+You could have asked the same question about AWS in 2001. Why is a bookstore
+putting all this effort into some online hosting platform for third parties?

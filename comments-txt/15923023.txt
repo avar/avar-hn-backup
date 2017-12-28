@@ -1,0 +1,15 @@
+Comment-Id:	15923023
+Comment-Author:	avar
+Comment-Date:	Thu Dec 14 15:33:45 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15918252
+
+Obviously it's implied that if public science funding is going to demand that
+researchers use only openly available journals, that the rules for the funding
+itself also be adjusted to disregard the impact of these "high impact journals"
+for the purposes of preferentially allocating funding.
+
+What do you imagine is going to happen? That public support of science is going
+to drop to zero because funding bodies forgot to update two of their internal
+rules, and instead just updated one, thereby creating a dependency relationship
+that was impossible to satisfy?

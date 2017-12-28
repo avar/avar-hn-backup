@@ -1,0 +1,13 @@
+Comment-Id:	14625274
+Comment-Author:	avar
+Comment-Date:	Sat Jun 24 11:43:50 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14624901
+
+I don't understand why lack of space above ground is a hindrance to building
+new ventilation shafts. Surely these aren't going to be wider than a sidewalk,
+and in central London the distance between any two roads on a block is rarely
+more than 50-100 meters.
+
+You'd end up with lots of ventilation grates on the sidewalks on the surface,
+but that seems like an easy and space efficient solution.

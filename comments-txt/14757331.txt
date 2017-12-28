@@ -1,0 +1,24 @@
+Comment-Id:	14757331
+Comment-Author:	avar
+Comment-Date:	Wed Jul 12 22:45:44 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14756961
+
+I mean once the user selects a video you need to continue showing them context,
+because at this point they may not remember what mode they're in to begin with.
+
+Making your app behave differently because you navigated to the current state
+via different menus is very bad UX design. That's all I'm saying. Your
+suggestion would entail either UX complexity or such implicitly different
+behavior for YouTube.
+
+Yes Android has a "Home" button. But what I meant by no real UX equivalent is
+that when you open youtube on the web you'll open a new tab and go to
+youtube.com.
+
+When you do so an Android you've likely just dismissed the app in the past, and
+opening it again will bring you back to the last video you were viewing. You
+don't go through the homepage by default.
+
+Thus it's more of just another menu item on Android, not something that's
+equivalent to / on a website.

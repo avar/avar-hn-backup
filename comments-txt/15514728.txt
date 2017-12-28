@@ -1,0 +1,12 @@
+Comment-Id:	15514728
+Comment-Author:	avar
+Comment-Date:	Fri Oct 20 10:29:07 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15514471
+
+They're restarting production of the civilian version of the C-130 Hercules
+next year, although that's a cargo aircraft and not intended to ferry
+passengers: http://www.lockheedmartin.com/us/what-we-do/aerospace-defens...
+
+They also have a new cargo airship that's shipping in 2018: http://
+www.lockheedmartin.com/us/products/HybridAirship.html

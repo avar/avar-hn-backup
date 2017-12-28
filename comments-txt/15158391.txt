@@ -1,0 +1,9 @@
+Comment-Id:	15158391
+Comment-Author:	avar
+Comment-Date:	Sat Sep  2 21:46:55 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15149750
+
+How is charging for the maximum active users in a year unusual when you're
+buying a yearly site license priced based on the number of users? How do you
+propose this should work?

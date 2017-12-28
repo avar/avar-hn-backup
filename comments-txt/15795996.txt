@@ -1,0 +1,22 @@
+Comment-Id:	15795996
+Comment-Author:	avar
+Comment-Date:	Tue Nov 28 10:35:08 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15795835
+
+I'm not an advocate for BI but I think I've given you an accurate summary of
+what BI proponents would say about a NIT. E.g. listen to this Econtalk episode
+[1] where the host / guest have a debate on this exact topic.
+
+Your argument that BI would be revenue neutral for some taxpayers and therefore
+we should just use NIT to avoid the sillyness of the government taking $1 from
+you just to give $1 right back to you isn't wrong, but it's missing what BI
+proponents are trying to achieve.
+
+It's mainly about achieving roughly the same ends with different optics, and
+the comparison to Social Security is often brought up. Enacting any system like
+this is going to be politically difficult, and BI proponents believe that
+"everyone gets the same" is an easier sell than "this is another subsidy for
+the poor".
+
+1. http://www.econtalk.org/archives/2017/01/michael_munger_3.ht...

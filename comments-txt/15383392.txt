@@ -1,0 +1,18 @@
+Comment-Id:	15383392
+Comment-Author:	avar
+Comment-Date:	Mon Oct  2 12:53:34 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15382765
+
+Right, I was overly simplifying. I meant to say a 120 sh ton MLC-calculated
+weight, not a vehicle that's exactly 120 tons since as the article goes into
+the class needs to take into account axle count etc.
+
+What I don't understand is your claim that "you could just as well consider
+them metric tons". These are short tons with caveats, i.e. the eventual number
+depends on more than just the raw weight, but the raw weight is one aspect of
+the calculation.
+
+So if you were to make that calculation on the basis of metric instead of lbs
+how aren't you going to introduce something like a 10% error in the MLC you
+come up with?

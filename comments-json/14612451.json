@@ -1,0 +1,9 @@
+{
+  "by" : "avar",
+  "id" : 14612451,
+  "kids" : [ 14614096, 14613017, 14614436, 14616651, 14612902 ],
+  "parent" : 14611655,
+  "text" : "The author mentions how Chrome &amp; Firefox gained a 10% speedup with Profile-Guided Optimization with GCC et al.<p>I.e. you compile your program with profiling, then run e.g. a test suite, and compile your release binary with input from that profiling so the compiler knows what to optimize.<p>Has any C compiler closed the loop on that by shipping the full compiler with the program to do runtime optimization? With on-the-fly symbol replacement you&#x27;d effectively have a C JIT compiler.",
+  "time" : 1498141736,
+  "type" : "comment"
+}

@@ -1,0 +1,12 @@
+Comment-Id:	15163414
+Comment-Author:	avar
+Comment-Date:	Sun Sep  3 19:42:47 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15162394
+
+The single biggest contributor is probably GDP per capita. You don't have the
+same economic pressures for efficiency and infrastructure if you can replace
+them with cheap labor, and without a high GDP you won't have the money to
+invest in all this infrastructure.
+
+Both of those are chicken & egg problems to some extent.

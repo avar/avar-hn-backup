@@ -1,0 +1,37 @@
+Comment-Id:	15116587
+Comment-Author:	avar
+Comment-Date:	Mon Aug 28 14:07:06 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15116214
+
+    > No IRB, no oversight by the FDA
+
+Yes of course domestic US agencies don't oversee or regulate medical trials in
+other countries.
+
+The article explains that these agencies would need to be involved if this
+research yields a drug destined for the US market.
+
+    > Just because it's legal in a nowhere
+    > medical destination like St Kitts
+    > doesn't mean it's ethical.
+
+It doesn't make it unethical either. My primary beef is with the lazy way the
+article is written. Maybe this trial is unethical, maybe it isn't.
+
+But the argument put forward in the article would equally apply if this
+research were done in the EU. I.e. that it's somehow inherently bad that US
+regulatory agencies aren't involved in medical research that happens abroad.
+
+    > they deliberately chose to evade strong oversight.
+
+Maybe they did. Companies selectively choose legal jurisdictions based on
+regulations all the time. E.g. EU food regulation is stricter than US
+regulation. Would you say that it's unethical for a EU company to fund food
+startups in the US for that reason?
+
+The article quotes Thiel as saying "you would not be able to invent the polio
+vaccine [in the US] today". I don't know if that claim is true, but if it is
+(or even if today the vaccine's introduction to the market were delayed
+compared to the 1950s) this whole question of "unethical" trials v.s. overly
+strict regulations becomes much more complex.

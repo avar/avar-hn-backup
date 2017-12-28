@@ -1,0 +1,10 @@
+Comment-Id:	15068615
+Comment-Author:	avar
+Comment-Date:	Mon Aug 21 23:24:38 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15068166
+
+Why is that not a good experience? Now I need to dig through Settings to find
+all these background services. If they're important enough to be running
+constantly they're important enough to take up some space to prominently show
+me that they're running.

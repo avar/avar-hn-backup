@@ -1,0 +1,19 @@
+Comment-Id:	14900273
+Comment-Author:	avar
+Comment-Date:	Tue Aug  1 13:15:43 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14899265
+
+    > It is a hack, but what else is there eh?
+
+The non-hacky way to do this sort of thing in both C and C++ is to just use
+less clever two-phase compilation as part of your build process.
+
+I.e. you'd have your template compiler extract the HTML from your source (or
+more easily, dedicated template files), parse, validate and compile them. The
+end result of that would then be embedded in your binary somehow.
+
+The gettext set of tools are a good example how how this works in another
+related domain. You extract strings from your program, they and the contents of
+corresponding .po files are validated, then compiled to efficient .mo binary
+files for runtime use.

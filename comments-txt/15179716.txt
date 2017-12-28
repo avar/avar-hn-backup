@@ -1,0 +1,10 @@
+Comment-Id:	15179716
+Comment-Author:	avar
+Comment-Date:	Tue Sep  5 22:45:22 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15177481
+
+Furthermore, they could be forgiven for making statements saying e.g
+multiplayer was included a year out since it was an aspirational goal, but they
+were lying to the bitter end right up to release, either explicitly or by
+omission.

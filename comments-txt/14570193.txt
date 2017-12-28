@@ -1,0 +1,24 @@
+Comment-Id:	14570193
+Comment-Author:	avar
+Comment-Date:	Fri Jun 16 16:16:29 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14569833
+
+I use Emacs + mu4e with 2 GMail accounts (personal & work). AMA I guess.
+
+I use OfflineIMAP to sync the two accounts to ~/Maildir/{work,personal}, then
+mu4e-context to switch between settings for the two.
+
+I entirely outsource actually sending the mail to a local exim4 daemon which is
+configured to forward through a GMail smarthost. IMNSHO this is much better
+than the recommended default configuration of making Emacs actually send the
+mail, I don't have to worry about not having a network connection at the time,
+or some other transitory error with a real smtpd retrying the send if needed.
+
+You then may need a tiny hack on top of Debian's default exim configuration to
+make it switch between different smtp servers / accounts depending on what
+address you're sending mail from. For reasons I won't go into I send E-Mail
+through a company-run SMTP server even though I then fetch work E-Mail from
+GMail.
+
+1. https://wiki.debian.org/GmailAndExim4

@@ -1,0 +1,9 @@
+Comment-Id:	14580267
+Comment-Author:	avar
+Comment-Date:	Sun Jun 18 11:54:00 UTC 2017
+Comment-Type:	comment
+Parent-Id:	14580075
+
+These don't work for WiFi drivers as I pointed out because they're not actually
+the firmware, they're packages to download the firmware. That obviously doesn't
+work if you don't have a network connection.

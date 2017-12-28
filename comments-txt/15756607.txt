@@ -1,0 +1,8 @@
+Comment-Id:	15756607
+Comment-Author:	avar
+Comment-Date:	Wed Nov 22 13:32:23 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15756370
+
+Since PowerPoint was proven to be Turing complete my bet is on it and not Excel
+being the most commonly used: https://www.youtube.com/watch?v=uNjxe8ShM-8

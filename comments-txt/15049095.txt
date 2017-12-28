@@ -1,0 +1,13 @@
+Comment-Id:	15049095
+Comment-Author:	avar
+Comment-Date:	Fri Aug 18 19:34:55 UTC 2017
+Comment-Type:	comment
+Parent-Id:	15035709
+
+Why not force companies to standardize the size and shape of the concrete
+counterweight, and mandate that it must be easily removable and you can't sell
+them bundled with the machines themselves?
+
+Then you could simply remove it for transport, and it many cases reuse the one
+from your old machine, or buy a really cheap second-hand counterweight from
+your local hardware store.
